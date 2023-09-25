@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "München Open Source"
-  text: "Mehr Transparenz aus unserer IT"
-  tagline: "Entdecken Sie die Open Source-Projekte, die von der Landeshauptstadt München entwickelt, beauftragt oder gefördert werden."
+  name: "Munich Open Source"
+  text: "More transparency from our IT"
+  tagline: "Discover the open source projects developed, commissioned or funded by the City of Munich."
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,12 +15,15 @@ hero:
       link: /examples/api-examples
 
 features:
-  - title: Nutzen
-    details: "Das Free Software-Ökosystem bietet zahlreiche Lösungen und Anwendungen. Moderne Softwareentwicklung ist ohne freie Software nicht mehr möglich. In fast allen Softwareprodukten steckt freie Software."
+  - title: Use
+    icon: 🛠
+    details: "The Free Software ecosystem offers numerous solutions and applications. Modern software development is no longer possible without free software. Almost all software products contain free software."
     link: /README
-  - title: Verbessern
-    details: "Nicht jede freie Software kann sofort und mit allen Sicheirheits- und Featureanforderungen genutzt werden. Freie Software ermöglicht es auch diese zu verbesseren und mit zu helfen Fehler zu beheben oder Features einzubringen."
-  - title: Veröffentlichen
-    details: "Sollten wir existierende freie Software nicht nutzen oder verbessern können, so entwicklen wir selbst frei Software. Wenn wir uns entscheiden Software selbst zu entwicklen, passiert das offen und frei."
+  - title: Improve
+    icon: 📈
+    details: "Not all free software can be used immediately and with all security and feature requirements. Free software also allows you to improve it and help fix bugs or add features."
+  - title: Publish
+    icon: 🚀
+    details: "If we cannot use or improve existing free software, we develop free software ourselves. If we decide to develop software ourselves, it happens openly and freely."
 ---
 
