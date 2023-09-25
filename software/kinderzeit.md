@@ -11,7 +11,7 @@ tags: ["eigenentwicklung", "server", "foss"]
 
 Kinderzeit ist ein Ferienplaner für Eltern und Veranstalter*innen, der in Zusammenarbeit mit der Digital Product School (DPS) entstanden ist.
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

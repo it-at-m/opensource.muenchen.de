@@ -8,7 +8,7 @@ tags: ["eigenentwicklung", "server", "foss"]
 ---
 Epitaph ermöglicht eine lokale Positionserfassung auf mobilen Endgeräten. Die Open Source Library nutzt die Programmiersprache Dart und das Framework Flutter.
 
-<!-- more -->
+---
 
 
 ## Über das Projekt

@@ -14,4 +14,4 @@ Auf der Kubernetes Plattform __Openshift__ werden ca. 100 interne, als auch exte
 [Neue Eigenentwicklungen](../publish) werden grundsätzlich für Openshift entwickelt.
 
 
-<!-- more -->
+---

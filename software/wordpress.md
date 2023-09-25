@@ -15,7 +15,7 @@ __WordPress__ ist das meist genutzte freies Content-Management-System (CMS) im [
 Auch in der Stadt München wird Wordpress für zahlreiche Webauftritte, aber auch funktionale wie unsere Veranstaltungsregistrierung genutzt.
 
 
-<!-- more -->
+---
 
 So nutzen [pi-muenchen.de](https://www.pi-muenchen.de), [gemeinsam-fuer-das-klima.de](https://gemeinsam-fuer-das-klima.de), [muenchen.digital](https://muenchen.digital) oder [digital-at-m.de](https://digital-at-m.de) Wordpress.
 

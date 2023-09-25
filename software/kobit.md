@@ -11,7 +11,7 @@ tags: ["eigenentwicklung", "server", "foss"]
 
 Die KonfliktbegleitungsApp (KoBITApp) unterstützt die Beschäftigten des IT-Referats, Konflikte möglichst niederschwellig beizulegen.
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

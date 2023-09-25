@@ -13,7 +13,7 @@ tags:
 ---
 KIWI macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

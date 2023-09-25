@@ -11,4 +11,4 @@ tags:
 ---
 Der __Apache HTTP Server__ ist einer der meistbenutzten Webserver im Internet.
 
-<!-- more -->
+---

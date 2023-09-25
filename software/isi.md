@@ -13,5 +13,5 @@ prio: 4
 ---
 Das __Informationssystem für soziale Infrastrukturplanung (ISI)__ ist eine integrierte Lösung für das Referat für Stadtplanung und Bauordnung der Landeshauptstadt München.
 
-<!-- more -->
+---
 ISI unterstützt die kommunale Pflichtaufgabe zur Planung einer bedarfs- und zeitgerechten Versorgung mit Kindertagesbetreuungs- und Grundschulplätzen und löst bestehende Planungsinstrumente ab.

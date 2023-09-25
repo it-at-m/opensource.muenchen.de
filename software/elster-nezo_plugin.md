@@ -13,7 +13,7 @@ tags:
 
 Mit dem Plugin __Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos__ lässt sich über die Open Source Software [Keycloak](keycloak) eine Anbindung an das bundesweite Elster Unternehmenskonto herstellen.
 
-<!-- more -->
+---
 
 
 ## Über das Projekt

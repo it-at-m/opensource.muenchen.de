@@ -10,9 +10,10 @@ tags:
 - eigenentwicklung
 - keycloak
 ---
-Im Rahmen des Projekts wurde ein Plugin für die Einbindung der Bayern ID an die Fachanwendungen der Landeshauptstadt München mittels [Keycloak](keycloak) umgesetzt. 
 
-<!-- more -->
+Im Rahmen des Projekts wurde ein Plugin für die Einbindung der Bayern ID an die Fachanwendungen der Landeshauptstadt München mittels [Keycloak](keycloak) umgesetzt.
+
+---
 
 ## Über das Projekt
 

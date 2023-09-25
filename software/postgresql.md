@@ -13,4 +13,4 @@ __PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORD
 
 Zusammen mit dem ebenfalls freien [MariaBD](mariadb) nutzen 30% unserer Datenbankinstanzen ein Open Source Datenbanksystem.
 
-<!-- more -->
+---

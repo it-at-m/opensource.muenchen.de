@@ -3,6 +3,7 @@ sidebar: false
 ---
 
 <script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
 import TagList from "../.vitepress/components/TagList.vue";
 </script>
 
@@ -26,13 +27,13 @@ In diesem Umfeld kommt gemäß der IT-Architektur-Einordnung überall dort Open 
 wo im Marktvergleich Open Source Lösungen als etablierte Standard-Lösungen verfügbar sind sowie dort, 
 wo ein hohes Maß an Individualisierung im Sinne der Landeshauptstadt München erforderlich ist.
 
-<TagTile tagname="infrastruktur" />
+<TagTile :tag-names="['infrastruktur']" />
 
 ## E- und Open Government 
 
 Auch im Bereich des E- und Open Government kommt Open-Source-Software zum Einsatz:
 
-<TagTile tagname="opengovernment" />
+<TagTile :tag-names="['opengovernment']" />
 
 ## Support
 
@@ -48,8 +49,7 @@ dass die Software professionell supportet wird und einem geordneten Lifecycle un
 In aller Regel werden daher Verträge mit Dienstleistern abgeschlossen, die diesen Support liefern. 
 Diese Vorgehensweise ist in der IT-Branche üblich, um das Risiko plötzlich entstehender Support-Lücken zu vermeiden, wenn z.B. ein Community-Projekt vorübergehend verwaist ist.
 
-
-<TagTile tagname="support" />
+<TagTile :tag-names="['support']" />
 
 ## Open-Core
 
@@ -60,7 +60,7 @@ während "kommerzielle" Versionen oder Add-ons als proprietäre Software angebot
 Als Stadt München haben wir so die Möglichkeit Software schneller zu testen und fördern so das FOSS Ökosystem.
 Da wir den Hersteller nicht zwingend zum betrieb der Software benötigen vermeiden wir hier auch finanzielle Abhängigkeiten. 
 
-<TagTile tagname="opencore" />
+<TagTile :tag-names="['opencore']" />
 
 
 ## Gesamtübersicht

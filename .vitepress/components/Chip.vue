@@ -1,16 +1,15 @@
-<script>
-
-export default {
-    props: {
-        label: String
+<script setup>
+defineProps({
+    label: {
+        type: String
     }
-};
+})
 </script>
 
 <template>
-  <div class="md-chip">
-      {{ label }}
-  </div>
+    <div class="md-chip">
+        {{ label }}
+    </div>
 </template>
 
 <style scoped>
@@ -67,13 +66,16 @@ export default {
     cursor: pointer;
     font: inherit;
     line-height: 20px;
+
     &:after {
         color: var(--md-chip-color);
         content: 'x';
     }
+
     &:hover {
         background: #999;
     }
+
     &:active {
         background: #777;
     }

@@ -17,7 +17,7 @@ tags:
 checkmk ist eine freie Software für das Service-Monitoring von IT-Infrastruktur.
 Sie wird zur Überwachung von Server, Netzwerk, Applikationen, Clouds, Containern, Speicher, Datenbanken und Umweltsensoren genutzt.
 
-<!-- more -->
+---
 
 Die Stadt München setzt in einer zentrale Instanz die [Enterprise Edition](https://checkmk.com/pricing) für 300.000 Monitoringendpunkt (z.B. CPU, Speicher, URLs, Datenbank ect.) ein.
 So nutzen wir automatische Updates, die [Agent Bakery](https://docs.checkmk.com/latest/de/wato_monitoringagents.html#bakery).

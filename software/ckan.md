@@ -14,7 +14,7 @@ tags:
 Als OpenData-Portal betreiben wir die freie Software __ckan__, die von der [OKFN](https://okfn.org) weiterentwickelt wird.
 Über das Portal wird das Angebot der Landeshauptstadt München an offenen Daten publiziert und in unterschiedlichsten Visualisierungen angeboten.
 
-<!-- more -->
+---
 
 Die Open Data Basiskomponente __ckan__ dient der Verankerung offener Daten bei der Stadt München.
 Unter offenen Daten werden solche Daten verstanden, die für die Allgemeinheit freigegeben sind und für diese von Interesse sind.

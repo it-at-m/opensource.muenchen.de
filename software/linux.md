@@ -13,7 +13,7 @@ Als Linux ist eine freies unixähnliche Mehrbenutzer-Betriebssystem, die auf dem
 Vor allem auf Servern und embedded Computing ist Linux inzwischen zum Standard geworden.  
 
 
-<!-- more -->
+---
 
 Als Distribution nutzen wir Red Hat Enterprise Linux (RHEL) und erhalten über Supportverträge Hilfe bei Fehlern oder Ausfällen.
 Die Stadt München nutzt auf 75% der Server Linux.

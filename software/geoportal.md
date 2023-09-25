@@ -12,7 +12,7 @@ tags:
 
 Das [GeoPortal](https://geoportal.muenchen.de/portal/master/) bietet raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder, oder die "Potenzial der oberflächennahen Geothermie".
 
-<!-- more -->
+---
 
 ### Über das Projekt
 Fast alle Anwendungsszenarien einer Smart City, vom digitalen Stadtplan bis zur intelligenten Verkehrssteuerung, basieren auf der zentralen Verfügbarkeit von Geoinformationen und entsprechender Schnittstellen, über die diese Daten in digitale Services integriert werden können. Mit dem GeoPortal München werden genau diese Geoinformationen und Dienste den Anwenderinnen und Anwendern aus Wirtschaft, Wissenschaft, Verwaltung – und nicht zuletzt den Bürgerinnen und Bürgern selbst – benutzerfreundlich zur Verfügung gestellt: schnell, zuverlässig und digital.

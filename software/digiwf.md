@@ -15,7 +15,7 @@ prio: 2
 ---
 DigiWF ist eine Plattform für die Prozessautomatisierung. Anwender*innen können Workflows selbst automatisieren und auf andere Systeme zugreifen.
 
-<!-- more -->
+---
 
 
 ## Über das Projekt

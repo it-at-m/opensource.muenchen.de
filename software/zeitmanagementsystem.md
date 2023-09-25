@@ -17,7 +17,7 @@ logo:
 Die aktuelle Terminvereinbarung der Stadt München wird durch eine Open Source Anwendung (ZMS), die das Land Berlin zur Verfügung stellt, bis zum Jahr 2025 abgelöst.
 Über das Projekt
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

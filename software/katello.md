@@ -16,4 +16,4 @@ Katello ist ein Softwarestack aus verschiedenen Komponenten, die ineinander inte
 Zusamen mit dem freien [Ansible](/software/ansible) bildet katello unser zentrales Systemmanagement.
  
 
-<!-- more -->
+---

@@ -2,6 +2,10 @@
 sidebar: false
 ---
 
+<script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
+</script>
+
 # Verbessern
 
 Nicht jede freie Software kann sofort und mit allen Sicherheit- und Featureanforderungen [genutzt](./use.html) werden.
@@ -21,5 +25,5 @@ Freie Software wird am besten von denjenigen verstanden, die sie schreiben.
 Aber natürlich [verbessern wir freies Software](./contribute.html) oder [veröffentlicht selbst](./publish.html) freie Software.
 Doch manchmal hilft Geld mehr aus als 1000 commits - darum unterstützen wir Software, die wir häufig nutzen, finanziell.
 
-<TagTile tagname="sponsor" />
+<TagTile :tag-names="['sponsor']" />
 

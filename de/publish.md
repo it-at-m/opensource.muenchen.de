@@ -3,6 +3,10 @@ listtag: eigenentwicklung
 sidebar: false
 ---
 
+<script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
+</script>
+
 # Veröffentlichen
 
 Sollten wir existierende freie Software nicht [nutzen](./use.html) oder [verbessern](./contribute.html) können, so entwickeln wir selbst frei Software.
@@ -42,8 +46,10 @@ Im Jahr 2021 wurde daher entschieden, die strategisch wichtige Plattform für di
 anders als für die Unterstützungsprozesse (Finanzen, HR, IT), passgenau durch eine modulare, auf Open Source Komponenten bestehenden modularen Architektur umzusetzen. 
 Auch die o.g. Open Source basierte Referenzarchitektur kommt dabei im Bereich der Eigenentwicklungsanteile zum Einsatz.
 
-<TagTile 
-    :tag-names="['eigenentwicklung', 'kooperation']" 
+<TagTile
+  :tag-names="['eigenentwicklung', 'kooperation']"
+  show-tags
+  show-excerpt
 />
 
 [^1]: "Einer für Alle"

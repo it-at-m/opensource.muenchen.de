@@ -11,7 +11,7 @@ tags: ["eigenentwicklung", "server", "foss"]
 ---
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

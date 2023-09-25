@@ -3,6 +3,7 @@ sidebar: false
 ---
 
 <script setup>
+import TagTile from ".vitepress/components/TagTile.vue";
 import TagList from ".vitepress/components/TagList.vue";
 </script>
 
@@ -26,13 +27,13 @@ In this environment, open source is used everywhere in accordance with the IT ar
 where, in a market comparison, open source solutions are available as established standard solutions, and where
 where a high degree of customization is required in the interests of the City of Munich.
 
-<TagTile tagname="infrastruktur" />
+<TagTile :tag-names="['infrastruktur']" />
 
 ## E- and Open Government
 
 Open source software is also used in the area of e- and open government:
 
-<TagTile tagname="opengovernment" />
+<TagTile :tag-names="['opengovernment']" />
 
 ## Support
 
@@ -48,7 +49,7 @@ that the software is professionally supported and subject to an orderly lifecycl
 As a rule, contracts are therefore concluded with service providers who supply this support.
 This approach is common in the IT industry to avoid the risk of sudden gaps in support if, for example, a community project is temporarily orphaned.
 
-<TagTile tagname="support" />
+<TagTile :tag-names="['support']" />
 
 ## Open-Core
 
@@ -59,7 +60,7 @@ while "commercial" versions or add-ons are offered as proprietary software.
 As the city of Munich, this gives us the opportunity to test software more quickly and thus promotes the FOSS ecosystem.
 Since we do not necessarily need the manufacturer to run the software, we also avoid financial dependencies.
 
-<TagTile tagname="opencore" />
+<TagTile :tag-names="['opencore']" />
 
 
 ## Overview

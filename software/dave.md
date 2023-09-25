@@ -10,7 +10,7 @@ tags: ["eigenentwicklung", "server", "foss"]
 ---
 Mit DAVe können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
 
-<!-- more -->
+---
 
 ## Über das Projekt
 

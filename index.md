@@ -7,6 +7,12 @@ hero:
   text: "More transparency from our IT"
   tagline: "Discover the open source projects developed, commissioned or funded by the City of Munich."
 
+  actions:
+    - theme: brand
+      text: Get Started
+    - theme: alt
+      text: View on GitHub
+
 features:
   - title: Use
     icon: 🛠
