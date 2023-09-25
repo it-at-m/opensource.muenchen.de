@@ -6,13 +6,6 @@ hero:
   name: "Munich Open Source"
   text: "More transparency from our IT"
   tagline: "Discover the open source projects developed, commissioned or funded by the City of Munich."
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /examples/markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /examples/api-examples
 
 features:
   - title: Use

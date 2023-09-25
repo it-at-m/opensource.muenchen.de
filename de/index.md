@@ -6,13 +6,6 @@ hero:
   name: "München Open Source"
   text: "Mehr Transparenz aus unserer IT"
   tagline: "Entdecken Sie die Open Source-Projekte, die von der Landeshauptstadt München entwickelt, beauftragt oder gefördert werden."
-  actions:
-    - theme: brand
-      text: Markdown Beispiele
-      link: /examples/markdown-examples
-    - theme: alt
-      text: API Beispiele
-      link: /examples/api-examples
 
 features:
   - title: Nutzen

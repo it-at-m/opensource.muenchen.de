@@ -16,16 +16,16 @@ export default defineConfig({
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-          {text: 'Start', link: '/'},
+          {text: 'Start', link: '/de/'},
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/contribute'},
           {text: 'Veröffentlichen', link: '/de/publish'},
         ],
 
         sidebar: [],
-        darkModeSwitchLabel: "darkModeSwitchLabel",
-        langMenuLabel: "langMenuLabel",
-        returnToTopLabel: "returnToTopLabel",
+        darkModeSwitchLabel: "Darstellung",
+        langMenuLabel: "Sprache wechseln",
+        returnToTopLabel: "Zurück nach oben",
         notFound: {
           title: "Seite nicht gefunden.",
           code: "404",
