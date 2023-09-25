@@ -2,6 +2,10 @@
 sidebar: false
 ---
 
+<script setup>
+import TagList from ".vitepress/components/TagList.vue";
+</script>
+
 # Use
 
 > We use free software wherever possible!
@@ -11,7 +15,7 @@ Modern software development is no longer possible without free software.
 Almost all software products contain free software.
 
 
-## Infrastruktur
+## Infrastructure
 
 In addition to the workplace platform for employees of the City of Munich, which is the subject of intense public attention in the debate on the use of open source solutions,
 the City of Munich also operates an extensive portfolio of software in its own data center.
@@ -24,7 +28,7 @@ where a high degree of customization is required in the interests of the City of
 
 <TagTile tagname="infrastruktur" />
 
-## E- und Open Government
+## E- and Open Government
 
 Open source software is also used in the area of e- and open government:
 
@@ -58,8 +62,8 @@ Since we do not necessarily need the manufacturer to run the software, we also a
 <TagTile tagname="opencore" />
 
 
-## Gesamtübersicht
+## Overview
 
 Overall, of course, we use much more free software.
 
-<TagList tagname="foss" />
+<TagList tag-name="foss" />

@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-# Contribution
+# Verbessern
 
 Nicht jede freie Software kann sofort und mit allen Sicherheit- und Featureanforderungen [genutzt](./use.html) werden.
 Freie Software ermöglicht es auch diese zu __verbessern__ und mitzuhelfen Fehler zu beheben oder Features einzubringen.

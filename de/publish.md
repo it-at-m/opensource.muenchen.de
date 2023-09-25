@@ -3,7 +3,7 @@ listtag: eigenentwicklung
 sidebar: false
 ---
 
-# Publish
+# Veröffentlichen
 
 Sollten wir existierende freie Software nicht [nutzen](./use.html) oder [verbessern](./contribute.html) können, so entwickeln wir selbst frei Software.
 

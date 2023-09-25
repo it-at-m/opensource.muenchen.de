@@ -2,7 +2,11 @@
 sidebar: false
 ---
 
-# Use
+<script setup>
+import TagList from "../.vitepress/components/TagList.vue";
+</script>
+
+# Nutzen
 
 > Wir nutzen freie Software wo immer möglich!  
 
@@ -61,6 +65,6 @@ Da wir den Hersteller nicht zwingend zum betrieb der Software benötigen vermeid
 
 ## Gesamtübersicht
 
-Insgesamt nutzen wir natürlich viel mehr freie Software.
+Insgesamt nutzen wir natürlich viel mehr freie Software. asdf
 
-<TagList tagname="foss" />
+<TagList tag-name="foss" />
