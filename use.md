@@ -2,63 +2,64 @@
 sidebar: false
 ---
 
-//todo translate
-
 # Use
 
-> Wir nutzen freie Software wo immer möglich!  
+> We use free software wherever possible!
 
-Das Free Software-Ökosystem bietet zahlreiche Lösungen und Anwendungen.
-Morderne Softwareentwicklung ist von freie Software nicht mehr möglich.
-In fast allen Softwareprodukten steckt freie Software.
-
-[[toc]]
+The Free Software ecosystem offers numerous solutions and applications.
+Modern software development is no longer possible without free software.
+Almost all software products contain free software.
 
 
 ## Infrastruktur
 
-Neben der Arbeitsplatz-Plattform für Mitarbeitende der Landeshauptstadt München, die in der Öffentlichkeit bzgl. der Debatte um den Einsatz von Open Source Lösungen intensiv wahrgenommen wird, betreibt die Landeshauptstadt München auch im eigenen Rechenzentrum ein umfangreiches Portfolio an Software. Es besteht aus den ca. 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden, sowie allem, was für deren Betrieb und der dafür notwendigen darunterliegenden Infrastruktur erforderlich ist.
+In addition to the workplace platform for employees of the City of Munich, which is the subject of intense public attention in the debate on the use of open source solutions,
+the City of Munich also operates an extensive portfolio of software in its own data center.
+It consists of the approximately 350 central specialist applications and central services hosted in the data center, as well as everything that is required for their operation and the services they require,
+as well as everything required for their operation and the underlying infrastructure.
 
-In diesem Umfeld kommt gemäß der IT-Architektur-Einordnung überall dort Open Source zum Einsatz, wo im Marktvergleich Open Source Lösungen als etablierte Standard-Lösungen verfügbar sind sowie dort, wo ein hohes Maß an Individualisierung im Sinne der Landeshauptstadt München erforderlich ist.
+In this environment, open source is used everywhere in accordance with the IT architecture classification,
+where, in a market comparison, open source solutions are available as established standard solutions, and where
+where a high degree of customization is required in the interests of the City of Munich.
 
 <TagTile tagname="infrastruktur" />
 
-## E- und Open Government 
+## E- und Open Government
 
-Auch im Bereich des E- und Open Government kommt Open Source Software zum Einsatz:
+Open source software is also used in the area of e- and open government:
 
 <TagTile tagname="opengovernment" />
 
-
-
 ## Support
 
-Freie Software wird am besten von denjenigen verstanden die sie schreiben.
-Herstellerfirmen bieten hochqualifizierten Support an und können direkt auf die Entwicklung Einfluss nehmen.
-Kommerzieller Support ist einer der wichtigsten Möglichkeiten um freie Software zu finanzieren.
+Free software is best understood by those who write it.
+Vendor companies offer highly qualified support and can directly influence the development.
+Commercial support is one of the most important ways to fund free software.
 
-Wir nutzen das gern, um schnell Hilfe und Unterstützung zu bekommen und auch um interne Kompetenzen aufzubauen.
-Aber auch um so freie Software zu fördern.
+We like to use it to get help and support quickly and also to build internal competence.
+But also to promote free software that way.
 
-
-Zu beachten ist, dass die Landeshauptstadt München in all den Bereichen, in denen Open Source Software verwendet wird, Wert darauflegt, dass die Software professionell supported wird und einem geordneten Lifecycle unterliegt. Dies ist unter anderem zur Sicherstellung von zeitnahen Sicherheitsupdates unbedingt erforderlich. In aller Regel werden daher Verträge mit Dienstleistern abgeschlossen, die diesen Support liefern. Diese Vorgehensweise ist in der IT-Branche üblich, um das Risiko plötzlich entstehender Support-Lücken zu vermeiden, wenn z.B. ein Community-Projekt vorrübergehend verwaist ist.
-
+It should be noted that in all the areas where open source software is used, the City of Munich attaches great importance to the fact
+that the software is professionally supported and subject to an orderly lifecycle. Among other things, this is absolutely necessary to ensure timely security updates.
+As a rule, contracts are therefore concluded with service providers who supply this support.
+This approach is common in the IT industry to avoid the risk of sudden gaps in support if, for example, a community project is temporarily orphaned.
 
 <TagTile tagname="support" />
 
 ## Open-Core
 
-Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung kommerziell produzierter Open-Source-Software.
-Das Open-Core-Modell, beinhaltet in erster Linie das Anbieten einer "Kern"- oder funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
+The open core model is a business model for financing commercially produced open source software.
+The open core model, primarily involves offering a "core" or feature-limited version of a software product as free and open source software,
+while "commercial" versions or add-ons are offered as proprietary software.
 
-Als Stadt München haben wir so die Möglichkeite Software schneller zu testen und fördern so das FOSS Ökosysten.
-Da wir den Hersteller nicht zwingend zum betrieb der Software benötigen vermeiden wir auch finanzielle Abhängigkeiten. 
+As the city of Munich, this gives us the opportunity to test software more quickly and thus promotes the FOSS ecosystem.
+Since we do not necessarily need the manufacturer to run the software, we also avoid financial dependencies.
 
 <TagTile tagname="opencore" />
 
 
 ## Gesamtübersicht
 
-Insgesamt nutzen wir natürlich viel mehr freie Software.
+Overall, of course, we use much more free software.
 
 <TagList tagname="foss" />

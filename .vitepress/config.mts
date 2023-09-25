@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import MarkdownItFootnote from 'markdown-it-footnote';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -16,21 +17,12 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           {text: 'Start', link: '/'},
-          {text: 'Examples', link: '/examples/markdown-examples'},
-          {text: 'Nutzen', link: '/examples/markdown-examples'},
-          {text: 'Verbessern', link: '/examples/markdown-examples'},
-          {text: 'Veröffentlichen', link: '/examples/markdown-examples'},
+          {text: 'Nutzen', link: '/de/use'},
+          {text: 'Verbessern', link: '/de/contribute'},
+          {text: 'Veröffentlichen', link: '/de/publish'},
         ],
 
-        sidebar: [
-          {
-            text: 'Examples',
-            items: [
-              {text: 'Markdown Examples', link: '/examples/markdown-examples'},
-              {text: 'Runtime API Examples', link: '/examples/api-examples'}
-            ]
-          }
-        ],
+        sidebar: [],
         darkModeSwitchLabel: "darkModeSwitchLabel",
         langMenuLabel: "langMenuLabel",
         returnToTopLabel: "returnToTopLabel",
@@ -51,24 +43,21 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/examples/markdown-examples' },
-      { text: 'Use', link: '/examples/markdown-examples' },
-      { text: 'Improve', link: '/examples/markdown-examples' },
-      { text: 'Publish', link: '/examples/markdown-examples' },
+      { text: 'Use', link: '/use' },
+      { text: 'Improve', link: '/contribute' },
+      { text: 'Publish', link: '/publish' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/examples/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/examples/api-examples' }
-        ]
-      }
-    ],
+    sidebar: [],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/it-at-m/opensource.muenchen.de' }
     ]
+  },
+
+  markdown: {
+    config(md) {
+      md.use(MarkdownItFootnote);
+    }
   }
 })

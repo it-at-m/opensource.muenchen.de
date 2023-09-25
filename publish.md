@@ -3,36 +3,45 @@ listtag: eigenentwicklung
 sidebar: false
 ---
 
-//todo translate
-
 # Publish
 
-Sollten wir existierende freie Software nicht [nutzen](./use.html) oder [verbessern](./contribute.html) können, so entwicklen wir selbst frei Software.
+If we cannot [use](./use.html) or [improve](./contribute.html) existing free software, we develop free software ourselves.
 
-Vor allem bei kommunalen Fachanwendungen muss oft jemand den ersten Schritt tun.  
-Immer wenn wir uns entscheiden Software selbst zu entwicklen, passiert das offen und frei. 
+Especially for municipal specialized applications, someone often has to take the first step.  
+Whenever we decide to develop software ourselves, it happens openly and freely.
 
-Dazu haben wir auch den Rückhalt der Politik:
+We also have the backing of politicians for this:
 
-> Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+> The developed source code is made publicly available and placed under a permissive open source license (e.g. EUPL, MIT).
 
-aus Stadtrats-Antrag [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779) 
+_from City Council motion [Develop new software in an open source context!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
+
+Thus, the motivation, out of ensuring digital sovereignty, is supplemented by the aspect of "spreading".
+In this way, the state capital of Munich contributes to the give and take in the area of public administration - open source is used as a basis for sharing
+of what has already been achieved.
+Within public administration, this exchange can serve both to support reuse in the sense of the "One for All" principle,
+and to contribute to standardization through wider dissemination.
+Outside the public administration it serves the transparency as well as the exchange with the economy and can become also nucleus of new Startups.
+
+Software in-house development refers to software that is developed by the City of Munich itself.
+This is necessary in cases where no suitable software is available on the market. Examples of this are listed in the chapter "Important activities in 2021".
+The guideline adopted for this purpose defines the technical structure of such self-developed software.
+In accordance with the guideline, a very modern, modular technology stack is used, consisting entirely of open source components:
+the "State Capital Munich Reference Architecture for Self-Development".
 
 
-So wird die Motivation aus der Sicherstellung der digitalen Souveränität heraus ergänzt um den Aspekt „verbreiten“ . Die Landeshauptstadt München trägt dadurch zum Geben und Nehmen im Bereich der öffentlichen Verwaltung und darüber hinaus bei, Open Source wird als Grundlage für den Austausch von bereits Erreichtem genutzt. Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA Prinzips  zu unterstützen, als auch durch eine größere Verbreitung zur Standardisierung beizutragen. Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austausch mit der Wirtschaft und kann auch Keimzelle neuer Startups werden.
+Abbildung 3: "Munich State Capital Reference Architecture for Own Developments": The architecture stack for software in-house developments consists entirely of open source components
 
-Unter Software-Eigenentwicklungen versteht man Software, die durch die Landeshauptstadt München selbst entwickelt wird. Dies ist in den Fällen notwendig, in denen keine passende Software am Markt verfügbar ist. Beispiele dafür sind im Kapitel „Wichtige Aktivitäten in 2021“ aufgeführt. In der dafür verabschiedeten Richtlinie wird der technische Aufbau von solch selbstentwickelter Software festgelegt. Der Richtlinie entsprechend kommt ein sehr moderner, modularer Technologie-Stack zum Einsatz, der vollständig aus Open Source Komponenten besteht, der „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“.
+In the area of proprietary software developments, which are primarily used where either no solutions can be found on the market,
+or where a very high degree of municipal differentiation is necessary for the City of Munich, open source plays a major role in two ways:
+On the one hand, the proprietary software developments are based on a 100% open source stack, as explained above.
+On the other hand, however, the City of Munich will publish all of its own developments on the basis of an open source license, as stipulated in its IT strategy.
+In 2022, the first projects will be published. Some of the projects will even be developed on a public platform.
 
- 
-Abbildung 3: „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“: Der Architektur-Stack für Software-Eigenentwicklungen besteht vollständig aus Open Source Komponenten
+In 2021, it was therefore decided to develop the strategically important platform for the digitization of core processes (i.e., the core tasks of the City of Munich, such as the registration system),
+in contrast to the support processes (finance, HR, IT), to be implemented using a modular architecture based on open source components.
+The above-mentioned open source-based reference architecture is also used in the area of in-house development.
 
-
-Im Bereich der Software-Eigenentwicklungen, die vor allem dort zum Einsatz kommen, wo entweder keine Lösungen am Markt zu finden sind oder für die Landeshauptstadt München ein sehr hohes Maß an kommunaler Differenzierung notwendig ist, spielt Open Source gleich zweifach eine große Rolle: Zum einen setzen die Software-Eigenentwicklungen wie oben ausgeführt auf einen 100% Open Source Stack auf. Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open Source Lizenz veröffentlichen, wie dies die IT-Strategie vorgibt. Im Jahr 2022 werden die ersten Projekte veröffentlicht werden. Einige der Projekte werden sogar auf einer öffentlichen Plattform entwickelt werden.
-
-
-Im Jahr 2021 wurde daher entschieden, die strategisch wichtige Plattform für die Digitalisierung der Kernprozesse (also die Kern-Aufgaben der Landeshauptstadt München wie z.B. das Meldewesen) anders als für die Unterstützungsprozesse (Finanzen, HR, IT) passgenau durch eine modulare, auf Open Source Komponenten bestehenden modularen Architektur umzusetzen. Auch die o.g. Open Source basierte Referenzarchitektur kommt dabei im Bereich der Eigenentwicklungsanteile zum Einsatz.
-
-<TagTile 
-    :tag-names="['eigenentwicklung', 'kooperation']" 
+<TagTile
+:tag-names="['eigenentwicklung', 'kooperation']"
 />
-
