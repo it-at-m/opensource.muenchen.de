@@ -30,7 +30,17 @@ export default defineConfig({
               {text: 'Runtime API Examples', link: '/examples/api-examples'}
             ]
           }
-        ]
+        ],
+        darkModeSwitchLabel: "darkModeSwitchLabel",
+        langMenuLabel: "langMenuLabel",
+        returnToTopLabel: "returnToTopLabel",
+        notFound: {
+          title: "Seite nicht gefunden.",
+          code: "404",
+          quote: "Mögen hätt' ich schon wollen, aber dürfen hab ich mich nicht getraut!",
+          linkText: "Bring mich nach Hause"
+        },
+
       }
     }
   },
