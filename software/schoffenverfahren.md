@@ -2,7 +2,7 @@
 Source: SNow
 application: Schöffenverfahren
 developer: null
-developerlink: 'http://schoeffen-online.apps.muenchen.de/ http://schoeffen.apps.muenchen.de/#!login '
+developerlink: https://schoeffen-online.muenchen.de/
 licensingmodel: open source
 linkapplication: null
 tags:
