@@ -4,7 +4,7 @@ application: Zeitmanagementsystem
 developer: Berlinonline
 code: https://gitlab.com/eappointment
 licensingmodel: open source
-linkapplication: null
+linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
 tags: 
 - eigenentwicklung
 - server
