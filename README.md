@@ -2,6 +2,9 @@
 
 ## Getting started
 
+Requires Node.js version 16 or higher.
+
+
 ```
 npm i
 npm run docs:dev
