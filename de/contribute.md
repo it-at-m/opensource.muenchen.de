@@ -14,10 +14,10 @@ Freie Software ermöglicht es auch diese zu __verbessern__ und mitzuhelfen Fehle
 
 ## Code Contributions
 
-Neben den großen [Eigenveröffentlichungen](./publish.html) von uns haben Mitarbeitende der LHM auch mit __Contributions__ zu FOSS Projekten beigetragen.
+Neben den großen [Eigenveröffentlichungen](./publish.html) der LHM tragen wir auch mit __Contributions__ zu anderen FOSS Projekten bei.
 Contributions müssen nicht immer neue Features oder Bugfixing sein, sondern können z.B. auch die Korrektur oder Fortschreibung von Dokumentationen sein.
 
-Alle sind mit unserem [github account als fork repositories](https://github.com/orgs/it-at-m/repositories?type=fork) erstellt und contributed.
+Alle Contributions sind mit unserem [github account als fork repositories](https://github.com/orgs/it-at-m/repositories?type=fork) erstellt und contributed.
 
 ## Sponsoring
 
