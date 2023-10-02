@@ -31,10 +31,13 @@ Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austa
 
 ## Referenzarchitektur für Eigenentwicklungen
 
-In der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ wird der technische Aufbau von solch selbstentwickelter Software festgelegt.
-Der Richtlinie entsprechend kommt ein sehr moderner, modularer Technologie-Stack zum Einsatz, der vollständig aus Open Source Komponenten besteht:
+In der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ wird der technische Aufbau von selbstentwickelter Software festgelegt.
+Der Richtlinie entsprechend kommt ein sehr moderner, modularer Technologie-Stack zum Einsatz aus Open Source Komponenten:
 
-Abbildung 3: „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“: Der Architektur-Stack für Software-Eigenentwicklungen besteht vollständig aus Open Source Komponenten
+<TagTile
+  :tag-names="['refarchinfrastruktur']"
+/>
+
 
 Open Source spielt so in der Referenzarchitektur für Eigenentwicklungen gleich zweifach eine große Rolle:
 Zum einen setzen wir wie oben ausgeführt auf einen 100% Open Source Stack auf.

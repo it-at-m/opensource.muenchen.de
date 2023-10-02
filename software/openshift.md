@@ -9,6 +9,7 @@ tags:
 - foss
 - support
 - infrastruktur
+- refarchinfrastruktur
 ---
 Auf der Kubernetes Plattform __Openshift__ werden ca. 100 interne, als auch externe Services betreiben.
 [Neue Eigenentwicklungen](../publish) werden grundsätzlich für Openshift entwickelt.

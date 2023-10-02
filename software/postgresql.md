@@ -3,11 +3,12 @@ application: PostgreSQL
 developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache
-logo: 
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png
 tags:
 - server
 - foss
 - infrastruktur
+- refarchinfrastruktur
 ---
 __PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORDBMS). Seine Entwicklung begann in den 1980er Jahren, seit 1997 wird die Software von einer Open-Source-Community weiterentwickelt. 
 

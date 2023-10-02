@@ -6,6 +6,7 @@ logo: https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png
 tags:
 - foss
 - sponsor
+- refarchinfrastruktur
 ---
 Vuetify ist eine UI-Bibliothek ohne Designkenntnisse mit wunderschön handgefertigten Vue-Komponenten.
 In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../publish) genutzt.

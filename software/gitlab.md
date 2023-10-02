@@ -10,6 +10,7 @@ tags:
 - server
 - foss
 - opencore
+- refarchinfrastruktur
 ---
 GitLab ist eine Versionsverwaltung für Softwareprojekte und Devops Plattform.
 
