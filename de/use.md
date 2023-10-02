@@ -11,50 +11,47 @@ import TagList from "../.vitepress/components/TagList.vue";
 
 > Wir nutzen freie Software wo immer möglich!  
 
-Das Free Software-Ökosystem bietet zahlreiche Lösungen und Anwendungen.
-Moderne Softwareentwicklung ist ohne freie Software nicht mehr möglich.
-In fast allen Softwareprodukten steckt freie Software.
-
+Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen für moderne Softwareentwickler.
+Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht mehr vorstellbar.
+Man findet freie Software in nahezu allen modernen Softwareprodukten.
+Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unbestreitbar
 
 ## Infrastruktur
 
-Die Landeshauptstadt München betreibt im eigenen Rechenzentrum ein umfangreiches Portfolio an Software. 
-Es besteht aus den ca. 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden, sowie allem, was für deren Betrieb und der dafür notwendigen darunterliegenden Infrastruktur erforderlich ist.
+Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an Services, bestehend aus etwa 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden.
+Dazu kommt alles, was für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig ist.
 
-In diesem Umfeld kommt gemäß der IT-Architektur-Einordnung überall dort Open Source zum Einsatz, wo im Marktvergleich Open Source Lösungen als etablierte Standard-Lösungen verfügbar sind sowie dort, wo ein hohes Maß an Individualisierung im Sinne der Landeshauptstadt München erforderlich ist.
+Innerhalb dieses Umfelds setzt die IT-Architektur der Landeshauptstadt München auf den Einsatz von Open-Source-Software.
+Diese kommt immer dann zum Einsatz, wenn im Marktvergleich etablierte Open-Source-Lösungen verfügbar sind und ein hohes Maß an Individualisierung im Sinne der Stadt erforderlich ist.
 
 <TagTile :tag-names="['infrastruktur']" />
 
 ## E- und Open Government 
 
-Auch im Bereich des E- und Open Government kommt Open-Source-Software zum Einsatz:
+Open-Source-Software wird auch im Bereich des E- und Open Government eingesetzt.
 
 <TagTile :tag-names="['opengovernment']" />
 
 ## Support
 
 Freie Software wird am besten von denjenigen verstanden, die sie schreiben.
-Hersteller bieten hoch qualifizierten Support an und können direkt auf die Entwicklung Einfluss nehmen.
-Kommerzieller Support ist einer der wichtigsten Möglichkeiten um freie Software zu finanzieren.
+Hersteller bieten hoch qualifizierten Support und können direkt auf die Entwicklung Einfluss nehmen.
+Kommerzieller Support ist somit einer der wichtigsten Wege, um freie Software zu finanzieren und zu fördern.
+Die Landeshauptstadt München nutzt diese Möglichkeit gerne, um schnell Hilfe und Unterstützung zu bekommen und interne Kompetenzen aufzubauen.
 
-Wir nutzen das gern, um schnell Hilfe und Unterstützung zu bekommen und auch um interne Kompetenzen aufzubauen.
-Aber auch um so freie Software zu fördern.
-
-Zu beachten ist, dass die Landeshauptstadt München in all den Bereichen, in denen Open-Source-Software verwendet wird, Wert darauflegt, dass die Software professionell supportet wird und einem geordneten Lifecycle unterliegt.
-Dies ist unter anderem zur Sicherstellung von zeitnahen Sicherheitsupdates unbedingt erforderlich. 
-In aller Regel werden daher Verträge mit Dienstleistern abgeschlossen, die diesen Support liefern. 
-So vermeiden wir das Risiko plötzlich entstehender Support-Lücken, wenn z.B. ein Community-Projekt vorübergehend verwaist ist.
+Es ist jedoch zu beachten, dass Open-Source-Software professionell supportet wird und einem geordneten Lifecycle unterliegt.
+Dies ist unerlässlich, um zeitnahe Sicherheitsupdates sicherzustellen und das Risiko von Support-Lücken zu minimieren, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
+Daher schließt die Stadt in der Regel Verträge mit Dienstleistern ab, die diesen Support liefern können.
 
 <TagTile :tag-names="['support']" />
 
 ## Open-Core
 
-Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung kommerziell produzierter Open-Source-Software.
-Das Open-Core-Modell, beinhaltet in erster Linie das Anbieten einer "Kern"- oder funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, 
-während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
+Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung von kommerziell produzierter Open-Source-Software.
+Es beinhaltet in erster Linie das Anbieten einer "Kern"- oder funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
 
-Als Stadt München haben wir so die Möglichkeit Software schneller zu testen und fördern so das FOSS Ökosystem.
-Da wir den Hersteller nicht zwingend zum betrieb der Software benötigen vermeiden wir hier auch finanzielle Abhängigkeiten. 
+Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
+Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
 
 <TagTile :tag-names="['opencore']" />
 

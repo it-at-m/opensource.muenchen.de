@@ -11,11 +11,8 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 Sollten wir existierende freie Software nicht [nutzen](./use.html) oder [verbessern](./contribute.html) können, so entwickeln wir selbst freie Software.
 
-Software-Eigenentwicklungen kommen vor allem dort zum Einsatz, wo entweder keine Lösungen am Markt zu finden sind, oder für die Landeshauptstadt München ein sehr hohes Maß an kommunaler Differenzierung notwendig ist.
-Vor allem bei kommunalen Fachanwendungen muss oft jemand den ersten Schritt tun.  
-
-Immer wenn wir uns entscheiden Software selbst zu entwickeln, entwicklen wir Open-Source-Sofware.
-
+Software-Eigenentwicklungen kommen vor allem dann zum Einsatz, wenn keine Lösungen am Markt verfügbar sind oder ein sehr hohes Maß an kommunaler Differenzierung notwendig ist, insbesondere bei kommunalen Fachanwendungen.
+Da wir Eigenentwicklungen als Open-Source-Software zur Verfügung stehen, Weise können auch andere Organisationen und Entwickler von unserer Arbeit profitieren und sie weiterentwickeln.
 
 Dazu haben wir auch den Auftrag und Rückhalt der Politik:
 
@@ -23,16 +20,17 @@ Dazu haben wir auch den Auftrag und Rückhalt der Politik:
 
 _aus Stadtrats-Antrag [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
 
-Die Landeshauptstadt München trägt so dadurch zum Geben und Nehmen im Bereich der öffentlichen Verwaltung bei - Open Source wird als Grundlage für den Austausch 
-von bereits Erreichtem genutzt. 
-Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA[^1] Prinzips zu unterstützen, 
-als auch durch eine größere Verbreitung zur Standardisierung beizutragen. 
+Die Landeshauptstadt München trägt durch die Nutzung von Open-Source-Software zum Geben und Nehmen im Bereich der öffentlichen Verwaltung bei.
+Open Source ist die Grundlage für den Austausch von bereits Erreichtem.
+Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA[^1] Prinzips zu unterstützen als auch durch eine größere Verbreitung zur Standardisierung beizutragen.
 Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austausch mit der Wirtschaft.
+
 
 ## Referenzarchitektur für Eigenentwicklungen
 
 In der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ wird der technische Aufbau von selbstentwickelter Software festgelegt.
-Der Richtlinie entsprechend kommt ein sehr moderner, modularer Technologie-Stack zum Einsatz aus Open Source Komponenten:
+Wir nutzen eine modularen Technologie-Stack zum Einsatz aus Open Source Komponenten:
+So können Komponenten leicht ausgetauscht und aktualisiert werden, was die Wartbarkeit und Skalierbarkeit der Software verbessert.
 
 <TagTile
   :tag-names="['refarchinfrastruktur']"
@@ -42,7 +40,6 @@ Der Richtlinie entsprechend kommt ein sehr moderner, modularer Technologie-Stack
 Open Source spielt so in der Referenzarchitektur für Eigenentwicklungen gleich zweifach eine große Rolle:
 Zum einen setzen wir wie oben ausgeführt auf einen 100% Open Source Stack auf.
 Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open-Source-Lizenz veröffentlichen.
-
 
 <TagTile
   :tag-names="['eigenentwicklung', 'kooperation']"
