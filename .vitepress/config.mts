@@ -3,6 +3,7 @@ import MarkdownItFootnote from 'markdown-it-footnote';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/opensource.muenchen.de/',
   locales: {
     root: {
       label: 'English',
