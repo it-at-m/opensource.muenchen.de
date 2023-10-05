@@ -33,3 +33,5 @@ Große Teile der Plattform basieren auf der [camunda BPM Plattform](https://camu
 Das Frontend basiert auf dem Formular-Framework der Referenzarchitektur der Landeshauptstadt.
 Im Backend laufen die Workflows ab, hier kommen als Basis [Kafka](kafka), die camunda Workflow und die camunda Rule Engine zum Einsatz.
 DigiWF wird im Rechenzentrum der Landeshauptstadt München in einer auf Containern basierenden Infrastruktur betrieben.
+
+Dazu unser Vortrag auf der [CamundaCon 2023 - Automating Citizen Services in the City of Munich](https://page.camunda.com/camundacon-2023-city-of-munich) (englisch).
