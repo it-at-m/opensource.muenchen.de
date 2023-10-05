@@ -16,5 +16,5 @@ GitLab ist eine Versionsverwaltung für Softwareprojekte und Devops Plattform.
 
 ---
 
-Mit GitLab verwalten wir den Code aller interner [Eigenentwicklung](./publish.html) und steuern mit CI/CD die laufenden Infrastruktur zahlreicher IT Services.
+Mit GitLab verwalten wir den Code aller interner [Eigenentwicklung](../publish) und steuern mit CI/CD die laufenden Infrastruktur zahlreicher IT Services.
 
