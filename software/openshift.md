@@ -3,7 +3,7 @@ Source: SNow
 application: Openshift
 developerlink: https://docs.openshift.com/
 licensingmodel: open source
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/100px-OpenShift-LogoType.svg.png
+logo: images/100px-OpenShift-LogoType.svg.png
 tags:
 - server
 - foss

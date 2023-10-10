@@ -1,7 +1,7 @@
 ---
 application: Linux
 licensingmodel: open source
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/100px-Tux.svg.png
+logo: images/100px-Tux.svg.png
 tags:
 - server
 - foss

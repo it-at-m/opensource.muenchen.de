@@ -2,7 +2,7 @@
 application: Vuetify
 developerlink: https://vuetifyjs.com
 licensingmodel: open source
-logo: https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png
+logo: images/vuetify-logo-300.png
 tags:
 - foss
 - sponsor
