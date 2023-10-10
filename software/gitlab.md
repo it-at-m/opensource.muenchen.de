@@ -5,7 +5,7 @@ developer: null
 developerlink: https://about.gitlab.com/
 licensingmodel: open source
 linkapplication: null
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/320px-GitLab_logo_%282%29.svg.png
+logo: images/320px-GitLab_logo_%282%29.svg.png
 tags:
 - server
 - foss

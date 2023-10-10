@@ -4,7 +4,7 @@ application: WordPress
 developer: null
 developerlink: https://de.wordpress.com/
 licensingmodel: open source
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/320px-WordPress_logo.svg.png
+logo: images/320px-WordPress_logo.svg.png
 tags:
 - opengovernment
 - server

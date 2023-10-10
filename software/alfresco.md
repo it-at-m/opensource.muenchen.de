@@ -4,7 +4,7 @@ application: Alfresco
 developer: null
 developerlink: https://www.alfresco.com/de
 licensingmodel: open source
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alfresco-logo.svg/300px-Alfresco-logo.svg.png
+logo: images/300px-Alfresco-logo.svg.png
 tags:
 - opengovernment
 - server

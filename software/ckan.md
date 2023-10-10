@@ -5,7 +5,7 @@ developer: null
 developerlink: https://ckan.org/
 licensingmodel: open source
 linkapplication: https://opendata.muenchen.de
-logo: https://ckan.org/static/img/logo.svg
+logo: images/ckan_logo.svg
 tags:
 - opengovernment
 - server
