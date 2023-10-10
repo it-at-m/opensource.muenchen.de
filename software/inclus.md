@@ -6,7 +6,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=WC-Finder&type=source
 codelinktext: github.com/it-at-m WC-Finder
 licensingmodel: open source
 license: MIT
-screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/Screenshot_Inclus_Detail.png/jcr:content/Screenshot_Inclus_Detail2.jpg
+screenshot: images/Inclus_Screenshot.jpg
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.

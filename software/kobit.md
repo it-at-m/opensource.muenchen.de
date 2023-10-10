@@ -5,7 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=kobit&type=source
 codelinktext: github.com/it-at-m kobit
 licensingmodel: open source
 license: MIT
-screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/KoBITApp_startseite.jpg/jcr:content/KoBITApp_startseite.jpg
+screenshot: images/KoBITApp_screenshot.jpg
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 

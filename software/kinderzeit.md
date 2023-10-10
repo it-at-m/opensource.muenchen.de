@@ -5,7 +5,7 @@ developerlink:
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
-screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/Calendar-Selected-Kinderzeit2.jpg1/jcr:content/Calendar-Selected-Kinderzeit2.jpg
+screenshot: images/Kinderzeit_screenshot.jpg
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 

@@ -10,7 +10,7 @@ tags:
 - server
 - foss
 - kooperation
-screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-280w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/opensource_terminvereinbarung.jpeg/jcr:content/opensource_terminvereinbarung.jpeg
+screenshot: images/terminvereinbarung_symbolbild.jpeg
 ---
 
 Die aktuelle Terminvereinbarung der Stadt München wird durch eine Open Source Anwendung (ZMS), die das Land Berlin zur Verfügung stellt, bis zum Jahr 2025 abgelöst.
