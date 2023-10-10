@@ -1,0 +1,27 @@
+<!--.vitepress/theme/MyLayout.vue-->
+<script setup>
+import DefaultTheme from 'vitepress/theme'
+
+const { Layout } = DefaultTheme
+</script>
+<template>
+  <Layout>
+    <template #aside-top>
+        <div v-if="$frontmatter.licensingmodel" class="infobox">
+            <img v-if="$frontmatter.screenshot"  :src="$frontmatter.screenshot" />
+            <img v-else="$frontmatter.logo"      :src="$frontmatter.logo" />
+            <dl class="cb">
+                <dt v-if="$frontmatter.code" >Code</dt>
+                <dd v-if="$frontmatter.code" >
+                    <a v-if="$frontmatter.codelinktext" :href="$frontmatter.code">{{ $frontmatter.codelinktext }}</a>
+                    <a v-else :href="$frontmatter.code">{{ $frontmatter.code }}</a>
+                </dd>
+                <dt v-if="$frontmatter.developerlink" >Webseite</dt>
+                <dd v-if="$frontmatter.developerlink" ><a :href="$frontmatter.developerlink">{{ $frontmatter.developerlink }}</a></dd>
+                <dt v-if="$frontmatter.license" >Lizenz</dt>
+                <dd v-if="$frontmatter.license" >{{ $frontmatter.license }}</dd>
+            </dl>
+        </div>
+    </template>
+  </Layout>
+</template>
