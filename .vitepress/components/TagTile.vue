@@ -38,12 +38,16 @@
                     <p v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
-                        <chip
-                                v-for="(tag, index) in page.frontmatter.tags"
-                                :key="index"
-                                :label="tag"
-                                style="margin-right: 4px; margin-bottom: 4px;"
-                        />
+                        <div
+                                class="chip-group"
+                        >
+                            <v-chip
+                                    v-for="(tag, index) in page.frontmatter.tags"
+                                    :key="index"
+                            >
+                                {{ tag }}
+                            </v-chip>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -53,7 +57,6 @@
 </template>
 
 <script setup>
-import Chip from "./Chip.vue";
 import {computed} from "vue";
 import {data} from '../software.data.js'
 
@@ -126,5 +129,11 @@ const pagesWithTags = computed(() => {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.chip-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
 }
 </style>
