@@ -7,6 +7,7 @@ linkapplication: https://machmuenchenbesser.de/
 tags:
 - server
 - foss
+- opengovernment
 ---
 
 __Mark-a-Spot__ ist eine Plattform zum offenen Umgang mit Infrastrukturproblemen (Mängelmelder) und Beteiligungsverfahren im öffentlichen Raum.
