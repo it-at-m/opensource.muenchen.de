@@ -1,15 +1,15 @@
 <!--.vitepress/theme/MyLayout.vue-->
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-
+import { withBase } from 'vitepress'
 const { Layout } = DefaultTheme
 </script>
 <template>
   <Layout>
     <template #aside-top>
         <div v-if="$frontmatter.licensingmodel" class="infobox">
-            <img v-if="$frontmatter.screenshot"  :src="$frontmatter.screenshot" />
-            <img v-else="$frontmatter.logo"      :src="$frontmatter.logo" />
+            <img v-if="$frontmatter.screenshot"  :src="withBase($frontmatter.screenshot)" />
+            <img v-else-if="$frontmatter.logo"   :src="withBase($frontmatter.logo)" />
             <dl class="cb">
                 <dt v-if="$frontmatter.code" >Code</dt>
                 <dd v-if="$frontmatter.code" >

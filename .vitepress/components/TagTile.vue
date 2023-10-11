@@ -17,12 +17,12 @@
                     >
                         <img
                                 v-if="page && page.frontmatter && page.frontmatter.screenshot"
-                                :src="page.frontmatter.screenshot"
+                                :src="withBase(page.frontmatter.screenshot)"
                                 class="thumb"
                         />
                         <img
                                 v-else-if="page && page.frontmatter && page.frontmatter.logo"
-                                :src="page.frontmatter.logo"
+                                :src="withBase(page.frontmatter.logo)"
                                 class="thumb"
                         />
                         <div
