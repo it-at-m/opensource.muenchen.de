@@ -6,7 +6,8 @@
             <v-card
                     v-for="(page, index) in pagesWithTags"
                     :key="index"
-                    class="card"
+                    variant="tonal"
+                    :href="withBase(page.url)"
             >
                 <v-card-title
                     class="pt-5"
@@ -64,6 +65,7 @@
 <script setup>
 import {computed} from "vue";
 import {data} from '../software.data.js'
+import {withBase} from "vitepress";
 
 const props = defineProps({
     tagNames: {
