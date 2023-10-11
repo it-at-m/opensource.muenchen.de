@@ -4,7 +4,7 @@ developer: Apache Software Foundation
 developerlink: https://kafka.apache.org/ 
 licensingmodel: open source
 license: GPL
-logo: images/80px-Apache_kafka.svg.png
+logo: /80px-Apache_kafka.svg.png
 tags:
 - server
 - foss

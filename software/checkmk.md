@@ -6,7 +6,7 @@ code: https://github.com/Checkmk/checkmk
 licensingmodel: open source
 license: GPL
 linkapplication: null
-logo: images/320px-CheckMK_logo.svg.png
+logo: /320px-CheckMK_logo.svg.png
 tags:
 - server
 - foss

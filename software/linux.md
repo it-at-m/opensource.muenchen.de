@@ -1,7 +1,7 @@
 ---
 application: Linux
 licensingmodel: open source
-logo: images/100px-Tux.svg.png
+logo: /100px-Tux.svg.png
 tags:
 - server
 - foss

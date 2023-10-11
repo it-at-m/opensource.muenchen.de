@@ -3,7 +3,7 @@ application: NGINX
 developerlink: https://nginx.org/
 licensingmodel: open source
 license: BSD
-logo: images/320px-Nginx_logo.svg.png
+logo: /320px-Nginx_logo.svg.png
 tags:
 - server
 - foss

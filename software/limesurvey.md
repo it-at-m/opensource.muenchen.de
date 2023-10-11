@@ -4,7 +4,7 @@ application: LimeSurvey
 developer: null
 developerlink: https://www.limesurvey.org/de/
 licensingmodel: open source
-logo: images/100px-Limesurvey_logo.png
+logo: /100px-Limesurvey_logo.png
 linkapplication: https://umfrage.muenchen.de/
 tags:
 - opengovernment

@@ -3,7 +3,7 @@ application: GeoPortal
 developer: LHM
 developerlink: https://geoportal.muenchen.de/portal/master/
 licensingmodel: open source
-screenshot: images/geoportal_geothermie_screen.png
+screenshot: /geoportal_geothermie_screen.png
 tags:
 - server
 - foss

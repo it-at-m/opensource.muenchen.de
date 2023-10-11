@@ -3,7 +3,7 @@ application: Maria-DB
 developerlink: https://mariadb.com
 licensingmodel: open source
 license: Apache
-logo: images/320px-MariaDB_colour_logo.svg.png
+logo: /320px-MariaDB_colour_logo.svg.png
 tags:
 - server
 - foss

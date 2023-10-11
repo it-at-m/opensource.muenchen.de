@@ -4,7 +4,7 @@ developerlink: https://robotframework.org
 code: https://github.com/robotframework/robotframework
 licensingmodel: open source
 license: Apache
-logo: images/Robot-framework-logo.png
+logo: /Robot-framework-logo.png
 tags:
 - server
 - foss

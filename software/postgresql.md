@@ -3,7 +3,7 @@ application: PostgreSQL
 developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache
-logo: images/233px-Postgresql_elephant.svg.png
+logo: /233px-Postgresql_elephant.svg.png
 tags:
 - server
 - foss

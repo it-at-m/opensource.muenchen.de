@@ -3,7 +3,7 @@ application: Ansible
 developerlink: http://www.ansible.com
 licensingmodel: open source
 license: Apache
-logo: images/100px-Ansible_logo.svg.png
+logo: /100px-Ansible_logo.svg.png
 tags:
 - server
 - foss
