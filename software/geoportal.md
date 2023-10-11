@@ -8,6 +8,7 @@ tags:
 - server
 - foss
 - kooperation
+- sponsor
 ---
 
 Das [GeoPortal](https://geoportal.muenchen.de/portal/master/) bietet raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder, oder die "Potenzial der oberflächennahen Geothermie".
@@ -39,6 +40,6 @@ Komponenten auf  freier Software und werden selber als freie Software von aktive
 
 ### Was haben wir beigetragen?
 
-Wir nutzen hier also eine reichhaltige Quelle an IT Services und tragen aber auch beim Masterportal zur Pflege & Wartung und Weiterentwicklung bei, indem wir ein aktives Mitglied in der Implementierungs¬partnerschaft (https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
+Wir nutzen hier also eine reichhaltige Quelle an IT Services und tragen aber auch beim Masterportal zur Pflege & Wartung und Weiterentwicklung bei, indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
 
 Insgesamt fördern wir als LHM das Masterportal mit 10.000 €/pro Jahr (netto) an Steuergeldern.
