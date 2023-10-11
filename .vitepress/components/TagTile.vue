@@ -3,38 +3,43 @@
 <template lang="html">
     <div class="tagtile">
         <div class="grid">
-            <div
+            <v-card
                     v-for="(page, index) in pagesWithTags"
                     :key="index"
                     class="card"
             >
-                <div class="card-content">
-                    <img
-                        v-if="page && page.frontmatter && page.frontmatter.screenshot"
-                        :src="page.frontmatter.screenshot"
-                        class="thumb"
-                    />
-                    <img
-                        v-else-if="page && page.frontmatter && page.frontmatter.logo"
-                        :src="page.frontmatter.logo"
-                        class="thumb"
-                    />
+                <v-card-title
+                    class="pt-5"
+                >
                     <div
-                        v-else
-                        class="thumb placeholder"
+                            class="card-title"
                     >
-                        {{ page.frontmatter.application[0] }}
-                    </div>
+                        <img
+                                v-if="page && page.frontmatter && page.frontmatter.screenshot"
+                                :src="page.frontmatter.screenshot"
+                                class="thumb"
+                        />
+                        <img
+                                v-else-if="page && page.frontmatter && page.frontmatter.logo"
+                                :src="page.frontmatter.logo"
+                                class="thumb"
+                        />
+                        <div
+                                v-else
+                                class="thumb placeholder"
+                        >
+                            {{ page.frontmatter.application[0] }}
+                        </div>
 
-                    <div>
-                        <a
-                            :href="page.url"
+                        <span
+                                style="overflow: hidden; text-overflow: ellipsis;"
                         >
                             {{ page.frontmatter.application }}
-                        </a>
+                        </span>
+
                     </div>
-                </div>
-                <div>
+                </v-card-title>
+                <v-card-text>
                     <p v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
@@ -49,8 +54,8 @@
                             </v-chip>
                         </div>
                     </div>
-                </div>
-            </div>
+                </v-card-text>
+            </v-card>
         </div>
         <br/>
     </div>
@@ -117,15 +122,15 @@ const pagesWithTags = computed(() => {
     border-radius: 100px;
 }
 
-.card {
-    border: solid 1px lightgray;
-    border-radius: 10px;
-    padding: 12px;
-    display: flex;
-    flex-direction: column;
+
+.vp-doc a.v-card {
+    font-weight: inherit;
+    color: inherit;
+    text-decoration: none;
+    transition: none;
 }
 
-.card-content {
+.card-title {
     display: flex;
     flex-direction: row;
     align-items: center;
