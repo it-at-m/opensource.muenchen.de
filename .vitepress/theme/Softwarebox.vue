@@ -20,6 +20,8 @@ const { Layout } = DefaultTheme
                 <dd v-if="$frontmatter.developerlink" ><a :href="$frontmatter.developerlink">{{ $frontmatter.developerlink }}</a></dd>
                 <dt v-if="$frontmatter.license" >Lizenz</dt>
                 <dd v-if="$frontmatter.license" >{{ $frontmatter.license }}</dd>
+                <dt v-if="$frontmatter.linkapplication" >Anwendung</dt>
+                <dd v-if="$frontmatter.linkapplication" >{{ $frontmatter.linkapplication }}</dd>
             </dl>
         </div>
     </template>
