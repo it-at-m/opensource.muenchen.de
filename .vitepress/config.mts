@@ -7,6 +7,11 @@ export default defineConfig({
   srcExclude: [
       'README.md'
   ],
+  vite: {
+    ssr: {
+      noExternal: ["vuetify"]
+    }
+  },
 
   locales: {
     root: {

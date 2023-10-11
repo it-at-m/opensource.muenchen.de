@@ -9,6 +9,7 @@
     "vitepress": "^1.0.0-rc.20"
   },
   "dependencies": {
-    "markdown-it-footnote": "^3.0.3"
+    "markdown-it-footnote": "^3.0.3",
+    "vuetify": "^3.3.21"
   }
 }
