@@ -1,5 +1,4 @@
 <!-- .vuepress/components/TagList.vue -->
-<!-- TODO eigenentwicklung -->
 <template lang="html">
     <div class="tagtile">
         <div class="grid">
