@@ -4,6 +4,7 @@ application: Mark-a-spot
 developerlink: https://markaspot.de/de/
 licensingmodel: open source
 linkapplication: https://machmuenchenbesser.de/
+logo: /markaspot_logo.png
 tags:
 - server
 - foss
