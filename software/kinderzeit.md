@@ -5,7 +5,7 @@ developerlink:
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
-screenshot: images/Kinderzeit_screenshot.jpg
+screenshot: /Kinderzeit_screenshot.jpg
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 

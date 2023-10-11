@@ -5,7 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
 license: MIT
-screenshot: images/DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
+screenshot: /DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 Mit DAVe können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
