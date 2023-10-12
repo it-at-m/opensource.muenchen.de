@@ -4,8 +4,15 @@ sidebar: false
 ---
 
 <script setup>
+
 import TagTile from "../.vitepress/components/TagTile.vue";
+import TagFilter from "../.vitepress/components/TagFilter.vue";
+import { ref } from 'vue';
+
+const selectedFilters = ref(['eigenentwicklung', 'kooperation'])
 </script>
+
+
 
 # Veröffentlichen
 
@@ -41,8 +48,14 @@ Open Source spielt so in der Referenzarchitektur für Eigenentwicklungen gleich 
 Zum einen setzen wir wie oben ausgeführt auf einen 100% Open Source Stack auf.
 Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open-Source-Lizenz veröffentlichen.
 
-<TagTile
-  :tag-names="['eigenentwicklung', 'kooperation']"
+
+<TagFilter
+  v-model="selectedFilters"
+  :available-tags="['eigenentwicklung', 'kooperation']"
+/>
+
+<TagTile 
+  :tag-names="selectedFilters"
   show-tags
   show-excerpt
 />

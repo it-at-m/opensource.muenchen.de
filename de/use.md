@@ -5,7 +5,12 @@ sidebar: false
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
 import TagList from "../.vitepress/components/TagList.vue";
+import TagFilter from "../.vitepress/components/TagFilter.vue";
+import { ref } from 'vue';
+
+const selectedFilters = ref(['foss'])
 </script>
+
 
 # Nutzen
 
@@ -60,4 +65,12 @@ Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanziel
 
 Insgesamt nutzen wir natürlich viel mehr freie Software.
 
-<TagList tag-name="foss" />
+<TagFilter
+v-model="selectedFilters"
+/>
+
+<TagTile
+:tag-names="selectedFilters"
+show-tags
+/>
+
