@@ -46,9 +46,11 @@ export default defineConfig({
         footer: {
           message: '<a href="/impress">Impressum und Kontakt</a>'
         },
-
-
-      }
+        editLink: {
+          pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
+          text: 'Diese Seite auf GitHub bearbeiten'
+        },
+      },
     }
   },
   title: "Munich Open Source",
@@ -87,7 +89,8 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path'
+      pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
+      text: 'Edit this page on GitHub'
     },
 
   },
