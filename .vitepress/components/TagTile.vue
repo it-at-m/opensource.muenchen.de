@@ -92,8 +92,6 @@ const pagesWithTags = computed(() => {
         }
     }
 
-    console.log(pagesWithTags);
-
     return pagesWithTags;
 });
 

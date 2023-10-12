@@ -5,6 +5,10 @@ sidebar: false
 <script setup>
 import TagTile from ".vitepress/components/TagTile.vue";
 import TagList from ".vitepress/components/TagList.vue";
+import TagFilter from ".vitepress/components/TagFilter.vue";
+import { ref } from 'vue';
+
+const selectedFilters = ref(['foss'])
 </script>
 
 # Use
@@ -67,4 +71,11 @@ Since we do not necessarily need the manufacturer to run the software, we also a
 
 Overall, of course, we use much more free software.
 
-<TagList tag-name="foss" />
+<TagFilter
+v-model="selectedFilters"
+/>
+
+<TagTile
+:tag-names="selectedFilters"
+show-tags
+/>

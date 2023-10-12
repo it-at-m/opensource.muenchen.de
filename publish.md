@@ -5,6 +5,10 @@ sidebar: false
 
 <script setup>
 import TagTile from ".vitepress/components/TagTile.vue";
+import TagFilter from ".vitepress/components/TagFilter.vue";
+import { ref } from 'vue';
+
+const selectedFilters = ref(['eigenentwicklung', 'kooperation'])
 </script>
 
 # Publish
@@ -46,8 +50,13 @@ In 2021, it was therefore decided to develop the strategically important platfor
 in contrast to the support processes (finance, HR, IT), to be implemented using a modular architecture based on open source components.
 The above-mentioned open source-based reference architecture is also used in the area of in-house development.
 
+<TagFilter
+  v-model="selectedFilters"
+  :available-tags="['eigenentwicklung', 'kooperation']"
+/>
+
 <TagTile 
-  :tag-names="['eigenentwicklung', 'kooperation']"
+  :tag-names="selectedFilters"
   show-tags
   show-excerpt
 />

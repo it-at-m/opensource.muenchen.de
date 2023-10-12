@@ -6,6 +6,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
+    "@mdi/font": "^7.3.67",
     "vitepress": "^1.0.0-rc.20"
   },
   "dependencies": {
