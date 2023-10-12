@@ -64,7 +64,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/impress">impress and contact</a>'
+      message: '<a href="/impress">Impress and Contact</a>'
     },
 
     sidebar: [],
