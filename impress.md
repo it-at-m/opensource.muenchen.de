@@ -1,5 +1,5 @@
 ---
-sidebar: false
+aside: false
 ---
 
 # Impressum
