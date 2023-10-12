@@ -1,5 +1,5 @@
 <script setup>
-import {ref} from "../cache/deps/vue.js";
+import {ref} from "vue";
 import {computed} from "vue";
 import {data} from "../software.data.js";
 
