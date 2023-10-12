@@ -43,6 +43,11 @@ export default defineConfig({
           linkText: "Bring mich nach Hause"
         },
 
+        footer: {
+          message: '<a href="/impress">Impressum und Kontakt</a>'
+        },
+
+
       }
     }
   },
@@ -57,6 +62,10 @@ export default defineConfig({
       { text: 'Improve', link: '/contribute' },
       { text: 'Publish', link: '/publish' },
     ],
+
+    footer: {
+      message: '<a href="/impress">impress and contact</a>'
+    },
 
     sidebar: [],
 

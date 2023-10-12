@@ -2,7 +2,7 @@
     <div class="taglinks">
         <ul>
             <li v-for="post of filteredEntries">
-                <a :href="post.url">{{ post.frontmatter.application }}</a>
+                <a :href="withBase(post.url)">{{ post.frontmatter.application }}</a>
             </li>
         </ul>
     </div>
@@ -11,6 +11,7 @@
 <script setup>
 import {computed} from 'vue';
 import {data} from '../software.data.js'
+import {withBase} from "vitepress";
 
 const props = defineProps({
     tagName: {
