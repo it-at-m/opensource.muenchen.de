@@ -85,7 +85,11 @@ export default defineConfig({
         },
         link: 'https://www.muenchen.de/'
       }
-    ]
+    ],
+    editLink: {
+      pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path'
+    },
+
   },
 
   markdown: {
