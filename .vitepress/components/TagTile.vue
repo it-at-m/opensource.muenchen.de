@@ -28,8 +28,8 @@
                         <v-avatar
                                 v-else
                                 rounded="0"
-                                color="var(--vp-home-hero-name-color)"
-                                class="mr-2 rounded"
+                                color="var(--vp-c-default-soft)"
+                                class="thumb mr-2 rounded"
                         >
                             {{ page.frontmatter.application[0] }}
                         </v-avatar>
