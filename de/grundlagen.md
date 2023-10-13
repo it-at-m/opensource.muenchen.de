@@ -48,7 +48,7 @@ Im Jahre 2021 wurden zwei Bebauungsrichtlinien verabschiedet. Bebauungsrichtlini
 
 Die Richtlinien behandeln die beiden Themen „digitale Identitäten“ und „Software-Eigenentwicklungen“.
 
-Die digitalen Identitäten, häufig als Benutzeraccounts oder -profile wahrgenommen, bilden die Grundlage für die Interaktion von individuellen Personen mit der digitalen Welt. Die Landeshauptstadt München hat in dieser Richtlinie festgesetzt, dass die digitalen Identitäten, egal ob Mitarbeitende oder Bürger*innen betreffend, grundsätzlich im eigenen Rechenzentrum vorgehalten und verwaltet werden. Zum Einsatz kommt dabei die Open Source Software [Keycloak](software/keycloak).
+Die digitalen Identitäten, häufig als Benutzeraccounts oder -profile wahrgenommen, bilden die Grundlage für die Interaktion von individuellen Personen mit der digitalen Welt. Die Landeshauptstadt München hat in dieser Richtlinie festgesetzt, dass die digitalen Identitäten, egal ob Mitarbeitende oder Bürger*innen betreffend, grundsätzlich im eigenen Rechenzentrum vorgehalten und verwaltet werden. Zum Einsatz kommt dabei die Open Source Software [Keycloak](/software/keycloak).
 
 
 ## IT-Architektur-Einordnung
