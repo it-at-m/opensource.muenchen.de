@@ -30,6 +30,7 @@ export default defineConfig({
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/contribute'},
           {text: 'Veröffentlichen', link: '/de/publish'},
+          {text: 'Grundlagen', link: '/de/grundlagen'},
         ],
 
         sidebar: [],
@@ -48,7 +49,7 @@ export default defineConfig({
         },
         editLink: {
           pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
-          text: 'Diese Seite auf GitHub bearbeiten'
+          text: 'Diese Seite auf GitHub anzeigen'
         },
       },
     }
@@ -90,7 +91,7 @@ export default defineConfig({
     ],
     editLink: {
       pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
-      text: 'Edit this page on GitHub'
+      text: 'View this page on GitHub'
     },
 
   },
