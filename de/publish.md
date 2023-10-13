@@ -1,7 +1,3 @@
----
-listtag: eigenentwicklung
-sidebar: false
----
 
 <script setup>
 
