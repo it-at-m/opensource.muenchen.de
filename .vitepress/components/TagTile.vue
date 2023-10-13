@@ -95,6 +95,26 @@ const pagesWithTags = computed(() => {
         }
     }
 
+    // Sort first by frontmatter-tag "sortingPriority"
+    // and lexicographically second
+    pagesWithTags.sort((first, second) => {
+        let sortPrioFirst = first.frontmatter.sortingPriority;
+        let sortPrioSecond = second.frontmatter.sortingPriority;
+        if(sortPrioFirst && sortPrioSecond) {
+            if(sortPrioFirst === sortPrioSecond) {
+                first.url.localeCompare(second.url);
+            } else {
+                return sortPrioFirst - sortPrioSecond;
+            }
+        } else if (sortPrioFirst) {
+            return -1;
+        } else if (sortPrioSecond) {
+            return 1;
+        } else {
+                first.url.localeCompare(second.url);
+        }
+    });
+
     return pagesWithTags;
 });
 
