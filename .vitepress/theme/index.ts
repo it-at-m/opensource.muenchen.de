@@ -8,7 +8,7 @@ import "vuetify/styles"
 import {aliases, mdi} from 'vuetify/iconsets/mdi'
 import '@mdi/font/css/materialdesignicons.css'
 
-import Softwarebox from './Softwarebox.vue'
+import LhmThemeExtension from './LhmThemeExtension.vue'
 import "./lhm.css"
 
 const vuetify = createVuetify({
@@ -26,7 +26,7 @@ const vuetify = createVuetify({
 
 export default {
     ...DefaultTheme,
-    Layout: Softwarebox,
+    Layout: LhmThemeExtension,
     enhanceApp({app}) {
         app.use(vuetify)
     }
