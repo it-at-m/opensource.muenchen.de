@@ -5,11 +5,12 @@
             <v-card
                     v-for="(page, index) in pagesWithTags"
                     :key="index"
-                    variant="tonal"
+                    variant="flat"
                     :href="withBase(page.url)"
+                    class="card"
             >
                 <v-card-title
-                    class="pt-5"
+                        class="pt-5"
                 >
                     <div
                             class="card-title"
@@ -24,12 +25,14 @@
                                 :src="withBase(page.frontmatter.logo)"
                                 class="thumb"
                         />
-                        <div
+                        <v-avatar
                                 v-else
-                                class="thumb placeholder"
+                                rounded="0"
+                                color="var(--vp-home-hero-name-color)"
+                                class="mr-2 rounded"
                         >
                             {{ page.frontmatter.application[0] }}
-                        </div>
+                        </v-avatar>
 
                         <span
                                 style="overflow: hidden; text-overflow: ellipsis;"
@@ -40,7 +43,7 @@
                     </div>
                 </v-card-title>
                 <v-card-text>
-                    <p v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
+                    <p class="excerpt" v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
                         <div
@@ -104,6 +107,25 @@ const pagesWithTags = computed(() => {
     row-gap: 1em;
 }
 
+.card {
+    border: 1px solid var(--vp-c-bg-soft);
+    background: var(--vp-c-bg-soft);
+    border-radius: 12px;
+    --v-hover-opacity: 0;
+    transition: border-color 0.25s, background-color 0.25s;
+}
+
+.card:hover {
+    border-color: var(--vp-c-brand-1);
+}
+
+:deep(.excerpt > p) {
+    line-height: 24px !important;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vp-c-text-2);
+}
+
 .thumb {
     min-width: 64px;
     margin-right: 16px;
@@ -112,21 +134,11 @@ const pagesWithTags = computed(() => {
     object-fit: scale-down;
 }
 
-.thumb.placeholder {
-    font-size: 32px;
-    line-height: 64px;
-    text-align: center;
-    color: var(--vp-button-brand-text);
-    background-color: var(--vp-home-hero-name-color);
-    border-radius: 100px;
-}
-
 
 .vp-doc a.v-card {
     font-weight: inherit;
     color: inherit;
     text-decoration: none;
-    transition: none;
 }
 
 .card-title {

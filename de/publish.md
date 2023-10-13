@@ -48,6 +48,7 @@ Open Source spielt so in der Referenzarchitektur für Eigenentwicklungen gleich 
 Zum einen setzen wir wie oben ausgeführt auf einen 100% Open Source Stack auf.
 Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open-Source-Lizenz veröffentlichen.
 
+## Übersicht
 
 <TagFilter
   v-model="selectedFilters"
