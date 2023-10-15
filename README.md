@@ -1,4 +1,14 @@
-# Munich's IT Dashboard - opensource.muenchen.de
+# DRAFT Munich's IT Dashboard - opensource.muenchen.de
+
+## Todo
+
+This repository is still a draft
+
+* [ ] update softwarelist
+* [ ] proof reading
+* [ ] translate everything from german to english
+* [ ] publish
+
 
 ## Getting started
 
