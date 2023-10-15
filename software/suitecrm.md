@@ -1,6 +1,7 @@
 ---
 Source: SNow
 application: SuiteCRM
+code: https://github.com/salesagility/SuiteCRM
 developer: null
 developerlink: https://suitecrm.com/
 licensingmodel: open source
@@ -9,4 +10,4 @@ tags:
 - server
 - foss
 ---
-Im Kulturreferat  kommt SuiteCRM für die Adressdatenverwaltung des Jüdischen Museums zum Einsatz.
+Im Kulturreferat kommt SuiteCRM für die Adressdatenverwaltung des Jüdischen Museums zum Einsatz.

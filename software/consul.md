@@ -1,16 +1,19 @@
 ---
 Source: SNow
 application: Consul
-developer: null
-developerlink: https://github.com/consul/consul
+developer: demokratie.today
+developerlink: https://demokratie.today
+code: https://github.com/it-at-m/consul-lhm-dev
 licensingmodel: open source
-linkapplication: https://unser.muenchen.de/
+license: AGPL
+linkapplication: https://unser.muenchen.de
+logo: /consul_logo.png
 tags:
 - server
 - foss
+- opengovernment
 ---
-Die Beteiligungsplattform ermöglicht es, neue Blickwinkel auf bestehende Probleme zu erlangen und bei neuen Vorhaben von Anfang an alle Betroffenen einzubinden. Die Methoden bedienen sich hierfür der sogenannten „Schwarmintelligenz“ der Bürgerinnen und Bürger.
+[Consul](https://consuldemocracy.org) ist eine von der Stadt Madrid angebotene freie Software für Bürgerbeteiligung.
 
-
-Beteiligungsplattform
-Bei der Auswahl der Online-Beteiligungsplattform sprach sich der Stadtrat von Anfang an für eine anbieterunabhängige Open Source Lösung aus . Die Entscheidung fiel auf die Software CONSUL . Die ursprünglich im spanischen Sprachraum entwickelte Lösung ist bereits in über 100 Kommunen weltweit im Einsatz. Seit Oktober 2021 steht die Lösung in München technisch bereit . Es ist geplant, sie Anfang 2022 in ersten digitalen Beteiligungsverfahren zu nutzen.
+2019 [initierte der der Münchner Stadtrat](https://risi.muenchen.de/risi/dokument/v/5728776) die Plattform zur Digitalen Bürgerbeteiligung [unser.muenchen.de](https://unser.muenchen.de). 
+München benutzt eine von [demokratie.today](https://demokratie.today) modifiziert Version.
