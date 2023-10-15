@@ -1,5 +1,7 @@
+export const TAG_PROP = "tags";
+
 export interface Tags {
-    tags: {
+    [TAG_PROP]: {
         cicd: string,
         cms: string,
         client: string,
