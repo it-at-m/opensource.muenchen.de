@@ -27,14 +27,17 @@ Within public administration, this exchange can serve both to support reuse in t
 and to contribute to standardization through wider dissemination.
 Outside the public administration it serves the transparency as well as the exchange with the economy and can become also nucleus of new Startups.
 
+## Reference Architecture for in-house development
+
 Software in-house development refers to software that is developed by the City of Munich itself.
 This is necessary in cases where no suitable software is available on the market. Examples of this are listed in the chapter "Important activities in 2021".
 The guideline adopted for this purpose defines the technical structure of such self-developed software.
 In accordance with the guideline, a very modern, modular technology stack is used, consisting entirely of open source components:
 the "State Capital Munich Reference Architecture for Self-Development".
 
-
-Abbildung 3: "Munich State Capital Reference Architecture for Own Developments": The architecture stack for software in-house developments consists entirely of open source components
+<TagTile
+:tag-names="['refarchinfrastruktur']"
+/>
 
 In the area of proprietary software developments, which are primarily used where either no solutions can be found on the market,
 or where a very high degree of municipal differentiation is necessary for the City of Munich, open source plays a major role in two ways:
