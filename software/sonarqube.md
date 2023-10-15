@@ -1,5 +1,5 @@
 ---
-application: SPS
+application: SonarQube
 developer: SonarSource
 developerlink: https://docs.sonarqube.org
 licensingmodel: open source
