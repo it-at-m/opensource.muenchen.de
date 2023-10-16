@@ -41,15 +41,6 @@ Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.
 
 > Die Behörden des Freistaates Bayern sollen bei Neuanschaffungen offene Software verwenden und offene Austauschstandards nutzen, soweit dies wirtschaftlich und zweckmäßig ist
 
- 
-## Bebauungsrichtlinien
-
-Im Jahre 2021 wurden zwei Bebauungsrichtlinien verabschiedet. Bebauungsrichtlinien sind ein wichtiges Steuerungselement der IT-Architektur, mit denen die konkrete Einführung neuer Software so gelenkt wird, dass sie die Entwicklung der IT-Landschaft im Sinne einer geordneten Zielarchitektur unterstützt. Sie haben daher sehr großen Einfluss auf die zukünftige Entwicklung der IT-Landschaft der Landeshauptstadt München.
-
-Die Richtlinien behandeln die beiden Themen „digitale Identitäten“ und „Software-Eigenentwicklungen“.
-
-Die digitalen Identitäten, häufig als Benutzeraccounts oder -profile wahrgenommen, bilden die Grundlage für die Interaktion von individuellen Personen mit der digitalen Welt. Die Landeshauptstadt München hat in dieser Richtlinie festgesetzt, dass die digitalen Identitäten, egal ob Mitarbeitende oder Bürger*innen betreffend, grundsätzlich im eigenen Rechenzentrum vorgehalten und verwaltet werden. Zum Einsatz kommt dabei die Open Source Software [Keycloak](/software/keycloak).
-
 
 ## IT-Architektur-Einordnung
 
