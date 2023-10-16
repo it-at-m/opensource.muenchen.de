@@ -34,11 +34,12 @@
                         <div
                                 class="chip-group"
                         >
-                            <TagChip
+                            <v-chip
                                     v-for="(tag, index) in page.frontmatter.tags"
                                     :key="index"
-                                    :tag="tag"
-                            />
+                            >
+                                {{ tag }}
+                            </v-chip>
                         </div>
                     </div>
                 </v-card-text>
@@ -53,8 +54,6 @@ import {computed} from "vue";
 import {data} from '../software.data.js'
 import {withBase} from "vitepress";
 import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
-
-import TagChip from "./TagChip.vue";
 
 const props = defineProps({
     tagNames: {

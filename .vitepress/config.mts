@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote';
-import { DEFAULT_LANG } from "./theme/enhancements/i18n/i18n";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,7 +16,7 @@ export default defineConfig({
   locales: {
     root: {
       label: 'English',
-      lang: DEFAULT_LANG
+      lang: 'en'
     },
     de: {
       label: 'Deutsch',

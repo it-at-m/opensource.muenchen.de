@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "markdown-it-footnote": "^3.0.3",
-    "vue-i18n": "^9.5.0",
     "vuetify": "^3.3.21"
   }
 }
