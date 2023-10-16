@@ -41,6 +41,10 @@ Die Strategie positioniert den priorisierten Einsatz von Open Source in der Ents
 
 Sie fügt der Ausrichtung des Handelns der Landeshauptstadt München außerdem einen weiteren wichtigen Aspekt des Open Source Paradigmas hinzu: Software, die [die Landeshauptstadt München selbst entwickelt, werden, sofern sie frei von Rechten Dritter sind, als Open Source zur Verfügung gestellt](publish). 
 
+Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) verpflichtet uns zu offener Software:
+
+> Die Behörden des Freistaates Bayern sollen bei Neuanschaffungen offene Software verwenden und offene Austauschstandards nutzen, soweit dies wirtschaftlich und zweckmäßig ist
+
  
 ## Bebauungsrichtlinien
 
