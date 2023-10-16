@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@mdi/font": "^7.3.67",
-    "vitepress": "^1.0.0-rc.20"
+    "vitepress": "^1.0.0-rc.22"
   },
   "dependencies": {
     "markdown-it-footnote": "^3.0.3",
