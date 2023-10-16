@@ -28,6 +28,6 @@ export default {
     ...DefaultTheme,
     Layout: LhmThemeExtension,
     enhanceApp({app}) {
-        app.use(vuetify);
+        app.use(vuetify)
     }
 };
