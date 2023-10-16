@@ -2,6 +2,20 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
+
+import { useData } from 'vitepress'
+
+import { getCurrentInstance, watch } from 'vue'
+
+const { lang } = useData();
+const currentVueInstance = getCurrentInstance();
+
+currentVueInstance.appContext.config.globalProperties.$i18n.locale = lang.value;
+
+watch(lang, async (newLang) => {
+  currentVueInstance.appContext.config.globalProperties.$i18n.locale = newLang;
+});
+
 const {Layout} = DefaultTheme
 </script>
 <template>
