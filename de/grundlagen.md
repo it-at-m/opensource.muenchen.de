@@ -1,6 +1,6 @@
 # Open Source in der Münchner Stadtverwaltung
 
-## Strategische Ausrichtung
+## Strategische Vorteile
 
 Die aktuelle Ausrichtung der Landeshauptstadt München bzgl. Open Source findet im Kontext der Diskussion um die digitale Souveränität der öffentlichen Verwaltung statt. Digitale Souveränität bedeutet im Kern, die Fähigkeiten und Möglichkeiten von Individuen und Institutionen, Entscheidungen gemäß ihren Aufgaben und Rolle(n) in der digitalen Welt selbständig treffen zu können. Dies schließt die Fähigkeit ein, über die eigenen und ihr anvertrauten Daten selbstbestimmt und der übertragenen Verantwortung gemäß zu verarbeiten und zu speichern. Sie kann in den vier Facetten __„Technologische Souveränität“__, __„Datensouveränität“__, __„Demokratie & Transparenz“__ sowie __„Wissen und Nachhaltigkeit“__ betrachtet werden.[^kgst_2020]
 
@@ -14,9 +14,13 @@ All die dafür eingesetzten digitalen Lösungen sind bereits heute essentieller 
  
 Der Einsatz von Open Source Lösungen adressiert hier insbesondere ein sehr spezifisches Risiko die digitale Souveränität betreffend: Die Abhängigkeit von Herstellern der genutzten IT-Lösungen. Besonders bei Lösungen, die für die Landeshauptstadt München von sehr großer Bedeutung sind, ist eine Bewertung notwendig, inwieweit die Landeshauptstadt München dem Anspruch der Selbstbestimmung gerecht werden kann oder den Vorgaben des jeweiligen Herstellers folgen muss. 
 
-Ein Diktat von Funktion oder Preis durch den Hersteller kann durch die Fähigkeit den Hersteller und die Lösung zu wechseln vermieden werden. Der Einsatz Open Source basierter Lösungen kann diesen Wechsel vereinfachen. Auch andere Faktoren können dieses Risiko reduzieren, wenn am Markt z.B. unterschiedliche Lösungen verschiedener Hersteller verfügbar sind, die mit geringem Aufwand austauschbar sind. Dies ist insbesondere in hochstandardisierten Bereichen wie z.B. Netzwerkkomponenten oder Telekommunikation gegeben.
-
-Der Anspruch, ein möglichst hohes Maß an digitaler Souveränität zu erreichen, muss jedoch im Kontext des Auftrags und der Prioritäten der Kommune eingeordnet werden. Der Auftrag der Landeshauptstadt München als Kommune ist die Daseinsfürsorge. IT stellt auch bei steigender Bedeutung lediglich einen Unterstützungsprozess zur Erfüllung des eigentlichen Auftrags da.
+* Ein Diktat von Funktion oder Preis durch den Hersteller kann durch die Fähigkeit den Hersteller und die Lösung zu wechseln vermieden werden. Der Einsatz Open Source basierter Lösungen kann diesen Wechsel vereinfachen. Auch andere Faktoren können dieses Risiko reduzieren, wenn am Markt z.B. unterschiedliche Lösungen verschiedener Hersteller verfügbar sind, die mit geringem Aufwand austauschbar sind.
+* Die __Wiederverwendung__ von Software wird erleichtert. Code, der Open Source zur Verfügung gestellt wird, kann leicht ohne vertragliche Vereinbarungen und finanzielle Regelungen von anderen Behörden oder IT-Providern der öffentlichen Hand wiederverwendet werden. Dadurch können Steuergelder eingespart werden.
+* __Kooperationen__ mit anderen Behörden oder IT-Providern der öffentlichen Hand sind einfach möglich. Dadurch kann die LHM mit weniger Budget seine Ziele erreichen.
+* Öffentlich zugänglicher Code lässt sich hinsichtlich __Sicherheitslücken__ leicht überprüfen. Außerdem lassen sich Sicherheitslücken auch ohne den Hersteller schließen. Das ist auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), wie auch der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource).
+* Die __Transparenz__ über die Software und ihre Entwicklung schafft Vertrauen in der Bevölkerung gegenüber der Verwaltung.
+* Engagierte Bürger\*innen können sich an __Projekten beteiligen__ und somit innovative Ideen einbringen und das erforderliche städtische Budget reduzieren. 
+* Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem Personalmarketing für IT-Schaffende.
 
 
 [[toc]]
