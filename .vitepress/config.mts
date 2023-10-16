@@ -30,6 +30,7 @@ export default defineConfig({
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/contribute'},
           {text: 'Veröffentlichen', link: '/de/publish'},
+          {text: 'Übersicht', link: '/de/overview'},
           {text: 'Grundlagen', link: '/de/grundlagen'},
         ],
 
@@ -64,6 +65,7 @@ export default defineConfig({
       { text: 'Use', link: '/use' },
       { text: 'Improve', link: '/contribute' },
       { text: 'Publish', link: '/publish' },
+      { text: 'Overview', link: '/overview' },
     ],
 
     footer: {

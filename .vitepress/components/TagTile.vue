@@ -90,7 +90,12 @@ const pagesWithTags = computed(() => {
 
     for (let softwareEntry of data) {
         if (softwareEntry.frontmatter && softwareEntry.frontmatter.tags) {
-            if (softwareEntry.frontmatter.tags.some(r => props.tagNames.includes(r))) {
+            if(props.tagNames.length > 0) {
+                if (softwareEntry.frontmatter.tags.some(r => props.tagNames.includes(r))) {
+                    pagesWithTags.push(softwareEntry);
+                }
+            } else {
+                // When no tags are given, show everything
                 pagesWithTags.push(softwareEntry);
             }
         }

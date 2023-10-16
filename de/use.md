@@ -1,13 +1,6 @@
-
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
-import TagList from "../.vitepress/components/TagList.vue";
-import TagFilter from "../.vitepress/components/TagFilter.vue";
-import { ref } from 'vue';
-
-const selectedFilters = ref(['foss'])
 </script>
-
 
 # Nutzen
 
@@ -56,18 +49,3 @@ Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
 
 <TagTile :tag-names="['opencore']" />
-
-
-## Gesamtübersicht
-
-Insgesamt nutzen wir natürlich viel mehr freie Software.
-
-<TagFilter
-v-model="selectedFilters"
-/>
-
-<TagTile
-:tag-names="selectedFilters"
-show-tags
-/>
-

@@ -1,11 +1,5 @@
-
 <script setup>
 import TagTile from ".vitepress/components/TagTile.vue";
-import TagList from ".vitepress/components/TagList.vue";
-import TagFilter from ".vitepress/components/TagFilter.vue";
-import { ref } from 'vue';
-
-const selectedFilters = ref(['foss'])
 </script>
 
 # Use
@@ -62,17 +56,3 @@ As the city of Munich, this gives us the opportunity to test software more quick
 Since we do not necessarily need the manufacturer to run the software, we also avoid financial dependencies.
 
 <TagTile :tag-names="['opencore']" />
-
-
-## Overview
-
-Overall, of course, we use much more free software.
-
-<TagFilter
-v-model="selectedFilters"
-/>
-
-<TagTile
-:tag-names="selectedFilters"
-show-tags
-/>
