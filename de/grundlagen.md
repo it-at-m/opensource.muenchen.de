@@ -1,8 +1,6 @@
 # Open Source in der Münchner Stadtverwaltung
 
-Der im März 2020 gewählte Stadtrat hat sich im Bereich des Themas Open Source eindeutig und nachhaltig positioniert: 
-
-> Open Source Lösungen sollen verstärkt zum Einsatz kommen und werden als eine der Maßnahmen zur Stärkung digitaler Souveränität identifiziert.[^koalitionsvertrag_2020]
+## Strategische Ausrichtung
 
 Die aktuelle Ausrichtung der Landeshauptstadt München bzgl. Open Source findet im Kontext der Diskussion um die digitale Souveränität der öffentlichen Verwaltung statt. Digitale Souveränität bedeutet im Kern, die Fähigkeiten und Möglichkeiten von Individuen und Institutionen, Entscheidungen gemäß ihren Aufgaben und Rolle(n) in der digitalen Welt selbständig treffen zu können. Dies schließt die Fähigkeit ein, über die eigenen und ihr anvertrauten Daten selbstbestimmt und der übertragenen Verantwortung gemäß zu verarbeiten und zu speichern. Sie kann in den vier Facetten __„Technologische Souveränität“__, __„Datensouveränität“__, __„Demokratie & Transparenz“__ sowie __„Wissen und Nachhaltigkeit“__ betrachtet werden.[^kgst_2020]
 
@@ -23,7 +21,12 @@ Der Anspruch, ein möglichst hohes Maß an digitaler Souveränität zu erreichen
 
 [[toc]]
 
-## Strategische Ausrichtung
+## rechtliche und politische Vorgaben
+
+Der im März 2020 gewählte Stadtrat hat sich im Bereich des Themas Open Source eindeutig und nachhaltig positioniert: 
+
+> Open Source Lösungen sollen verstärkt zum Einsatz kommen und werden als eine der Maßnahmen zur Stärkung digitaler Souveränität identifiziert.[^koalitionsvertrag_2020]
+
 
 Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://www.muenchen-transparent.de/dokumente/6229564):
 
