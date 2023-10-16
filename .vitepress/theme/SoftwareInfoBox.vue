@@ -19,7 +19,7 @@ defineProps({
         :class="'infobox ' + (horizontal ? 'horizontal' : '')"
     >
         <img v-if="frontmatter.logo" :src="withBase(frontmatter.logo)"/>
-        <img v-else-if="frontmatter.screenshot" :src="withBase(frontmatter.screenshot)"/>
+        <img v-if="frontmatter.screenshot" :src="withBase(frontmatter.screenshot)"/>
         <div class="infos">
             <v-btn
                     v-if="frontmatter.code"
