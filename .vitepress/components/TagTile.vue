@@ -128,6 +128,12 @@ const pagesWithTags = computed(() => {
     row-gap: 1em;
 }
 
+@media all and (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 .card {
     border: 1px solid var(--vp-c-bg-soft);
     background: var(--vp-c-bg-soft);
