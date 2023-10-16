@@ -47,16 +47,9 @@
                     <p class="excerpt" v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
-                        <div
-                                class="chip-group"
-                        >
-                            <v-chip
-                                    v-for="(tag, index) in page.frontmatter.tags"
-                                    :key="index"
-                            >
-                                {{ tag }}
-                            </v-chip>
-                        </div>
+                        <tag-list-component
+                            :tags="page.frontmatter.tags"
+                        />
                     </div>
                 </v-card-text>
             </v-card>
@@ -69,6 +62,7 @@
 import {computed} from "vue";
 import {data} from '../software.data.js'
 import {withBase} from "vitepress";
+import TagListComponent from "./TagListComponent.vue";
 
 const props = defineProps({
     tagNames: {
@@ -168,9 +162,4 @@ const pagesWithTags = computed(() => {
     align-items: center;
 }
 
-.chip-group {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
 </style>

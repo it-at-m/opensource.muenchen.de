@@ -1,5 +1,6 @@
 ^^<script setup>
 import {useData, withBase} from "vitepress";
+import TagListComponent from "../components/TagListComponent.vue";
 
 const siteInfo = useData();
 
@@ -58,6 +59,10 @@ defineProps({
                 <span v-else>App anzeigen</span>
             </v-btn>
 
+            <tag-list-component
+                :tags="frontmatter.tags"
+            />
+
             <div
                     v-if="frontmatter.license"
             >
@@ -94,7 +99,7 @@ img {
 .infos {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 16px;
 }
 
 .horizontal {
