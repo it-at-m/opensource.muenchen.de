@@ -7,7 +7,7 @@ Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 
 ## Strategische Vorteile
 
-* Ein Diktat von Funktion oder Preis durch den Hersteller kann durch die Fähigkeit den Hersteller und die Lösung zu wechseln vermieden werden. Der Einsatz Open Source basierter Lösungen kann diesen Wechsel vereinfachen. Auch andere Faktoren können dieses Risiko reduzieren, wenn am Markt z.B. unterschiedliche Lösungen verschiedener Hersteller verfügbar sind, die mit geringem Aufwand austauschbar sind. Wir erhöhen durch Open Source Software die __Herstellerunabhängigkeit__.
+* Durch Open Source Software erhöhen wir die __Herstellerunabhängigkeit__. Indem wir die Möglichkeit haben, den Hersteller und die Lösung zu wechseln, können wir ein einseitiges Diktat von Funktion oder Preis durch den Hersteller vermeiden.
 * Die __Wiederverwendung__ von Software wird erleichtert. Code, der Open Source zur Verfügung gestellt wird, kann leicht ohne vertragliche Vereinbarungen und finanzielle Regelungen von anderen Behörden oder IT-Providern der öffentlichen Hand wiederverwendet werden. Dadurch können Steuergelder eingespart werden.
 * __Kooperationen__ mit anderen Behörden oder IT-Providern der öffentlichen Hand sind einfach möglich. Dadurch kann die LHM mit weniger Budget seine Ziele erreichen.
 * Öffentlich zugänglicher Code lässt sich hinsichtlich __Sicherheitslücken__ leicht überprüfen. Außerdem lassen sich Sicherheitslücken auch ohne den Hersteller schließen. Das ist auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), wie auch der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource).
