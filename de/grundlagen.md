@@ -1,5 +1,10 @@
 # Open Source in der Münchner Stadtverwaltung
 
+Bei [Open Source Software](https://de.wikipedia.org/wiki/Open_Source) ist der Quelltext öffentlich ist und kann von Dritten eingesehen, geändert und genutzt werden.
+Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
+
+[[toc]]
+
 ## Strategische Vorteile
 
 * Ein Diktat von Funktion oder Preis durch den Hersteller kann durch die Fähigkeit den Hersteller und die Lösung zu wechseln vermieden werden. Der Einsatz Open Source basierter Lösungen kann diesen Wechsel vereinfachen. Auch andere Faktoren können dieses Risiko reduzieren, wenn am Markt z.B. unterschiedliche Lösungen verschiedener Hersteller verfügbar sind, die mit geringem Aufwand austauschbar sind. Wir erhöhen durch Open Source Software die __Herstellerunabhängigkeit__.
@@ -10,8 +15,6 @@
 * Engagierte Bürger\*innen können sich an __Projekten beteiligen__ und somit innovative Ideen einbringen und das erforderliche städtische Budget reduzieren. 
 * Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem Personalmarketing für IT-Schaffende.
 
-
-[[toc]]
 
 ## rechtliche und politische Vorgaben
 
