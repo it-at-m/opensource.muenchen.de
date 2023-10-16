@@ -3,24 +3,6 @@
 import DefaultTheme from 'vitepress/theme'
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
 
-import { useData } from 'vitepress'
-
-import { getCurrentInstance, watch } from 'vue'
-
-const { lang } = useData();
-
-const currentVueInstance = getCurrentInstance();
-
-if(currentVueInstance?.appContext?.config?.globalProperties?.$i18n) {
-    currentVueInstance.appContext.config.globalProperties.$i18n.locale = lang.value;
-}
-
-watch(lang, async (newLang) => {
-    if(currentVueInstance?.appContext?.config?.globalProperties?.$i18n) {
-        currentVueInstance.appContext.config.globalProperties.$i18n.locale = newLang;
-    }
-});
-
 const {Layout} = DefaultTheme
 </script>
 <template>

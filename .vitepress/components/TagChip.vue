@@ -1,6 +1,7 @@
 <script setup>
 
 import {TAG_PROP} from "../theme/enhancements/i18n/utility/tags.ts";
+import {useTranslator} from "./Translator.ts";
 
 const props = defineProps({
   tag: {
@@ -11,6 +12,7 @@ const props = defineProps({
 
 const i18nSelectorTags = TAG_PROP;
 
+const { t } = useTranslator();
 </script>
 
 <template>
@@ -18,6 +20,6 @@ const i18nSelectorTags = TAG_PROP;
       :value="tag"
       filter
   >
-    {{ $t(`${i18nSelectorTags}.${tag}`) }}
+    {{ t(`${i18nSelectorTags}.${tag}`) }}
   </v-chip>
 </template>

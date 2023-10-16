@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote';
-import { DEFAULT_LANG } from "./theme/enhancements/i18n/i18n";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,19 +10,13 @@ export default defineConfig({
   vite: {
     ssr: {
       noExternal: ["vuetify"]
-    },
-    define: {
-      __VUE_I18N_FULL_INSTALL__: true,
-      __VUE_I18N_LEGACY_API__: false,
-      __INTLIFY_PROD_DEVTOOLS__: false,
-      __VUE_PROD_DEVTOOLS__: false
     }
   },
 
   locales: {
     root: {
       label: 'English',
-      lang: DEFAULT_LANG
+      lang: 'en'
     },
     de: {
       label: 'Deutsch',
