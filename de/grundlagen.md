@@ -40,6 +40,8 @@ Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.
 
 Im Bereich von hochstandardisierten IT-Bereichen wie z.B. Betriebssystemen, Netzwerkkomponenten, Datenbanken, Endgeräten, setzt die IT-Architektur auf die Standard-Lösungen des IT-Marktes. Dies dient dazu, nur solche Wege zu beschreiten, die sich nicht wenige Jahre später als Irrwege oder Sackgassen erweisen. Häufig ist hier auch aufgrund des großen Marktes die größte Innovationskraft bei den Standardlösungen konzentriert, da dort die meisten Ressourcen investiert werden. Hier werden also nicht zwingend Open Source Lösungen eingesetzt, in vielen Bereichen haben sich jedoch Open Source Lösungen als Standard durchgesetzt, und kommen daher auch bei der Landeshauptstadt München standardmäßig zum Einsatz. Als Beispiel sei hier Linux als Betriebssystem für Server genannt.
 
+Vor allem im Bereich kommunaler Software sind wir oft gefordert [freie Software selbst zu entwicklen](./publish).
+
 ![Software Service Quadrantenmodell](/SoftwareServiceQuadrantenmodell.png)  
 Strukturierung des Lösungsraums für IT-Lösungen - die Vorgehensweisen unterscheiden sich je nach Einordnung aus Sicht der Landeshauptstadt München
 
