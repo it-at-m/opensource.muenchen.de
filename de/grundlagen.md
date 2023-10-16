@@ -13,7 +13,7 @@ Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 * Öffentlich zugänglicher Code lässt sich hinsichtlich __Sicherheitslücken__ leicht überprüfen. Außerdem lassen sich Sicherheitslücken auch ohne den Hersteller schließen. Das ist auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), wie auch der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource).
 * Die __Transparenz__ über die Software und ihre Entwicklung schafft Vertrauen in der Bevölkerung gegenüber der Verwaltung.
 * Engagierte Bürger\*innen können sich an __Projekten beteiligen__ und somit innovative Ideen einbringen und das erforderliche städtische Budget reduzieren. 
-* Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem Personalmarketing für IT-Schaffende.
+* Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem [Personalmarketing für IT-Schaffende](https://karriere.muenchen.de/search/?optionsFacetsDD_customfield3=Informationstechnologie+%28IT%29+%26+Telekommunikation).
 
 
 ## rechtliche und politische Vorgaben
