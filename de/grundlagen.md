@@ -18,10 +18,11 @@ Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 
 ## rechtliche und politische Vorgaben
 
+Neben den Vorteilen von Open Source Software für uns als IT-Service-Provider erfüllen wir so auch rechtliche und politische Vorgaben.
+
 Der im März 2020 gewählte Stadtrat hat sich im Bereich des Themas Open Source eindeutig und nachhaltig positioniert: 
 
 > Open Source Lösungen sollen verstärkt zum Einsatz kommen und werden als eine der Maßnahmen zur Stärkung digitaler Souveränität identifiziert.[^koalitionsvertrag_2020]
-
 
 Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://www.muenchen-transparent.de/dokumente/6229564):
 
@@ -29,11 +30,6 @@ Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integr
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
 Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
 Die IT der LHM stellt Eigenentwicklungen, die frei von Rechten Dritter sind, als Open Source der Community zur Verfügung.
-
-
-Die Strategie positioniert den priorisierten Einsatz von Open Source in der Entscheidungslandschaft der Landeshauptstadt München unter Berücksichtigung weiterer Rahmenbedingungen wie der Wirtschaftlichkeit, der technischen Anforderungen sowie der strategischen Ausrichtung der Gesamt-IT.
-
-Sie fügt der Ausrichtung des Handelns der Landeshauptstadt München außerdem einen weiteren wichtigen Aspekt des Open Source Paradigmas hinzu: Software, die [die Landeshauptstadt München selbst entwickelt, werden, sofern sie frei von Rechten Dritter sind, als Open Source zur Verfügung gestellt](publish). 
 
 Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) verpflichtet uns zu offener Software:
 
