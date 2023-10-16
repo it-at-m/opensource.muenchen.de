@@ -2,18 +2,6 @@
 
 ## Strategische Vorteile
 
-Die aktuelle Ausrichtung der Landeshauptstadt München bzgl. Open Source findet im Kontext der Diskussion um die digitale Souveränität der öffentlichen Verwaltung statt. Digitale Souveränität bedeutet im Kern, die Fähigkeiten und Möglichkeiten von Individuen und Institutionen, Entscheidungen gemäß ihren Aufgaben und Rolle(n) in der digitalen Welt selbständig treffen zu können. Dies schließt die Fähigkeit ein, über die eigenen und ihr anvertrauten Daten selbstbestimmt und der übertragenen Verantwortung gemäß zu verarbeiten und zu speichern. Sie kann in den vier Facetten __„Technologische Souveränität“__, __„Datensouveränität“__, __„Demokratie & Transparenz“__ sowie __„Wissen und Nachhaltigkeit“__ betrachtet werden.[^kgst_2020]
-
-* „Datensouveränität“ bedeutet, dass die Daten so gespeichert und vorgehalten werden müssen, dass die Selbstbestimmung der Landeshauptstadt München die Daten betreffend sichergestellt wird. Hier sind insbesondere offene Standards für die Vorhaltung, Verschlüsselung und den Austausch von Daten aber auch die Beachtung und vertragliche Absicherung von Vorgaben wie z.B. DSGVO in der gesamten Lieferkette geeignete Methoden.
-* Hinter „Demokratie & Transparenz“ verbirgt sich der Anspruch, transparenten Einblick in die Verarbeitung der Daten, in die Algorithmen und digital gestützten Entscheidungsprozesse zu erhalten. Hier können Open Source Lösungen einen wichtigen Beitrag in der öffentlichen Wahrnehmung leisten, wenngleich der reale Einblick in die Verarbeitung auf Basis des Quellcodes aufgrund der dafür notwendigen Fähigkeiten nur einem vergleichsweise kleinen Personenkreis offensteht.
-* „Wissen und Nachhaltigkeit“ sowie die „Technologische Souveränität“ bedeuten, dass die digitalen Lösungen, die die Landeshauptstadt München im Rahmen ihrer kommunalen Aufgaben benötigt, durch die Landeshauptstadt München ausgewählt, genutzt und gesteuert werden müssen und dass die entsprechenden digitalen Fähigkeiten langfristig gesichert werden.
-Das Spektrum, das diese Lösungen abzudecken haben, ist sehr breit. Es zieht sich von den Fachverfahren rund um die in der Kommune vorgehaltenen Register über Plattformen zur 
-Bürgerbeteiligung und den digitalen Arbeitsplatz für Mitarbeitende der Landeshauptstadt München bis hin zu den Systemen der Personal- und Finanzverwaltung. 
-
-All die dafür eingesetzten digitalen Lösungen sind bereits heute essentieller Bestandteil der Handlungsfähigkeit der Landeshauptstadt München und ihre Bedeutung nimmt im Zuge der fortschreitenden Digitalisierung weiter zu.
- 
-Der Einsatz von Open Source Lösungen adressiert hier insbesondere ein sehr spezifisches Risiko die digitale Souveränität betreffend: Die Abhängigkeit von Herstellern der genutzten IT-Lösungen. Besonders bei Lösungen, die für die Landeshauptstadt München von sehr großer Bedeutung sind, ist eine Bewertung notwendig, inwieweit die Landeshauptstadt München dem Anspruch der Selbstbestimmung gerecht werden kann oder den Vorgaben des jeweiligen Herstellers folgen muss. 
-
 * Ein Diktat von Funktion oder Preis durch den Hersteller kann durch die Fähigkeit den Hersteller und die Lösung zu wechseln vermieden werden. Der Einsatz Open Source basierter Lösungen kann diesen Wechsel vereinfachen. Auch andere Faktoren können dieses Risiko reduzieren, wenn am Markt z.B. unterschiedliche Lösungen verschiedener Hersteller verfügbar sind, die mit geringem Aufwand austauschbar sind.
 * Die __Wiederverwendung__ von Software wird erleichtert. Code, der Open Source zur Verfügung gestellt wird, kann leicht ohne vertragliche Vereinbarungen und finanzielle Regelungen von anderen Behörden oder IT-Providern der öffentlichen Hand wiederverwendet werden. Dadurch können Steuergelder eingespart werden.
 * __Kooperationen__ mit anderen Behörden oder IT-Providern der öffentlichen Hand sind einfach möglich. Dadurch kann die LHM mit weniger Budget seine Ziele erreichen.
@@ -58,4 +46,4 @@ Strukturierung des Lösungsraums für IT-Lösungen - die Vorgehensweisen untersc
 
 
 [^koalitionsvertrag_2020]: Koalitionsvereinbarung für die Stadtratsperiode 2020 – 2026 https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf, bzw. https://spd-rathausmuenchen.de/workspace/media/static/druckfassung_koalitionsvertrag-5eb182453a5e4.pdf
-[^kgst_2020]: Open Source Bericht der KGSt https://www.kgst.de/doc/20210706A0006#:~:text=In%20diesem%20KGSt%C2%AE%2DBericht,Offenen%20Standards%20in%20der%20Verwaltung
+
