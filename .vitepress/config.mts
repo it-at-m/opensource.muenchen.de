@@ -34,6 +34,9 @@ export default defineConfig({
         ],
 
         sidebar: [],
+        outline: {
+          label: "Auf dieser Seite"
+        },
         darkModeSwitchLabel: "Darstellung",
         langMenuLabel: "Sprache wechseln",
         returnToTopLabel: "Zurück nach oben",
