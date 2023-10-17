@@ -68,6 +68,8 @@ Since we do not necessarily need the manufacturer to run the software, we also a
 
 Overall, of course, we use much more free software.
 
+<ClientOnly>
+
 <TagFilter
 v-model="selectedFilters"
 />
@@ -76,3 +78,5 @@ v-model="selectedFilters"
 :tag-names="selectedFilters"
 show-tags
 />
+
+</ClientOnly>

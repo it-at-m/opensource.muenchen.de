@@ -46,6 +46,8 @@ Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklunge
 
 ## Übersicht
 
+<ClientOnly>
+
 <TagFilter
   v-model="selectedFilters"
   :available-tags="['eigenentwicklung', 'kooperation']"
@@ -56,5 +58,7 @@ Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklunge
   show-tags
   show-excerpt
 />
+
+</ClientOnly>
 
 [^1]: "Einer für Alle"

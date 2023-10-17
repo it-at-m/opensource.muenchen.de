@@ -62,6 +62,8 @@ Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanziel
 
 Insgesamt nutzen wir natürlich viel mehr freie Software.
 
+<ClientOnly>
+
 <TagFilter
 v-model="selectedFilters"
 />
@@ -71,3 +73,4 @@ v-model="selectedFilters"
 show-tags
 />
 
+</ClientOnly>
