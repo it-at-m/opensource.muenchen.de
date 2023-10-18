@@ -15,9 +15,9 @@ const selectedFilters = ref(['eigenentwicklung', 'kooperation'])
 Sollten wir existierende freie Software nicht [nutzen](./use.html) oder [verbessern](./contribute.html) können, so entwickeln wir selbst freie Software.
 
 Software-Eigenentwicklungen kommen vor allem dann zum Einsatz, wenn keine Lösungen am Markt verfügbar sind oder ein sehr hohes Maß an kommunaler Differenzierung notwendig ist, insbesondere bei kommunalen Fachanwendungen.
-Da wir Eigenentwicklungen als Open-Source-Software zur Verfügung stehen, Weise können auch andere Organisationen und Entwickler von unserer Arbeit profitieren und sie weiterentwickeln.
+Da wir Eigenentwicklungen als Open-Source-Software zur Verfügung stellen, können auch andere Organisationen und Entwickler\*Innen von unserer Arbeit profitieren und sie weiterentwickeln.
 
-Dazu haben wir auch den Auftrag und Rückhalt der Politik:
+Dazu haben wir den Auftrag und Rückhalt der Politik:
 
 > Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
 
@@ -41,10 +41,12 @@ So können Komponenten leicht ausgetauscht und aktualisiert werden, was die Wart
 
 
 Open Source spielt so in der Referenzarchitektur für Eigenentwicklungen gleich zweifach eine große Rolle:
-Zum einen setzen wir wie oben ausgeführt auf einen 100% Open Source Stack auf.
+Zum einen setzen wir, wie oben ausgeführt, auf einen 100% Open Source Stack auf.
 Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open-Source-Lizenz veröffentlichen.
 
 ## Übersicht
+
+<ClientOnly>
 
 <TagFilter
   v-model="selectedFilters"
@@ -56,5 +58,7 @@ Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklunge
   show-tags
   show-excerpt
 />
+
+</ClientOnly>
 
 [^1]: "Einer für Alle"
