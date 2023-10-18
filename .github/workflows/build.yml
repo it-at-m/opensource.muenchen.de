@@ -5,7 +5,9 @@ name: Deploy opensource.muenchen.de to Pages
 on:
   # Only run on "main"-Branch
   push:
-    branches: [*]
+    branches:
+      - '*'
+      - '!main'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
