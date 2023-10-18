@@ -1,6 +1,6 @@
 # Deploying opensource.muenchen.de to github pages
 #
-name: Deploy opensource.muenchen.de to Pages
+name: Test if build still works
 
 on:
   # Only run on "main"-Branch
