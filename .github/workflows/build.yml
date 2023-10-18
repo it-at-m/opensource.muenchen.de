@@ -1,0 +1,32 @@
+# Deploying opensource.muenchen.de to github pages
+#
+name: Deploy opensource.muenchen.de to Pages
+
+on:
+  # Only run on "main"-Branch
+  push:
+    branches: [*]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Not needed if lastUpdated is not enabled
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build with VitePress
+        run: |
+          npm run docs:build
