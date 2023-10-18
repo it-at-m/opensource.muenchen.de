@@ -4,6 +4,41 @@
     --vp-c-brand-2: var(--vp-c-brand-1);
     --vp-c-brand-3: var(--vp-c-brand-1);
     --vp-c-brand-soft: var(--vp-c-brand-1);
+
+    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/city_day.jpg")
+}
+
+.dark {
+    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night.jpg");
+}
+
+body {
+    background-image: var(--muc-background);
+    background-attachment: fixed;
+}
+
+.VPDoc > .container {
+    background-color: color-mix(in srgb, var(--vp-c-bg-soft), transparent 15%);
+    border-radius: 32px;
+    padding-top: 32px;
+    margin-bottom: 32px;
+    backdrop-filter: blur(8px);
+}
+
+.aside-curtain {
+    background: none !important;
+}
+
+@media all and (max-width: 768px){
+
+    .VPDoc {
+        padding: 0 !important;
+    }
+
+    .VPDoc > .container {
+        border-radius: unset;
+        padding: 32px;
+    }
 }
 
 h1:not(.title, .name),
