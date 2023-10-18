@@ -15,6 +15,7 @@
 body {
     background-image: var(--muc-background);
     background-attachment: fixed;
+    background-size: cover;
 }
 
 .VPDoc > .container {
