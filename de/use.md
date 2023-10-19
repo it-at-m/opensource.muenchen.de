@@ -20,17 +20,19 @@ Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung s
 
 ## E- und Open Government
 
-Open-Source-Software wird auch im Bereich des E- und Open Government eingesetzt.
+Die Landeshauptstadt München betreibt zahlreiche Aufgabenfelder.
+Zum Kernbereich des kommunalen Handeln zählt die Partizipation mit der Stadtgesellschaft.
+Im E- und Open Government wird besonders häufig Open Source eingesetzt.
 
 <TagTile :tag-names="['opengovernment']" />
 
 ## Infrastruktur
 
+Die zum Betrieb und zur Entwicklung von Softwareanwendungen benötigte Infrastruktur basiert seit jeher auf Open Source Software.
+Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größtenteils Open Source.
+
 Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an Services, bestehend aus etwa 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden.
 Dazu kommt alles, was für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig ist.
-
-Innerhalb dieses Umfelds setzt die IT-Architektur der Landeshauptstadt München auf den Einsatz von Open-Source-Software.
-Diese kommt immer dann zum Einsatz, wenn im Marktvergleich etablierte Open-Source-Lösungen verfügbar sind und ein hohes Maß an Individualisierung im Sinne der Stadt erforderlich ist.
 
 <TagTile :tag-names="['infrastruktur']" />
 
