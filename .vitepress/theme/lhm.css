@@ -36,25 +36,3 @@
         padding: 32px;
     }
 }
-
-h1:not(.title, .name),
-h2:not(.title),
-h3:not(.title),
-h4:not(.title),
-h5:not(.title),
-h6:not(.title) {
-    padding: 5px 12px;
-    background-color: var(--vp-c-brand-1);
-    color: #2d2d25;
-    display: inline-block !important;
-    width: auto !important;
-}
-
-h1 .header-anchor,
-h2 .header-anchor,
-h3 .header-anchor,
-h4 .header-anchor,
-h5 .header-anchor,
-h6 .header-anchor {
-    top: 5px !important;
-}
