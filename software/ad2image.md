@@ -5,16 +5,18 @@ code: https://github.com/it-at-m/ad2image
 licensingmodel: open source
 license: MIT
 tags:
-- eigenentwicklung
-- server
-- foss
-- start2023
----
-__ad2image__ bietet eine einfach zu bedienende, minimalistische HTTP-API zum Abrufen von Benutzerfotos aus einer Active Directory / Microsoft Exchange-Umgebung.
-
+  - eigenentwicklung
+  - server
+  - foss
+  - start2023
 ---
 
-Mit der Einführung von Outlook Web App und unser Intranet WiLMA sind diese "Bildchen" auch im städtischen Umfeld nicht mehr wegzudenken.
-So können wir diese von den Benutzer*innen verwalteten Bilder auch in anderen Andwenungen nutzen.
+**ad2image** bietet eine einfache, minimalistische HTTP-API zum Abrufen von Benutzerfotos aus einer Active Directory / Microsoft Exchange-Umgebung.
 
-ad2image bietet auch Fallback-Fotos mit dem Avatar-Generator, wenn ein Benutzer kein Foto hat.
+---
+
+Moderne Webapplikationen verwenden oft Avatare, also kleine "Userbilder", zum Repräsenterierung von Personen und Identitäten an.
+Mit der Einführung von Outlook Web App und unserem Social-Intranet "WiLMA" sind diese "Bildchen" auch im städtischen Umfeld nicht mehr wegzudenken.
+
+**ad2image** bietet eine einfache HTTP API zum Abrufen von Benutzerfotos aus einer Active Directory / Microsoft Exchange-Umgebung an.
+Es bietet auch die Möglichkeit Avatare zu generieren, wenn eine Identität kein Foto hinterlegt hat.
