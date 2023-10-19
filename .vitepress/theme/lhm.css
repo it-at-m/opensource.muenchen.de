@@ -18,6 +18,13 @@
     background-size: cover;
 }
 
+.VPNav,
+.VPNavBar {
+    --vp-nav-bg-color: var(--vp-c-bg-soft);
+    background: var(--vp-nav-bg-color);
+    border-bottom: none;
+}
+
 @media all and (max-width: 768px){
 
     .VPDoc {
