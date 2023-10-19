@@ -18,6 +18,12 @@ Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht
 Man findet freie Software in nahezu allen modernen Softwareprodukten.
 Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unbestreitbar.
 
+## E- und Open Government
+
+Open-Source-Software wird auch im Bereich des E- und Open Government eingesetzt.
+
+<TagTile :tag-names="['opengovernment']" />
+
 ## Infrastruktur
 
 Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an Services, bestehend aus etwa 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden.
@@ -28,11 +34,6 @@ Diese kommt immer dann zum Einsatz, wenn im Marktvergleich etablierte Open-Sourc
 
 <TagTile :tag-names="['infrastruktur']" />
 
-## E- und Open Government 
-
-Open-Source-Software wird auch im Bereich des E- und Open Government eingesetzt.
-
-<TagTile :tag-names="['opengovernment']" />
 
 ## Support
 
