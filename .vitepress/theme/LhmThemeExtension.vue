@@ -14,7 +14,7 @@ const {Layout} = DefaultTheme
                     target="_blank"
                 >
                     <img
-                        :src="withBase('/public/assets/logo-lhm.png')"
+                        :src="withBase('/.vitepress/theme/logo-lhm.png')"
                         alt="Logo Landeshauptstadt München"
                     />
                 </a>
