@@ -10,6 +10,7 @@ tags:
 - eigenentwicklung
 - server
 - foss
+- openshift 
 - start2021
 ---
 Mit DAVe können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.

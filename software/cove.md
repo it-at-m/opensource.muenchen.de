@@ -5,7 +5,11 @@ code: https://github.com/orgs/it-at-m/repositories?q=cove&type=source
 codelinktext: github.com/it-at-m cove
 licensingmodel: open source
 license: MIT
-tags: ["eigenentwicklung", "server", "foss"]
+tags:
+- eigenentwicklung
+- server
+- foss
+- openshift
 ---
 COVe ermöglicht die Verwaltung von Verdachtsfällen im Rahmen der Covid19-Pandemie. Die Webanwendung wurde im IT-Referat selbst entwickelt.
 

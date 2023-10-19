@@ -13,6 +13,7 @@ logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung
 - server
+- openshift
 - foss
 - start2021
 sortingPriority: 2
