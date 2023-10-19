@@ -13,4 +13,9 @@ Keycloak ist ein Open-Source-Softwareprodukt, das Single Sign-On mit Identitäts
 ## Usage
 Auf Keycloak basieren folgende Eigenentwicklungen
 
-<TagList tagname="keycloak" />
+<TagTile :tag-names="['keycloak']" />
+
+
+<script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
+</script>
