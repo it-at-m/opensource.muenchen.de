@@ -1,8 +1,10 @@
 <!--.vitepress/theme/MyLayout.vue-->
 <script setup>
 import DefaultTheme from 'vitepress/theme'
+
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
-import {withBase} from "vitepress";
+import lhmLogo from "./logo-lhm.png"
+
 const {Layout} = DefaultTheme
 </script>
 <template>
@@ -14,7 +16,7 @@ const {Layout} = DefaultTheme
                     target="_blank"
                 >
                     <img
-                        :src="withBase('/.vitepress/theme/logo-lhm.png')"
+                        :src="lhmLogo"
                         alt="Logo Landeshauptstadt München"
                     />
                 </a>
