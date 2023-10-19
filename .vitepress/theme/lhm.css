@@ -19,11 +19,17 @@ body {
 }
 
 .VPDoc > .container {
-    background-color: color-mix(in srgb, var(--vp-c-bg-soft), transparent 15%);
+    background-color: var(--vp-c-bg);
     border-radius: 32px;
     padding-top: 32px;
     margin-bottom: 32px;
-    backdrop-filter: blur(8px);
+}
+
+@supports (backdrop-filter: blur()) {
+    .VPDoc > .container {
+        background-color: color-mix(in srgb, var(--vp-c-bg), transparent 20%);
+        backdrop-filter: blur(8px);
+    }
 }
 
 .aside-curtain {
