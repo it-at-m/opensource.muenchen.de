@@ -4,6 +4,7 @@ developer: LHM
 code: https://github.com/it-at-m/appswitcher-server
 licensingmodel: open source
 license: MIT
+screenshot: https://raw.githubusercontent.com/it-at-m/appswitcher-server/main/docs/embedded_in_applications.png
 tags:
   - eigenentwicklung
   - server
