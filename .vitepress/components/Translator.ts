@@ -4,6 +4,7 @@ import {messages} from "../theme/enhancements/i18n/i18n";
 export function useTranslator() {
 
     const FALLBACK_LANG = 'en';
+    const TRANSLATION_KEY_JSON_PATH_SEPERATOR = '.';
 
     const { lang } = useData();
 
@@ -18,7 +19,7 @@ export function useTranslator() {
 
         let result = langMap;
 
-        translationKey.split(".").forEach(key => {
+        translationKey.split(TRANSLATION_KEY_JSON_PATH_SEPERATOR).forEach(key => {
             if(result.hasOwnProperty(key)) {
                 result = result[key];
             } else {
