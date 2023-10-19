@@ -15,6 +15,7 @@ tags:
 - start2021
 ---
 [Consul](https://consuldemocracy.org) ist eine von der Stadt Madrid angebotene freie Software für Bürgerbeteiligung.
+---
 
 2019 [initierte der der Münchner Stadtrat](https://risi.muenchen.de/risi/dokument/v/5728776) die Plattform zur Digitalen Bürgerbeteiligung [unser.muenchen.de](https://unser.muenchen.de). 
 München benutzt eine von [demokratie.today](https://demokratie.today) modifiziert Version.

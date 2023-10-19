@@ -5,6 +5,7 @@
 <TagTile 
 :tag-names="['start2021']" 
 show-tags
+show-excerpt
 />
 
 
@@ -13,6 +14,7 @@ show-tags
 <TagTile 
 :tag-names="['start2022']" 
 show-tags
+show-excerpt
 />
 
 
@@ -21,6 +23,7 @@ show-tags
 <TagTile 
 :tag-names="['start2023']" 
 show-tags
+show-excerpt
 />
 
 <script setup>
