@@ -25,3 +25,26 @@ Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von 
 
 <TagTile :tag-names="['sponsor']" />
 
+
+## Support
+
+Freie Software wird am besten von denjenigen verstanden, die sie schreiben.
+Hersteller bieten hoch qualifizierten Support und können direkt auf die Entwicklung Einfluss nehmen.
+Kommerzieller Support ist somit einer der wichtigsten Wege, um freie Software zu finanzieren und zu fördern.
+Die Landeshauptstadt München nutzt diese Möglichkeit gerne, um schnell Hilfe und Unterstützung zu bekommen und interne Kompetenzen aufzubauen.
+
+Es ist jedoch zu beachten, dass Open-Source-Software professionell supportet wird und einem geordneten Lifecycle unterliegt.
+Dies ist unerlässlich, um zeitnahe Sicherheitsupdates sicherzustellen und das Risiko von Support-Lücken zu minimieren, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
+Daher schließt die Stadt in der Regel Verträge mit Dienstleistern ab, die diesen Support liefern können.
+
+<TagTile :tag-names="['support']" />
+
+## Open-Core
+
+Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung von kommerziell produzierter Open-Source-Software.
+Es beinhaltet in erster Linie das Anbieten einer "Kernfunktionalität" oder funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
+
+Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
+Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
+
+<TagTile :tag-names="['opencore']" />
