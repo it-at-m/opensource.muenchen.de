@@ -8,6 +8,7 @@ tags:
 - eigenentwicklung
 - server
 - foss
+- start2023
 ---
 
 __Appswitcher__ ermöglicht es Benutzer*innen einfach zwischen verschiedenen Anwendungen zu wechseln.

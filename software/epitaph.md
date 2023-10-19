@@ -4,7 +4,11 @@ developer: LHM
 code: https://github.com/it-at-m/epitaph_ips
 licensingmodel: open source
 license: MIT
-tags: ["eigenentwicklung", "server", "foss"]
+tags: 
+- eigenentwicklung
+- server
+- foss
+- start2022
 ---
 Epitaph ermöglicht eine lokale Positionserfassung auf mobilen Endgeräten. Die Open Source Library nutzt die Programmiersprache Dart und das Framework Flutter.
 

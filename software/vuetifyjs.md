@@ -7,6 +7,7 @@ tags:
 - foss
 - sponsor
 - refarchinfrastruktur
+- start2022
 ---
 Vuetify ist eine UI-Bibliothek ohne Designkenntnisse mit wunderschön handgefertigten Vue-Komponenten.
 In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../publish) genutzt.

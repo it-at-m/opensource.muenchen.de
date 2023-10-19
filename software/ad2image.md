@@ -8,6 +8,7 @@ tags:
 - eigenentwicklung
 - server
 - foss
+- start2023
 ---
 
 Modernen Webapplikationen bieten sind Avatare, kleinen "Userbilder", die eine Person repräsentieren können, an.

@@ -9,6 +9,7 @@ tags:
 - server
 - foss
 - opengovernment
+- start2021
 ---
 
 __Mark-a-Spot__ ist eine Plattform zum offenen Umgang mit Infrastrukturproblemen (Mängelmelder) und Beteiligungsverfahren im öffentlichen Raum.

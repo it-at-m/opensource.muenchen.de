@@ -10,6 +10,7 @@ tags:
 - eigenentwicklung
 - server
 - foss
+- start2022
 sortingPriority: 4
 ---
 Das __Informationssystem für soziale Infrastrukturplanung (ISI)__ ist eine integrierte Lösung für das Referat für Stadtplanung und Bauordnung der Landeshauptstadt München.
