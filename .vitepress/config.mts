@@ -35,6 +35,7 @@ export default defineConfig({
             items: [
               {text: 'Grundlagen', link: '/de/grundlagen'},
               {text: 'Updates', link: '/de/updates'},
+              {text: 'München Portal der Zukunft', link: '/de/mpdz'},
             ]
           }
         ],
