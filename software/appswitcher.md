@@ -18,3 +18,5 @@ tags:
 
 Die Webanwendung ist als statische Seite konzipiert, um sie in andere Webanwendungen einbetten zu können (z. B. mit Hilfe eines iframes).
 Appswitcher wurde stark von der [App Bar](https://support.google.com/accounts/answer/1714464?hl=en#zippy=%2Cswitch-between-apps) von Google inspiriert.
+
+Appswitcher ist containerbasiert und kann per [helm-chart](https://github.com/it-at-m/helm-charts/tree/main/charts/appswitcher-server) deployed werden.
