@@ -3,7 +3,7 @@ import { localizedMessagesType } from "../utility/types";
 export const deMessages: localizedMessagesType = {
     tags: {
         cicd: "CI/CD",
-        cms: "CMD",
+        cms: "CMS",
         client: "Client",
         eigenentwicklung: 'Eigenentwicklung',
         foss: "FOSS",
