@@ -6,7 +6,11 @@ code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
 screenshot: /Kinderzeit_screenshot.jpg
-tags: ["eigenentwicklung", "server", "foss"]
+tags:
+- eigenentwicklung
+- server
+- foss
+- start2022
 ---
 
 Kinderzeit ist ein Ferienplaner für Eltern und Veranstalter*innen, der in Zusammenarbeit mit der Digital Product School (DPS) entstanden ist.
