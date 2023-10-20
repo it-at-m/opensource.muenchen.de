@@ -1,9 +1,11 @@
 import { defineConfig } from 'vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote';
 
+const base = '/opensource.muenchen.de/';
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/opensource.muenchen.de/',
+  base: base,
   srcExclude: [
       'README.md'
   ],
@@ -55,7 +57,7 @@ export default defineConfig({
         },
 
         footer: {
-          message: '<a href="/impress">Impressum und Kontakt</a>'
+          message: `<a href="${base}impress">Impressum und Kontakt</a>`
         },
         editLink: {
           pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
@@ -77,7 +79,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/impress">Impress and Contact</a>'
+      message: `<a href="${base}impress">Impress and Contact</a>`
     },
 
     sidebar: [],
