@@ -15,25 +15,9 @@
                     <div
                             class="card-title"
                     >
-                        <img
-                                v-if="page && page.frontmatter && page.frontmatter.screenshot"
-                                :src="withBase(page.frontmatter.screenshot)"
-                                class="thumb"
+                        <software-image-avatar
+                            :frontmatter="page.frontmatter"
                         />
-                        <img
-                                v-else-if="page && page.frontmatter && page.frontmatter.logo"
-                                :src="withBase(page.frontmatter.logo)"
-                                class="thumb"
-                        />
-                        <v-avatar
-                                v-else
-                                size="64"
-                                rounded="0"
-                                color="var(--vp-c-default-soft)"
-                                class="thumb mr-2 rounded"
-                        >
-                            {{ page.frontmatter.application[0] }}
-                        </v-avatar>
 
                         <span
                                 style="overflow: hidden; text-overflow: ellipsis;"
@@ -62,6 +46,7 @@
 import {computed} from "vue";
 import {data} from '../software.data.js'
 import {withBase} from "vitepress";
+import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
 import TagListComponent from "./TagListComponent.vue";
 
 const props = defineProps({
@@ -122,6 +107,12 @@ const pagesWithTags = computed(() => {
     row-gap: 1em;
 }
 
+@media all and (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 .card {
     border: 1px solid var(--vp-c-bg-soft);
     background: var(--vp-c-bg-soft);
@@ -139,14 +130,6 @@ const pagesWithTags = computed(() => {
     font-size: 14px;
     font-weight: 500;
     color: var(--vp-c-text-2);
-}
-
-.thumb {
-    min-width: 64px;
-    margin-right: 16px;
-    height: 64px;
-    width: 64px;
-    object-fit: scale-down;
 }
 
 

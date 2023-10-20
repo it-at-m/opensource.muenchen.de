@@ -9,8 +9,14 @@ licensingmodel: open source
 license: MIT
 linkapplication: null
 screenshot: https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png
-logo: /digiwf_logo.png
-tags: ["eigenentwicklung", "server", "foss"]
+logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
+tags:
+- eigenentwicklung
+- server
+- openshift
+- foss
+- mpdz
+- start2021
 sortingPriority: 2
 ---
 DigiWF ist eine Plattform für die Prozessautomatisierung. Anwender*innen können Workflows selbst automatisieren und auf andere Systeme zugreifen.
