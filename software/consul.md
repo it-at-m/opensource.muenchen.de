@@ -13,6 +13,7 @@ tags:
 - foss
 - opengovernment
 - start2021
+- support
 ---
 [Consul](https://consuldemocracy.org) ist eine von der Stadt Madrid angebotene freie Software für Bürgerbeteiligung.
 ---

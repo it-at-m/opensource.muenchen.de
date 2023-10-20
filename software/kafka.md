@@ -8,7 +8,7 @@ logo: /80px-Apache_kafka.svg.png
 tags:
 - server
 - foss
-- opencore
+- support
 - mpdz
 ---
 Apache Kafka ist eine freie Software der Apache Software Foundation, die insbesondere zur Verarbeitung von Datenströmen dient.
