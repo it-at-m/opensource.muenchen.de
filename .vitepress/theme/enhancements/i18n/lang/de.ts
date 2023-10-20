@@ -18,7 +18,12 @@ export const deMessages: localizedMessagesType = {
         schnittstelle: "Schnittstelle",
         sponsor: "Sponsor",
         support: "Support",
-        todo: "todo",
-        webanwendung: "Webanwendung"
+        todo: "ToDo",
+        webanwendung: "Webanwendung",
+        openshift: "Openshift",
+        start2023: "Start 2023",
+        start2022: "Start 2022",
+        start2021: "Start 2021",
+        mpdz: "MPdZ",
     }
 };
