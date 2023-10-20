@@ -25,6 +25,31 @@ show-tags
 show-excerpt
 />
 
+
+# Updates mit tags
+
+
+
+<ClientOnly>
+
+<TagFilter
+  v-model="selectedFilters"
+  :available-tags="['start2023', 'start2022', 'start2021', 'start2020']"
+/>
+
+<TagTile 
+  :tag-names="selectedFilters"
+  show-tags
+  show-excerpt
+/>
+
+</ClientOnly>
+
+
 <script setup>
-import TagTile from "../.vitepress/components/TagTile.vue";
+import TagTile from "/.vitepress/components/TagTile.vue";
+import TagFilter from "/.vitepress/components/TagFilter.vue";
+import { ref } from 'vue';
+
+const selectedFilters = ref(['start2023'])
 </script>
