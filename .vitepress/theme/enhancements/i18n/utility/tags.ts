@@ -24,6 +24,7 @@ export interface Tags {
         start2023: string,
         start2022: string,
         start2021: string,
+        start2020: string,
         mpdz: string,
     }
 }

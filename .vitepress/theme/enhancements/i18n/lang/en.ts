@@ -24,6 +24,7 @@ export const enMessages: localizedMessagesType = {
         start2023: "Start 2023",
         start2022: "Start 2022",
         start2021: "Start 2021",
+        start2020: "Start 2020",
         mpdz: "MPdZ",
     }
 };
