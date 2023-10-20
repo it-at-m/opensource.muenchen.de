@@ -12,6 +12,8 @@ A full overview of all the open source software that is used, improved and/or pu
 
 Feel free to filter by the available tags below.
 
+<ClientOnly>
+
 <TagFilter
 v-model="selectedFilters"
 />
@@ -20,3 +22,5 @@ v-model="selectedFilters"
 :tag-names="selectedFilters"
 show-tags
 />
+
+</ClientOnly>

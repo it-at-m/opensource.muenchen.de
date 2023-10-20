@@ -12,6 +12,8 @@ Eine vollständige Übersicht über alle Open-Source-Software, die von der Lande
 
 Nutze gerne auch die Filter-Funktion mit den unten verfügbaren Tags.
 
+<ClientOnly>
+
 <TagFilter
 v-model="selectedFilters"
 />
@@ -20,3 +22,5 @@ v-model="selectedFilters"
 :tag-names="selectedFilters"
 show-tags
 />
+
+</ClientOnly>
