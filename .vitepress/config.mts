@@ -32,15 +32,7 @@ export default defineConfig({
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/contribute'},
           {text: 'Veröffentlichen', link: '/de/publish'},
-          {text: 'Übersicht', link: '/de/overview'},
-          {
-            text: 'Hintergrund',
-            items: [
-              {text: 'Grundlagen', link: '/de/grundlagen'},
-              {text: 'Updates', link: '/de/updates'},
-              {text: 'München Portal der Zukunft', link: '/de/mpdz'},
-            ]
-          }
+          {text: 'Grundlagen', link: '/de/grundlagen'},
         ],
 
         sidebar: [],
