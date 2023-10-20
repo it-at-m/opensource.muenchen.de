@@ -19,7 +19,7 @@ All are created and contributed with our [github account as fork repositories](h
 
 Free software is best understood by those who write it.
 But of course [we improve free software](./contribute.html) or [publish ourselves](./publish.html) free software.
-But sometimes money helps out more than 1000 commits - that's why we financially support software that we use frequently.
+But sometimes money helps out more than 1000 commits - that's why we sponsor software that we use frequently.
 
 <TagTile :tag-names="['sponsor']" />
 
