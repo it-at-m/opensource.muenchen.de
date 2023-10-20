@@ -20,5 +20,10 @@ export interface Tags {
         support: string,
         todo: string,
         webanwendung: string,
+        openshift: string,
+        start2023: string,
+        start2022: string,
+        start2021: string,
+        mpdz: string,
     }
 }

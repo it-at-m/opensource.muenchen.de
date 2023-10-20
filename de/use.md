@@ -1,13 +1,7 @@
 
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
-import TagList from "../.vitepress/components/TagList.vue";
-import TagFilter from "../.vitepress/components/TagFilter.vue";
-import { ref } from 'vue';
-
-const selectedFilters = ref(['foss'])
 </script>
-
 
 # Nutzen
 
@@ -35,21 +29,3 @@ Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches
 Dazu kommt alles, was für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig ist.
 
 <TagTile :tag-names="['infrastruktur']" />
-
-
-## Gesamtübersicht
-
-Insgesamt nutzen wir natürlich viel mehr freie Software.
-
-<ClientOnly>
-
-<TagFilter
-v-model="selectedFilters"
-/>
-
-<TagTile
-:tag-names="selectedFilters"
-show-tags
-/>
-
-</ClientOnly>
