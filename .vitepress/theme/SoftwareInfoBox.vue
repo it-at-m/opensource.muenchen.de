@@ -1,6 +1,6 @@
 ^^<script setup>
 import {useData, withBase} from "vitepress";
-import SoftwareImageAvatar from "../components/SoftwareImageAvatar.vue";
+import TagChipGroup from "../components/TagChipGroup.vue";
 
 const siteInfo = useData();
 
@@ -59,6 +59,10 @@ defineProps({
                 <span v-else>App anzeigen</span>
             </v-btn>
 
+            <tag-chip-group
+                :tags="frontmatter.tags"
+            />
+
             <div
                     v-if="frontmatter.license"
             >
@@ -95,7 +99,7 @@ img {
 .infos {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 16px;
 }
 
 .horizontal {
