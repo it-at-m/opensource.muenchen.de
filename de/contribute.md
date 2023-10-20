@@ -48,7 +48,7 @@ Daher schließt die Stadt in der Regel Verträge mit Dienstleistern ab, die dies
 ### Open-Core
 
 Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung von kommerziell produzierter Open-Source-Software.
-Es beinhaltet in erster Linie das Anbieten einer "Kernfunktionalität" oder funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
+Es beinhaltet in erster Linie das Anbieten einer "Kernfunktionalität" oder einer funktionsbeschränkten Version eines Softwareprodukts als freie und Open-Source-Software, während "kommerzielle" Versionen oder Add-ons als proprietäre Software angeboten werden.
 
 Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
