@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "München Open Source"
   text: "Mehr Transparenz aus unserer IT"
-  tagline: "Entdecken Sie die Open Source-Projekte, die von der Landeshauptstadt München entwickelt, beauftragt oder gefördert werden."
+  tagline: "Entdecken Sie die Open Source-Projekte, die von der Landeshauptstadt München entwickelt, beauftragt oder gesponsert werden."
 
 features:
   - title: Nutzen
