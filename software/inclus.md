@@ -12,6 +12,7 @@ tags:
 - server
 - foss
 - start2021
+sortingPriority: 2
 ---
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.
 

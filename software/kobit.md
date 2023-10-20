@@ -13,6 +13,7 @@ tags:
 - foss
 - openshift
 - start2023
+sortingPriority: 3
 ---
 
 Die KonfliktbegleitungsApp (KoBITApp) unterstützt die Beschäftigten des IT-Referats, Konflikte möglichst niederschwellig beizulegen.

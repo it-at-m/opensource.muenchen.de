@@ -12,6 +12,7 @@ tags:
 - foss
 - openshift 
 - start2021
+sortingPriority: 3
 ---
 Mit DAVe können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
 
