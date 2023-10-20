@@ -21,12 +21,12 @@ Alle Contributions sind mit unserem [github account als fork repositories](https
 ## Finanzierung
 
 Auch wenn Open Source Software kostenlos ist, die Entwicklung und Pflege muss bezahlt werden.
-Unterschiedliche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software) ermöglichen sichere und stabile Software und Fördern die Weiterentwicklung.  
+Unterschiedliche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software) ermöglichen sichere und stabile Software und sponsern die Weiterentwicklung.  
 So unterschiedliche die Entwickler von Opens Source Software sind, so unterschiedlich müssen auch die Modelle zur Finanzierung sein.
 
 ### Sponsoring
 
-Freie Software die wir häufig nutzen unsterstützen wir finanziell.
+Freie Software die wir häufig nutzen unterstützen wir finanziell.
 Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von freier Software gewährleistet bleibt und die Software weiterhin unseren Bedürfnissen entspricht.
 
 <TagTile :tag-names="['sponsor']" />
