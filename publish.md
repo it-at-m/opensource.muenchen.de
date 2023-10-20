@@ -51,6 +51,8 @@ The above-mentioned open source-based reference architecture is also used in the
 
 ## Overview
 
+<ClientOnly>
+
 <TagFilter
   v-model="selectedFilters"
   :available-tags="['eigenentwicklung', 'kooperation']"
@@ -61,3 +63,5 @@ The above-mentioned open source-based reference architecture is also used in the
   show-tags
   show-excerpt
 />
+
+</ClientOnly>

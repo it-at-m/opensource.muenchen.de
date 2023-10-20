@@ -1,5 +1,6 @@
 ^^<script setup>
 import {useData, withBase} from "vitepress";
+import SoftwareImageAvatar from "../components/SoftwareImageAvatar.vue";
 
 const siteInfo = useData();
 
@@ -17,8 +18,8 @@ defineProps({
         v-if="frontmatter.licensingmodel"
         :class="'infobox ' + (horizontal ? 'horizontal' : '')"
     >
+        <img v-if="frontmatter.logo" :src="withBase(frontmatter.logo)"/>
         <img v-if="frontmatter.screenshot" :src="withBase(frontmatter.screenshot)"/>
-        <img v-else-if="frontmatter.logo" :src="withBase(frontmatter.logo)"/>
         <div class="infos">
             <v-btn
                     v-if="frontmatter.code"

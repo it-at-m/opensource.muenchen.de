@@ -9,9 +9,12 @@ tags:
 - server
 - foss
 - opengovernment
+- start2021
 ---
 
 __Mark-a-Spot__ ist eine Plattform zum offenen Umgang mit Infrastrukturproblemen (Mängelmelder) und Beteiligungsverfahren im öffentlichen Raum.
+
+---
 
 Anliegenmanagement ist eine transparente, online verfügbare Kommunikationsschnittstelle zwischen Bürger*innen und Stadtverwaltung dar. Hier können Anliegen zu Verschmutzungen und Schäden im Münchner Stadtbild gemeldet und beantwortet werden. Eingereicht werden die Meldungen über eine Online-Meldeplattform namens [Mach München besser](https://machmuenchenbesser.de)!
 

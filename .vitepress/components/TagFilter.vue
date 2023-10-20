@@ -2,6 +2,7 @@
 import {ref} from "vue";
 import {computed} from "vue";
 import {data} from "../software.data.js";
+import TagChip from "./TagChip.vue";
 
 const props = defineProps({
     modelValue: {
@@ -39,14 +40,12 @@ const allTags = computed(() => {
             @update:modelValue="$emit('update:modelValue', $event)"
             multiple
     >
-        <v-chip
+        <tag-chip
                 v-for="(tag, index) in (availableTags.length > 0 ? availableTags : allTags)"
                 :key="index"
-                :value="tag"
+                :tag="tag"
                 filter
-        >
-            {{ tag }}
-        </v-chip>
+        />
     </v-chip-group>
 </template>
 

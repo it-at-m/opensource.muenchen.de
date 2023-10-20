@@ -6,6 +6,7 @@ codelinktext: github.com/it-at-m kobit
 licensingmodel: open source
 license: MIT
 screenshot: /KoBITApp_screenshot.jpg
+logo: https://user-images.githubusercontent.com/53316058/216995779-d246b9ee-69f7-4caf-950e-4de3773b8b3d.PNG
 tags: ["eigenentwicklung", "server", "foss"]
 ---
 
