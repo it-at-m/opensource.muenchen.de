@@ -7,6 +7,7 @@ codelinktext: github.com/it-at-m WC-Finder
 licensingmodel: open source
 license: MIT
 screenshot: /Inclus_Screenshot.jpg
+logo: https://inclus.de/logo192.png
 tags:
 - eigenentwicklung
 - server
