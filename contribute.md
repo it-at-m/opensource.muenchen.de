@@ -3,7 +3,7 @@
 import TagTile from ".vitepress/components/TagTile.vue";
 </script>
 
-# Contribution
+# Improve
 
 Not all free software can be [used](./use.html) immediately and with all security and feature requirements.
 Free software also allows you to __improve__ it and help fix bugs or add features.
