@@ -31,7 +31,7 @@
                     <p class="excerpt" v-if="showExcerpt && page.excerpt" v-html="page.excerpt"></p>
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
-                        <tag-list-component
+                        <tag-chip-group
                             :tags="page.frontmatter.tags"
                         />
                     </div>
@@ -47,7 +47,7 @@ import {computed} from "vue";
 import {data} from '../software.data.js'
 import {withBase} from "vitepress";
 import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
-import TagListComponent from "./TagListComponent.vue";
+import TagChipGroup from "./TagChipGroup.vue";
 
 const props = defineProps({
     tagNames: {

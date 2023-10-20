@@ -1,6 +1,6 @@
 ^^<script setup>
 import {useData, withBase} from "vitepress";
-import TagListComponent from "../components/TagListComponent.vue";
+import TagChipGroup from "../components/TagChipGroup.vue";
 
 const siteInfo = useData();
 
@@ -59,7 +59,7 @@ defineProps({
                 <span v-else>App anzeigen</span>
             </v-btn>
 
-            <tag-list-component
+            <tag-chip-group
                 :tags="frontmatter.tags"
             />
 

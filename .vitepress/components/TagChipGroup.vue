@@ -2,15 +2,16 @@
     <div
             class="chip-group"
     >
-        <v-chip
+        <tag-chip
                 v-for="(tag, index) in tags"
                 :key="index"
-        >
-            {{ tag }}
-        </v-chip>
+                :tag="tag"
+        />
     </div>
 </template>
 <script setup>
+import TagChip from "./TagChip.vue";
+
 defineProps({
     tags: {
         type: Array,
