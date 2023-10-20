@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Munich Open Source"
   text: "More transparency from our IT"
-  tagline: "Discover the open source projects developed, commissioned or funded by the City of Munich."
+  tagline: "Discover the open source projects developed, commissioned or sponsored by the City of Munich."
 
 features:
   - title: Use
