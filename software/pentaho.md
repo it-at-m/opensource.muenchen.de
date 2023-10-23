@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Pentaho ist eine Sammlung von Business-Intelligence-Software, die in einer Basisversion Open Source ist. 

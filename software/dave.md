@@ -9,7 +9,6 @@ screenshot: /DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
 tags:
 - eigenentwicklung
 - server
-- foss
 - openshift 
 - start2021
 sortingPriority: 3

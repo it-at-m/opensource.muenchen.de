@@ -9,7 +9,6 @@ logo: /ckan_logo.svg
 tags:
 - opengovernment
 - server
-- foss
 - kooperation
 - support
 ---

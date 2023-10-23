@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Cobbler ist ein Tool zur automatisierten Bereitstellung und Installation von Linux basierten Servern.

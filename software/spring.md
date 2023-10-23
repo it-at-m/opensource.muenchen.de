@@ -3,7 +3,6 @@ application: Spring
 developerlink: https://spring.io/projects/spring-framework
 licensingmodel: open source
 tags:
-- foss
 - development
 ---
 __Spring__ quelloffenes Framework für die Java-Plattform, welches oft für Web-Anwendungen verwendet wird.

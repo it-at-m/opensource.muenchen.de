@@ -7,7 +7,6 @@ licensingmodel: CE/EE-Modell
 linkapplication: null
 tags:
 - client
-- foss
 ---
 TIBCO Jaspersoft® Studio ist eine Bearbeitungssoftware vom Hersteller TIBCO JasperReports®.      
 Mit Jaspersoft® Studio ist der Benutzer in der Lage:      

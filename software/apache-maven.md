@@ -7,7 +7,6 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 - cicd
 ---
 Maven ist ein Build-Management-Tool der Apache Software Foundation und basiert auf Java. Mit ihm kann man insbesondere Java-Programme standardisiert erstellen und verwalten.

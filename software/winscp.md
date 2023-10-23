@@ -7,7 +7,6 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 WinSCP ist ein Programm zum sicheren Übertragen von Daten.      
 WinSCP ermöglicht das Synchronisieren zweier Verzeichnisse, so dass beispielsweise die Dateien auf einen Client mit denen auf einem Server abgeglichen werden können. Zudem beinhaltet das Tool die gängigen Funktionen eines Dateimanagers zum Kopieren, Löschen oder Verschieben von Daten. Bei Bedarf lassen sich die Informationen einer Session speichern.

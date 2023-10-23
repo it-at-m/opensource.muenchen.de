@@ -7,7 +7,6 @@ logo: https://id.bayernportal.de/cms/assets/images/64/BayernID_Icon-rund.625c9ab
 licensingmodel: open source
 tags:
 - server
-- foss
 - eigenentwicklung
 - keycloak
 - start2021

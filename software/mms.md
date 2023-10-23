@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Museumsmanagementsystem: System zur Verwaltung der Sammlungsobjekte der Museen

@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 jEdit ist ein ausgereifter Texteditor für Programmierer.

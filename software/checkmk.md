@@ -9,7 +9,6 @@ linkapplication: null
 logo: /320px-CheckMK_logo.svg.png
 tags:
 - server
-- foss
 - opencore
 - monitoring
 - schnittstelle

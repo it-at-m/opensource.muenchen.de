@@ -14,7 +14,6 @@ tags:
 - eigenentwicklung
 - server
 - openshift
-- foss
 - start2021
 sortingPriority: 2
 ---

@@ -10,7 +10,6 @@ logo: https://user-images.githubusercontent.com/53316058/216995779-d246b9ee-69f7
 tags:
 - eigenentwicklung
 - server
-- foss
 - openshift
 - start2023
 sortingPriority: 3

@@ -8,7 +8,6 @@ license: MIT
 tags:
 - eigenentwicklung
 - server
-- foss
 - openshift
 - start2020
 ---

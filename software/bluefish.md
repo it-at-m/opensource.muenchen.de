@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 Bluefish ist ein freier Quelltext-Editor, der sich zur Programmierung und zur Erstellung von HTML-Dokumenten für Webseiten eignet. 

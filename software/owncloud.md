@@ -7,7 +7,6 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 "Basiskomponente Datenaustausplattform (DAP)
 Austausch von größeren, nicht-vertraulichen Dateien mit externen Personen."

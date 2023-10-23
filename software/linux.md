@@ -4,7 +4,6 @@ licensingmodel: open source
 logo: /100px-Tux.svg.png
 tags:
 - server
-- foss
 - support
 - infrastruktur
 ---

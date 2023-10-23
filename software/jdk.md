@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 OpenJDK JAVADevelopmentKit (Entwicklungswerkzeuge, Java-Compiler) als Teil der achten Edition der Java SE Plattform. 

@@ -5,7 +5,6 @@ developerlink: https://www.drupal.org
 licensingmodel: open source
 tags:
 - server
-- foss
 - cms
 ---
 [Drupal](https://www.drupal.org) ist ein Content-Management-System (CMS) und -Framework. 

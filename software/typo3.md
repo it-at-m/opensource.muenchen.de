@@ -6,7 +6,6 @@ licensingmodel: open source
 linkapplication: 
 tags:
 - server
-- foss
 - cms
 ---
 

@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 ProjectLibre ist eine open-source Software für Projektplanung und -steuerung.

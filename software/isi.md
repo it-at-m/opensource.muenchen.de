@@ -9,7 +9,6 @@ logo: https://raw.githubusercontent.com/it-at-m/isi-frontend/dev/images/logo.png
 tags:
 - eigenentwicklung
 - server
-- foss
 - start2022
 - openshift
 sortingPriority: 3

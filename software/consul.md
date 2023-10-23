@@ -10,7 +10,6 @@ linkapplication: https://unser.muenchen.de
 logo: /consul_logo.png
 tags:
 - server
-- foss
 - opengovernment
 - start2021
 - support

@@ -11,7 +11,6 @@ logo: https://inclus.de/logo192.png
 tags:
 - eigenentwicklung
 - server
-- foss
 - start2021
 sortingPriority: 2
 ---

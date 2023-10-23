@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 PDF Split and Merge: teilt PDFs auf oder fügt PDF-Dateien zusammen.

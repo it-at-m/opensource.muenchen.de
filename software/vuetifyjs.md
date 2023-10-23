@@ -4,7 +4,6 @@ developerlink: https://vuetifyjs.com
 licensingmodel: open source
 logo: /vuetify-logo-300.png
 tags:
-- foss
 - development
 ---
 __Vuetify__ ist eine UI-Bibliothek für Vue-Komponenten in [Material Design](https://m3.material.io).

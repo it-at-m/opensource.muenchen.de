@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 KDiff3 ist eine KDE-Anwendung zum Vergleich und zur Synchronisierung von Verzeichnissen.

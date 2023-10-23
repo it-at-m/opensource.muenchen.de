@@ -7,7 +7,6 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 - infrastruktur
 ---
 Katello ist ein Softwarestack aus verschiedenen Komponenten, die ineinander integriert wurden, um ein vollständiges Lifecycle- und Configurationmanagement System für Serversysteme bereitzustellen.

@@ -9,7 +9,6 @@ screenshot: /Kinderzeit_screenshot.jpg
 tags:
 - eigenentwicklung
 - server
-- foss
 - start2022
 ---
 

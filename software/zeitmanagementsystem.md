@@ -8,7 +8,6 @@ linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.htm
 tags: 
 - eigenentwicklung
 - server
-- foss
 - kooperation
 - start2021
 sortingPriority: 2

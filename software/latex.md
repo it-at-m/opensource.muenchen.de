@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 LaTeX ist ein hochwertiges Satzsystem mit Funktionen, die für die Erstellung technischer und wissenschaftlicher Dokumentationen entwickelt wurden. 

@@ -8,7 +8,6 @@ logo: /320px-WordPress_logo.svg.png
 tags:
 - opengovernment
 - server
-- foss
 - cms
 ---
 __WordPress__ ist das meist genutzte freies Content-Management-System (CMS) im [Internet](https://trends.builtwith.com/cms).

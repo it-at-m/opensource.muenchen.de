@@ -8,7 +8,6 @@ linkapplication: null
 logo: /320px-GitLab_logo.svg.png
 tags:
 - server
-- foss
 - opencore
 - cicd
 ---

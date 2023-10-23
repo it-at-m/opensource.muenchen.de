@@ -7,7 +7,6 @@ license: MIT
 tags: 
 - eigenentwicklung
 - server
-- foss
 - keycloak
 - start2023
 ---

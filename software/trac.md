@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Ein freies, webbasiertes Projektmanagement-Werkzeug zur Softwareentwicklung / -versionsverwaltung.

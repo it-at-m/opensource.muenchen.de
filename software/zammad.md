@@ -5,7 +5,6 @@ licensingmodel: open source
 logo: /320px-Logo-zammad.svg.png
 tags:
 - server
-- foss
 - support
 - start2023
 ---

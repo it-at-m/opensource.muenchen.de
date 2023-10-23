@@ -7,7 +7,6 @@ linkapplication: https://machmuenchenbesser.de/
 logo: /markaspot_logo.png
 tags:
 - server
-- foss
 - opengovernment
 - start2021
 ---

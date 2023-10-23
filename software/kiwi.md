@@ -8,7 +8,6 @@ code: https://github.com/it-at-m/KiwiDemo
 screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/___KIWI_Ansicht2.5441346419426010922.jpg/jcr:content/___KIWI_Ansicht2.5441346419426010922.jpg
 tags:
 - server
-- foss
 - eigenentwicklung
 ---
 KIWI macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.

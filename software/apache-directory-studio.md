@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 Entwicklungsumgebung für Verzeichnisdienste (LDAP). 

@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 Verschlüsselungstool zur Verwaltung von verschlüsselten Containern im Fiieservice und Einbindung selbiger als Laufwerk auf dem Limux-Basisclient. 

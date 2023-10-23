@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Webbasiertes, freies Software-Testmanagement-Tool

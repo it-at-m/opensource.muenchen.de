@@ -6,7 +6,6 @@ license: Apache
 logo: /100px-Ansible_logo.svg.png
 tags:
 - server
-- foss
 - infrastruktur
 ---
 __Ansible__ ist ein  freies Automatisierungswerkzeug zur Orchestrierung und Konfiguration und Administration von Servern.

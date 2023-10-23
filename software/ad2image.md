@@ -8,7 +8,6 @@ tags:
   - eigenentwicklung
   - server
   - openshift
-  - foss
   - start2023
 ---
 

@@ -8,7 +8,6 @@ screenshot: https://raw.githubusercontent.com/it-at-m/appswitcher-server/main/do
 tags:
   - eigenentwicklung
   - server
-  - foss
   - openshift
   - start2023
 ---

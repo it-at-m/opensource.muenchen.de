@@ -6,7 +6,6 @@ licensingmodel: open source
 logo: /100px-OpenShift-LogoType.svg.png
 tags:
 - server
-- foss
 - support
 - infrastruktur
 ---

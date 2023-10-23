@@ -7,6 +7,5 @@ licensingmodel: open core
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Unterstützung für die Kostenabrechnungen der AOK im Bereich SGB XII 

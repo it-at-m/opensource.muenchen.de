@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - server
-- foss
 ---
 Matomo (ehemals Piwik) Web Tracking wird verwendet um das Benutzerverhalten einer Webanwendung zu analysieren. 

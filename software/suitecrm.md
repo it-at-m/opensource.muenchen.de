@@ -5,7 +5,6 @@ developerlink: https://suitecrm.com
 licensingmodel: open source
 tags:
 - server
-- foss
 ---
 __SuiteCRM__ ist ein freies Customer-Relationship-Management-Anwendung für Server, die in PHP geschrieben sind.
 

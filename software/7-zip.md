@@ -7,6 +7,5 @@ licensingmodel: open source
 linkapplication: null
 tags:
 - client
-- foss
 ---
 7-Zip ist ein Datenkompressionsprogramm mit einer hohen Kompressionsrate. 
