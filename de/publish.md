@@ -5,7 +5,7 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 import TagFilter from "../.vitepress/components/TagFilter.vue";
 import { ref } from 'vue';
 
-const selectedFilters = ref(['eigenentwicklung', 'kooperation'])
+const selectedFilters = ref(['eigenentwicklung'])
 </script>
 
 
