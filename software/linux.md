@@ -7,7 +7,6 @@ tags:
 - foss
 - support
 - infrastruktur
-- refarchinfrastruktur
 ---
 
 Als Linux ist eine freies unixähnliche Mehrbenutzer-Betriebssystem, die auf dem Linux-Kernel und wesentlich auf GNU-Software basieren.

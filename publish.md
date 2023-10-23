@@ -35,10 +35,6 @@ The guideline adopted for this purpose defines the technical structure of such s
 In accordance with the guideline, a very modern, modular technology stack is used, consisting entirely of open source components:
 the "State Capital Munich Reference Architecture for Self-Development".
 
-<TagTile
-:tag-names="['refarchinfrastruktur']"
-/>
-
 In the area of proprietary software developments, which are primarily used where either no solutions can be found on the market,
 or where a very high degree of municipal differentiation is necessary for the City of Munich, open source plays a major role in two ways:
 On the one hand, the proprietary software developments are based on a 100% open source stack, as explained above.

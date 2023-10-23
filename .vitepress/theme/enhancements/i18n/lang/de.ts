@@ -14,7 +14,6 @@ export const deMessages: localizedMessagesType = {
         monitoring: "Monitoring",
         opencore: "Opencore",
         opengovernment: "Open Government",
-        refarchinfrastruktur: "RefArch Infrastruktur",
         server: "Server",
         schnittstelle: "Schnittstelle",
         sponsor: "Sponsor",

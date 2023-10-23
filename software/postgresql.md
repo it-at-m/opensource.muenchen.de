@@ -8,7 +8,6 @@ tags:
 - server
 - foss
 - infrastruktur
-- refarchinfrastruktur
 ---
 __PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORDBMS). Seine Entwicklung begann in den 1980er Jahren, seit 1997 wird die Software von einer Open-Source-Community weiterentwickelt. 
 

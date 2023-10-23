@@ -14,7 +14,6 @@ export const enMessages: localizedMessagesType = {
         monitoring: "Monitoring",
         opencore: "Opencore",
         opengovernment: "Open Government",
-        refarchinfrastruktur: "RefArch Infrastructure",
         server: "Server",
         schnittstelle: "Interface",
         sponsor: "Sponsor",
