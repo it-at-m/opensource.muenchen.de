@@ -70,7 +70,7 @@ const pagesWithTags = computed(() => {
     for (let softwareEntry of data) {
         if (softwareEntry.frontmatter && softwareEntry.frontmatter.tags) {
             if(props.tagNames.length > 0) {
-                if (softwareEntry.frontmatter.tags.some(r => props.tagNames.includes(r))) {
+                if (props.tagNames.every(tag => softwareEntry.frontmatter.tags.includes(tag))) {
                     pagesWithTags.push(softwareEntry);
                 }
             } else {
