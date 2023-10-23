@@ -9,7 +9,6 @@ tags:
 - server
 - foss
 - support
-- mpdz
 ---
 Apache Kafka ist eine freie Software der Apache Software Foundation, die insbesondere zur Verarbeitung von Datenströmen dient.
 Kafka ist dazu entwickelt, Datenströme zu speichern und zu verarbeiten, und stellt eine Schnittstelle zum Laden und Exportieren von Datenströmen zu Drittsystemen bereit.

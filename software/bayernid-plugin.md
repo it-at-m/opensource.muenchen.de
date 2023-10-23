@@ -10,7 +10,6 @@ tags:
 - foss
 - eigenentwicklung
 - keycloak
-- mpdz
 - start2021
 ---
 
