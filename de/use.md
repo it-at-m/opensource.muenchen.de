@@ -12,9 +12,9 @@ Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht
 Man findet freie Software in nahezu allen modernen Softwareprodukten.
 Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unbestreitbar.
 
-## Applikationen
+## Anwendungen
 
-Die Landeshauptstadt München betreibt zahlreiche Applikationen.
+Die Landeshauptstadt München betreibt zahlreiche Anwendungen.
 
 <TagTile :tag-names="['application']" />
 
