@@ -6,6 +6,6 @@ developerlink: http://www.jedit.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- application
+- development
 ---
 jEdit ist ein ausgereifter Texteditor für Programmierer.

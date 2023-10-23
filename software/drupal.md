@@ -4,7 +4,6 @@ application: Drupal
 developerlink: https://www.drupal.org
 licensingmodel: open source
 tags:
-- infrastruktur
 - application
 ---
 [Drupal](https://www.drupal.org) ist ein Content-Management-System (CMS) und -Framework. 

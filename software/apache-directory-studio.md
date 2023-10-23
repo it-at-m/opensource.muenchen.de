@@ -6,6 +6,6 @@ developerlink: https://directory.apache.org/studio/
 licensingmodel: open source
 linkapplication: null
 tags:
-- application
+- development
 ---
 Entwicklungsumgebung für Verzeichnisdienste (LDAP). 

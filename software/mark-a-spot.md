@@ -6,7 +6,6 @@ licensingmodel: open source
 linkapplication: https://machmuenchenbesser.de/
 logo: /markaspot_logo.png
 tags:
-- infrastruktur
 - application
 - start2021
 ---

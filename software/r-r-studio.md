@@ -6,6 +6,6 @@ developerlink: https://rstudio.com/
 licensingmodel: open source
 linkapplication: null
 tags:
-- infrastruktur
+- application
 ---
 Anwendung und Programmiersprache für Statistik 

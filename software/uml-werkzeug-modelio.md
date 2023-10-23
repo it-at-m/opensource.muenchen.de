@@ -6,6 +6,6 @@ developerlink: https://www.modelio.org
 licensingmodel: open source
 linkapplication: null
 tags:
-- infrastruktur
+- application
 ---
 Das UML-Werkzeug "Modelio" erlaubt eine Modellierung von UML-Modellen, wobei diese Modelle in einem (lokalen) Repository abgelegt werden.

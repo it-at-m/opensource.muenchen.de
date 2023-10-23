@@ -6,6 +6,6 @@ developerlink: http://www.projectlibre.com/
 licensingmodel: open source
 linkapplication: null
 tags:
-- infrastruktur
+- application
 ---
 ProjectLibre ist eine open-source Software für Projektplanung und -steuerung.

@@ -9,7 +9,6 @@ screenshot: /DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
 tags:
 - application
 - eigenentwicklung
-- infrastruktur
 - start2021
 sortingPriority: 3
 ---

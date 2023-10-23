@@ -8,7 +8,6 @@ linkapplication: https://opendata.muenchen.de
 logo: /ckan_logo.svg
 tags:
 - application
-- infrastruktur
 - kooperation
 ---
 

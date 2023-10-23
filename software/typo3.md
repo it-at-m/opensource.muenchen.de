@@ -5,7 +5,6 @@ developerlink: https://typo3.org
 licensingmodel: open source
 linkapplication: 
 tags:
-- infrastruktur
 - application
 ---
 

@@ -8,4 +8,4 @@ linkapplication: null
 tags:
 - application
 ---
-Hugin [ˈhʊɡɪn] ist eine freie Stitching-Software. Sie ist ein GUI für die Panorama Tools (auch bekannt als PanoTools) und andere Werkzeuge.
+Hugin ist eine freie Stitching-Software. Sie ist ein GUI für die Panorama Tools (auch bekannt als PanoTools) und andere Werkzeuge.

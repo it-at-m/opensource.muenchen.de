@@ -8,4 +8,4 @@ linkapplication: null
 tags:
 - application
 ---
-FTP-Client zur Dateiübertragung."
+FTP-Client zur Dateiübertragung.

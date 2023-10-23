@@ -7,7 +7,7 @@ licensingmodel: open source
 license: MIT
 tags:
 - eigenentwicklung
-- infrastruktur
+- application
 - start2020
 ---
 COVe ermöglicht die Verwaltung von Verdachtsfällen im Rahmen der Covid19-Pandemie. Die Webanwendung wurde im IT-Referat selbst entwickelt.

@@ -6,6 +6,7 @@ licensingmodel: open source
 license: MIT
 tags:
   - eigenentwicklung
+  - application
   - start2023
 ---
 

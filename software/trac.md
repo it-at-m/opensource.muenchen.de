@@ -6,6 +6,6 @@ developerlink: http://trac.edgewall.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- infrastruktur
+- development
 ---
 Ein freies, webbasiertes Projektmanagement-Werkzeug zur Softwareentwicklung / -versionsverwaltung.

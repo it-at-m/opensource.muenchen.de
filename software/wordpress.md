@@ -7,7 +7,6 @@ licensingmodel: open source
 logo: /320px-WordPress_logo.svg.png
 tags:
 - application
-- infrastruktur
 ---
 __WordPress__ ist das meist genutzte freies Content-Management-System (CMS) im [Internet](https://trends.builtwith.com/cms).
 Auch in der Stadt München wird Wordpress für zahlreiche Webauftritte, aber auch funktionale wie unsere Veranstaltungsregistrierung genutzt.
