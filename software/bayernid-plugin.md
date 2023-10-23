@@ -6,9 +6,9 @@ code: https://github.com/it-at-m/BayernID-Plugin
 logo: https://id.bayernportal.de/cms/assets/images/64/BayernID_Icon-rund.625c9ab7.svg
 licensingmodel: open source
 tags:
-- server
+- infrastruktur
 - eigenentwicklung
-- keycloak
+- application
 - start2021
 ---
 

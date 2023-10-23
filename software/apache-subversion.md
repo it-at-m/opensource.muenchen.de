@@ -6,6 +6,6 @@ developerlink: https://subversion.apache.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 Apache Subversion (SVN) ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen.

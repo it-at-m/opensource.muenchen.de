@@ -7,10 +7,9 @@ licensingmodel: open source
 linkapplication: https://opendata.muenchen.de
 logo: /ckan_logo.svg
 tags:
-- opengovernment
-- server
+- application
+- infrastruktur
 - kooperation
-- support
 ---
 
 __CKAN__ (Comprehensive Knowledge Archive Network) ist eine webbasierte Datenkatalog-Software, die insbesondere von öffentlichen Einrichtungen für das Teilen „offener Daten“ verwendet wird, die von der [OKFN](https://okfn.org) weiterentwickelt wird.

@@ -7,9 +7,9 @@ licensingmodel: open source
 linkapplication: null
 logo: /320px-GitLab_logo.svg.png
 tags:
-- server
+- infrastruktur
 - opencore
-- cicd
+- development
 ---
 GitLab ist eine Versionsverwaltung für Softwareprojekte und Devops Plattform.
 

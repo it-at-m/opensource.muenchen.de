@@ -6,6 +6,6 @@ developerlink: https://filezilla-project.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 FTP-Client zur Dateiübertragung."

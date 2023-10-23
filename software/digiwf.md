@@ -12,8 +12,7 @@ screenshot: https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/i
 logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung
-- server
-- openshift
+- application
 - start2021
 sortingPriority: 2
 ---

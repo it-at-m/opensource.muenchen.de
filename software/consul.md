@@ -9,8 +9,8 @@ license: AGPL
 linkapplication: https://unser.muenchen.de
 logo: /consul_logo.png
 tags:
-- server
-- opengovernment
+- infrastruktur
+- application
 - start2021
 - support
 ---

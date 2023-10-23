@@ -6,6 +6,6 @@ developerlink: http://www.collectiveaccess.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 Museumsmanagementsystem: System zur Verwaltung der Sammlungsobjekte der Museen

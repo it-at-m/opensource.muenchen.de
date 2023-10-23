@@ -6,6 +6,6 @@ developerlink: https://keepass.info/
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 KeePass ist ein Open-Source-Passwortmanager.

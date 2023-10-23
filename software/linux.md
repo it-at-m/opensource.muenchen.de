@@ -3,7 +3,7 @@ application: Linux
 licensingmodel: open source
 logo: /100px-Tux.svg.png
 tags:
-- server
+- infrastruktur
 - support
 - infrastruktur
 ---

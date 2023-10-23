@@ -6,8 +6,8 @@ licensingmodel: open source
 license: MIT
 tags: 
 - eigenentwicklung
-- server
-- keycloak
+- infrastruktur
+- application
 - start2023
 ---
 

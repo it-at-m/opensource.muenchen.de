@@ -6,7 +6,7 @@ developerlink: https://maven.apache.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
-- cicd
+- infrastruktur
+- infrastruktur
 ---
 Maven ist ein Build-Management-Tool der Apache Software Foundation und basiert auf Java. Mit ihm kann man insbesondere Java-Programme standardisiert erstellen und verwalten.

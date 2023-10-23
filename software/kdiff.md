@@ -6,6 +6,6 @@ developerlink: http://kdiff3.sourceforge.net/
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 KDiff3 ist eine KDE-Anwendung zum Vergleich und zur Synchronisierung von Verzeichnissen.

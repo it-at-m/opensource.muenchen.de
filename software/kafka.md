@@ -6,7 +6,7 @@ licensingmodel: open source
 license: GPL
 logo: /80px-Apache_kafka.svg.png
 tags:
-- server
+- infrastruktur
 - support
 ---
 Apache Kafka ist eine freie Software der Apache Software Foundation, die insbesondere zur Verarbeitung von Datenströmen dient.

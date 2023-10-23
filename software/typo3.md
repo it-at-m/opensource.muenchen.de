@@ -5,8 +5,8 @@ developerlink: https://typo3.org
 licensingmodel: open source
 linkapplication: 
 tags:
-- server
-- cms
+- infrastruktur
+- application
 ---
 
 __TYPO3__ ist ein freies Content-Management-System für Websites.

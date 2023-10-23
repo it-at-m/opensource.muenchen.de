@@ -7,9 +7,9 @@ licensingmodel: open source
 license: MIT
 screenshot: /DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
 tags:
+- application
 - eigenentwicklung
-- server
-- openshift 
+- infrastruktur
 - start2021
 sortingPriority: 3
 ---

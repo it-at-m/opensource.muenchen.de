@@ -7,7 +7,7 @@ licensingmodel: open source
 linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
 tags: 
 - eigenentwicklung
-- server
+- application
 - kooperation
 - start2021
 sortingPriority: 2

@@ -4,7 +4,7 @@ developerlink: https://zammad.org
 licensingmodel: open source
 logo: /320px-Logo-zammad.svg.png
 tags:
-- server
+- infrastruktur
 - support
 - start2023
 ---

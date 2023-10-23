@@ -8,7 +8,7 @@ license: MIT
 screenshot: /Kinderzeit_screenshot.jpg
 tags:
 - eigenentwicklung
-- server
+- application
 - start2022
 ---
 

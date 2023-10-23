@@ -6,6 +6,6 @@ developerlink: https://scidavis.sourceforge.net/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 Freie Software zur Visualisierung und Analyse von Messwerten.

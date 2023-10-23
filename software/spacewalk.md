@@ -6,6 +6,6 @@ developerlink: https://fedorahosted.org/spacewalk/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 In Spacewalk werden Software Repositories (Installationsdateien) verwaltet.

@@ -6,6 +6,6 @@ developerlink: https://www.aok.de/fk/tools/
 licensingmodel: open core
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 Unterstützung für die Kostenabrechnungen der AOK im Bereich SGB XII 

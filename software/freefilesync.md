@@ -6,6 +6,6 @@ developerlink: https://freefilesync.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 FreeFileSync ist ein kostenloses Open-Source-Programm zur Dateisynchronisierung. Es ist unter Windows, Linux und OS X verfügbar.

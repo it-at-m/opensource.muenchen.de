@@ -6,6 +6,6 @@ developerlink: https://www.freeplane.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 Freemind ist ein Werkzeug zum Zeichnen von Mind Maps. 

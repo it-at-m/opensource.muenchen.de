@@ -6,7 +6,7 @@ developerlink: https://owncloud.com/de/
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 "Basiskomponente Datenaustausplattform (DAP)
 Austausch von größeren, nicht-vertraulichen Dateien mit externen Personen."

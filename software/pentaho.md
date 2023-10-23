@@ -6,6 +6,6 @@ developerlink: https://www.hitachivantara.com/de-de/products/data-management-ana
 licensingmodel: open source
 linkapplication: null
 tags:
-- server
+- infrastruktur
 ---
 Pentaho ist eine Sammlung von Business-Intelligence-Software, die in einer Basisversion Open Source ist. 

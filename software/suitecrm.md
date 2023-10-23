@@ -4,7 +4,7 @@ code: https://github.com/salesagility/SuiteCRM
 developerlink: https://suitecrm.com
 licensingmodel: open source
 tags:
-- server
+- infrastruktur
 ---
 __SuiteCRM__ ist ein freies Customer-Relationship-Management-Anwendung für Server, die in PHP geschrieben sind.
 

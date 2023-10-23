@@ -6,8 +6,6 @@ licensingmodel: open source
 license: MIT
 tags:
   - eigenentwicklung
-  - server
-  - openshift
   - start2023
 ---
 

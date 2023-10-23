@@ -6,6 +6,6 @@ developerlink: https://www.videolan.org/vlc/index.de.html
 licensingmodel: open source
 linkapplication: null
 tags:
-- client
+- application
 ---
 Player zur Wiedergabe von Videos. Bietet zahlreiche Codec-Unterstützungen an.
