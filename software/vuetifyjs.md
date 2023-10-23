@@ -5,11 +5,9 @@ licensingmodel: open source
 logo: /vuetify-logo-300.png
 tags:
 - foss
-- sponsor
-- refarchinfrastruktur
-- start2022
+- development
 ---
-Vuetify ist eine UI-Bibliothek ohne Designkenntnisse mit wunderschön handgefertigten Vue-Komponenten.
+__Vuetify__ ist eine UI-Bibliothek für Vue-Komponenten in [Material Design](https://m3.material.io).
 In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../publish) genutzt.
 
 Da wir hier massiv von der Arbeit von Vuetify profitieren und sicherstellen wollen das Vuetify weiterhin mit so hoher Qualität 

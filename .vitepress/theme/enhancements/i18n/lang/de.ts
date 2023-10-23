@@ -6,6 +6,7 @@ export const deMessages: localizedMessagesType = {
         cms: "CMS",
         client: "Client",
         eigenentwicklung: 'Eigenentwicklung',
+        development: "Development",
         foss: "FOSS",
         infrastruktur: "Infrastruktur",
         keycloak: "Keycloak",

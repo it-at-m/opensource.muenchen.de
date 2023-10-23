@@ -6,6 +6,7 @@ export const enMessages: localizedMessagesType = {
         cms: "CMS",
         client: "Client",
         eigenentwicklung: 'Inhouse',
+        development: "Development",
         foss: "FOSS",
         infrastruktur: "Infrastructure",
         keycloak: "Keycloak",
