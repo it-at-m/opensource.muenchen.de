@@ -12,13 +12,11 @@ Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht
 Man findet freie Software in nahezu allen modernen Softwareprodukten.
 Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unbestreitbar.
 
-## E- und Open Government
+## Applikationen
 
-Die Landeshauptstadt München betreibt zahlreiche Aufgabenfelder.
-Zum Kernbereich des kommunalen Handeln zählt die Partizipation mit der Stadtgesellschaft.
-Im E- und Open Government wird besonders häufig Open Source eingesetzt.
+Die Landeshauptstadt München betreibt zahlreiche Applikationen.
 
-<TagTile :tag-names="['opengovernment']" />
+<TagTile :tag-names="['application']" />
 
 ## Infrastruktur
 
