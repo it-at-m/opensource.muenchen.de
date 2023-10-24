@@ -19,7 +19,7 @@ v-model="selectedFilters"
 />
 
 <TagTile
-:tag-names="selectedFilters"
+:filter="selectedFilters"
 show-tags
 />
 

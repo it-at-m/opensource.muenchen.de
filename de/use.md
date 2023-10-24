@@ -16,7 +16,7 @@ Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung s
 
 Die Landeshauptstadt München betreibt zahlreiche Anwendungen.
 
-<TagTile :tag-names="['application']" />
+<TagTile :available-tags="['application']" />
 
 ## Infrastruktur
 
@@ -26,4 +26,4 @@ Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größ
 Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an Services, bestehend aus etwa 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden.
 Dazu kommt alles, was für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig ist.
 
-<TagTile :tag-names="['infrastruktur']" />
+<TagTile :available-tags="['infrastruktur']" />

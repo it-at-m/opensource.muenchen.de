@@ -29,7 +29,7 @@ So unterschiedliche die Entwickler von Open Source Software sind, so unterschied
 Freie Software die wir häufig nutzen unterstützen wir finanziell.
 Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von freier Software gewährleistet bleibt und die Software weiterhin unseren Bedürfnissen entspricht.
 
-<TagTile :tag-names="['sponsor']" />
+<TagTile :available-tags="['sponsor']" />
 
 
 ### Support
@@ -43,7 +43,7 @@ Es ist jedoch zu beachten, dass Open-Source-Software professionell supportet wir
 Dies ist unerlässlich, um zeitnahe Sicherheitsupdates sicherzustellen und das Risiko von Support-Lücken zu minimieren, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
 Daher schließt die Stadt in der Regel Verträge mit Dienstleistern ab, die diesen Support liefern können.
 
-<TagTile :tag-names="['support']" />
+<TagTile :available-tags="['support']" />
 
 ### Open-Core
 
@@ -53,4 +53,4 @@ Es beinhaltet in erster Linie das Anbieten einer "Kernfunktionalität" oder eine
 Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
 
-<TagTile :tag-names="['opencore']" />
+<TagTile :available-tags="['opencore']" />
