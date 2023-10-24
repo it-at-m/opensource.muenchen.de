@@ -4,7 +4,7 @@
 ## 2023
 
 <TagTile 
-:tag-names="['start2023']"
+:available-tags="['start2023']"
 show-tags
 show-excerpt
 />
@@ -12,7 +12,7 @@ show-excerpt
 ## 2022
 
 <TagTile 
-:tag-names="['start2022']"
+:available-tags="['start2022']"
 show-tags
 show-excerpt
 />
@@ -20,7 +20,7 @@ show-excerpt
 ## 2021
 
 <TagTile 
-:tag-names="['start2021']"
+:available-tags="['start2021']"
 show-tags
 show-excerpt
 />
@@ -38,7 +38,7 @@ show-excerpt
 />
 
 <TagTile 
-  :tag-names="selectedFilters"
+  :filter="selectedFilters"
   show-tags
   show-excerpt
 />

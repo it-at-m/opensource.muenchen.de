@@ -5,7 +5,8 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 import TagFilter from "../.vitepress/components/TagFilter.vue";
 import { ref } from 'vue';
 
-const selectedFilters = ref(['eigenentwicklung'])
+const selectedFilters = ref([]);
+const availableTags = ref(['eigenentwicklung', 'kooperation']);
 </script>
 
 
@@ -44,11 +45,12 @@ Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklunge
 
 <TagFilter
   v-model="selectedFilters"
-  :available-tags="['eigenentwicklung', 'kooperation']"
+  :available-tags="availableTags"
 />
 
 <TagTile 
-  :tag-names="selectedFilters"
+  :filter="selectedFilters"
+  :available-tags="availableTags"
   show-tags
   show-excerpt
 />

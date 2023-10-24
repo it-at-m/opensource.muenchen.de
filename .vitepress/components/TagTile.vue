@@ -16,7 +16,7 @@
                             class="card-title"
                     >
                         <software-image-avatar
-                            :frontmatter="page.frontmatter"
+                                :frontmatter="page.frontmatter"
                         />
 
                         <span
@@ -32,7 +32,7 @@
                     <div v-if="showTags" style="border-bottom: 1px solid lightgray; width: 100%;"></div>
                     <div v-if="showTags" style="padding-top: 12px; padding-bottom: 8px;">
                         <tag-chip-group
-                            :tags="page.frontmatter.tags"
+                                :tags="page.frontmatter.tags"
                         />
                     </div>
                 </v-card-text>
@@ -50,9 +50,13 @@ import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
 import TagChipGroup from "./TagChipGroup.vue";
 
 const props = defineProps({
-    tagNames: {
+    filter: {
         type: Array,
         default: []
+    },
+    availableTags: {
+        type: Array,
+        default: null
     },
     showTags: {
         type: Boolean,
@@ -65,28 +69,35 @@ const props = defineProps({
 })
 
 const pagesWithTags = computed(() => {
-    let pagesWithTags = [];
+    let filteredSoftware = [];
 
     for (let softwareEntry of data) {
         if (softwareEntry.frontmatter && softwareEntry.frontmatter.tags) {
-            if(props.tagNames.length > 0) {
-                if (props.tagNames.every(tag => softwareEntry.frontmatter.tags.includes(tag))) {
-                    pagesWithTags.push(softwareEntry);
+
+            if (
+                !props.availableTags ||
+                props.availableTags.length === 0 ||
+                softwareEntry.frontmatter.tags.some(node => props.availableTags.includes(node))
+            ) {
+                if (props.filter.length > 0) {
+                    if (props.filter.every(tag => softwareEntry.frontmatter.tags.includes(tag))) {
+                        filteredSoftware.push(softwareEntry);
+                    }
+                } else {
+                    // When no tags are given, show everything
+                    filteredSoftware.push(softwareEntry);
                 }
-            } else {
-                // When no tags are given, show everything
-                pagesWithTags.push(softwareEntry);
             }
         }
     }
 
     // Sort first by frontmatter-tag "sortingPriority"
     // and lexicographically second
-    pagesWithTags.sort((first, second) => {
+    filteredSoftware.sort((first, second) => {
         let sortPrioFirst = first.frontmatter.sortingPriority;
         let sortPrioSecond = second.frontmatter.sortingPriority;
-        if(sortPrioFirst && sortPrioSecond) {
-            if(sortPrioFirst === sortPrioSecond) {
+        if (sortPrioFirst && sortPrioSecond) {
+            if (sortPrioFirst === sortPrioSecond) {
                 first.url.localeCompare(second.url);
             } else {
                 return sortPrioFirst - sortPrioSecond;
@@ -96,11 +107,11 @@ const pagesWithTags = computed(() => {
         } else if (sortPrioSecond) {
             return 1;
         } else {
-                first.url.localeCompare(second.url);
+            first.url.localeCompare(second.url);
         }
     });
 
-    return pagesWithTags;
+    return filteredSoftware;
 });
 
 </script>

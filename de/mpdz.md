@@ -8,7 +8,7 @@ Die Plattform ebnet der Landeshauptstadt München den Weg in die digitale Zukunf
 
 Das MPDZ nutzt folgende Komponenten:
 
-<TagTile :tag-names="['mpdz']" />
+<TagTile :available-tags="['mpdz']" />
 
 
 <script setup>
