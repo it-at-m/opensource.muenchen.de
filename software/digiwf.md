@@ -9,6 +9,7 @@ licensingmodel: open source
 license: MIT
 linkapplication: null
 screenshot: https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png
+screenshotalt: 'Screenshot eines digitalen Reisantrags mit den Eingabfeldern\: Art der Reise, Reisende und Veranstaltungsort'
 logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung

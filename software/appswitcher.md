@@ -5,6 +5,7 @@ code: https://github.com/it-at-m/appswitcher-server
 licensingmodel: open source
 license: MIT
 screenshot: https://raw.githubusercontent.com/it-at-m/appswitcher-server/main/docs/embedded_in_applications.png
+screenshotalt: 'Screenshot einer Webseite mit dem abgeschnittenen Überschrift "kita einrich", rechts oben darüber gelegt ein Menu aus 9 Buttons'  
 tags:
   - eigenentwicklung
   - infrastruktur

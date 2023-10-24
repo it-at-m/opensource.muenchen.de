@@ -6,6 +6,7 @@ codelinktext: github.com/it-at-m dave
 licensingmodel: open source
 license: MIT
 screenshot: /DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png
+screenshotalt: 'Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben'
 tags:
 - application
 - eigenentwicklung

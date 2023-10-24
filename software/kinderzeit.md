@@ -6,6 +6,7 @@ code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
 screenshot: /Kinderzeit_screenshot.jpg
+screenshotalt: 'Screenshot mit der Headline "Wilkommen Liebe Eltern", einem Kalenderblatt des Monats August und einer Programmübersicht'
 tags:
 - eigenentwicklung
 - application

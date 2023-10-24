@@ -7,6 +7,7 @@ codelinktext: github.com/it-at-m WC-Finder
 licensingmodel: open source
 license: MIT
 screenshot: /Inclus_Screenshot.jpg
+screenshotalt: 'Screenshot zeigt einen Ausschnitt aus dem Stadtplan München mit Detailinformationen zu einem WC Schrannenhalle'
 logo: https://inclus.de/logo192.png
 tags:
 - eigenentwicklung
@@ -33,8 +34,5 @@ Wählt man eine Toilette durch Anklicken auf der Landkarte aus, werden detaillie
 Die Gäste haben darüber hinaus selbst die Möglichkeit, eine Bewertung des Zustandes der Toilette zu hinterlassen.
 
 ## Technische Details
-
-Der Screenshot zeigt einen Ausschnitt aus dem Stadtplan München mit Detailinformationen zu einem WC Schrannenhalle
-Screenshot mit Detailinformationen zu einem WC
 
 Die Anwendung wurde in Zusammenarbeit mit der [Digital Product School](https://www.digitalproductschool.io) der UnternehmerTUM entwickelt und wird derzeit dort als Prototyp betrieben. Die Datengrundlage wurde vom Club Behinderter und ihrer Freunde e.V. erstellt und dem Projekt zur Verfügung gestellt.
