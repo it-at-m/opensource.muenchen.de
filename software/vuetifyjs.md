@@ -7,7 +7,7 @@ tags:
 - development
 - sponsor
 ---
-__Vuetify__ ist eine UI-Bibliothek für Vue-Komponenten in [Material Design](https://m3.material.io).
+__Vuetify__ ist eine UI-Bibliothek für [Vue](./vue.js.md)-Komponenten in [Material Design](https://m3.material.io).
 In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../publish) genutzt.
 
 Da wir hier massiv von der Arbeit von Vuetify profitieren und sicherstellen wollen das Vuetify weiterhin mit so hoher Qualität 
