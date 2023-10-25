@@ -14,6 +14,14 @@
     --muc-logo-filter: invert(1);
 }
 
+.dark .container .main .text {
+    color: white;
+}
+
+.dark .container .main .tagline {
+     color: #969399;
+}
+
 .is-home {
     background-image: var(--muc-background);
     background-attachment: fixed;
