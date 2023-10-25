@@ -5,14 +5,35 @@
     --vp-c-brand-3: var(--vp-c-brand-1);
     --vp-c-brand-soft: var(--vp-c-brand-1);
 
-    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/city_day.jpg");
+    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/city_day_2400.jpg");
     --muc-logo-filter: invert(0);
 }
 
 .dark {
-    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night.jpg");
+    --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night_2400.jpg");
     --muc-logo-filter: invert(1);
 }
+
+@media all and (max-width: 1920px) {
+    :root {
+        --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/city_day_1920.jpg");
+    }
+
+    .dark {
+        --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night_1920.jpg");
+    }
+}
+
+@media all and (max-width: 640px) {
+    :root {
+        --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/city_day_640.jpg");
+    }
+
+    .dark {
+        --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night_640.jpg");
+    }
+}
+
 
 .dark .container .main .text {
     color: white;
