@@ -2,7 +2,7 @@
 application: Vue.js
 developerlink: https://vuejs.org
 licensingmodel: open source
-logo: /public/277px-Vue.js_Logo_2.svg.png
+logo: /277px-Vue.js_Logo_2.svg.png
 tags:
 - development
 ---
