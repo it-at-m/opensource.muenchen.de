@@ -1,10 +1,10 @@
 ---
 Source: SNow
 application: digiCamControl
-developer: null
-developerlink: http://digicamcontrol.com/download
+developer: Duka Istvan
+developerlink: http://digicamcontrol.com
 licensingmodel: open source
-linkapplication: null
+code: https://github.com/dukus/digiCamControl
 tags:
 - application
 ---
