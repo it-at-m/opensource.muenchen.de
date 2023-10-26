@@ -40,6 +40,11 @@
     padding: 24px;
     border-radius: 12px;
 }
+.is-home .container .main,
+.is-home .container .item {
+    opacity: 85%;
+}
+
 .dark .container .main .text {
     color: white;
 }
