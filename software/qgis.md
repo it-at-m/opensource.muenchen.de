@@ -2,7 +2,7 @@
 Source: SNow
 application: QGIS
 developer: null
-developerlink: www.qgis.org
+developerlink: https://www.qgis.org
 licensingmodel: open source
 linkapplication: null
 tags:
