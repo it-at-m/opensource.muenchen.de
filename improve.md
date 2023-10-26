@@ -21,7 +21,7 @@ All contributions are created and contributed using our [github account as fork 
 ## Funding
 
 Even though open source software is free, development and maintenance must be paid for.
-Different [business models for open source software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software) enable secure and stable software and sponsor further development.  
+Different [business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) enable secure and stable software and sponsor further development.  
 As different as the developers of open source software are, the models for financing must also be different.
 
 ### Sponsoring
