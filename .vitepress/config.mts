@@ -68,7 +68,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Use', link: '/use' },
-      { text: 'Improve', link: '/contribute' },
+      { text: 'Contribute', link: '/contribute' },
       { text: 'Publish', link: '/publish' },
       { text: 'Overview', link: '/overview' },
       {text: 'Principles', link: '/principles'},
