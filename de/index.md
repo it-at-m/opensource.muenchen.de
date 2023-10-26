@@ -14,7 +14,7 @@ features:
     link: /de/use
   - title: Verbessern
     icon: 📈
-    details: "Nicht jede freie Software kann sofort und mit allen Sicheirheits- und Featureanforderungen genutzt werden. Wir helfen, Fehler zu beheben oder Features einzubringen."
+    details: "Nicht jede freie Software kann sofort und mit allen Sicherheits- und Featureanforderungen genutzt werden. Wir helfen, Fehler zu beheben oder Features einzubringen."
     link: /de/contribute
   - title: Veröffentlichen
     icon: 🚀
