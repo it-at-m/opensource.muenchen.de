@@ -30,7 +30,7 @@ export default defineConfig({
         nav: [
           {text: 'Start', link: '/de/'},
           {text: 'Nutzen', link: '/de/use'},
-          {text: 'Verbessern', link: '/de/contribute'},
+          {text: 'Verbessern', link: '/de/improve'},
           {text: 'Veröffentlichen', link: '/de/publish'},
           {text: 'Übersicht', link: '/de/overview' },
           {text: 'Grundlagen', link: '/de/principles'},
@@ -68,7 +68,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Use', link: '/use' },
-      { text: 'Contribute', link: '/contribute' },
+      { text: 'Improve', link: '/improve' },
       { text: 'Publish', link: '/publish' },
       { text: 'Overview', link: '/overview' },
       {text: 'Principles', link: '/principles'},
