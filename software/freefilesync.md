@@ -2,9 +2,8 @@
 Source: SNow
 application: FreeFileSync
 developer: null
-developerlink: https://freefilesync.org/
+developerlink: https://freefilesync.org
 licensingmodel: open source
-linkapplication: null
 tags:
 - application
 ---

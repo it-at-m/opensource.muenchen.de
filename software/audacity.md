@@ -1,10 +1,10 @@
 ---
 Source: SNow
 application: Audacity
-developer: null
-developerlink: https://www.audacityteam.org/
+developer: Audacity Team
+developerlink: https://www.audacityteam.org
+code: https://github.com/audacity
 licensingmodel: open source
-linkapplication: null
 tags:
 - application
 ---
