@@ -35,7 +35,11 @@
     }
 }
 
-
+.dark .is-home .container .main {
+    background-color: #202127;
+    padding: 24px;
+    border-radius: 12px;
+}
 .dark .container .main .text {
     color: white;
 }
