@@ -10,6 +10,7 @@
 }
 
 .dark {
+    --vp-c-brand-1: #b3d0e7;
     --muc-background: url("https://it-at-m.github.io/opensource.muenchen.de/assets/backgrounds/wheel_night_2400.jpg");
     --muc-logo-filter: invert(1);
 }
