@@ -7,6 +7,7 @@ licensingmodel: open source
 licence: GPL
 tags:
 - application
+- support
 ---
 
-__Nuclos__ ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere Finanzplanung Planung durchführen.
+__Nuclos__ ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere gesamte interne Finanzplanung durchführen.
