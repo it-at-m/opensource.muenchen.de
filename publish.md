@@ -24,7 +24,7 @@ _from City Council resolution [Develop new software in an open source context!](
 
 The City of Munich contributes to the give and take of public administration through the use of open source software.
 Open source is the basis for the exchange of what has already been achieved.
-Within the public administration, this exchange can serve both to support reuse in the sense of the EfA[^1] principle and to contribute to standardization through wider dissemination.
+Within the public administration, this exchange can serve both to support reuse in the sense of the EfA[^efa] principle and to contribute to standardization through wider dissemination.
 Outside the public administration, it serves transparency as well as exchange with the business community.
 
 ## Reference Architecture for in-house development
@@ -55,4 +55,4 @@ On the other hand, the City of Munich will publish all of its own developments o
 
 </ClientOnly>
 
-[^1]: "Einer für Alle"
+[^efa]: "Einer für Alle"

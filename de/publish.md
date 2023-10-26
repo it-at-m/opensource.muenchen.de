@@ -26,7 +26,7 @@ _aus Stadtrats-Beschluss [Neue Software im Open Source-Kontext entwickeln!](http
 
 Die Landeshauptstadt München trägt durch die Nutzung von Open-Source-Software zum Geben und Nehmen im Bereich der öffentlichen Verwaltung bei.
 Open Source ist die Grundlage für den Austausch von bereits Erreichtem.
-Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA[^1] Prinzips zu unterstützen als auch durch eine größere Verbreitung zur Standardisierung beizutragen.
+Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA[^efa] Prinzips zu unterstützen als auch durch eine größere Verbreitung zur Standardisierung beizutragen.
 Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austausch mit der Wirtschaft.
 
 
@@ -57,4 +57,4 @@ Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklunge
 
 </ClientOnly>
 
-[^1]: "Einer für Alle"
+[^efa]: "Einer für Alle"
