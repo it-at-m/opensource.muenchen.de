@@ -24,7 +24,7 @@ Auch DAVe entstand als Softwareeigenentwicklung auf Basis der Open Source Landes
 Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fachanwendung DAVe (kurz: Datenbank und Auswertung von Verkehrszählungen) eingesehen werden. Zur Auswertung werden verschieden Diagramme angeboten, die bei Bedarf auch als PDF-Report heruntergeladen werden können. Weitere Zählstellen sowie neue Verkehrszählungen können angelegt und in direkter Kommunikation mit dem Zähldienstleister beauftragt werden.
 Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
-![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png)
+![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/DAVE_Grafik_Belastungsplan_verkehr.png)
 
 
 ## Technische Details
