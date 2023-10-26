@@ -16,10 +16,9 @@ defineProps({
 <template>
     <div
         v-if="frontmatter.licensingmodel"
-        :class="'infobox'"
+        :class="'infobox ' + (horizontal ? 'horizontal' : '')"
     >
         <img v-if="frontmatter.logo" :alt="'Logo ' + frontmatter.application" :src="withBase(frontmatter.logo)"/>
-        <img v-if="frontmatter.screenshot" :alt="frontmatter.screenshotalt" :src="withBase(frontmatter.screenshot)"/>
         <div class="infos">
             <v-btn
                     v-if="frontmatter.code"

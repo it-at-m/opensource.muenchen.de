@@ -8,8 +8,6 @@ codelinktext: github.com/it-at-m/digiwf-core/
 licensingmodel: open source
 license: MIT
 linkapplication: null
-screenshot: https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png
-screenshotalt: 'Screenshot eines digitalen Reisantrags mit den Eingabfeldern\: Art der Reise, Reisende und Veranstaltungsort'
 logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung
@@ -30,6 +28,9 @@ Damit steht den Anwender*innen eine Plattform zur Verfügung, mit der sie über 
 
 Die Plattform sorgt dafür, dass Aufgaben in einem Geschäftsprozess in der richtigen Reihenfolge abgearbeitet werden und dass die notwendigen Informationen digital an der richtigen Stelle zur Verfügung stehen.
 Darüber hinaus stellt DigiWF auch Kennzahlen zu Workflow-Ausführungen bereit und unterstützt so die kontinuierliche Verbesserung von Prozessen.
+
+![Screenshot eines digitalen Reisantrags mit den Eingabfeldern\: Art der Reise, Reisende und Veranstaltungsort](https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png)
+
 
 ## Technische Details
 

@@ -5,7 +5,6 @@ code: https://github.com/orgs/it-at-m/repositories?q=kobit&type=source
 codelinktext: github.com/it-at-m kobit
 licensingmodel: open source
 license: MIT
-screenshot: /KoBITApp_screenshot.jpg
 logo: https://user-images.githubusercontent.com/53316058/216995779-d246b9ee-69f7-4caf-950e-4de3773b8b3d.PNG
 tags:
 - eigenentwicklung
@@ -31,6 +30,8 @@ Die Anwendung als "digitale Anlaufstelle" hat das Ziel
 Auf der Plattform sind alle Expert*innen zu einem Thema oder auch alle Angebote für eine Zielgruppe abgebildet; in diesem Fall rund um das Thema „Umgang mit Konflikten“.
 
 KoBIT ist user-zentriert und modular konzipiert. Das bedeutet, die Anwendung kann sowohl auf andere Bereiche der Stadtverwaltung ausgeweitet und speziell auf diese zugeschnitten als auch auf andere Themengebiete adaptiert werden.
+
+![Screenshot der Kobit Starseite mit der Überschrift Konfliktbegleitung mit IT-Unterstützung - die Kobit App](/KoBITApp_screenshot.jpg)
 
 ## Technische Details
 

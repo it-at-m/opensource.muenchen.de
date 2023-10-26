@@ -5,8 +5,6 @@ developerlink: https://kiwi.muenchen.de
 licensingmodel: open source
 linkapplication: null
 code: https://github.com/it-at-m/KiwiDemo
-screenshot: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/___KIWI_Ansicht2.5441346419426010922.jpg/jcr:content/___KIWI_Ansicht2.5441346419426010922.jpg
-screenshotalt: 'Screenshot eines Eingabefelds mit dem Buchstaben "O"" und eines Suchergebnisfeld mit den diakritischen Varianten "óòŏôốồỗổ..."'
 tags:
 - application
 - eigenentwicklung
@@ -25,6 +23,9 @@ Kiwi (Kinderleicht Wortbestandteile integrieren) ist eine Eingabehilfe, welche d
 
 
 Kiwi macht alle Zeichen aus dem Zeichensatz Lateinische Zeichen in UNICODE leicht auffindbar und eingebbar. In Kiwi können mittels herkömmlicher Tastatur zum Beispiel Namen mit diakritischen Zeichen einfach eingegeben und dann mittels Copy & Paste in beliebige (Fach-)Anwendungen übernommen werden. Der Zeichensatz Lateinische Zeichen in UNICODE ist insbesondere für Namen natürlicher und juristischer Personen sowie bei Adressen relevant.
+
+![Screenshot eines Eingabefelds mit dem Buchstaben "O"" und eines Suchergebnisfeld mit den diakritischen Varianten "óòŏôốồỗổ..."]( https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/IT-Referat/Open-Source/___KIWI_Ansicht2.5441346419426010922.jpg/jcr:content/___KIWI_Ansicht2.5441346419426010922.jpg)
+
 
 ## Technische Details
 

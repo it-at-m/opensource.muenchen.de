@@ -11,8 +11,6 @@ tags:
 - kooperation
 - start2021
 sortingPriority: 2
-screenshot: /terminvereinbarung_symbolbild.jpeg
-screenshotalt: "Eine Hand die ein ipad hält, auf diesem ist ein Kalenderblatt dargestellt im Hintergrund ein Laptop"
 ---
 
 Die aktuelle Terminvereinbarung der Stadt München wird durch eine Open Source Anwendung (ZMS), die das Land Berlin zur Verfügung stellt, bis zum Jahr 2025 abgelöst.
@@ -35,6 +33,9 @@ Die Hauptmodule des ZMS sind:
     ein Sachbearbeiter*innen Client (Webanwendung), mit dem die Bürger*innen über Abrufanlagen zum Termin aufgerufen werden können
 
 Darüber hinaus bietet das System eine Administrations-Oberfläche für Teamleitungen zur Ressourcensteuerung. So können tagesaktuell je nach Verfügbarkeit mehr oder weniger Termine angeboten werden. Über ein Statistik-Modul besteht die Möglichkeit, Auswertung gebuchter Termine und Dienstleistungen (Reports) zu erstellen.
+
+![Eine Hand die ein ipad hält, auf diesem ist ein Kalenderblatt dargestellt im Hintergrund ein Laptop](/terminvereinbarung_symbolbild.jpeg)
+
 
 ## Technische Details
 
