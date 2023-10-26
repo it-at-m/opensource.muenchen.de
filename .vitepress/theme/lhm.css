@@ -44,6 +44,9 @@
 .is-home .container .item {
     opacity: 85%;
 }
+.is-home .container .item .details {
+    font-size: 15px;
+}
 
 .dark .container .main .text {
     color: white;
