@@ -12,7 +12,6 @@ The City of Munich uses open source software for many reasons.
 * Publicly available code can be easily reviewed for __security vulnerabilities__. Moreover, security vulnerabilities can be closed without the vendor. This is also the strategic position of the [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), as well as the [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource).
 * The __transparency__ about the software and its development creates trust in the population towards the administration.
 * Committed citizens can participate in __projects__ and thus contribute innovative ideas and reduce the required municipal budget. 
- 
 * Public Code generates positive public relations and contributes to our [recruitment marketing for IT professionals](https://karriere.muenchen.de/search/?optionsFacetsDD_customfield3=Informationstechnologie+%28IT%29+%26+Telekommunikation).
 
 ## Legal and political requirements
