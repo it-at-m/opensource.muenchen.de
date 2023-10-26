@@ -33,7 +33,7 @@ export default defineConfig({
           {text: 'Verbessern', link: '/de/contribute'},
           {text: 'Veröffentlichen', link: '/de/publish'},
           {text: 'Übersicht', link: '/de/overview' },
-          {text: 'Grundlagen', link: '/de/grundlagen'},
+          {text: 'Grundlagen', link: '/de/principles'},
         ],
 
         sidebar: [],
@@ -71,6 +71,7 @@ export default defineConfig({
       { text: 'Improve', link: '/contribute' },
       { text: 'Publish', link: '/publish' },
       { text: 'Overview', link: '/overview' },
+      {text: 'Principles', link: '/principles'},
     ],
 
     footer: {

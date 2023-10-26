@@ -8,9 +8,9 @@ const selectedFilters = ref([])
 
 # Overview
 
-A full overview of all the open source software that is used, improved and/or published by the Landeshauptstadt München.
+A complete overview of all open source software used, improved and/or published by the City of Munich.
 
-Feel free to filter by the available tags below.
+Feel free to use the filter function with the tags available below.
 
 <ClientOnly>
 

@@ -22,7 +22,7 @@ Dazu haben wir den Auftrag und Rückhalt der Politik:
 
 > Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
 
-_aus Stadtrats-Antrag [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
+_aus Stadtrats-Beschluss [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
 
 Die Landeshauptstadt München trägt durch die Nutzung von Open-Source-Software zum Geben und Nehmen im Bereich der öffentlichen Verwaltung bei.
 Open Source ist die Grundlage für den Austausch von bereits Erreichtem.
