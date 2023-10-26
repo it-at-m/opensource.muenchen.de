@@ -1,10 +1,8 @@
 ---
-Source: SNow
-application: UML-Werkzeug 'Modelio'
+application: Modelio
 developer: null
 developerlink: https://www.modelio.org
 licensingmodel: open source
-linkapplication: null
 tags:
 - application
 ---
