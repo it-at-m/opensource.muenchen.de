@@ -9,7 +9,7 @@ const availableTags = ref(['eigenentwicklung', 'kooperation']);
 
 # Publish
 
-If we cannot [use](./use.html) or [improve](./contribute.html) existing free software, we develop free software ourselves.
+If we cannot [use](./use) or [improve](./improve) existing free software, we develop free software ourselves.
 
 In-house software developments are mainly used when no solutions are available on the market or a very high degree of municipal differentiation is required, especially for specialized municipal applications.
 Since we make our own developments available as open source software, other organizations and developers can also benefit from our work and develop it further.
