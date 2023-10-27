@@ -6,7 +6,7 @@
                     v-for="(page, index) in pagesWithTags"
                     :key="index"
                     variant="flat"
-                    :href="withBase(page.url)"
+                    :href="withBase( '.' + page.url)"
                     class="card"
             >
                 <v-card-title
