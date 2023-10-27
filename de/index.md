@@ -15,7 +15,7 @@ features:
   - title: Verbessern
     icon: 📈
     details: "Nicht jede freie Software kann sofort und mit allen Sicherheits- und Featureanforderungen genutzt werden. Wir helfen, Fehler zu beheben oder Features einzubringen."
-    link: /de/contribute
+    link: /de/improve
   - title: Veröffentlichen
     icon: 🚀
     details: "Sollten wir existierende freie Software nicht nutzen oder verbessern können, so entwicklen wir selbst frei Software. Wenn wir uns entscheiden Software selbst zu entwicklen, passiert das offen und frei."

@@ -12,10 +12,10 @@ features:
     icon: 🛠
     details: "The Free Software ecosystem offers numerous solutions and applications. Modern IT is no longer possible without free software. We use free software products in many areas."
     link: /use
-  - title: Contribute
+  - title: Improve
     icon: 📈
     details: "Not all free software can be used immediately and with all security and feature requirements. We help fix bugs or add features."
-    link: /contribute
+    link: /improve
   - title: Publish
     icon: 🚀
     details: "If we cannot use or improve existing free software, we develop free software ourselves. If we decide to develop software ourselves, it happens openly and freely."
