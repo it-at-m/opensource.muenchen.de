@@ -4,9 +4,9 @@
 
 This repository is still a draft
 
-* [ ] update softwarelist
-* [ ] proof reading
-* [ ] translate everything from german to english
+* [x] update softwarelist
+* [x] proof reading
+* [x] translate everything from german to english
 * [ ] publish
 
 
