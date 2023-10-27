@@ -8,4 +8,4 @@ linkapplication: null
 tags:
 - application
 ---
-Verschlüsselungstool zur Verwaltung von verschlüsselten Containern im Fiieservice und Einbindung selbiger als Laufwerk auf dem Limux-Basisclient. 
+VeraCrypt ist eine quelloffene Software zur Datenverschlüsselung, insbesondere zur vollständigen oder partiellen Verschlüsselung von Festplatten und Wechseldatenträgern.
