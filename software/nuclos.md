@@ -5,7 +5,7 @@ developer: Novabit Informationssysteme GmbH
 developerlink: https://www.nuclos.de
 code: https://bitbucket.org/nuclos/workspace/repositories/
 licensingmodel: open source
-licence: GPL
+licence: AGPL
 tags:
 - application
 - support
