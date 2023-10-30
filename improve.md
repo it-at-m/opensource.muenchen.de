@@ -5,14 +5,14 @@ import TagTile from ".vitepress/components/TagTile.vue";
 
 # Improve
 
-Not all free software can be [used](./use.html) immediately and without restrictions, especially when it comes to security and feature requirements.
+Not all free software can be [used](./use) immediately and without restrictions, especially when it comes to security and feature requirements.
 This is where the advantage of free software lies:
 It allows people to improve the software and actively participate in fixing bugs and implementing new features.
 In this way, free software can be continuously developed and adapted to the needs of users.
 
 ## Code Contributions
 
-Besides the [self-publications](./publish.html) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
+Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
 Contributions can take different forms and do not always have to include new features or bug fixes.
 Also the correction or update of documentation can be a valuable contribution.
 

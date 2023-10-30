@@ -5,7 +5,7 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 # Verbessern
 
-Nicht jede freie Software kann sofort und ohne Einschränkungen [genutzt](./use.html) werden, insbesondere wenn es um Sicherheits- und Featureanforderungen geht.
+Nicht jede freie Software kann sofort und ohne Einschränkungen [genutzt](./use) werden, insbesondere wenn es um Sicherheits- und Featureanforderungen geht.
 Doch hier liegt der große Vorteil von freier Software:
 Sie ermöglicht es, aktiv an der Verbesserung von Software mitzuarbeiten und Fehler zu beheben sowie neue Features zu implementieren.
 Auf diese Weise kann freie Software kontinuierlich weiterentwickelt werden und den Bedürfnissen der Nutzer angepasst werden.
@@ -13,7 +13,7 @@ Auf diese Weise kann freie Software kontinuierlich weiterentwickelt werden und d
 
 ## Code Contributions
 
-Neben den [Eigenveröffentlichungen](./publish.html) der Landeshauptstadt München tragen wir auch durch __Contributions__ zu anderen FOSS-Projekten bei.
+Neben den [Eigenveröffentlichungen](./publish) der Landeshauptstadt München tragen wir auch durch __Contributions__ zu anderen FOSS-Projekten bei.
 Contributions können dabei unterschiedliche Formen haben und müssen nicht immer neue Features oder Bugfixes beinhalten.
 Auch die Korrektur oder Fortschreibung von Dokumentationen kann einen wertvollen Beitrag leisten.
 
