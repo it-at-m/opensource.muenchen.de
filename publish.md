@@ -29,12 +29,12 @@ Outside the public administration, it serves transparency as well as exchange wi
 
 ## Reference Architecture for in-house development
 
-The guideline "Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen" defines the technical structure of self-developed software.
-We use a modular technology stack to deploy from open source components:
-This allows components to be easily replaced and updated, which improves the maintainability and scalability of the software.  
-Open source thus plays a major role in the reference architecture for in-house developments in two ways:
-On the one hand, we rely on a 100% open source stack, as explained above.
-On the other hand, the City of Munich will publish all of its own developments on the basis of an open source license.
+The guideline "City of Munich Reference Architecture for Self-Developed Software" defines the technical structure of self-developed software.
+To ensure optimal maintainability and scalability of the software, we rely on a modular technology stack of open source components.
+This allows us to easily exchange and update components.
+Open source plays a dual role in the reference architecture for in-house developments:
+On the one hand, as explained above, we rely on a 100% open source stack.
+On the other hand, however, the City of Munich will publish all in-house developments on the basis of an open source license.
 
 
 ## Overview

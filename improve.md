@@ -12,7 +12,7 @@ In this way, free software can be continuously developed and adapted to the need
 
 ## Code Contributions
 
-Besides the [self-publications](./publish.html) of LHM, we also contribute to other FOSS projects through __Contributions__.
+Besides the [self-publications](./publish.html) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
 Contributions can take different forms and do not always have to include new features or bug fixes.
 Also the correction or update of documentation can be a valuable contribution.
 
@@ -22,7 +22,8 @@ All contributions are created and contributed using our [github account as fork 
 
 Even though open source software is free, development and maintenance must be paid for.
 Different [business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) enable secure and stable software and sponsor further development.  
-As different as the developers of open source software are, the models for financing must also be different.
+These business models can vary widely depending on the developer and use case, and range from providing support and training to developing customized solutions for customers.
+
 
 ### Sponsoring
 
@@ -47,7 +48,7 @@ Therefore, the City typically contracts with service providers who can deliver t
 ### Open Core
 
 The open-core model is a business model for financing commercially produced open-source software.
-It primarily involves offering a "core" or functionally limited version of a software product as free and open source software, while offering "commercial" versions or add-ons as proprietary software.
+Here, a "core functionality" or functionally limited version of the software product is offered as free and open source software, while commercial versions or add-ons are available as proprietary software.
 
 As the city of Munich, we use this model to test software faster and promote the FOSS ecosystem.
 By being independent from a single vendor, we avoid financial dependencies and can run the software independently.
