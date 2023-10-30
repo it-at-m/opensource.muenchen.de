@@ -1,5 +1,4 @@
 ---
-Source: SNow
 application: Firefox
 developer: null
 developerlink: https://www.mozilla.org/de/firefox/new/
@@ -8,4 +7,4 @@ linkapplication: null
 tags:
 - application
 ---
-Mozilla Firefox
+Mozilla Firefox is a free web browser installed on all city devices.
