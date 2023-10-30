@@ -68,6 +68,16 @@
     background: var(--vp-nav-bg-color);
     border-bottom: none;
 }
+.VPNav div.logo a img {
+  min-width: 169px;
+}
+
+@media all and (max-width: 450px){
+    .VPNav div.logo a {
+      overflow: hidden;
+      width: 25px;
+    }
+}
 
 @media all and (max-width: 768px){
 
