@@ -7,6 +7,7 @@
     >
         <v-img
                 v-if="frontmatter && frontmatter.logo"
+                :alt="frontmatter.application + ' logo'"
                 :src="withBase(frontmatter.logo)"
         />
         <span
