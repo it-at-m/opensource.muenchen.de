@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: 7-Zip
-developer: null
 developerlink: https://www.7-zip.de/
 licensingmodel: open source
-linkapplication: null
+logo: /320px-7ziplogo.svg.png
 tags:
 - application
 ---
