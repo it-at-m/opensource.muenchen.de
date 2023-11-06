@@ -9,8 +9,8 @@ tags:
 ---
 __Ansible__ is a free automation tool for orchestration and configuration and administration of servers.
 
+---
 
 Together with the free [Katello](/software/katello), Ansible forms our central system management.
 
 
----

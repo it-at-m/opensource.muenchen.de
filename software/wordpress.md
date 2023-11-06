@@ -9,8 +9,6 @@ tags:
 - application
 ---
 __WordPress__ is the most used free content management system (CMS) on the [Internet](https://trends.builtwith.com/cms).
-Also in the city of Munich Wordpress is used for numerous web presences, but also functional ones like our event registration.
-
 
 ---
 

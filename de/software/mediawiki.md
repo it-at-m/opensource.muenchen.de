@@ -12,4 +12,6 @@ MediaWiki ist ein freies Softwarepaket zum Betrieb eines Wikis, das ursprünglic
 
 ---
 
-Es ist das Wikisystem aller von der Wikimedia Foundation betriebenen Wikis sowie vieler anderer Wikis. Bei der LHM werden für viele Referate einzelne Wiki-Instanzen gehostet. 
+Es ist das Wikisystem aller von der Wikimedia Foundation betriebenen Wikis sowie vieler anderer Wikis.
+
+Bei der LHM werden für viele Referate einzelne Wiki-Instanzen gehostet. 

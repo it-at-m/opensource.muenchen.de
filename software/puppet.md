@@ -7,6 +7,8 @@ linkapplication: null
 tags:
 - infrastruktur
 ---
-Puppet is a tool for configuration management of servers with operating systems such as Unix, Linux and FreeBSD. An IT administrator can use it to centrally manage the configuration of computers in his network.
+__Puppet__ is a tool for configuration management of servers with operating systems such as Unix, Linux and FreeBSD. 
 
 ---
+
+An IT administrator can use it to centrally manage the configuration of computers in his network.

@@ -8,6 +8,8 @@ linkapplication: null
 tags:
 - application
 ---
-PuTTY is a free software for establishing connections via Secure Shell, Telnet, remote login or serial interfaces. PuTTY serves as a client and establishes the connection to a server. 
+PuTTY is a free software for establishing connections via Secure Shell, Telnet, remote login or serial interfaces.
 
 ---
+
+PuTTY serves as a client and establishes the connection to a server. 

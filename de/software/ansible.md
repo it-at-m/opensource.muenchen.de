@@ -9,8 +9,8 @@ tags:
 ---
 __Ansible__ ist ein  freies Automatisierungswerkzeug zur Orchestrierung und Konfiguration und Administration von Servern.
 
+---
 
 Zusamen mit dem freien [Katello](/software/katello) bildet Ansible unser zentrales Systemmanagement.
 
 
----

@@ -9,8 +9,6 @@ tags:
 - application
 ---
 __WordPress__ ist das meist genutzte freies Content-Management-System (CMS) im [Internet](https://trends.builtwith.com/cms).
-Auch in der Stadt München wird Wordpress für zahlreiche Webauftritte, aber auch funktionale wie unsere Veranstaltungsregistrierung genutzt.
-
 
 ---
 
