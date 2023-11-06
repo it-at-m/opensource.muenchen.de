@@ -21,6 +21,7 @@ v-model="selectedFilters"
 <TagTile
 :filter="selectedFilters"
 show-tags
+show-excerpt
 />
 
 </ClientOnly>
