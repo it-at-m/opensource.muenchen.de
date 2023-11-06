@@ -9,6 +9,9 @@ tags:
 
 __SuiteCRM__ is a free customer relationship management application for servers written in PHP.
 
+
+---
+
 LHM uses SuiteCRM for two facilities:
 
 * As address data management for the [Jewish Museum](https://juedisches-museum-muenchen.de).

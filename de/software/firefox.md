@@ -8,3 +8,5 @@ tags:
 - application
 ---
 Mozilla Firefox ist ein freier Webbrowser der auf allen städtischen Geräten installiert ist.
+
+---

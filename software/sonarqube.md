@@ -9,3 +9,5 @@ tags:
 - development
 ---
 __SonarQube__ is a platform for static analysis and evaluation of the technical quality of source code.
+
+---

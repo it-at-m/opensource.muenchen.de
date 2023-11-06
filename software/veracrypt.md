@@ -9,3 +9,5 @@ tags:
 - application
 ---
 VeraCrypt is an open source software for data encryption, especially for full or partial encryption of hard disks and removable media.
+
+---

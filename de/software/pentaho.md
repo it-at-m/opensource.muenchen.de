@@ -9,3 +9,5 @@ tags:
 - application
 ---
 Pentaho ist eine Sammlung von Business-Intelligence-Software, die in einer Basisversion Open Source ist. 
+
+---

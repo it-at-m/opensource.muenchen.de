@@ -9,3 +9,5 @@ tags:
 - infrastruktur
 ---
 pgAdmin ist eine serverbasierte Webanwendung zur Administration von Postgres Datenbanken.
+
+---

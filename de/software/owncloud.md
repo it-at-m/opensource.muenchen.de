@@ -13,6 +13,9 @@ __ownCloud__ ist eine freie Software die das Speichern und Verteilen von Daten o
 Auf die Daten kann man sowohl über eine Weboberfläche als auch mit Client-Applikationen zugreifen kann. 
 
 
+---
+
+
 Die Landeshauptstadt München nutzt ownCloud in unterschiedlichen Einsatzgebieten:
 
 * Basiskomponente Datenaustausplattform (DAP) zum Austausch von größeren, nicht-vertraulichen Dateien mit externen Personen.

@@ -14,6 +14,8 @@ tags:
 __CKAN__ (Comprehensive Knowledge Archive Network) is a web-based data catalog software used especially by public institutions for sharing "open data", which is further developed by the [OKFN](https://okfn.org).
 We use CKAN in two projects:
 
+---
+
 The portal [opendata.muenchen.de](https://opendata.muenchen.de) publishes the open data offered by the state capital of Munich and offers it in a wide variety of visualizations.
 
 As part of the [Connected Urban Twins](https://www.connectedurbantwins.de) project (CUT), Munich is developing the digital twin together with Hamburg and Leipzig.

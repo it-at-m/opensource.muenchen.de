@@ -9,6 +9,10 @@ tags:
 - application
 ---
 TIBCO Jaspersoft® Studio ist eine Bearbeitungssoftware vom Hersteller TIBCO JasperReports®.      
+
+
+---
+
 Mit Jaspersoft® Studio ist der Benutzer in der Lage:      
 - eigene Berichtsvorlagen zu entwerfen und auszuführen      
 - eigene Berichtsabfragen zu erstellen      

@@ -13,6 +13,8 @@ __ownCloud__ is a free software that organizes the storage and distribution of d
 The data can be accessed both via a web interface and with client applications. 
 
 
+---
+
 The City of Munich uses ownCloud in different areas of application:
 
 * Basic component Data Exchange Platform (DAP) for sharing larger, non-confidential files with external parties.

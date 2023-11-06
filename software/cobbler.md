@@ -9,3 +9,5 @@ tags:
 - infrastruktur
 ---
 Cobbler is a tool for automated provisioning and installation of Linux based servers.
+
+---

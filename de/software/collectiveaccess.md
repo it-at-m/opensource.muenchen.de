@@ -9,3 +9,5 @@ tags:
 - application
 ---
 __CollectiveAccess__ ist eine Open-Source-Software zur Katalogisierung und Veröffentlichung von Museums- und Archivsammlungen.
+
+---
