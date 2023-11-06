@@ -16,7 +16,11 @@ The importance and influence of free software on software development is therefo
 The City of Munich operates a large number of applications that are used in various areas.
 These range from administrative applications for internal use to applications for citizens that facilitate access to public services.
 
-<TagTile :available-tags="['application']" />
+<TagTile
+:available-tags="['application']"
+show-tags
+show-excerpt
+/>
 
 ## Infrastructure
 
@@ -27,4 +31,8 @@ The City of Munich's own data center includes an extensive portfolio of central 
 In addition, all the necessary resources and services required to operate these applications and the underlying infrastructure are provided.
 
 
-<TagTile :available-tags="['infrastruktur']" />
+<TagTile
+:available-tags="['infrastruktur']" 
+show-tags
+show-excerpt
+/>
