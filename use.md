@@ -23,7 +23,7 @@ These range from administrative applications for internal use to applications fo
 The infrastructure needed to run and develop software applications has always been based on open source software.
 Linux, servers, databases, encryption and programming languages are mostly open source.
 
-The City of Munich's own data center includes an extensive portfolio of services, consisting of about 350 central specialized applications and central services hosted in the data center.
+The City of Munich's own data center includes an extensive portfolio of central specialist applications and services.
 In addition, all the necessary resources and services required to operate these applications and the underlying infrastructure are provided.
 
 

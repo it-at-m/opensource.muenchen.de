@@ -24,7 +24,7 @@ Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch 
 Die zum Betrieb und zur Entwicklung von Softwareanwendungen benötigte Infrastruktur basiert seit jeher auf Open Source Software.
 Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größtenteils Open Source.
 
-Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an Services, bestehend aus etwa 350 zentralen Fachanwendungen und zentralen Diensten, die im Rechenzentrum gehostet werden.
+Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an zentralen Fachanwendungen und Diensten.
 Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, die für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig sind.
 
 
