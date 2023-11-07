@@ -4,7 +4,7 @@ application: GOSA
 developer: null
 developerlink: https://github.com/gosa-project
 licensingmodel: open source
-linkapplication: null
+logo: /Gosa-logo2.png
 tags:
 - infrastruktur
 ---

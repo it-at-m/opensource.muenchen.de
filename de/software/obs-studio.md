@@ -2,9 +2,9 @@
 Source: SNow
 application: OBS Studio
 developer: null
-developerlink: https://obsproject.com/
+developerlink: https://obsproject.com
 licensingmodel: open source
-linkapplication: null
+logo: /240px-Open_Broadcaster_Software_Logo.png
 tags:
 - application
 ---

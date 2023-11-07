@@ -3,6 +3,7 @@ application: Modelio
 developer: null
 developerlink: https://www.modelio.org
 licensingmodel: open source
+logo: /Modelio-logo.jpg
 tags:
 - application
 ---

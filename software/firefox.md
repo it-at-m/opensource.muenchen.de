@@ -1,9 +1,9 @@
 ---
 application: Firefox
-developer: null
+developer: Mozilla
 developerlink: https://www.mozilla.org/de/firefox/new/
 licensingmodel: open source
-linkapplication: null
+logo: /462px-Firefox_logo_2019.svg.png
 tags:
 - application
 ---

@@ -3,6 +3,7 @@ application: SuiteCRM
 code: https://github.com/salesagility/SuiteCRM
 developerlink: https://suitecrm.com
 licensingmodel: open source
+logo: /suitecrm-logo.png
 tags:
 - application
 ---

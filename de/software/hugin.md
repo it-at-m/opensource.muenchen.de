@@ -4,7 +4,7 @@ application: Hugin
 developer: null
 developerlink: http://hugin.sourceforge.net/
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Hugin-splash.svg.png
 tags:
 - application
 ---

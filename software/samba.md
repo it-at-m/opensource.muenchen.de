@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Samba
-developer: null
-developerlink: http://www.samba.org/
+developerlink: http://www.samba.org
 licensingmodel: open source
-linkapplication: null
+logo: /Samba_Logo.png
 tags:
 - infrastruktur
 ---

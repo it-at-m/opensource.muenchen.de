@@ -3,6 +3,7 @@ Source: SNow
 application: Drupal
 developerlink: https://www.drupal.org
 licensingmodel: open source
+logo: /320px-Drupal-wordmark.svg.png
 tags:
 - application
 ---

@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: TRAC
-developer: null
 developerlink: http://trac.edgewall.org/
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Trac_logo.svg.png
 tags:
 - development
 ---

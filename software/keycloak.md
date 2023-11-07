@@ -3,6 +3,7 @@ application: Keycloak
 developerlink: https://www.keycloak.org/
 licensingmodel: open source
 code: https://github.com/keycloak/keycloak
+logo: /keycloaklogo.svg
 license: Apache
 tags:
 - infrastruktur

@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: squid
-developer: null
-developerlink: http://www.squid-cache.org/
+developerlink: http://www.squid-cache.org
 licensingmodel: open source
-linkapplication: null
+logo: /Squid_Now.png
 tags:
 - infrastruktur
 ---

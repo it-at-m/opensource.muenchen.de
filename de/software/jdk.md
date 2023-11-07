@@ -4,7 +4,7 @@ application: JDK
 developer: null
 developerlink: java.com
 licensingmodel: open source
-linkapplication: null
+logo: /253px-Java-Logo.svg.png
 tags:
 - development
 ---

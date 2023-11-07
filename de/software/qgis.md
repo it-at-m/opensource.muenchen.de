@@ -4,7 +4,7 @@ application: QGIS
 developer: null
 developerlink: https://www.qgis.org
 licensingmodel: open source
-linkapplication: null
+logo: /320px-QGIS_logo_2017.svg.png
 tags:
 - application
 ---

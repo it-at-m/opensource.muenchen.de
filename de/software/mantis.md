@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Mantis
-developer: null
-developerlink: http://www.mantisbt.org/
+developerlink: http://www.mantisbt.org
 licensingmodel: open source
-linkapplication: null
+logo: /mantis_logo_262x90.png
 tags:
 - development
 ---

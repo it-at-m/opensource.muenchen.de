@@ -3,7 +3,7 @@ Source: SNow
 application: TYPO3
 developerlink: https://typo3.org
 licensingmodel: open source
-linkapplication: 
+logo: /320px-Logo_TYPO3.svg.png
 tags:
 - application
 ---

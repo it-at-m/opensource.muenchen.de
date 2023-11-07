@@ -2,9 +2,9 @@
 Source: SNow
 application: KeePass
 developer: null
-developerlink: https://keepass.info/
+developerlink: https://keepass.info
 licensingmodel: open source
-linkapplication: null
+logo: /240px-KeePass_Logo.svg.png
 tags:
 - application
 ---

@@ -4,7 +4,7 @@ application: Icinga
 developer: null
 developerlink: https://icinga.com/
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Icinga_logo.svg.png
 tags:
 - infrastruktur
 ---

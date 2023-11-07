@@ -5,6 +5,7 @@ developer: null
 developerlink: https://theforeman.org/
 licensingmodel: open source
 linkapplication: null
+logo: /foremanhelmet.svg
 tags:
 - infrastruktur
 ---

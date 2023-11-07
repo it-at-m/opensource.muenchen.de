@@ -1,10 +1,9 @@
 ---
 Source: SNow
-application: Notepad
-developer: null
-developerlink: https://notepad-plu-plus.org
+application: Notepad++
+developerlink: https://notepad-plus-plus.org
 licensingmodel: open source
-linkapplication: null
+logo: /Notepadpp_Logo.png
 tags:
 - development
 ---

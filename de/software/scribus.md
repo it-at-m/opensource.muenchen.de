@@ -2,9 +2,9 @@
 Source: SNow
 application: Scribus
 developer: null
-developerlink: https://www.scribus.net/
+developerlink: https://www.scribus.net
 licensingmodel: open source
-linkapplication: null
+logo: /240px-Scribus_logo.svg.png
 tags:
 - application
 ---

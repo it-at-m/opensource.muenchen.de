@@ -3,7 +3,7 @@ Source: SNow
 application: Apache ant
 developerlink: https://ant.apache.org/
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Apache-Ant-logo.svg.png
 tags:
 - development
 ---

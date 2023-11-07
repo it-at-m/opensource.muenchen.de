@@ -4,7 +4,7 @@ application: pgAdmin
 developer: null
 developerlink: https://www.pgadmin.org/
 licensingmodel: open source
-linkapplication: null
+logo: /PgAdminLogo.jpg
 tags:
 - infrastruktur
 ---

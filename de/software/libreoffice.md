@@ -4,6 +4,7 @@ application: LibreOffice
 developer: null
 developerlink: https://de.libreoffice.org
 licensingmodel: open source
+logo: /320px-LibreOffice_Logo_Flat.svg.png
 tags:
 - application
 ---

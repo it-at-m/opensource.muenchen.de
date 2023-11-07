@@ -2,9 +2,9 @@
 Source: SNow
 application: UMLet
 developer: null
-developerlink: https://www.umlet.com/
+developerlink: https://www.umlet.com
 licensingmodel: open source
-linkapplication: null
+logo: /umlet_logo.svg
 tags:
 - application
 ---

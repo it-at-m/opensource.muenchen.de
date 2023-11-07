@@ -2,9 +2,9 @@
 Source: SNow
 application: Filezilla
 developer: null
-developerlink: https://filezilla-project.org/
+developerlink: https://filezilla-project.org
 licensingmodel: open source
-linkapplication: null
+logo: /480px-FileZilla_logo.svg.png
 tags:
 - application
 ---

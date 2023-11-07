@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Putty
-developer: null
 developerlink: http://www.chiark.greenend.org.uk/~sgtatham/putty/
 licensingmodel: open source
-linkapplication: null
+logo: /PuTTY_icon_128px.png
 tags:
 - application
 ---

@@ -4,7 +4,7 @@ application: MediaWiki
 developer: null
 developerlink: https://www.mediawiki.org
 licensingmodel: open source
-linkapplication: null
+logo: /216px-MediaWiki-2020-logo.svg.png
 tags:
 - application
 ---

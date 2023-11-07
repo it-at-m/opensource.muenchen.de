@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Freeplane
-developer: null
-developerlink: https://www.freeplane.org/
+developerlink: https://www.freeplane.org
 licensingmodel: open source
-linkapplication: null
+logo: /240px-Freeplane-icon-2022.svg.png
 tags:
 - application
 ---

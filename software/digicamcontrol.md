@@ -5,6 +5,7 @@ developer: Duka Istvan
 developerlink: http://digicamcontrol.com
 licensingmodel: open source
 code: https://github.com/dukus/digiCamControl
+logo: /digicamcontrol.png
 tags:
 - application
 ---

@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Matomo
-developer: null
-developerlink: https://matomo.org/
+developerlink: https://matomo.org
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Matomo_Logo.svg.png
 tags:
 - infrastruktur
 ---

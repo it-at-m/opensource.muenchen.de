@@ -5,6 +5,7 @@ developer: null
 developerlink: https://freemind.sourceforge.net/
 licensingmodel: open source
 linkapplication: null
+logo: /Free_Mind.png
 tags:
 - application
 ---

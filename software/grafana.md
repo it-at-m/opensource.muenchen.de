@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Grafana
-developer: null
-developerlink: https://grafana.com/
+developerlink: https://grafana.com
 licensingmodel: open source
-linkapplication: null
+logo: /Grafana_logo.png
 tags:
 - infrastruktur
 ---

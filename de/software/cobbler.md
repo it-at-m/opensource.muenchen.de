@@ -4,7 +4,7 @@ application: Cobbler
 developer: null
 developerlink: http://cobbler.github.io/
 licensingmodel: open source
-linkapplication: null
+logo: /logo-cobbler-new.svg
 tags:
 - infrastruktur
 ---

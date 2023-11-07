@@ -3,7 +3,7 @@ Source: SNow
 application: Puppet
 developerlink: https://puppet.com
 licensingmodel: open source
-linkapplication: null
+logo: /320px-Puppet_transparent_logo.svg.png
 tags:
 - infrastruktur
 ---

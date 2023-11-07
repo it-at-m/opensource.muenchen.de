@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: ProjectLibre
-developer: null
-developerlink: http://www.projectlibre.com/
+developerlink: http://www.projectlibre.com
 licensingmodel: open source
-linkapplication: null
+logo: /ProjectLibre_logo.png
 tags:
 - application
 ---
