@@ -6,7 +6,7 @@
                     v-for="(page, index) in pagesWithTags"
                     :key="index"
                     variant="flat"
-                    :href="withBase( '.' + page.url)"
+                    :href="withBase(page.url)"
                     class="card"
             >
                 <v-card-title
@@ -44,8 +44,9 @@
 
 <script setup>
 import {computed} from "vue";
-import {data} from '../software.data.js'
-import {withBase} from "vitepress";
+import {data as enData} from '../software.data.js'
+import {data as deData} from '../software-de.data.js'
+import {useData, withBase} from "vitepress";
 import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
 import TagChipGroup from "./TagChipGroup.vue";
 
@@ -68,10 +69,14 @@ const props = defineProps({
     }
 })
 
+const {lang} = useData();
+
 const pagesWithTags = computed(() => {
     let filteredSoftware = [];
 
-    for (let softwareEntry of data) {
+    const i18nData = lang.value === "de" ? deData : enData;
+
+    for (let softwareEntry of i18nData) {
         if (softwareEntry.frontmatter && softwareEntry.frontmatter.tags) {
 
             if (
