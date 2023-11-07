@@ -1,9 +1,8 @@
 ---
 application: Apache JMeter
-developer: null
 developerlink: https://jmeter.apache.org/
 licensingmodel: open source
-linkapplication: null
+logo: /jmeter-logo.svg
 tags:
 - infrastruktur
 ---

@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: JasperSoft Studio
-developer: null
 developerlink: https://community.jaspersoft.com/project/jaspersoft-studio
 licensingmodel: CE/EE-Modell
-linkapplication: null
+logo: /jaspersoft_studio_icon.png
 tags:
 - application
 ---

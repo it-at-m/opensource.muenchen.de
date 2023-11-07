@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: Spacewalk
-developer: null
 developerlink: https://fedorahosted.org/spacewalk/
 licensingmodel: open source
-linkapplication: null
+logo: /spacewalk-logo.jpeg
 tags:
 - infrastruktur
 ---
