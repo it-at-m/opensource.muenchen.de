@@ -26,5 +26,5 @@ show-excerpt
 />
 
 <script setup>
-import TagTile from "/.vitepress/components/TagTile.vue";
+import TagTile from "../.vitepress/components/TagTile.vue";
 </script>
