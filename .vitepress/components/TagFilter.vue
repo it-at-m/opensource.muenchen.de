@@ -28,8 +28,6 @@ const allTags = computed(() => {
         }
     }
 
-    console.log(allTags);
-
     return allTags;
 });
 </script>
