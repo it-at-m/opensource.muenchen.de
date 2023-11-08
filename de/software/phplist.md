@@ -1,10 +1,9 @@
 ---
 Source: SNow
 application: phpList
-developer: null
-developerlink: https://www.phplist.com/
+developerlink: https://www.phplist.com
 licensingmodel: open source
-linkapplication: null
+logo: /phplist-logo.svg
 tags:
 - application
 ---

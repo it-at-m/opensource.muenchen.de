@@ -3,7 +3,7 @@ Source: SNow
 application: JasperSoft Studio
 developerlink: https://community.jaspersoft.com/project/jaspersoft-studio
 licensingmodel: CE/EE-Modell
-logo: /jaspersoft_studio_icon.png
+logo: /jaspersoft_studio_icon.jpg
 tags:
 - application
 ---
