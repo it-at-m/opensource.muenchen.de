@@ -64,7 +64,7 @@ jobs:
     steps:
 
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download artifact
         uses: actions/download-artifact@master
@@ -73,7 +73,7 @@ jobs:
           path: .vitepress/dist
 
       - name: Extract files
-        uses: a7ul/tar-action@v1.1.0
+        uses: a7ul/tar-action@v1.1.3
         id: extract
         with:
           command: x
@@ -84,7 +84,7 @@ jobs:
       # https://github.com/sigstore/cosign-installer
       - name: Install cosign
         if: github.event_name != 'pull_request'
-        uses: sigstore/cosign-installer@6e04d228eb30da1757ee4e1dd75a0ec73a653e06 #v3.1.1
+        uses: sigstore/cosign-installer@1fc5bd396d372bee37d608f955b336615edf79c8 # v3.2.0
         with:
           cosign-release: 'v2.1.1'
 
