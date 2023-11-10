@@ -78,7 +78,7 @@ jobs:
         with:
           command: x
           cwd: .vitepress/dist
-          files: artifact.tar
+          files: .vitepress/dist/artifact.tar
 
       # Install the cosign tool except on PR
       # https://github.com/sigstore/cosign-installer
