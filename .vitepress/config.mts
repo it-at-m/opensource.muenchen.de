@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote';
 
-const base = '/opensource.muenchen.de/';
+const base = '/';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
