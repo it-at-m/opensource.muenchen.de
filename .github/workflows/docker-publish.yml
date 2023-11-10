@@ -72,6 +72,14 @@ jobs:
           name: pagecontent
           path: .vitepress/dist
 
+      - name: Extract files
+        uses: a7ul/tar-action@v1.1.0
+        id: extract
+        with:
+          command: x
+          cwd: .vitepress/dist
+          files: artifact.tar
+
       # Install the cosign tool except on PR
       # https://github.com/sigstore/cosign-installer
       - name: Install cosign
