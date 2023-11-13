@@ -24,7 +24,7 @@ E-Mail: <opensource@muenchen.de>
 
 Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um dein Anliegen zu bearbeiten.
 
-Zu den verarbeiteten Daten zählen:
+Zu den verarbeiteten Daten zählen:  
 Dein Name  
 Deine E-Mail-Adresse
 

@@ -24,7 +24,7 @@ E-Mail: <opensource@muenchen.de>
 
 If you contact us by email, the data you provide will be stored by us in order to process your request.
 
-The processed data includes
+The processed data includes:  
 Your name  
 Your e-mail address
 
