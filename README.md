@@ -1,23 +1,15 @@
-# DRAFT Munich's IT Dashboard - opensource.muenchen.de
+# opensource.muenchen.de
 
-## Todo
-
-This repository is still a draft
-
-* [x] update softwarelist
-* [x] proof reading
-* [x] translate everything from german to english
-* [ ] publish
+Content repository for [opensource.muenchen.de](https://opensource.muenchen.de).
 
 
-## Getting started
+## vitepress
+
+Made with [vitepress](https://vitepress.dev)
 
 Requires Node.js version 16 or higher.
-
 
 ```
 npm i
 npm run docs:dev
 ```
-
-Open http://localhost:5173/
