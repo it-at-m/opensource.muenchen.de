@@ -36,7 +36,7 @@ show-tags
 show-excerpt
 />
 
-Weitere Projekte werden gemäß dem [Stadtratsbeschluss Strategie zur Finanzierung städtisch genutzter Open-Source-Bibliotheken und -Software](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) vom 15. Novemner 2023 folgen.
+Weitere Projekte werden gemäß dem [Stadtratsbeschluss Strategie zur Finanzierung städtisch genutzter Open-Source-Bibliotheken und -Software](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) vom 15. November 2023 folgen.
 
 ### Support
 
