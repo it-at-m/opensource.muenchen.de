@@ -36,6 +36,8 @@ show-tags
 show-excerpt
 />
 
+Further projects will follow in accordance with the [City Council resolution Strategy for financing open source libraries and software used by the city](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of November 15, 2023.
+
 
 ### Support
 
