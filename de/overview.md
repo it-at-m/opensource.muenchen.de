@@ -8,7 +8,7 @@ const selectedFilters = ref([])
 
 # Übersicht
 
-Eine vollständige Übersicht über alle Open-Source-Software, die von der Landeshauptstadt München verwendet, verbessert und/oder veröffentlicht werden.
+Eine vollständige Übersicht sämtlicher Open-Source-Software, die von der Landeshauptstadt München nicht nur verwendet, sondern auch verbessert und/oder veröffentlicht wird.
 
 Nutze gerne auch die Filter-Funktion mit den unten verfügbaren Tags.
 
