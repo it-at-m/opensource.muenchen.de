@@ -36,7 +36,7 @@ As a data subject, you have the right to information, the right to rectification
 
 Please send your objection informally to the above address.
 
-You also have the right to data portability. You also have the right to complain to a supervisory authority about the processing. You can find a list of the relevant authorities at https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+In addition, you have the right to data portability. You also have the right to complain to a supervisory authority about the processing. You can find a list of the relevant authorities at: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
 ### Hosting
 
