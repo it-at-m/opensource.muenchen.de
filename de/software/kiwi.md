@@ -1,6 +1,6 @@
 ---
 application: Kiwi - Unicode Tastatur
-code: https://github.com/it-at-m/KiwiDemo
+code: https://github.com/it-at-m/UnicodeEingabeKiwi2
 licensingmodel: open source
 linkapplication: https://kiwi.muenchen.de
 logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
