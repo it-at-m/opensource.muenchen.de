@@ -51,7 +51,7 @@ export default defineConfig({
         },
 
         footer: {
-          message: `<a href="impress">Impressum und Kontakt</a>`
+          message: `<a href="impress.html">Impressum und Kontakt</a>`
         },
         editLink: {
           pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
@@ -75,7 +75,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: `<a href="impress">Impress and Contact</a>`
+      message: `<a href="impress.html">Impress and Contact</a>`
     },
 
     sidebar: [],
