@@ -11,5 +11,6 @@ tags:
 
 Keycloak ist ein Open-Source-Softwareprodukt, das Single Sign-On mit Identitäts- und Zugriffsmanagement für moderne Anwendungen und Dienste ermöglicht.
 
-
 ---
+
+Die IT-Bebauungsrichtlinie *digitale Identitäten* legt fest dass digitalen Identitäten, egal ob Mitarbeitende oder Bürger*innen betreffend, grundsätzlich im eigenen Rechenzentrum vorgehalten und mit Keycloak verwaltet werden.
