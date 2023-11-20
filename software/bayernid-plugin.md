@@ -12,7 +12,7 @@ tags:
 - start2021
 ---
 
-As part of the project, a plugin for the integration of the Bayern ID to the specialized applications of the City of Munich was implemented using [Keycloak](keycloak).
+As part of the project, a plugin for the integration of the [BayernID](https://id.bayernportal.de/de/) to the specialized applications of the City of Munich was implemented using [Keycloak](keycloak).
 
 ---
 
@@ -20,7 +20,7 @@ As part of the project, a plugin for the integration of the Bayern ID to the spe
 
 In the course of the digital opening of the city to the citizens, the BayernID will also be increasingly used. To make this possible, the City of Munich has developed a plugin for keycloak, which allows the integration of the BayernID into keycloak. This plugin is already provided by the City of Munich as open source software. It will be published as part of the piloting of the administration cloud on the repository of the open source platform being developed there.
 
-The [BayernID](https://id.bayernportal.de/de/) is a digital identity that citizens can use in connection with the processing of digital administrative services.
+The BayernID is a digital identity that citizens can use in connection with the processing of digital administrative services.
 
 With the BayernID, it is possible to identify oneself uniquely online using various levels of authentication. A plugin for Keycloak (RH-SSO) was implemented via the brokering mechanism to connect the specialized procedures to BayernID.
 
