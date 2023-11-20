@@ -12,10 +12,11 @@ logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung
 - application
+- opencore
 - start2021
 sortingPriority: 2
 ---
-DigiWF is a platform for process automation. Users can automate workflows themselves and access other systems.
+__DigiWF__ is a platform for process automation. Users can automate workflows themselves and access other systems.
 
 ---
 
@@ -36,9 +37,14 @@ In addition, DigiWF also provides metrics on workflow executions, supporting con
 ## Technical details
 
 Large parts of the platform are based on the [camunda BPM platform](https://camunda.com/platform/).
-The frontend is based on the form framework of the reference architecture of the state capital.
-The backend runs the workflows, here [Kafka](kafka), camunda Workflow and camunda Rule Engine are used as a basis.
-DigiWF is operated in the data center of the City of Munich in a container-based infrastructure.
+DigiWF can be used with both the free open source version and the paid enterprise version of Camunda.
+For the City of Munich, we use the licensed enterprise version, as this allows us to use extended functions and tools, such as Cockpit and Optimize, which offer us added value in the creation and operation of end-to-end processes.
+DigiWF (or Camunda) also works with the [free version](https://camunda.com/pricing/) of Camunda.
+Especially for small and less complex processes, this is a good way to work with the platform without major hurdles.
+
+The front end is based on the form framework of the reference architecture of the state capital.
+The workflows run in the backend, where [Kafka](kafka), the camunda workflow and the camunda rule engine are used as the basis.
+DigiWF is operated in the data center of the City of Munich on [Openshift](openshift).
 
 See our presentation at [CamundaCon 2023 - Automating Citizen Services in the City of Munich](https://page.camunda.com/camundacon-2023-city-of-munich).
 
