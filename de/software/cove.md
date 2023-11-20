@@ -1,7 +1,7 @@
 ---
 application: COVe - COVID-19 Verdachtsfall-Verwaltung
 developer: LHM
-code: https://github.com/orgs/it-at-m/repositories?q=cove&type=source
+code: https://github.com/orgs/it-at-m/repositories?q=cove&type=archived
 codelinktext: github.com/it-at-m cove
 licensingmodel: open source
 license: MIT
@@ -10,7 +10,7 @@ tags:
 - application
 - start2020
 ---
-COVe ermöglicht die Verwaltung von Verdachtsfällen im Rahmen der Covid19-Pandemie. Die Webanwendung wurde im IT-Referat selbst entwickelt.
+COVe ermöglichte die Verwaltung von Verdachtsfällen im Rahmen der Covid19-Pandemie. Die Webanwendung wurde im IT-Referat selbst entwickelt.
 
 ---
 
