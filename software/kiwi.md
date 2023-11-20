@@ -8,15 +8,13 @@ tags:
 - application
 - eigenentwicklung
 ---
-KIWI makes all characters from the character set "Latin characters in UNICODE" easy to find and use.
+__Kiwi__ makes all characters from the character set "Latin characters in UNICODE" easy to find and use.
 
 ---
 
 ## About the project
 
 The Unicode Input Help was programmed to support the employees of the city of Munich in entering Latin characters in Unicode.
-About the project
-
 
 Kiwi (Kinderleicht Wortbestandteile integrieren) is an input help, which serves the comfortable and efficient input of characters from the character set Latin characters in Unicode. Characters with diacritics (for example Ẫ, D̂, Ģ, and M̂) or non-German origin (for example ð, ø, or þ) are usually not found on conventional German keyboards.
 

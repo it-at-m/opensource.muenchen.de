@@ -8,15 +8,13 @@ tags:
 - application
 - eigenentwicklung
 ---
-KIWI macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.
+__Kiwi__ macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.
 
 ---
 
 ## Über das Projekt
 
 Die Unicode-Eingabehilfe wurde programmiert, um die Beschäftigten der Stadt München bei der Eingabe von Lateinischen Zeichen in Unicode zu unterstützen.
-Über das Projekt
-
 
 Kiwi (Kinderleicht Wortbestandteile integrieren) ist eine Eingabehilfe, welche der komfortablen und effizienten Eingabe von Zeichen aus dem Zeichenvorrat Lateinische Zeichen in Unicode dient. Zeichen mit Diakritika (zum Beispiel Ẫ, D̂, Ģ, und M̂) oder nicht deutschen Ursprungs (beispielsweise ð, ø oder þ) findet man auf herkömmlichen deutschen Tastaturen in der Regel nicht.
 
