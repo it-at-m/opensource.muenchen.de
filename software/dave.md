@@ -5,6 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
 license: MIT
+logo: /dave_logo.png
 tags:
 - application
 - eigenentwicklung

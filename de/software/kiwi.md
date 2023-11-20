@@ -1,10 +1,9 @@
 ---
 application: Kiwi - Unicode Tastatur
-developer: null
-developerlink: https://kiwi.muenchen.de
-licensingmodel: open source
-linkapplication: null
 code: https://github.com/it-at-m/KiwiDemo
+licensingmodel: open source
+linkapplication: https://kiwi.muenchen.de
+logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
 tags:
 - application
 - eigenentwicklung

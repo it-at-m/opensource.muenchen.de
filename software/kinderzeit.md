@@ -5,13 +5,14 @@ developerlink:
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
+logo: /logo_kinderzeit.png
 tags:
 - eigenentwicklung
 - application
 - start2022
 ---
 
-Kinderzeit is a vacation planner for parents and event organizers, created in collaboration with the Digital Product School (DPS).
+Kinderzeit was a vacation planner for parents and event organizers, created in collaboration with the Digital Product School (DPS).
 
 ---
 

@@ -4,6 +4,7 @@ developer: LHM
 developerlink: 
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
+logo: /logo_kinderzeit.png
 license: MIT
 tags:
 - eigenentwicklung
@@ -11,7 +12,7 @@ tags:
 - start2022
 ---
 
-Kinderzeit ist ein Ferienplaner für Eltern und Veranstalter*innen, der in Zusammenarbeit mit der Digital Product School (DPS) entstanden ist.
+Kinderzeit war ein Ferienplaner für Eltern und Veranstalter*innen, der in Zusammenarbeit mit der Digital Product School (DPS) entstanden ist.
 
 ---
 

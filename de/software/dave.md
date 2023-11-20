@@ -4,6 +4,7 @@ developer: LHM
 code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
+logo: /dave_logo.png
 license: MIT
 tags:
 - application
@@ -17,7 +18,7 @@ Mit DAVe können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiede
 
 ## Über das Projekt
 
-DAVe  ist ein Fachverfahren zur Auswertung von Verkehrszählungen. Es ermöglicht den Beschäftigten des Mobilitätsreferats die Verkehrsentwicklung in München zu dokumentieren und zu analysieren. Zugrunde liegen Daten aus über 2000 Zählstellen.
+DAVe ist ein Fachverfahren zur Auswertung von Verkehrszählungen. Es ermöglicht den Beschäftigten des Mobilitätsreferats die Verkehrsentwicklung in München zu dokumentieren und zu analysieren. Zugrunde liegen Daten aus über 2000 Zählstellen.
  
 Auch DAVe entstand als Softwareeigenentwicklung auf Basis der Open Source Landeshauptstadt München-Referenzarchitektur. Es ist geplant, DAVe soll als Open Source Software zu veröffentlichen.
 

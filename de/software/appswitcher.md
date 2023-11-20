@@ -4,6 +4,7 @@ developer: LHM
 code: https://github.com/it-at-m/appswitcher-server
 licensingmodel: open source
 license: MIT
+logo: /logo-appswitcher.png
 tags:
   - eigenentwicklung
   - infrastruktur
