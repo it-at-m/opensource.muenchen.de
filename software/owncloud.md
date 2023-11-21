@@ -8,6 +8,7 @@ linkapplication: https://dap-safe.muenchen.de
 logo: /320px-OwnCloud2-Logo.svg.png
 tags:
 - application
+- opencore
 ---
 __ownCloud__ is a free software that organizes the storage and distribution of data.
 The data can be accessed both via a web interface and with client applications. 

@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /320px-OwnCloud2-Logo.svg.png
 tags:
 - application
+- opencore
 ---
 __ownCloud__ ist eine freie Software die das Speichern und Verteilen von Daten organisiert.
 Auf die Daten kann man sowohl über eine Weboberfläche als auch mit Client-Applikationen zugreifen kann. 
