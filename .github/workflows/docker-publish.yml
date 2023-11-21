@@ -53,6 +53,7 @@ jobs:
   build-image:
 
     needs: build-page
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: read
