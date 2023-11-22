@@ -36,6 +36,8 @@ show-tags
 show-excerpt
 />
 
+We use [opencollective.com/itm](https://opencollective.com/itm) for the transparent implementation of our sponsorship payments.
+
 Further projects will follow in accordance with the [City Council resolution Strategy for financing open source libraries and software used by the city](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of November 15, 2023.
 
 

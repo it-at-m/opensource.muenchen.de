@@ -36,6 +36,8 @@ show-tags
 show-excerpt
 />
 
+Zur transparenten Durchführung unserer Sponsoringzahlungen nutzen wir [opencollective.com/itm](https://opencollective.com/itm).
+
 Weitere Projekte werden gemäß dem [Stadtratsbeschluss Strategie zur Finanzierung städtisch genutzter Open-Source-Bibliotheken und -Software](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) vom 15. November 2023 folgen.
 
 ### Support
