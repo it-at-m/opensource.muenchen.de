@@ -92,8 +92,8 @@ export default defineConfig({
   },
 
   rewrites: {
-    'overview.html': 'software/',
-    'de/overview.html': 'de/software/',
+    'overview.md': 'software/index.md',
+    'de/overview.md': 'de/software/index.md',
   },
 
   markdown: {
