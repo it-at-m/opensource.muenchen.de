@@ -5,6 +5,7 @@ const base = '/';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+
   base: base,
   srcExclude: [
       'README.md'
@@ -32,7 +33,7 @@ export default defineConfig({
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/improve'},
           {text: 'Veröffentlichen', link: '/de/publish'},
-          {text: 'Übersicht', link: '/de/overview' },
+          {text: 'Übersicht', link: '/de/software/' },
           {text: 'Grundlagen', link: '/de/principles'},
         ],
 
@@ -70,7 +71,7 @@ export default defineConfig({
       { text: 'Use', link: '/use' },
       { text: 'Improve', link: '/improve' },
       { text: 'Publish', link: '/publish' },
-      { text: 'Overview', link: '/overview' },
+      { text: 'Overview', link: '/software/' },
       {text: 'Principles', link: '/principles'},
     ],
 
@@ -88,6 +89,11 @@ export default defineConfig({
       text: 'View this page on GitHub'
     },
 
+  },
+
+  rewrites: {
+    'overview.html': 'software/',
+    'de/overview.html': 'de/software/',
   },
 
   markdown: {
