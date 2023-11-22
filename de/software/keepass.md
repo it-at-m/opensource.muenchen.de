@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: KeePass
+title: KeePass
 developer: null
 developerlink: https://keepass.info
 licensingmodel: open source

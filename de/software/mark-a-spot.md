@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Mark-a-spot
+title: Mark-a-spot
 developerlink: https://markaspot.de/de/
 licensingmodel: open source
 linkapplication: https://machmuenchenbesser.de/

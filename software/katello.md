@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Katello
+title: Katello
 developerlink: https://theforeman.org
 licensingmodel: open source
 logo: /foremanhelmet.svg

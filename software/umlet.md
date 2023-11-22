@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: UMLet
+title: UMLet
 developerlink: https://www.umlet.com
 licensingmodel: open source
 logo: /umlet_logo.svg

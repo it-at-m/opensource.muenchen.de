@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Hugin
+title: Hugin
 developerlink: http://hugin.sourceforge.net
 licensingmodel: open source
 logo: /320px-Hugin-splash.svg.png

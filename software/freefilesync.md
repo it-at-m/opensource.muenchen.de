@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: FreeFileSync
+title: FreeFileSync
 developerlink: https://freefilesync.org
 licensingmodel: open source
 logo: /FreeFileSync_Icon.png

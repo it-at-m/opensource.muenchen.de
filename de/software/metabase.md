@@ -1,5 +1,5 @@
 ---
-application: Metabase
+title: Metabase
 developerlink: https://www.metabase.com/
 licensingmodel: CE/EE-Modell
 logo: /metabase.svg

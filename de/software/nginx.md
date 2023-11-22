@@ -1,5 +1,5 @@
 ---
-application: NGINX
+title: NGINX
 developerlink: https://nginx.org/
 licensingmodel: open source
 license: BSD

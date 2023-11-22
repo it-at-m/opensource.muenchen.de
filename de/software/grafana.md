@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Grafana
+title: Grafana
 developer: null
 developerlink: https://grafana.com/
 licensingmodel: open source

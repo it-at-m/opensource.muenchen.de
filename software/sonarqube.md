@@ -1,5 +1,5 @@
 ---
-application: SonarQube
+title: SonarQube
 developer: SonarSource
 developerlink: https://docs.sonarqube.org
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: TRAC
+title: TRAC
 developerlink: http://trac.edgewall.org/
 licensingmodel: open source
 logo: /320px-Trac_logo.svg.png

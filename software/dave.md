@@ -1,5 +1,5 @@
 ---
-application: DAVe
+title: DAVe
 developer: LHM
 code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave

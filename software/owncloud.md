@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: OwnCloud
+title: OwnCloud
 developer: ownCloud Community
 developerlink: https://owncloud.com/de/
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: Vue.js
+title: Vue.js
 developerlink: https://vuejs.org
 licensingmodel: open source
 logo: /277px-Vue.js_Logo_2.svg.png

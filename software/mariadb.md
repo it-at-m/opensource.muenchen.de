@@ -1,5 +1,5 @@
 ---
-application: Maria-DB
+title: Maria-DB
 developerlink: https://mariadb.com
 licensingmodel: open source
 license: Apache

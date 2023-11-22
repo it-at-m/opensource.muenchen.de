@@ -1,5 +1,5 @@
 ---
-application: Firefox
+title: Firefox
 developer: Mozilla
 developerlink: https://www.mozilla.org/de/firefox/new/
 licensingmodel: open source

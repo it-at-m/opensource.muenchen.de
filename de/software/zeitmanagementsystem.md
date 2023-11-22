@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Zeitmanagementsystem
+title: Zeitmanagementsystem
 developer: Berlinonline
 code: https://gitlab.com/eappointment
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Gimp
+title: Gimp
 developerlink: https://www.gimp.org
 licensingmodel: open source
 logo: /240px-The_GIMP_icon_-_gnome.svg.png

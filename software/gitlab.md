@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: GitLab
+title: GitLab
 developer: null
 developerlink: https://about.gitlab.com/
 licensingmodel: open source

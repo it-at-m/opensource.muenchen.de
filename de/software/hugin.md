@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Hugin
+title: Hugin
 developer: null
 developerlink: http://hugin.sourceforge.net/
 licensingmodel: open source

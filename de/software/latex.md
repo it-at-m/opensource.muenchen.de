@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: LaTeX
+title: LaTeX
 developer: null
 developerlink: https://www.latex-project.org/
 licensingmodel: open source

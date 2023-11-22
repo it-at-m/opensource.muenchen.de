@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: JasperSoft Studio
+title: JasperSoft Studio
 developerlink: https://community.jaspersoft.com/project/jaspersoft-studio
 licensingmodel: CE/EE-Modell
 logo: /jaspersoft_studio_icon.jpg

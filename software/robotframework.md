@@ -1,5 +1,5 @@
 ---
-application: Robot Framework
+title: Robot Framework
 developerlink: https://robotframework.org
 code: https://github.com/robotframework/robotframework
 licensingmodel: open source

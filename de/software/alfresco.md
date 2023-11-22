@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Alfresco
+title: Alfresco
 developer: null
 developerlink: https://www.alfresco.com/de
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: SOAP UI
+title: SOAP UI
 developer: null
 developerlink: https://www.soapui.org/open-source/
 licensingmodel: open source

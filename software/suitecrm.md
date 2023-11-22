@@ -1,5 +1,5 @@
 ---
-application: SuiteCRM
+title: SuiteCRM
 code: https://github.com/salesagility/SuiteCRM
 developerlink: https://suitecrm.com
 licensingmodel: open source

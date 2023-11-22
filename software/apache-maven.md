@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Apache Maven
+title: Apache Maven
 developer: null
 developerlink: https://maven.apache.org/
 licensingmodel: open source

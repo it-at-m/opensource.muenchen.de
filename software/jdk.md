@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: JDK
+title: JDK
 developerlink: java.com
 licensingmodel: open source
 logo: /253px-Java-Logo.svg.png

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: QGIS
+title: QGIS
 developer: null
 developerlink: https://www.qgis.org
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: JDK
+title: JDK
 developer: null
 developerlink: java.com
 licensingmodel: open source

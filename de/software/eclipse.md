@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Eclipse
+title: Eclipse
 developer: null
 developerlink: https://www.eclipse.org/
 licensingmodel: open source

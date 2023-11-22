@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: WordPress
+title: WordPress
 developer: null
 developerlink: https://de.wordpress.com/
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: Apache Kafka
+title: Apache Kafka
 developer: Apache Software Foundation 
 developerlink: https://kafka.apache.org/ 
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: pdfsam
+title: pdfsam
 developer: null
 developerlink: https://pdfsam.org/de/pdfsam-basic/
 licensingmodel: open source

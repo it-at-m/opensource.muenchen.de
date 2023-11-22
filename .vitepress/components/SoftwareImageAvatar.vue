@@ -7,13 +7,13 @@
     >
         <v-img
                 v-if="frontmatter && frontmatter.logo"
-                :alt="frontmatter.application + ' logo'"
+                :alt="frontmatter.title + ' logo'"
                 :src="withBase(frontmatter.logo)"
         />
         <span
                 v-else
         >
-            {{ frontmatter.application[0] }}
+            {{ frontmatter.title[0] }}
         </span>
     </v-avatar>
 </template>

@@ -1,5 +1,5 @@
 ---
-application: MDAS
+title: MDAS
 code: https://github.com/it-at-m/mobidam-sst-management
 licensingmodel: open source
 tags:

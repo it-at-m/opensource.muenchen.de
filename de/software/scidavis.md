@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: SciDAVis
+title: SciDAVis
 developer: null
 developerlink: https://scidavis.sourceforge.net/
 licensingmodel: open source

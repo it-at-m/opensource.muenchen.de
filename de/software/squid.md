@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: squid
+title: squid
 developer: null
 developerlink: http://www.squid-cache.org/
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Icinga
+title: Icinga
 developerlink: https://icinga.com
 licensingmodel: open source
 logo: /320px-Icinga_logo.svg.png

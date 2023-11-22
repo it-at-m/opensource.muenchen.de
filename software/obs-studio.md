@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: OBS Studio
+title: OBS Studio
 developer: null
 developerlink: https://obsproject.com
 licensingmodel: open source

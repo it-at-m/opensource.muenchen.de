@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: DigiWF
+title: DigiWF
 developer: LHM
 developerlink: https://digiwf.oss.muenchen.de/
 code: https://github.com/it-at-m/digiwf-core/

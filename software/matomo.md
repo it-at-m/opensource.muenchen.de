@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Matomo
+title: Matomo
 developerlink: https://matomo.org
 licensingmodel: open source
 logo: /320px-Matomo_Logo.svg.png

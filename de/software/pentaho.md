@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Pentaho
+title: Pentaho
 developer: null
 developerlink: https://www.hitachivantara.com/de-de/products/data-management-analytics/pentaho-platform.html
 licensingmodel: open source

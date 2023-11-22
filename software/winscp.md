@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Winscp
+title: Winscp
 developerlink: https://winscp.net
 licensingmodel: open source
 logo: /WinSCP_6_Logo.png

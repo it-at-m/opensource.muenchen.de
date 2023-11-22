@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Freemind
+title: Freemind
 developer: null
 developerlink: https://freemind.sourceforge.net/
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: checkmk
+title: checkmk
 developer: Checkmk GmbH
 developerlink: https://checkmk.com
 code: https://github.com/Checkmk/checkmk

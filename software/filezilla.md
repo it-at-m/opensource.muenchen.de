@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Filezilla
+title: Filezilla
 developerlink: https://filezilla-project.org/
 licensingmodel: open source
 logo: /480px-FileZilla_logo.svg.png

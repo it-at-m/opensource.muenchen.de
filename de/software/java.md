@@ -1,5 +1,5 @@
 ---
-application: Java
+title: Java
 developerlink: https://www.oracle.com/java/
 licensingmodel: open source
 logo: /253px-Java-Logo.svg.png

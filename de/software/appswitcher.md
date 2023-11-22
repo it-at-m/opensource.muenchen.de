@@ -1,5 +1,5 @@
 ---
-application: Appswitcher
+title: Appswitcher
 developer: LHM
 code: https://github.com/it-at-m/appswitcher-server
 licensingmodel: open source

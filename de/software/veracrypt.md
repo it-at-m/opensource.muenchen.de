@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Veracrypt
+title: Veracrypt
 developer: null
 developerlink: https://www.veracrypt.fr/en/Home.html
 licensingmodel: open source

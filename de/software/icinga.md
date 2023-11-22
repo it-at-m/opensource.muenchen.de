@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Icinga
+title: Icinga
 developer: null
 developerlink: https://icinga.com/
 licensingmodel: open source

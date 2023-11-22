@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: phpList
+title: phpList
 developerlink: https://www.phplist.com
 licensingmodel: open source
 logo: /phplist-logo.svg

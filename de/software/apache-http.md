@@ -1,5 +1,5 @@
 ---
-application: Apache HTTP Server
+title: Apache HTTP Server
 developerlink: https://httpd.apache.org
 licensingmodel: open source
 license: Apache

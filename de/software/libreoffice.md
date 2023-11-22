@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: LibreOffice
+title: LibreOffice
 developer: null
 developerlink: https://de.libreoffice.org
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Cobbler
+title: Cobbler
 developerlink: http://cobbler.github.io
 licensingmodel: open source
 logo: /logo-cobbler-new.svg

@@ -22,7 +22,7 @@
                         <span
                                 style="overflow: hidden; text-overflow: ellipsis;"
                         >
-                            {{ page.frontmatter.application }}
+                            {{ page.frontmatter.title }}
                         </span>
 
                     </div>

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Putty
+title: Putty
 developer: null
 developerlink: http://www.chiark.greenend.org.uk/~sgtatham/putty/
 licensingmodel: open source

@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: ckan
+title: ckan
 developer: null
 developerlink: https://ckan.org
 licensingmodel: open source

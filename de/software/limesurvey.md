@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: LimeSurvey
+title: LimeSurvey
 developer: null
 developerlink: https://www.limesurvey.org/de/
 licensingmodel: open source

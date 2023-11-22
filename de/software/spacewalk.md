@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Spacewalk
+title: Spacewalk
 developerlink: https://fedorahosted.org/spacewalk/
 licensingmodel: open source
 logo: /spacewalk-logo.jpeg

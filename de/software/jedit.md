@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: JEdit
+title: JEdit
 developer: null
 developerlink: http://www.jedit.org/
 licensingmodel: open source

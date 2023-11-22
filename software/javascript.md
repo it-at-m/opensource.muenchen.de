@@ -1,5 +1,5 @@
 ---
-application: JavaScript
+title: JavaScript
 developerlink: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 licensingmodel: open source
 tags:

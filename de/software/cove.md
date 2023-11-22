@@ -1,5 +1,5 @@
 ---
-application: COVe - COVID-19 Verdachtsfall-Verwaltung
+title: COVe - COVID-19 Verdachtsfall-Verwaltung
 developer: LHM
 code: https://github.com/orgs/it-at-m/repositories?q=cove&type=archived
 codelinktext: github.com/it-at-m cove
