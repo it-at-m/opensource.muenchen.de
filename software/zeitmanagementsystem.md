@@ -13,8 +13,8 @@ tags:
 sortingPriority: 2
 ---
 
-The current appointment system of the city of Munich will be replaced by an open source application (ZMS) provided by the state of Berlin by 2025.
-About the project
+The current appointment system of the city of Munich will be replaced by [Zeitmanagementsystem](https://www.berlin.de/moderne-verwaltung/buergerservice/vor-ort/terminvereinbarung/artikel.959989.php) (ZMS) provided by the state of Berlin.
+
 
 ---
 
@@ -28,24 +28,18 @@ Since 2022, the time management system (ZMS) has been built up via a development
 
 The main modules of the ZMS are:
 
-* a citizen's view on muenchen.de
-* Appointments for selected services can be booked in an online appointment calendar.
-    a clerk client (web application), with which citizens can be called up for appointments via call-off systems.
+* an [interface for citizens on muenchen.de](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html), which can be used to book appointments for selected services in an online appointment calendar.
+* a web client for clerks, with which citizens can be called up for appointments via call-up systems.
 
-
-In addition, the system offers an administration interface for team leaders to control resources. This means that more or fewer appointments can be offered on a daily basis, depending on availability. Via a statistics module, it is possible to create evaluations of booked appointments and services (reports).
-
+The system also offers an administration interface for team leaders to manage resources. This means that more or fewer appointments can be offered on a daily basis depending on availability. A statistics module makes it possible to evaluate booked appointments and services (reports).
 
 ![A hand holding an ipad, on this a calendar sheet is shown in the background a laptop](/terminvereinbarung_symbolbild.jpeg)
+
 
 ## Technical details
 
 * Modular architecture with API interfaces
-* Frontend - own development with Vue.js
+* [User interface for citizens on muenchen.de](https://github.com/it-at-m/eappointment-buergeransicht) - in-house development with Vue.js
 * Source code executed as PHP development
-* System environment at the City of Munich: Open Shift (CAP)
+* ZMS is operated on [Openshift](openshift)
 * Maria DB with Galera Cluster
-
-
-
-
