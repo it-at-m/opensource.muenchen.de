@@ -48,7 +48,8 @@ The [Bavarian Digital Act - BayDiG Art. 3 Para.4 Sentence 1](https://www.gesetze
 ## Standard
 
 Free software is also becoming the standard in modern software development.
-The cities of [Berlin](https://berlinopensource.de/warum-open-source/) or [Dortmund](https://blog.do-foss.de/) use and contribute to open source.
+
+Other local authorities like the cities of [Berlin](https://berlinopensource.de/warum-open-source/) or [Dortmund](https://blog.do-foss.de/) use and contribute to open source.
 
 Commercial companies are also participating in free software.
 These are traditionally software companies (e.g. [SAP](https://opensource.sap.com), [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) but also companies that do not come from the software industry (e.g. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
