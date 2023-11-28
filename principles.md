@@ -45,6 +45,15 @@ The [Bavarian Digital Act - BayDiG Art. 3 Para.4 Sentence 1](https://www.gesetze
 > The authorities of the Free State of Bavaria shall use open software in new acquisitions and shall use open exchange standards insofar as this is economical and expedient
 
 
+## Standard
+
+Free software is also becoming the standard in modern software development.
+The cities of [Berlin](https://berlinopensource.de/warum-open-source/) or [Dortmund](https://blog.do-foss.de/) use and contribute to open source.
+
+Commercial companies are also participating in free software.
+These are traditionally software companies (e.g. [SAP](https://opensource.sap.com), [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) but also companies that do not come from the software industry (e.g. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
+
+
 ## IT architecture classification
 
 In highly standardized IT areas such as operating systems, network components, databases and end devices, IT architecture relies on the standard solutions of the IT market. This serves to ensure that only those paths are taken which do not prove to be wrong paths or dead ends a few years later. Often, due to the large market, the greatest innovative power is concentrated in the standard solutions, since this is where most resources are invested. Thus, open source solutions are not necessarily used here, but in many areas open source solutions have become established as the standard, and are therefore also used by default at the City of Munich. One example is Linux as the operating system for servers.

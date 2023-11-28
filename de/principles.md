@@ -35,6 +35,15 @@ Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.
 > Die Behörden des Freistaates Bayern sollen bei Neuanschaffungen offene Software verwenden und offene Austauschstandards nutzen, soweit dies wirtschaftlich und zweckmäßig ist
 
 
+## Standard
+
+Freie Software entwickelt sich aber auch zum Standard in der modernen Softwareentwicklung.
+Die Städte [Berlin](https://berlinopensource.de/warum-open-source/) oder [Dortmund](https://blog.do-foss.de/) nutzen und contributen zu Open Source.
+
+Auch kommerzielle Unternehmen beteiligen sich an freier Software.
+Das sind traditionellerwesie Softwareunternehmen (z.B. [SAP](https://opensource.sap.com), [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) aber auch Unternehmen, die nicht aus der Softwarebranche stammen (z.B. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
+
+
 ## IT-Architektur-Einordnung
 
 In hochstandardisierten IT-Bereichen wie z.B. Betriebssystemen, Netzwerkkomponenten, Datenbanken und Endgeräten setzt die IT-Architektur auf die Standard-Lösungen des IT-Marktes. Dies dient dazu, nur solche Wege zu beschreiten, die sich nicht wenige Jahre später als Irrwege oder Sackgassen erweisen. Häufig ist hier auch aufgrund des großen Marktes die größte Innovationskraft bei den Standardlösungen konzentriert, da dort die meisten Ressourcen investiert werden. Hier werden also nicht zwingend Open Source Lösungen eingesetzt, in vielen Bereichen haben sich jedoch Open Source Lösungen als Standard durchgesetzt, und kommen daher auch bei der Landeshauptstadt München standardmäßig zum Einsatz. Als Beispiel sei hier Linux als Betriebssystem für Server genannt.
