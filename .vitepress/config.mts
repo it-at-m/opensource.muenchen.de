@@ -91,11 +91,6 @@ export default defineConfig({
 
   },
 
-  rewrites: {
-    'overview.md': 'software/index.md',
-    'de/overview.md': 'de/software/index.md',
-  },
-
   markdown: {
     config(md) {
       md.use(MarkdownItFootnote);
