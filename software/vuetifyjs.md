@@ -1,5 +1,5 @@
 ---
-application: Vuetify
+title: Vuetify
 developerlink: https://vuetifyjs.com
 licensingmodel: open source
 logo: /vuetify-logo-300.png

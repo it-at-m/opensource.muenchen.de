@@ -1,5 +1,5 @@
 ---
-application: Ansible
+title: Ansible
 developerlink: http://www.ansible.com
 licensingmodel: open source
 license: Apache

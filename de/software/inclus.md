@@ -1,5 +1,5 @@
 ---
-application: Inclus
+title: Inclus
 developer: LHM
 developerlink: https://inclus.de
 code: https://github.com/orgs/it-at-m/repositories?q=WC-Finder&type=source

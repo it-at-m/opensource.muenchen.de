@@ -1,5 +1,5 @@
 ---
-application: IntelliJ IDEA Community Edition
+title: IntelliJ IDEA Community Edition
 developerlink: https://www.jetbrains.com/idea/
 code: https://github.com/JetBrains/intellij-community
 licensingmodel: open source

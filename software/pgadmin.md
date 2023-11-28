@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: pgAdmin
+title: pgAdmin
 developerlink: https://www.pgadmin.org
 licensingmodel: open source
 logo: /PgAdminLogo.jpg

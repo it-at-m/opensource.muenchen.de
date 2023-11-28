@@ -1,5 +1,5 @@
 ---
-application: PostgreSQL
+title: PostgreSQL
 developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache

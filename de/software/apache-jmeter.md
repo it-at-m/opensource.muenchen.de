@@ -1,5 +1,5 @@
 ---
-application: Apache JMeter
+title: Apache JMeter
 developerlink: https://jmeter.apache.org/
 licensingmodel: open source
 logo: /jmeter-logo.svg

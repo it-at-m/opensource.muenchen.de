@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Scribus
+title: Scribus
 developerlink: https://www.scribus.net
 licensingmodel: open source
 logo: /240px-Scribus_logo.svg.png

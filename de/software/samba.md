@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Samba
+title: Samba
 developer: null
 developerlink: http://www.samba.org/
 licensingmodel: open source

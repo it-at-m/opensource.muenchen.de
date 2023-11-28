@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: MediaWiki
+title: MediaWiki
 developer: null
 developerlink: https://www.mediawiki.org
 licensingmodel: open source

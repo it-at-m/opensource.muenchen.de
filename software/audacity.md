@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Audacity
+title: Audacity
 developer: Audacity Team
 developerlink: https://www.audacityteam.org
 code: https://github.com/audacity

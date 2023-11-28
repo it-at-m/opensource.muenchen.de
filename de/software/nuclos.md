@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Nuclos
+title: Nuclos
 developer: Novabit Informationssysteme GmbH
 developerlink: https://www.nuclos.de
 code: https://bitbucket.org/nuclos/workspace/repositories/

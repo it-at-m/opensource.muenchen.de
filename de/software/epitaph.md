@@ -1,5 +1,5 @@
 ---
-application: Epitaph – Indoor Navigation
+title: Epitaph – Indoor Navigation
 developer: LHM
 code: https://github.com/it-at-m/epitaph_ips
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: Informationssystem für soziale Infrastrukturplanung
+title: Informationssystem für soziale Infrastrukturplanung
 developer: LHM
 code: https://github.com/it-at-m/isi-frontend
 licensingmodel: open source

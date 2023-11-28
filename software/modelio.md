@@ -1,5 +1,5 @@
 ---
-application: Modelio
+title: Modelio
 developerlink: https://www.modelio.org
 licensingmodel: open source
 logo: /Modelio-logo.jpg

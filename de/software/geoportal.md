@@ -1,5 +1,5 @@
 ---
-application: GeoPortal
+title: GeoPortal
 developer: LHM
 developerlink: https://geoportal.muenchen.de/portal/master/
 licensingmodel: open source

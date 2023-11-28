@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: R + R Studio
+title: R + R Studio
 developer: null
 developerlink: https://rstudio.com/
 licensingmodel: open source

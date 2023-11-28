@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: GOSA
+title: GOSA
 developer: null
 developerlink: https://github.com/gosa-project
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: ad2image
+title: ad2image
 developer: LHM
 code: https://github.com/it-at-m/ad2image
 licensingmodel: open source

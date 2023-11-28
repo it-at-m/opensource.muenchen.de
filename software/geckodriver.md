@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Geckodriver
+title: Geckodriver
 developer: null
 developerlink: https://github.com/mozilla/geckodriver/releases
 licensingmodel: open source

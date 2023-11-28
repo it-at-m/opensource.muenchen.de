@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: ProjectLibre
+title: ProjectLibre
 developerlink: http://www.projectlibre.com
 licensingmodel: open source
 logo: /ProjectLibre_logo.png

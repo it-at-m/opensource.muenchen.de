@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: digiCamControl
+title: digiCamControl
 developer: Duka Istvan
 developerlink: http://digicamcontrol.com
 licensingmodel: open source

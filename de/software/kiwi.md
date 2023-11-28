@@ -1,5 +1,5 @@
 ---
-application: Kiwi - Unicode Tastatur
+title: Kiwi - Unicode Tastatur
 code: https://github.com/it-at-m/UnicodeEingabeKiwi2
 licensingmodel: open source
 linkapplication: https://kiwi.muenchen.de

@@ -2,7 +2,7 @@
     <div class="taglinks">
         <ul>
             <li v-for="post of filteredEntries">
-                <a :href="withBase(post.url)">{{ post.frontmatter.application }}</a>
+                <a :href="withBase(post.url)">{{ post.frontmatter.title }}</a>
             </li>
         </ul>
     </div>

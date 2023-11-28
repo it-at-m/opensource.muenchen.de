@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: TestLink
+title: TestLink
 developer: null
 developerlink: https://testlink.org/
 licensingmodel: open source

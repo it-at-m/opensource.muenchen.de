@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Apache Directory Studio
+title: Apache Directory Studio
 developer: null
 developerlink: https://directory.apache.org/studio/
 licensingmodel: open source

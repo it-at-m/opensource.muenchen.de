@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Gimp
+title: Gimp
 developer: null
 developerlink: https://www.gimp.org/
 licensingmodel: open source

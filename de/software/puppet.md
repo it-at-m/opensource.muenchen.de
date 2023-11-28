@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Puppet
+title: Puppet
 developerlink: https://puppet.com
 licensingmodel: open source
 logo: /320px-Puppet_transparent_logo.svg.png

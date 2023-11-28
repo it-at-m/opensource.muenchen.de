@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: draw.io
+title: draw.io
 developer: null
 developerlink: https://drawio-app.com/product/
 licensingmodel: open source

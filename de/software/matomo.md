@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Matomo
+title: Matomo
 developer: null
 developerlink: https://matomo.org/
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: Linux
+title: Linux
 licensingmodel: open source
 logo: /100px-Tux.svg.png
 tags:

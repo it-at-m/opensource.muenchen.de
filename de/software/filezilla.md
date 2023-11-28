@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Filezilla
+title: Filezilla
 developer: null
 developerlink: https://filezilla-project.org
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: TypeScript
+title: TypeScript
 developer: Microsoft
 developerlink: https://www.typescriptlang.org/
 licensingmodel: open source

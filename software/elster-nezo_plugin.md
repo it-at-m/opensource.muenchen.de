@@ -1,5 +1,5 @@
 ---
-application: Elster Nezo
+title: Elster Nezo
 developer: LHM
 code: https://github.com/it-at-m/ELSTER_NEZO_Plugin
 licensingmodel: open source

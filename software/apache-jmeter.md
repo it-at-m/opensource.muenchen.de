@@ -1,5 +1,5 @@
 ---
-application: Apache JMeter
+title: Apache JMeter
 developer: null
 developerlink: https://jmeter.apache.org/
 licensingmodel: open source

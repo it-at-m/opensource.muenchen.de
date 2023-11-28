@@ -1,5 +1,5 @@
 ---
-application: dbt
+title: dbt
 developerlink: https://www.getdbt.com/
 licensingmodel: open-source
 logo: /dbt.svg

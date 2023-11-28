@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Notepad++
+title: Notepad++
 developerlink: https://notepad-plus-plus.org/
 licensingmodel: open source
 logo: /Notepadpp_Logo.png

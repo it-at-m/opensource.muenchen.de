@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: TYPO3
+title: TYPO3
 developerlink: https://typo3.org
 licensingmodel: open source
 logo: /320px-Logo_TYPO3.svg.png

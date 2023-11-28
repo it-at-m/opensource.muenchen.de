@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Drupal
+title: Drupal
 developerlink: https://www.drupal.org
 licensingmodel: open source
 logo: /320px-Drupal-wordmark.svg.png

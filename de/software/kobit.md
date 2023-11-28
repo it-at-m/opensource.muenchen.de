@@ -1,5 +1,5 @@
 ---
-application: KoBIT
+title: KoBIT
 developer: LHM
 code: https://github.com/orgs/it-at-m/repositories?q=kobit&type=source
 codelinktext: github.com/it-at-m kobit

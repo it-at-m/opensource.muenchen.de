@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: KNIME Analytics Platform
+title: KNIME Analytics Platform
 developer: null
 developerlink: https://www.knime.com
 licensingmodel: open source

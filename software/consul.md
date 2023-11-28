@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Consul
+title: Consul
 developer: demokratie.today
 developerlink: https://demokratie.today
 code: https://github.com/it-at-m/consul-lhm-dev

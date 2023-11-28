@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Katello
+title: Katello
 developer: null
 developerlink: https://theforeman.org/
 licensingmodel: open source

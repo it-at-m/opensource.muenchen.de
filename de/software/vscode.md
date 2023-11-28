@@ -1,5 +1,5 @@
 ---
-application: Visual Studio Code
+title: Visual Studio Code
 developer: Microsoft
 developerlink: https://code.visualstudio.com
 licensingmodel: open source

@@ -1,5 +1,5 @@
 ---
-application: Kinderzeit-Ferienplaner
+title: Kinderzeit-Ferienplaner
 developer: LHM
 developerlink: 
 code: https://github.com/it-at-m/Kinderzeit

@@ -1,5 +1,5 @@
 ---
-application: CollectiveAccess
+title: CollectiveAccess
 developer: Whirl-i-Gig
 developerlink: http://www.collectiveaccess.org/
 licensingmodel: open source

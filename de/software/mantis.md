@@ -1,6 +1,6 @@
 ---
 Source: SNow
-application: Mantis
+title: Mantis
 developerlink: http://www.mantisbt.org
 licensingmodel: open source
 logo: /mantis_logo_262x90.png
