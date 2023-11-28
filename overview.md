@@ -1,5 +1,7 @@
 # 🚚 Page moved - 🏃‍♂️  redirecting...
 
 <script>
-window.location.href = "/software/index.html";
+if (typeof window !== 'undefined') {
+    window.location.href = "/software/index.html";
+}
 </script>
