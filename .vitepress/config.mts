@@ -5,7 +5,6 @@ const base = '/';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-
   base: base,
   srcExclude: [
       'README.md'
