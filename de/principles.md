@@ -41,7 +41,7 @@ Freie Software entwickelt sich zum Standard in der modernen Softwareentwicklung.
 Andere Kommunen, wie z.B. die Städte [Berlin](https://berlinopensource.de/warum-open-source/) oder [Dortmund](https://blog.do-foss.de/), nutzen und contributen ebenfalls zu Open Source.
 
 Aber auch kommerzielle Unternehmen beteiligen sich an freier Software.
-Das sind traditionellerweise Softwareunternehmen (z.B. [SAP](https://opensource.sap.com), [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) aber auch Unternehmen, die nicht aus der Softwarebranche stammen (z.B. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
+Das sind traditionellerweise Softwareunternehmen (z.B. [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) aber auch Unternehmen, die nicht aus der Softwarebranche stammen (z.B. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
 
 
 ## IT-Architektur-Einordnung
