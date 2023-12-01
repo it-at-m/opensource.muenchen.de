@@ -20,20 +20,21 @@ Die aktuelle Terminvereinbarung der Stadt München wird durch das [Zeitmanagemen
 
 ## Über das Projekt
 
-Die Online-Terminvereinbarung der Landeshauptstadt München ist für viele Bürger*innen ein wichtiger Anlaufpunkt, um den persönlichen Kontakt mit den Servicestellen der Landeshauptstadt München zu planen und spätestens seit der Pandemie ein nicht mehr wegzudenkendes Werkzeug der Landeshauptstadt München. Das Softwareprodukt, auf dem die Lösung aufsetzt, wird jedoch in dieser Form vom bisherigen Hersteller nicht mehr unterstützt. 
-Mit der dadurch fälligen Neuausrichtung wurden unterschiedliche verfügbare Lösungen geprüft. Die Landeshauptstadt München hat sich für die Einführung der Lösung für Termin- und Wartezeit-Managementsystem „ZMS“ entschieden. Diese Lösung entstand in einer Kooperation des ITDZ Berlin mit dem Fraunhofer Institut für Nachrichtentechnik und steht unter einer Open Source Lizenz zur Verfügung. Die Einführung erfolgt ab 2022 schrittweise.
+Die Online-Terminvereinbarung der Landeshauptstadt München ist für viele Bürger*innen ein wichtiger Anlaufpunkt, um den persönlichen Kontakt mit den Servicestellen der Landeshauptstadt München zu planen und spätestens seit der Pandemie ein nicht mehr wegzudenkendes Werkzeug der Landeshauptstadt München. Das Softwareprodukt, auf dem die Lösung aufsetzt, wird jedoch in dieser Form vom bisherigen Hersteller nicht mehr unterstützt.  
+Mit der dadurch fälligen Neuausrichtung wurden unterschiedliche verfügbare Lösungen geprüft. Die Landeshauptstadt München hat sich für die Einführung der Lösung für Termin- und Wartezeit-Managementsystem „ZMS“ entschieden. Diese Lösung entstand in einer Kooperation mit dem IT-Dienstleistungszentrum Berlin und BerlinOnline  Stadtportal GmbH & Co. KG und steht unter einer Open Source Lizenz zur Verfügung. Die Einführung erfolgt seit September 2023 schrittweise.
 
+Seit Anfang 2021 wird das Zeitmanagementsystem (ZMS) über ein Entwicklungsprojekt beim Eigenbetrieb it@M aufgebaut.
 
-Seit 2022 wird das Zeitmanagementsystem (ZMS) über ein Entwicklungsprojekt beim Eigenbetrieb it@M aufgebaut.
+Die Anwendung bietet mehrere Komponenten.
 
-Die Hauptmodule des ZMS sind:
+* In der [Bürgeransicht](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html) können Bürger\*innen Termine über den Online-Terminkalender auf muenchen.de buchen.
+Die Bürgeransicht ist eine Eigenentwicklung er LHM mit [Vue.js](vue.js.html).
+* Der Sachbearbeiter\*innen Client im Backend ist eine Web-Anwendung, über die wartende Bürger\*innen per Aufrufanlagen zum Termin aufgerufen werden. Diese ist an die Open Source Datenbank Maria DB angebunden, die als Galera-Cluster läuft.
+* Außerdem können Teamleitungen über eine Administrationsoberfläche die verfügbaren Termine steuern und über ein Extra-Modul Statistik-Reports (Anzahl Termine/Dienstleistung) ziehen.
 
-* eine [Oberfläche für Bürger*innen auf muenchen.de](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html), über die Termine für ausgewählte Dienstleistungen in einem Online-Terminkalender gebucht werden können.
-* ein Webclient für Sachbearbeiter*innen, mit dem die Bürger*innen über Abrufanlagen zum Termin aufgerufen werden können.
-
-Darüber hinaus bietet das System eine Administrations-Oberfläche für Teamleitungen zur Ressourcensteuerung. So können tagesaktuell je nach Verfügbarkeit mehr oder weniger Termine angeboten werden. Über ein Statistik-Modul besteht die Möglichkeit, Auswertung gebuchter Termine und Dienstleistungen (Reports) zu erstellen.
-
-![Eine Hand die ein ipad hält, auf diesem ist ein Kalenderblatt dargestellt im Hintergrund ein Laptop](/terminvereinbarung_symbolbild.jpeg)
+![Screenshot Kundenstatistik im Zeitmanagementsystem](/zms_kundenstatistik.jpg)
+![Screenshot Sachbearbeiterplatz im Zeitmanagementsystem](/zms_sachbearbeiter.jpg)
+![Screenshot Wochenkalender im Zeitmanagementsystem](/zms_wochenkalender.jpg)
 
 
 ## Technische Details

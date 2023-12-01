@@ -20,20 +20,21 @@ The current appointment system of the city of Munich will be replaced by [Zeitma
 
 ## About the project
 
-The online appointment system of the City of Munich is an important contact point for many citizens to plan their personal contact with the service offices of the City of Munich and, at the latest since the pandemic, an indispensable tool of the City of Munich. However, the software product on which the solution is based is no longer supported in this form by the previous manufacturer. 
-As a result, various available solutions were examined. The City of Munich decided to implement the solution for appointment and waiting time management system "ZMS". This solution was developed in a cooperation between the ITDZ Berlin and the Fraunhofer Institute for Telecommunications and is available under an open source license. It will be introduced step by step starting in 2022.
+The City of Munich's online appointment scheduling system is an important point of contact for many citizens when planning personal contact with the City of Munich's service centers and has been an indispensable tool for the City of Munich since the pandemic. However, the software product on which the solution is based is no longer supported in this form by the previous manufacturer.  
+With the resulting need for realignment, various available solutions were examined. The City of Munich decided to introduce the "ZMS" appointment and waiting time management system solution. This solution was developed in cooperation with IT-Dienstleistungszentrum Berlin and BerlinOnline Stadtportal GmbH & Co. KG and is available under an open source license. It has been introduced gradually since September 2023.
 
+Since the beginning of 2021, the time management system (ZMS) has been set up via a development project at it@M.
 
-Since 2022, the time management system (ZMS) has been built up via a development project at the in-house operation it@M.
+The application offers several components.
 
-The main modules of the ZMS are:
+* In the [citizen view](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html), citizens can book appointments via the online appointment calendar on muenchen.de.
+The citizen view is an in-house development of the LHM with [Vue.js](vue.js.html).
+* The clerk client in the backend is a web application via which waiting citizens can be called up for appointments using call systems. This is connected to the open source database Maria DB, which runs as a Galera cluster.
+* In addition, team leaders can control the available appointments via an administration interface and pull statistics reports (number of appointments/service) via an extra module.
 
-* an [interface for citizens on muenchen.de](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html), which can be used to book appointments for selected services in an online appointment calendar.
-* a web client for clerks, with which citizens can be called up for appointments via call-up systems.
-
-The system also offers an administration interface for team leaders to manage resources. This means that more or fewer appointments can be offered on a daily basis depending on availability. A statistics module makes it possible to evaluate booked appointments and services (reports).
-
-![A hand holding an ipad, on this a calendar sheet is shown in the background a laptop](/terminvereinbarung_symbolbild.jpeg)
+![Screenshot of customer statistics in the time management system](/zms_kundenstatistik.jpg)
+![Screenshot clerk position in the time management system](/zms_sachbearbeiter.jpg)
+![Screenshot of weekly calendar in the time management system](/zms_wochenkalender.jpg)
 
 
 ## Technical details
