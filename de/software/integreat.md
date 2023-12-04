@@ -10,7 +10,7 @@ logo: /integreat_logo.png
 tags:
 - application
 - opencore
-- start2022
+- start2020
 ---
 __Integreat__ ist eine lokale und mehrsprachige Integrations-Plattform für Zugewanderte, die in jeder Kommune ohne Beteiligung der IT-Abteilung eingesetzt werden kann.
 
