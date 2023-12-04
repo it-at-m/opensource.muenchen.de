@@ -16,5 +16,6 @@ __Integreat__ is a local and multilingual integration platform for immigrants th
 
 ---
 
-LHM has been using integreat as a SAAS service since March 2022.
-On the Integreat Munich platform, people from Ukraine receive multilingual initial information to support and welcome them when they arrive in Munich - both via the free and offline Integreat app (download via Google Play Store or App Store) and at [integreat.app/muenchen/](https://integreat.app/muenchen/).
+LHM has been using Integreat as a software-as-a-service since February 2020.
+The Integreat Munich platform provides refugees and new immigrants with multilingual initial information to help them arrive in Munich and welcome them - both via the free and offline Integreat app (download via Google Play Store or App Store) and at [integreat.app/muenchen/](https://integreat.app/muenchen/).
+The overview of Munich's offerings is also a great help for full-time staff and volunteers.
