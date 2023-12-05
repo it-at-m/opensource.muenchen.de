@@ -13,8 +13,6 @@ The OpenAPI specification is a standard for describing HTTP programming interfac
 
 ---
 
-LHM offers numerous IT services and we link these services with each other using open interfaces.
-The OpenAPI specification enables us to define standardized interfaces ourselves, but also with manufacturers.
-Using the OpenAPI Generator, we can easily generate client and server components based on these definitions.
-
-Numerous proprietary, internal but also [open source applications use the OpenAPI Generator](https://github.com/search?q=org%3Ait-at-m+openapi-generator&type=code).
+LHM offers numerous IT services and we link these services with each other on the basis of standardized interface protocols.
+The OpenAPI specification enables us to define and technically document interfaces ourselves, but also in cooperation with external manufacturers.
+Using the OpenAPI Generator, we generate clients or server components based on these definitions, thereby accelerating our development process.
