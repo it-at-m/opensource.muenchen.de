@@ -27,7 +27,7 @@ Diese Geschäftsmodelle können je nach Entwickler und Anwendungsfall sehr unter
 
 ### Sponsoring
 
-Freie Software die wir häufig nutzen unterstützen wir finanziell.
+Freie Software die wir häufig nutzen, unterstützen wir finanziell.
 Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von freier Software gewährleistet bleibt und die Software weiterhin unseren Bedürfnissen entspricht.
 
 <TagTile
