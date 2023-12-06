@@ -13,6 +13,6 @@ Robot verwendet eine einfache tabellenartige Struktur zur Verwaltung der Testdat
 
 ---
 
-Wichtig für uns sind auch die Möglichkeit zu Integrationen in unsere Systemlandschaft durch offene Schnittstellen.
-So ist Robot Framework in das ebenfalls freie [checkmk](checkmk) integriert, und ermöglicht es uns z.B. Browsertests aus _Robot Framework_ direkt in checkmk zu verarbeiten.
+Wichtig für uns sind auch die Möglichkeiten zur Integration in unsere Systemlandschaft durch offene Schnittstellen.
+So ist das Robot Framework mit Hilfe eines Plugins in das ebenfalls freien [Checkmk](checkmk) integriert, und ermöglicht es uns z.B. Browsertests aus _Robot Framework_ direkt in Checkmk zu verarbeiten.
 
