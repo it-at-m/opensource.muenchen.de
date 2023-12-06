@@ -14,5 +14,5 @@ Robot uses a simple table-like structure to manage test data and relies on keywo
 ---
 
 Also important for us is the possibility for integrations into our system landscape through open interfaces.
-Robot Framework is integrated into the equally free [checkmk](checkmk), and allows us e.g. to process browser tests from _Robot Framework_ directly in checkmk.
+Robot Framework is integrated into the equally free [Checkmk](checkmk) with the help of a plugin, and allows us e.g. to process browser tests from _Robot Framework_ directly in Checkmk.
 
