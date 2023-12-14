@@ -15,5 +15,8 @@ __Startercode__ ist ein Codegenerator der aus jedem CSV-Datensatz des [Open Data
 ---
 
 Startercode ist ein [Codegenerator des Kanton Zürich](https://github.com/openZH/startercode-generator_openZH) und erzeugt ein Python- und R-Skript-"Gerüst" mit den wichtigsten Metadaten und den entsprechenden Code-Zeilen zum schnellen Start der Datenanalyse.
+Wir haben das Vorbild aus Zürich an das Open Data Portal München angepasst.
 
-Wir [generieren](https://github.com/it-at-m/startercode-generator-munich) den startercode regelmäßig auf github und veröffentlichen diesen auf [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
+Wir [generieren](https://github.com/it-at-m/startercode-generator-munich) den Startercode regelmäßig auf github und veröffentlichen diesen auf [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
+
+

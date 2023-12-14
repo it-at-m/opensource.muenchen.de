@@ -15,5 +15,6 @@ __Startercode__ is a code generator that generates a Python and R script "framew
 ---
 
 Startercode is a [code generator of the Canton of Zurich](https://github.com/openZH/startercode-generator_openZH) and generates a Python and R script "framework" with the most important metadata and the corresponding lines of code to quickly start the data analysis.
+We have adapted the model from Zurich to the Open Data Portal Munich.
 
-We [generate](https://github.com/it-at-m/startercode-generator-munich) the startercode regularly on github and publish it on [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
+We [generate](https://github.com/it-at-m/startercode-generator-munich) the Startercode regularly on github and publish it on [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
