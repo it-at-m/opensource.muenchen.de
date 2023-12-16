@@ -24,8 +24,16 @@ env:
 
 jobs:
 
-  build-page:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+      # This is used to complete the identity challenge
+      # with sigstore/fulcio when running outside of PRs.
+      id-token: write
+
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,42 +52,6 @@ jobs:
         run: |
           npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
           touch .vitepress/dist/.nojekyll
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          name: pagecontent
-          path: .vitepress/dist
-
-  build-image:
-
-    needs: build-page
-    if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-      # This is used to complete the identity challenge
-      # with sigstore/fulcio when running outside of PRs.
-      id-token: write
-
-    steps:
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download artifact
-        uses: actions/download-artifact@master
-        with:
-          name: pagecontent
-          path: .vitepress/dist
-
-      - name: Extract files
-        uses: a7ul/tar-action@v1.1.3
-        id: extract
-        with:
-          command: x
-          cwd: .vitepress/dist
-          files: .vitepress/dist/artifact.tar
 
       # Install the cosign tool except on PR
       # https://github.com/sigstore/cosign-installer
@@ -116,6 +88,7 @@ jobs:
       # Build and push Docker image with Buildx (don't push on PR)
       # https://github.com/docker/build-push-action
       - name: Build and push Docker image
+        if: github.ref == 'refs/heads/main'
         id: build-and-push
         uses: docker/build-push-action@4a13e500e55cf31b7a5d59a38ab2040ab0f42f56 # v5.1.0
         with:
