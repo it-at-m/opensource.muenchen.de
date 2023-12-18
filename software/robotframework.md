@@ -13,6 +13,9 @@ Robot uses a simple table-like structure to manage test data and relies on keywo
 
 ---
 
-Also important for us is the possibility for integrations into our system landscape through open interfaces.
-Robot Framework is integrated into the equally free [Checkmk](checkmk) with the help of a plugin, and allows us e.g. to process browser tests from _Robot Framework_ directly in Checkmk.
+The possibilities for integration into our system landscape through open interfaces are important for LHM.
+Robot Framework is used for various tasks:
 
+* with a plugin, Robot Framework is integrated into [Checkmk](checkmk), which is also free, and enables, for example, browser tests to be called up directly in Checkmk and the test results to be displayed in Checkmk.
+* as a test framework in the geodata portal.
+* as an automatic tool for Windows client installation as well as for regression tests after BIOS updates.
