@@ -8,7 +8,7 @@ logo: /Robot-framework-logo.png
 tags:
 - infrastruktur
 ---
-__Robot Framework__ ist ein generisches Framework zur Durchführung von automatisierten Softwaretests mit einem Schwerpunkt auf Akzeptanztests.
+__Robot Framework__ ist ein generisches Automatisierungs-Framework, welches sowohl für Testautomatisierung als auch für Robotic Process Automation genutzt werden kann.
 
 ---
 
