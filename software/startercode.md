@@ -18,3 +18,6 @@ Startercode is a [code generator of the Canton of Zurich](https://github.com/ope
 We have adapted the model from Zurich to the Open Data Portal Munich.
 
 We [generate](https://github.com/it-at-m/startercode-generator-munich) the Startercode regularly on github and publish it on [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
+
+
+![screenshot startercode](/screenshot-startercode.jpg)
