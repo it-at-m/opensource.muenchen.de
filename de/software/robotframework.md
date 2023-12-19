@@ -13,7 +13,7 @@ __Robot Framework__ ist ein generisches Automatisierungs-Framework, welches sowo
 ---
 
 Für die LHM sind die Möglichkeiten zur Integration in unsere Systemlandschaft durch offene Schnittstellen wichtig.
-Robot Framework kommt für unterschiedliche Aufgeben zum Einsatz:
+Robot Framework kommt für unterschiedliche Aufgaben zum Einsatz:
 
 * Robot Framework ist mit einem Plugin in das ebenfalls freie [Checkmk](checkmk) integriert und ermöglicht es, z.B. Browsertests direkt in Checkmk aufzurufen und die Testergebnisse anzuzeigen.
 * als Testframework im Geodatenportal.
