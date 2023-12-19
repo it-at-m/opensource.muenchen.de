@@ -16,5 +16,5 @@ Für die LHM sind die Möglichkeiten zur Integration in unsere Systemlandschaft 
 Robot Framework kommt für unterschiedliche Aufgaben zum Einsatz:
 
 * Robot Framework ist mit einem Plugin in das ebenfalls freie [Checkmk](checkmk) integriert und ermöglicht es, z.B. Browsertests direkt in Checkmk aufzurufen und die Testergebnisse anzuzeigen.
-* als Testframework im Geodatenportal.
+* als Testframework im [Digitalen Zwilling](https://muenchen.digital/projekte/digitaler-zwilling.html).
 * als automatisches Tool zu Window-Clientinstallation ebenso wie für Regressionstests nach BIOS-Updates.

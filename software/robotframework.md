@@ -16,5 +16,5 @@ The possibilities for integration into our system landscape through open interfa
 Robot Framework is used for various tasks:
 
 * with a plugin, Robot Framework is integrated into [Checkmk](checkmk), which is also free, and enables, for example, browser tests to be called up directly in Checkmk and the test results to be displayed in Checkmk.
-* as a test framework in the geodata portal.
+* as a test framework in the [Digital Twin](https://muenchen.digital/projekte/digitaler-zwilling.html).
 * as an automatic tool for Windows client installation as well as for regression tests after BIOS updates.
