@@ -87,7 +87,6 @@ export default defineConfig({
       pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
       text: 'View this page on GitHub'
     },
-
   },
 
   markdown: {
