@@ -8,7 +8,7 @@ logo: /Robot-framework-logo.png
 tags:
 - infrastruktur
 ---
-__Robot Framework__ Robot Framework__ is a generic automation framework that can be used for both test automation and robotic process automation.
+__Robot Framework__ is a generic automation framework that can be used for both test automation and robotic process automation.
 
 ---
 
