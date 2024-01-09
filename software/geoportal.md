@@ -1,8 +1,10 @@
 ---
 title: GeoPortal
-developer: LHM
-developerlink: https://geoportal.muenchen.de/portal/master/
+developer: Geowerkstatt Hamburg
+developerlink: https://www.masterportal.org/
+code: https://gitlab.opencode.de/geowerkstatt-hamburg/masterportal
 licensingmodel: open source
+linkapplication: https://geoportal.muenchen.de/portal/master/
 logo: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/Kommunalreferat/img_geoportal/Karten/Logo_GeoPortal.png/jcr:content/Logo_GeoPortal.png
 tags:
 - application
@@ -30,7 +32,7 @@ The GeoPortal is the spatial data infrastructure on which the [Digital Twin Muni
 
 Today, modern, scalable software does not consist of a monolithic piece of code, but is instead composed of modular components that can be installed individually and exchanged as required, and that communicate with each other via open, standardized interfaces as far as possible. 
 communicate with each other. As in the case of the master portal example mentioned above, all
-components are based on free software and are themselves provided as free software by active and internationally recognized communities in the geodata field;
+components are based on free software and are themselves provided as free software by active and internationally recognized communities in the geodata field.
 
 * The map service software [Geoserver](https://geoserver.org) with the OGC compliant web services.
 * The metadata catalog [GeoNetwork](https://geonetwork-opensource.org) with also OGC compliant web services with harvesting to and from other metadata catalogs.
