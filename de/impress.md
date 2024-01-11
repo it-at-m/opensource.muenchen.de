@@ -22,7 +22,7 @@ E-Mail: <opensource@muenchen.de>
 
 ## Datenschutzerklärung
 
-Sollten sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um ihr Anliegen zu bearbeiten.
+Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten.
 
 Zu den verarbeiteten Daten zählen:  
 Ihr Name  
@@ -34,14 +34,14 @@ Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich is
 
 Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung deiner Daten.
 
-Bitte richten sie ihren Widerspruch formlos an oben genannte Adresse.
+Bitte richten Sie Ihren Widerspruch formlos an oben genannte Adresse.
 
-Darüber hinaus haben sie das Recht auf Datenübertragbarkeit. Sie haben weiter das Recht, dich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden finden sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+Darüber hinaus haben sie das Recht auf Datenübertragbarkeit. Sie haben weiter das Recht, sich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden finden sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
 ### Hosting
 
 Der Inhalt dieser Seite wird auf [Github verwaltet](https://github.com/it-at-m/opensource.muenchen.de), dort als Containerimage erstellt und dann im Rechenzentrum der Landeshauptstadt München gehostet.
-Das Sie sich als Besucher weder registrieren noch einloggen können, erheben wir nur sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
+Da Sie sich als Besucher weder registrieren noch einloggen können, erheben wir nur sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 IP-Adresse, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
 
