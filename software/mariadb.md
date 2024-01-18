@@ -11,6 +11,4 @@ __MariaDB__ is a free, relational open source database management system that wa
 
 ---
 
-Together with the also free [PostgreSQL](postgresql), 30% of our database instances use an open source database system.
-
-
+Together with [PostgreSQL](postgresql), which is also free, around 40% of our database instances currently use an open source database system.

@@ -15,4 +15,4 @@ In order to focus on one technology, PostgreSQL has been preferred as the defaul
 With PostgreSQL, we use a stable and established database system that, above all, allows us to be vendor-independent.
 Other database systems can only be used in technically justified exceptions.
 
-Together with the also free [MariaBD](mariadb), 30% of our database instances use an open source database system.
+Together with [MariaDB](mariadb), which is also free, around 40% of our database instances currently use an open source database system.
