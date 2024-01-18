@@ -7,7 +7,8 @@ logo: /233px-Postgresql_elephant.svg.png
 tags:
 - infrastruktur
 ---
-__PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORDBMS). Seine Entwicklung begann in den 1980er Jahren, seit 1997 wird die Software von einer Open-Source-Community weiterentwickelt. 
+__PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORDBMS) mit Schwerpunkt auf Erweiterbarkeit und SQL-Konformität.
+
 
 ---
 
