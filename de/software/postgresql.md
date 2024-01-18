@@ -11,4 +11,8 @@ __PostgreSQL__ ist ein freies, objektrelationales Datenbankmanagementsystem (ORD
 
 ---
 
+Um sich auf eine Technologie zu konzentrieren, wird seit 2024 PostgreSQL als default Datenbanksystem für neue Anwendungsfälle präferieriert.
+Mit PostgreSQL nutzen wir eine stabiles und etabliertes Datenbanksysteme, das uns aber vor allem auch Herstellerunabhängigkeit ermöglicht.
+Nur in technisch begründeten Ausnahmen können auch andere Datenbanksysteme eingesetzt werden.
+
 Zusammen mit dem ebenfalls freien [MariaBD](mariadb) nutzen 30% unserer Datenbankinstanzen ein Open Source Datenbanksystem.
