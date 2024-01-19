@@ -10,4 +10,4 @@ __Vue.js__ ist ein clientseitiges JavaScript-Webframework zum Erstellen von Sing
 
 ---
 
-In der Referenzarchitektur wird Vuetify, zusammen mit [Vuetify](./vuetifyjs), für fast alle [Eigenentwicklungen](../publish) genutzt.
+In der Referenzarchitektur wird Vue.js, zusammen mit [Vuetify](./vuetifyjs), für fast alle [Eigenentwicklungen](../publish) genutzt.

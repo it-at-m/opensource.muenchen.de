@@ -10,6 +10,6 @@ __Vue.js__ is a client-side JavaScript web framework for building single-page we
 
 ---
 
-In the reference architecture, Vuetify, along with [Vuetify](./vuetifyjs), is used for almost all [custom development](../publish).
+In the reference architecture, Vue.js, along with [Vuetify](./vuetifyjs), is used for almost all [custom development](../publish).
 
 
