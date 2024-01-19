@@ -13,4 +13,4 @@ In the reference architecture, Vuetify is used for almost all [custom developmen
 ---
 
 Since we benefit massively from the work of Vuetify here and want to ensure that Vuetify continues with such high quality 
-we sponsor [Vuetify as Paltinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) with [500 $ per month](https://www.muenchen-transparent.de/dokumente/7347900).
+we sponsor [Vuetify as Platinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) with [500 $ per month](https://www.muenchen-transparent.de/dokumente/7347900).

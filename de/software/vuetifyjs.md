@@ -13,6 +13,6 @@ In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../p
 ---
 
 Da wir hier massiv von der Arbeit von Vuetify profitieren und sicherstellen wollen das Vuetify weiterhin mit so hoher Qualität 
-sponsern wir [Vuetify als Paltinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) mit [500 $ pro Monat](https://www.muenchen-transparent.de/dokumente/7347900).
+sponsern wir [Vuetify als Platinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) mit [500 $ pro Monat](https://www.muenchen-transparent.de/dokumente/7347900).
 
 
