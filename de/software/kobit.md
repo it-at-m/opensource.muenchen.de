@@ -5,7 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=kobit&type=source
 codelinktext: github.com/it-at-m kobit
 licensingmodel: open source
 license: MIT
-logo: https://user-images.githubusercontent.com/53316058/216995779-d246b9ee-69f7-4caf-950e-4de3773b8b3d.PNG
+logo: /kobit_logo.png
 tags:
 - eigenentwicklung
 - application
