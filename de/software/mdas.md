@@ -2,6 +2,7 @@
 title: MDAS
 code: https://github.com/it-at-m/mobidam-sst-management
 licensingmodel: open source
+logo: https://raw.githubusercontent.com/it-at-m/mobidam-sst-management/sprint/images/logo.png
 tags:
 - application
 - eigenentwicklung
