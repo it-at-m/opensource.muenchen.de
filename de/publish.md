@@ -30,7 +30,7 @@ Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl
 Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austausch mit der Wirtschaft.
 
 
-## Referenzarchitektur für Eigenentwicklungen
+## Referenzarchitektur für Eigenentwicklungen {#refarch}
 
 In der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ wird der technische Aufbau von selbstentwickelter Software festgelegt.
 Um eine optimale Wartbarkeit und Skalierbarkeit der Software zu gewährleisten, setzen wir auf einen modularen Technologie-Stack aus Open Source Komponenten.

@@ -27,7 +27,7 @@ Open source is the basis for the exchange of what has already been achieved.
 Within the public administration, this exchange can serve both to support reuse in the sense of the EfA[^efa] principle and to contribute to standardization through wider dissemination.
 Outside the public administration, it serves transparency as well as exchange with the business community.
 
-## Reference Architecture for in-house development
+## Reference Architecture for in-house development {#refarch}
 
 The guideline "City of Munich Reference Architecture for Self-Developed Software" defines the technical structure of self-developed software.
 To ensure optimal maintainability and scalability of the software, we rely on a modular technology stack of open source components.
