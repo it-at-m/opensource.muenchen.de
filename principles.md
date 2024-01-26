@@ -20,9 +20,10 @@ In addition to the benefits of open source software for us as an IT service prov
 
 The city council elected in March 2020 has taken a clear and sustainable position on the topic of open source:
 
-> Open Source Lösungen sollen verstärkt zum Einsatz kommen und werden als eine der Maßnahmen zur Stärkung digitaler Souveränität identifiziert.[^koalitionsvertrag_2020]
+> Wo immer technisch und finanziell möglich setzt die Stadt auf offene Standards und freie Open Source-lizenzierte Software und vermeidet damit absehbare Herstellerabhängigkeiten. Diese Abwägung nehmen wir als Kriterium für Ausschreibungen mit auf, eine Abweichung von diesem Grundsatz muss begründet werden.[^koalitionsvertrag_2020]
 
-> Open source solutions are to be increasingly used and are identified as one of the measures for strengthening digital sovereignty.[^koalitionsvertrag_2020].
+> Wherever technically and financially possible, the city relies on open standards and free open source licensed software and thus avoids foreseeable manufacturer dependencies. We include this consideration as a criterion for tenders; any deviation from this principle must be justified.[^koalitionsvertrag_2020]
+
 
 An important step towards integrating the topic of open source into the orientation of IT was the inclusion of the topic in the [strategic orientation of LHM's IT](https://www.muenchen-transparent.de/dokumente/6229564) adopted by the City Council on 11.11.2020:
 
@@ -65,5 +66,5 @@ Especially in the area of municipal software we are often challenged [to develop
 
 Structuring of the solution space for IT solutions - the approaches differ depending on the classification from the point of view of the state capital Munich
 
-[^koalitionsvertrag_2020]: Coalition agreement for the city council period 2020 - 2026 https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf, or https://spd-rathausmuenchen.de/workspace/media/static/druckfassung_koalitionsvertrag-5eb182453a5e4.pdf
+[^koalitionsvertrag_2020]: Coalition agreement for the city council period 2020 - 2026 https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf, or https://spd-rathausmuenchen.de/schwerpunkte/koalitionsvertrag/#toggle-id-12
 

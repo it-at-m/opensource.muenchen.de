@@ -21,7 +21,8 @@ Neben den Vorteilen von Open Source Software für uns als IT-Service-Provider er
 
 Der im März 2020 gewählte Stadtrat hat sich im Bereich des Themas Open Source eindeutig und nachhaltig positioniert: 
 
-> Open Source Lösungen sollen verstärkt zum Einsatz kommen und werden als eine der Maßnahmen zur Stärkung digitaler Souveränität identifiziert.[^koalitionsvertrag_2020]
+> Wo immer technisch und finanziell möglich setzt die Stadt auf offene Standards und freie Open Source-lizenzierte Software und vermeidet damit absehbare Herstellerabhängigkeiten. Diese Abwägung nehmen wir als Kriterium für Ausschreibungen mit auf, eine Abweichung von diesem Grundsatz muss begründet werden.[^koalitionsvertrag_2020]
+
 
 Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren, war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://www.muenchen-transparent.de/dokumente/6229564):
 
@@ -54,4 +55,4 @@ Vor allem im Bereich kommunaler Software sind wir oft gefordert [freie Software 
 
 Strukturierung des Lösungsraums für IT-Lösungen - die Vorgehensweisen unterscheiden sich je nach Einordnung aus Sicht der Landeshauptstadt München
 
-[^koalitionsvertrag_2020]: Koalitionsvereinbarung für die Stadtratsperiode 2020 – 2026 https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf, bzw. https://spd-rathausmuenchen.de/workspace/media/static/druckfassung_koalitionsvertrag-5eb182453a5e4.pdf
+[^koalitionsvertrag_2020]: Koalitionsvereinbarung für die Stadtratsperiode 2020 – 2026 https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf, bzw. https://spd-rathausmuenchen.de/schwerpunkte/koalitionsvertrag/#toggle-id-12
