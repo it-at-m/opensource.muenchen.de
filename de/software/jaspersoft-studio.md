@@ -1,7 +1,7 @@
 ---
 Source: SNow
 title: JasperSoft Studio
-developerlink: https://community.jaspersoft.com/project/jaspersoft-studio
+developerlink: https://www.jaspersoft.com/products/jaspersoft-community
 licensingmodel: CE/EE-Modell
 logo: /logo/jaspersoft_studio_icon.jpg
 tags:
