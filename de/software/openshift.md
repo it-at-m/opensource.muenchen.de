@@ -8,7 +8,7 @@ tags:
 - support
 - infrastruktur
 ---
-Auf der Kubernetes Plattform __Openshift__ werden ca. 100 interne, als auch externe Services betreiben.
+Auf der Kubernetes Plattform __Openshift__ werden ca. 100 interne, als auch externe Services betrieben.
 
 ---
 [Neue Eigenentwicklungen](../publish) werden grundsätzlich für Openshift entwickelt.
