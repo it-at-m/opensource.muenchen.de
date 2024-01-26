@@ -38,5 +38,3 @@ KoBIT is user-centric and modular in design. This means that the application can
 
 The KoBITApp is based on the reference architecture of the City of Munich. Vue.js is used as the framework in the frontend, Spring Boot in the backend.
 Accessibility, simple and intuitive usability, as well as the "mobile-first" idea are the main focus of the development. Since the data surrounding the KoBITApp can be very personal, entries made are never stored, especially for data protection reasons.
-
-KoBIT is container-based and can be deployed via [helm-chart](https://github.com/it-at-m/kobit-helmchart).
