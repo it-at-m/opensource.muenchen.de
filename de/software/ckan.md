@@ -5,7 +5,7 @@ developer: null
 developerlink: https://ckan.org
 licensingmodel: open source
 linkapplication: https://opendata.muenchen.de
-logo: /ckan_logo.svg
+logo: /logo/ckan_logo.svg
 tags:
 - application
 - kooperation

@@ -2,7 +2,7 @@
 title: dbt
 developerlink: https://www.getdbt.com/
 licensingmodel: open-source
-logo: /dbt.svg
+logo: /logo/dbt.svg
 code: https://github.com/dbt-labs/dbt-core
 tags:
 - application

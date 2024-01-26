@@ -3,7 +3,7 @@ Source: SNow
 title: pgAdmin
 developerlink: https://www.pgadmin.org
 licensingmodel: open source
-logo: /PgAdminLogo.jpg
+logo: /logo/PgAdminLogo.jpg
 tags:
 - infrastruktur
 ---

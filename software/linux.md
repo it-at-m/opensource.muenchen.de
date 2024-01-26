@@ -1,7 +1,7 @@
 ---
 title: Linux
 licensingmodel: open source
-logo: /100px-Tux.svg.png
+logo: /logo/100px-Tux.svg.png
 tags:
 - infrastruktur
 - support

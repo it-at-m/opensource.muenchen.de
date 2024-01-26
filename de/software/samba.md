@@ -4,7 +4,7 @@ title: Samba
 developer: null
 developerlink: http://www.samba.org/
 licensingmodel: open source
-logo: /Samba_Logo.png
+logo: /logo/Samba_Logo.png
 tags:
 - infrastruktur
 ---

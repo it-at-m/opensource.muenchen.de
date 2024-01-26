@@ -4,7 +4,7 @@ title: Cobbler
 developer: null
 developerlink: http://cobbler.github.io/
 licensingmodel: open source
-logo: /logo-cobbler-new.svg
+logo: /logo/logo-cobbler-new.svg
 tags:
 - infrastruktur
 ---

@@ -5,7 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
 license: MIT
-logo: /dave_logo.png
+logo: /inhouse/dave_logo.png
 tags:
 - application
 - eigenentwicklung
@@ -24,7 +24,7 @@ DAVe (short for: Database and Evaluation of Traffic Counts) is a specialized pro
 All traffic counts carried out in Munich since 1989 can be viewed with the DAVe application. Various diagrams are available for analysis, which can also be downloaded as a PDF report if required. Additional counting points and new traffic counts can be created and commissioned in direct communication with the counting service provider.
 The data collected helps to analyze traffic development and is used, for example, to plan new cycle paths. They also form the basis for the traffic volume map, where interested citizens can view the traffic volumes on Munich's roads online.
 
-![Screenshot of a website with the plan of a street intersection, with stylized lanes in different colors](/DAVE_Grafik_Belastungsplan_verkehr.png)
+![Screenshot of a website with the plan of a street intersection, with stylized lanes in different colors](/inhouse/DAVE_Grafik_Belastungsplan_verkehr.png)
 
 
 ## Technical details

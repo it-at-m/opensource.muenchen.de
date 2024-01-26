@@ -4,7 +4,7 @@ title: JDK
 developer: null
 developerlink: java.com
 licensingmodel: open source
-logo: /253px-Java-Logo.svg.png
+logo: /logo/253px-Java-Logo.svg.png
 tags:
 - development
 ---

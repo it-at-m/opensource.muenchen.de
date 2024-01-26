@@ -6,7 +6,7 @@ code: https://github.com/digitalfabrik/integreat-app
 licensingmodel: open source
 license: MIT
 linkapplication: https://integreat.app/muenchen/
-logo: /integreat_logo.png
+logo: /logo/integreat_logo.png
 tags:
 - application
 - opencore

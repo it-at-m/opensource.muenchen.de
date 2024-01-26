@@ -2,7 +2,7 @@
 title: Modelio
 developerlink: https://www.modelio.org
 licensingmodel: open source
-logo: /Modelio-logo.jpg
+logo: /logo/Modelio-logo.jpg
 tags:
 - application
 ---

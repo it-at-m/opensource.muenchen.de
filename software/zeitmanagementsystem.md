@@ -32,9 +32,9 @@ The citizen view is an in-house development of the LHM with [Vue.js](vue.js.html
 * The clerk client in the backend is a web application via which waiting citizens can be called up for appointments using call systems. This is connected to the open source database Maria DB, which runs as a Galera cluster.
 * In addition, team leaders can control the available appointments via an administration interface and pull statistics reports (number of appointments/service) via an extra module.
 
-![Screenshot of customer statistics in the time management system](/zms_kundenstatistik.jpg)
-![Screenshot clerk position in the time management system](/zms_sachbearbeiter.jpg)
-![Screenshot of weekly calendar in the time management system](/zms_wochenkalender.jpg)
+![Screenshot of customer statistics in the time management system](/inhouse/zms_kundenstatistik.jpg)
+![Screenshot clerk position in the time management system](/inhouse/zms_sachbearbeiter.jpg)
+![Screenshot of weekly calendar in the time management system](/inhouse/zms_wochenkalender.jpg)
 
 
 ## Technical details

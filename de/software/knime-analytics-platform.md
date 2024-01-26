@@ -4,7 +4,7 @@ title: KNIME Analytics Platform
 developer: null
 developerlink: https://www.knime.com
 licensingmodel: open source
-logo: /320px-KNIMELogoTM.svg.png
+logo: /logo/320px-KNIMELogoTM.svg.png
 tags:
 - infrastruktur
 ---

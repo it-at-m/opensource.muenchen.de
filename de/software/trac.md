@@ -4,7 +4,7 @@ title: TRAC
 developer: null
 developerlink: http://trac.edgewall.org/
 licensingmodel: open source
-logo: /320px-Trac_logo.svg.png
+logo: /logo/320px-Trac_logo.svg.png
 tags:
 - development
 ---

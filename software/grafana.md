@@ -3,7 +3,7 @@ Source: SNow
 title: Grafana
 developerlink: https://grafana.com
 licensingmodel: open source
-logo: /Grafana_logo.png
+logo: /logo/Grafana_logo.png
 tags:
 - infrastruktur
 ---

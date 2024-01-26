@@ -20,4 +20,4 @@ Wir haben das Vorbild aus Zürich an das Open Data Portal München angepasst.
 Wir [generieren](https://github.com/it-at-m/startercode-generator-munich) den Startercode regelmäßig auf github und veröffentlichen diesen auf [it-at-m.github.io/startercode-opendata-munich/](https://it-at-m.github.io/startercode-opendata-munich/)
 
 
-![screenshot startercode](/screenshot-startercode.jpg)
+![screenshot startercode](/inhouse/screenshot-startercode.jpg)

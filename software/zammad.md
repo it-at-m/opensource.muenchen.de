@@ -2,7 +2,7 @@
 title: Zammad
 developerlink: https://zammad.org
 licensingmodel: open source
-logo: /320px-Logo-zammad.svg.png
+logo: /logo/320px-Logo-zammad.svg.png
 tags:
 - application
 - support

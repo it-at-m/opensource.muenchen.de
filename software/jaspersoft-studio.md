@@ -3,7 +3,7 @@ Source: SNow
 title: JasperSoft Studio
 developerlink: https://community.jaspersoft.com/project/jaspersoft-studio
 licensingmodel: CE/EE-Modell
-logo: /jaspersoft_studio_icon.jpg
+logo: /logo/jaspersoft_studio_icon.jpg
 tags:
 - application
 ---

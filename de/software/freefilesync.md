@@ -4,7 +4,7 @@ title: FreeFileSync
 developer: null
 developerlink: https://freefilesync.org
 licensingmodel: open source
-logo: /FreeFileSync_Icon.png
+logo: /logo/FreeFileSync_Icon.png
 tags:
 - application
 ---

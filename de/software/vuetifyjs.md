@@ -2,7 +2,7 @@
 title: Vuetify
 developerlink: https://vuetifyjs.com
 licensingmodel: open source
-logo: /vuetify-logo-300.png
+logo: /logo/vuetify-logo-300.png
 tags:
 - development
 - sponsor

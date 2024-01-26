@@ -6,7 +6,7 @@ developerlink: https://www.nuclos.de
 code: https://bitbucket.org/nuclos/workspace/repositories/
 licensingmodel: open source
 license: AGPL
-logo: /nuclos-logo.png
+logo: /logo/nuclos-logo.png
 tags:
 - application
 - support

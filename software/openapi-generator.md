@@ -4,7 +4,7 @@ developerlink: https://openapi-generator.tech/
 code: https://github.com/OpenAPITools/openapi-generator
 licensingmodel: open source
 license: Apache-2.0
-logo: /color-logo.svg
+logo: /logo/color-logo.svg
 tags:
 - infrastruktur
 ---

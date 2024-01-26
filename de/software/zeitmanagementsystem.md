@@ -32,9 +32,9 @@ Die Bürgeransicht ist eine Eigenentwicklung er LHM mit [Vue.js](vue.js.html).
 * Der Sachbearbeiter\*innen Client im Backend ist eine Web-Anwendung, über die wartende Bürger\*innen per Aufrufanlagen zum Termin aufgerufen werden. Diese ist an die Open Source Datenbank Maria DB angebunden, die als Galera-Cluster läuft.
 * Außerdem können Teamleitungen über eine Administrationsoberfläche die verfügbaren Termine steuern und über ein Extra-Modul Statistik-Reports (Anzahl Termine/Dienstleistung) ziehen.
 
-![Screenshot Kundenstatistik im Zeitmanagementsystem](/zms_kundenstatistik.jpg)
-![Screenshot Sachbearbeiterplatz im Zeitmanagementsystem](/zms_sachbearbeiter.jpg)
-![Screenshot Wochenkalender im Zeitmanagementsystem](/zms_wochenkalender.jpg)
+![Screenshot Kundenstatistik im Zeitmanagementsystem](/inhouse/zms_kundenstatistik.jpg)
+![Screenshot Sachbearbeiterplatz im Zeitmanagementsystem](/inhouse/zms_sachbearbeiter.jpg)
+![Screenshot Wochenkalender im Zeitmanagementsystem](/inhouse/zms_wochenkalender.jpg)
 
 
 ## Technische Details

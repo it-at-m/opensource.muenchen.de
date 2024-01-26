@@ -3,7 +3,7 @@ Source: SNow
 title: pdfsam
 developerlink: https://pdfsam.org/de/pdfsam-basic/
 licensingmodel: open source
-logo: /Logo_pdfsam1.png
+logo: /logo/Logo_pdfsam1.png
 tags:
 - application
 ---

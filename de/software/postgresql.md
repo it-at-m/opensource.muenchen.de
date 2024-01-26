@@ -3,7 +3,7 @@ title: PostgreSQL
 developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache
-logo: /233px-Postgresql_elephant.svg.png
+logo: /logo/233px-Postgresql_elephant.svg.png
 tags:
 - infrastruktur
 - support

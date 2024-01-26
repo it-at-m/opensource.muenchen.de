@@ -3,7 +3,7 @@ Source: SNow
 title: phpList
 developerlink: https://www.phplist.com
 licensingmodel: open source
-logo: /phplist-logo.svg
+logo: /logo/phplist-logo.svg
 tags:
 - application
 ---

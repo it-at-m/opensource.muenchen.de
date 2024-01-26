@@ -3,7 +3,7 @@ Source: SNow
 title: JDK
 developerlink: java.com
 licensingmodel: open source
-logo: /253px-Java-Logo.svg.png
+logo: /logo/253px-Java-Logo.svg.png
 tags:
 - development
 ---

@@ -4,7 +4,7 @@ developer: Apache Software Foundation
 developerlink: https://kafka.apache.org/ 
 licensingmodel: open source
 license: GPL
-logo: /80px-Apache_kafka.svg.png
+logo: /logo/80px-Apache_kafka.svg.png
 tags:
 - infrastruktur
 - support

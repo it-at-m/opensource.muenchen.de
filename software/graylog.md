@@ -4,7 +4,7 @@ developerlink: https://graylog.org
 licensingmodel: open source
 code: https://github.com/Graylog2/graylog2-server
 license: SSPL
-logo: /Graylog-logo-blk.jpg
+logo: /logo/Graylog-logo-blk.jpg
 tags:
 - infrastruktur
 ---

@@ -4,7 +4,7 @@ developer: SonarSource
 developerlink: https://docs.sonarqube.org
 licensingmodel: open source
 license: LGPL
-logo: /Sonarqube-48x200.png
+logo: /logo/Sonarqube-48x200.png
 tags:
 - infrastruktur
 - development

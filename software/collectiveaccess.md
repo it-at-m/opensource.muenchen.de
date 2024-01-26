@@ -5,7 +5,7 @@ developerlink: http://www.collectiveaccess.org/
 licensingmodel: open source
 license: GPL
 code: https://github.com/collectiveaccess/providence
-logo: /collectiveaccess-logo.png
+logo: /logo/collectiveaccess-logo.png
 tags:
 - application
 ---

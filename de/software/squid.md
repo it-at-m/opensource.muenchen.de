@@ -4,7 +4,7 @@ title: squid
 developer: null
 developerlink: http://www.squid-cache.org/
 licensingmodel: open source
-logo: /Squid_Now.png
+logo: /logo/Squid_Now.png
 tags:
 - infrastruktur
 ---

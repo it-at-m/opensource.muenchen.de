@@ -5,7 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=kobit&type=source
 codelinktext: github.com/it-at-m kobit
 licensingmodel: open source
 license: MIT
-logo: /kobit_logo.png
+logo: /inhouse/kobit_logo.png
 tags:
 - eigenentwicklung
 - application
@@ -31,7 +31,7 @@ On the platform all experts on a topic or all offers for a target group are show
 
 KoBIT is user-centric and modular in design. This means that the application can be extended to other areas of the city administration and specifically tailored to them as well as adapted to other topics.
 
-![Screenshot of the Kobit start page with the headline Conflict Management with IT Support - the Kobit App](/KoBITApp_screenshot.jpg)
+![Screenshot of the Kobit start page with the headline Conflict Management with IT Support - the Kobit App](/inhouse/KoBITApp_screenshot.jpg)
 
 
 ## Technical details

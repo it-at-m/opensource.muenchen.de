@@ -3,7 +3,7 @@ Source: SNow
 title: LibreOffice
 developerlink: https://de.libreoffice.org
 licensingmodel: open source
-logo: /320px-LibreOffice_Logo_Flat.svg.png
+logo: /logo/320px-LibreOffice_Logo_Flat.svg.png
 tags:
 - application
 ---

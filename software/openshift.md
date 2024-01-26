@@ -3,7 +3,7 @@ Source: SNow
 title: Openshift
 developerlink: https://docs.openshift.com/
 licensingmodel: open source
-logo: /100px-OpenShift-LogoType.svg.png
+logo: /logo/100px-OpenShift-LogoType.svg.png
 tags:
 - support
 - infrastruktur

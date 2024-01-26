@@ -4,7 +4,7 @@ title: Apache Maven
 developer: null
 developerlink: https://maven.apache.org/
 licensingmodel: open source
-logo: /320px-Apache_Maven_logo.svg.png
+logo: /logo/320px-Apache_Maven_logo.svg.png
 tags:
 - development
 ---

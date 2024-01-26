@@ -3,7 +3,7 @@ title: NGINX
 developerlink: https://nginx.org/
 licensingmodel: open source
 license: BSD
-logo: /320px-Nginx_logo.svg.png
+logo: /logo/320px-Nginx_logo.svg.png
 tags:
 - infrastruktur
 ---

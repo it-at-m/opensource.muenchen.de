@@ -4,7 +4,7 @@ title: Winscp
 developer: null
 developerlink: https://winscp.net
 licensingmodel: open source
-logo: /WinSCP_6_Logo.png
+logo: /logo/WinSCP_6_Logo.png
 tags:
 - application
 ---

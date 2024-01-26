@@ -31,7 +31,7 @@ Wählt man eine Toilette durch Anklicken auf der Landkarte aus, werden detaillie
 
 Die Gäste haben darüber hinaus selbst die Möglichkeit, eine Bewertung des Zustandes der Toilette zu hinterlassen.
 
-![Screenshot zeigt einen Ausschnitt aus dem Stadtplan München mit Detailinformationen zu einem WC Schrannenhalle](/Inclus_Screenshot.jpg)
+![Screenshot zeigt einen Ausschnitt aus dem Stadtplan München mit Detailinformationen zu einem WC Schrannenhalle](/inhouse/Inclus_Screenshot.jpg)
 
 
 ## Technische Details

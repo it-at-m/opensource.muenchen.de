@@ -3,7 +3,7 @@ Source: SNow
 title: Hugin
 developerlink: http://hugin.sourceforge.net
 licensingmodel: open source
-logo: /320px-Hugin-splash.svg.png
+logo: /logo/320px-Hugin-splash.svg.png
 tags:
 - application
 ---

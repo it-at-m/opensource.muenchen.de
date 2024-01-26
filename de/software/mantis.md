@@ -3,7 +3,7 @@ Source: SNow
 title: Mantis
 developerlink: http://www.mantisbt.org
 licensingmodel: open source
-logo: /mantis_logo_262x90.png
+logo: /logo/mantis_logo_262x90.png
 tags:
 - development
 ---

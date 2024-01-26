@@ -4,7 +4,7 @@ title: ProjectLibre
 developer: null
 developerlink: http://www.projectlibre.com/
 licensingmodel: open source
-logo: /ProjectLibre_logo.png
+logo: /logo/ProjectLibre_logo.png
 tags:
 - application
 ---

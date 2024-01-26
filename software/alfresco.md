@@ -4,7 +4,7 @@ title: Alfresco
 developer: null
 developerlink: https://www.alfresco.com/de
 licensingmodel: open source
-logo: /300px-Alfresco-logo.svg.png
+logo: /logo/300px-Alfresco-logo.svg.png
 tags:
 - application
 ---

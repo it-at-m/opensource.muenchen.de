@@ -3,7 +3,7 @@ title: Firefox
 developer: Mozilla
 developerlink: https://www.mozilla.org/de/firefox/new/
 licensingmodel: open source
-logo: /462px-Firefox_logo_2019.svg.png
+logo: /logo/462px-Firefox_logo_2019.svg.png
 tags:
 - application
 ---

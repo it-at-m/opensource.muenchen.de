@@ -4,7 +4,7 @@ developer: LHM
 developerlink: 
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
-logo: /logo_kinderzeit.png
+logo: /inhouse/logo_kinderzeit.png
 license: MIT
 tags:
 - eigenentwicklung
@@ -25,7 +25,7 @@ Zur Unterstützung von Familien sollte eine Möglichkeit gefunden werden, Inform
 
 Der funktionsfähige Prototyp wurde im Rahmen eines dreimonatigen Vollzeitprogramms durch ein internationales Team entwickelt, unter Beteiligung des InnovationLabs im IT-Referat in Form einer Interaction Designerin.
 
-![Screenshot mit der Headline "Wilkommen Liebe Eltern", einem Kalenderblatt des Monats August und einer Programmübersicht](/Kinderzeit_screenshot.jpg)
+![Screenshot mit der Headline "Wilkommen Liebe Eltern", einem Kalenderblatt des Monats August und einer Programmübersicht](/inhouse/Kinderzeit_screenshot.jpg)
 
 ## Technische Details
 

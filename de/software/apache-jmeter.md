@@ -2,7 +2,7 @@
 title: Apache JMeter
 developerlink: https://jmeter.apache.org/
 licensingmodel: open source
-logo: /jmeter-logo.svg
+logo: /logo/jmeter-logo.svg
 tags:
 - infrastruktur
 ---

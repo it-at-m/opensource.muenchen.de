@@ -3,7 +3,7 @@ title: IntelliJ IDEA Community Edition
 developerlink: https://www.jetbrains.com/idea/
 code: https://github.com/JetBrains/intellij-community
 licensingmodel: open source
-logo: /480px-IntelliJ_IDEA_Icon.svg.png
+logo: /logo/480px-IntelliJ_IDEA_Icon.svg.png
 tags:
 - development
 ---

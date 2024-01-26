@@ -3,7 +3,7 @@ title: Maria-DB
 developerlink: https://mariadb.com
 licensingmodel: open source
 license: Apache
-logo: /320px-MariaDB_colour_logo.svg.png
+logo: /logo/320px-MariaDB_colour_logo.svg.png
 tags:
 - infrastruktur
 ---

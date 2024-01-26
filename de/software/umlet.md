@@ -4,7 +4,7 @@ title: UMLet
 developer: null
 developerlink: https://www.umlet.com
 licensingmodel: open source
-logo: /umlet_logo.svg
+logo: /logo/umlet_logo.svg
 tags:
 - application
 ---

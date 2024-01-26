@@ -4,7 +4,7 @@ title: Scribus
 developer: null
 developerlink: https://www.scribus.net
 licensingmodel: open source
-logo: /240px-Scribus_logo.svg.png
+logo: /logo/240px-Scribus_logo.svg.png
 tags:
 - application
 ---

@@ -3,7 +3,7 @@ Source: SNow
 title: Freemind
 developerlink: https://freemind.sourceforge.net
 licensingmodel: open source
-logo: /Free_Mind.png
+logo: /logo/Free_Mind.png
 tags:
 - application
 ---

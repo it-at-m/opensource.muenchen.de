@@ -4,7 +4,7 @@ title: Mark-a-spot
 developerlink: https://markaspot.de/de/
 licensingmodel: open source
 linkapplication: https://machmuenchenbesser.de/
-logo: /markaspot_logo.png
+logo: /logo/markaspot_logo.png
 tags:
 - application
 - start2021

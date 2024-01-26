@@ -3,7 +3,7 @@ Source: SNow
 title: ProjectLibre
 developerlink: http://www.projectlibre.com
 licensingmodel: open source
-logo: /ProjectLibre_logo.png
+logo: /logo/ProjectLibre_logo.png
 tags:
 - application
 ---

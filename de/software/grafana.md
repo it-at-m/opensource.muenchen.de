@@ -4,7 +4,7 @@ title: Grafana
 developer: null
 developerlink: https://grafana.com/
 licensingmodel: open source
-logo: /Grafana_logo.png
+logo: /logo/Grafana_logo.png
 tags:
 - infrastruktur
 ---

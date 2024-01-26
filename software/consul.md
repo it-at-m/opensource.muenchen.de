@@ -7,7 +7,7 @@ code: https://github.com/it-at-m/consul-lhm-dev
 licensingmodel: open source
 license: AGPL
 linkapplication: https://unser.muenchen.de
-logo: /consul_logo.png
+logo: /logo/consul_logo.png
 tags:
 - application
 - start2021

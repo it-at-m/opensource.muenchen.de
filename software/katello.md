@@ -3,7 +3,7 @@ Source: SNow
 title: Katello
 developerlink: https://theforeman.org
 licensingmodel: open source
-logo: /foremanhelmet.svg
+logo: /logo/foremanhelmet.svg
 tags:
 - infrastruktur
 ---

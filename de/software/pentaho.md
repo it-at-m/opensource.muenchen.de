@@ -4,7 +4,7 @@ title: Pentaho
 developer: null
 developerlink: https://www.hitachivantara.com/de-de/products/data-management-analytics/pentaho-platform.html
 licensingmodel: open source
-logo: /320px-Pentaho2.JPG
+logo: /logo/320px-Pentaho2.JPG
 tags:
 - application
 ---

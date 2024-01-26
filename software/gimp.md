@@ -3,7 +3,7 @@ Source: SNow
 title: Gimp
 developerlink: https://www.gimp.org
 licensingmodel: open source
-logo: /240px-The_GIMP_icon_-_gnome.svg.png
+logo: /logo/240px-The_GIMP_icon_-_gnome.svg.png
 tags:
 - application
 ---

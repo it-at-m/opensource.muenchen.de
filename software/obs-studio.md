@@ -4,7 +4,7 @@ title: OBS Studio
 developer: null
 developerlink: https://obsproject.com
 licensingmodel: open source
-logo: /240px-Open_Broadcaster_Software_Logo.png
+logo: /logo/240px-Open_Broadcaster_Software_Logo.png
 tags:
 - application
 ---

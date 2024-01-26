@@ -25,7 +25,7 @@ The city-wide platform has already been online since December 2018 and supports 
 The GeoPortal mainly uses open source software (OSS). Particularly mentioned here is the so-called master portal as a map client. This software is being developed together with other authorities as part of an implementation partnership. The state capital of Munich is a founding member of this partnership, along with the Hanseatic City of Hamburg. Since then, major metropolises from the DACH region (Germany, Austria, Switzerland) as well as some federal states and authorities of the federal administration have joined. Thus, it is possible to benefit from the experience as well as the know-how of other partner organizations in many places in order to generate joint advantages and to develop more speed in the implementation.
 The GeoPortal is the spatial data infrastructure on which the [Digital Twin Munich](https://muenchen.digital/twin/) is based.
 
-![Screenshot of a map of the Munich region with groundwater temperatures in colored shaded areas](/geoportal_geothermie_screen.png)
+![Screenshot of a map of the Munich region with groundwater temperatures in colored shaded areas](/inhouse/geoportal_geothermie_screen.png)
 
 
 ### Architecture

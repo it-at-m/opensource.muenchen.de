@@ -2,7 +2,7 @@
 title: Spring
 developerlink: https://spring.io/projects/spring-framework
 licensingmodel: open source
-logo: /245px-Spring_Framework_Logo_2018.svg.png
+logo: /logo/245px-Spring_Framework_Logo_2018.svg.png
 tags:
 - development
 ---

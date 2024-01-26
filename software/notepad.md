@@ -3,7 +3,7 @@ Source: SNow
 title: Notepad++
 developerlink: https://notepad-plus-plus.org/
 licensingmodel: open source
-logo: /Notepadpp_Logo.png
+logo: /logo/Notepadpp_Logo.png
 tags:
 - development
 ---

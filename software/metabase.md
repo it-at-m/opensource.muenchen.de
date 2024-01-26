@@ -2,7 +2,7 @@
 title: Metabase
 developerlink: https://www.metabase.com/
 licensingmodel: CE/EE-Modell
-logo: /metabase.svg
+logo: /logo/metabase.svg
 code: https://github.com/metabase/metabase
 tags:
 - application

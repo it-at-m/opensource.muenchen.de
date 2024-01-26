@@ -4,7 +4,7 @@ developer: LHM
 code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
-logo: /dave_logo.png
+logo: /inhouse/dave_logo.png
 license: MIT
 tags:
 - application
@@ -23,7 +23,7 @@ DAVe (kurz: Datenbank und Auswertung von Verkehrszählungen) ist ein Fachverfahr
 Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fachanwendung DAVe eingesehen werden. Zur Auswertung werden verschieden Diagramme angeboten, die bei Bedarf auch als PDF-Report heruntergeladen werden können. Weitere Zählstellen sowie neue Verkehrszählungen können angelegt und in direkter Kommunikation mit dem Zähldienstleister beauftragt werden.
 Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
-![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/DAVE_Grafik_Belastungsplan_verkehr.png)
+![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/inhouse/DAVE_Grafik_Belastungsplan_verkehr.png)
 
 
 ## Technische Details

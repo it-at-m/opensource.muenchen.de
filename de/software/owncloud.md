@@ -4,7 +4,7 @@ title: OwnCloud
 developer: ownCloud Community
 developerlink: https://owncloud.com/de/
 licensingmodel: open source
-logo: /320px-OwnCloud2-Logo.svg.png
+logo: /logo/320px-OwnCloud2-Logo.svg.png
 tags:
 - application
 - opencore

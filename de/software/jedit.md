@@ -4,7 +4,7 @@ title: JEdit
 developer: null
 developerlink: http://www.jedit.org/
 licensingmodel: open source
-logo: /JEdit.png
+logo: /logo/JEdit.png
 tags:
 - development
 ---

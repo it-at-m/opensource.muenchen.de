@@ -31,7 +31,7 @@ If one selects a toilet by clicking on the map, detailed information is displaye
 
 In addition, the guests themselves have the possibility to leave an evaluation of the condition of the toilet.
 
-![Screenshot shows a section of the Munich city map with detailed information about a WC Schrannenhalle](/Inclus_Screenshot.jpg)
+![Screenshot shows a section of the Munich city map with detailed information about a WC Schrannenhalle](/inhouse/Inclus_Screenshot.jpg)
 
 
 ## Technical details

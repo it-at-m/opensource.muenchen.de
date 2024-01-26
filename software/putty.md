@@ -3,7 +3,7 @@ Source: SNow
 title: Putty
 developerlink: http://www.chiark.greenend.org.uk/~sgtatham/putty/
 licensingmodel: open source
-logo: /PuTTY_icon_128px.png
+logo: /logo/PuTTY_icon_128px.png
 tags:
 - application
 ---

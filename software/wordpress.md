@@ -4,7 +4,7 @@ title: WordPress
 developer: null
 developerlink: https://de.wordpress.com/
 licensingmodel: open source
-logo: /320px-WordPress_logo.svg.png
+logo: /logo/320px-WordPress_logo.svg.png
 tags:
 - application
 ---

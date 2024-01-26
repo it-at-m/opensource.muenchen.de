@@ -5,7 +5,7 @@ developerlink:
 code: https://github.com/it-at-m/Kinderzeit
 licensingmodel: open source
 license: MIT
-logo: /logo_kinderzeit.png
+logo: /inhouse/logo_kinderzeit.png
 tags:
 - eigenentwicklung
 - application
@@ -25,7 +25,7 @@ To support families, a way to provide information for activities during school v
 
 The functional prototype was developed by an international team during a three-month full-time program, with the participation of the InnovationLab in the IT department in the form of an interaction designer.
 
-![Screenshot with the headline "Wilkommen Liebe Eltern", a calendar page of the month of August and a program overview](/Kinderzeit_screenshot.jpg)
+![Screenshot with the headline "Wilkommen Liebe Eltern", a calendar page of the month of August and a program overview](/inhouse/Kinderzeit_screenshot.jpg)
 
 ## Technical details
 
