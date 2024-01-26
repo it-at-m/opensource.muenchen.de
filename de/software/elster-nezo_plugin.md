@@ -11,7 +11,7 @@ tags:
 - start2023
 ---
 
-Mit dem Plugin __Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos__ lässt sich über die Open Source Software [Keycloak](keycloak) eine Anbindung an das bundesweite Elster Unternehmenskonto herstellen.
+Mit dem Plugin __Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos__ lässt sich über die Open Source Software Keycloak eine Anbindung an das bundesweite Elster Unternehmenskonto herstellen.
 
 ---
 
@@ -22,7 +22,7 @@ Die Landeshauptstadt München unterstützt seit Ende 2022 das ELSTER Unternehmen
 
 Nach [Wikipedia](https://de.wikipedia.org/wiki/Digitales_Unternehmenskonto) fungiert das Unternehmenskonto auf Basis der ELSTER-Technologie "..als Nutzerkonto im Sinne des Onlinezugangsgesetzes (OZG) und dient Organisationen – vor allem Unternehmen – als Zugang zu digitalen Dienstleistungen der Verwaltung.“
 
-Die Anbindung eigener Fachverfahren oder Portale an das Elster Unternehmenskonto kann direkt im entsprechenden Verfahren erfolgen. Oder es wird eine Identity Provider Software zwischengeschaltet, wie beispielsweise die Open Source Software [Keycloak](https://www.keycloak.org/), mit der die Anbindung bei der Stadt München realisiert wurde.
+Die Anbindung eigener Fachverfahren oder Portale an das Elster Unternehmenskonto kann direkt im entsprechenden Verfahren erfolgen. Oder es wird eine Identity Provider Software zwischengeschaltet, wie beispielsweise die Open Source Software [Keycloak](keycloak), mit der die Anbindung bei der Stadt München realisiert wurde.
 
 Das benötigte Plugin für die Keycloak-Version vor 20.0.0, beziehungsweise für dessen Pendant RedHat Single-Sign-On (RH-SSO), wurde vom Entwicklerteam bei it@M umgesetzt und Open Source gestellt.
 

@@ -11,7 +11,7 @@ tags:
 - start2023
 ---
 
-With the plugin __Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos__ a connection to the nationwide Elster company account can be established via the open source software [Keycloak](keycloak).
+With the plugin __Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos__ a connection to the nationwide Elster company account can be established via the open source software Keycloak.
 
 ---
 
@@ -22,7 +22,7 @@ The City of Munich has been supporting the ELSTER corporate account for selected
 
 According to [Wikipedia](https://de.wikipedia.org/wiki/Digitales_Unternehmenskonto), the company account based on ELSTER technology "...functions as a user account within the meaning of the Online Access Act (OZG) and serves organizations - especially companies - as access to digital services of the administration."
 
-The connection of own specialized procedures or portals to the Elster enterprise account can be done directly in the corresponding procedure. Or an identity provider software is interposed, such as the open source software [Keycloak](https://www.keycloak.org/), with which the connection was implemented at the city of Munich.
+The connection of own specialized procedures or portals to the Elster enterprise account can be done directly in the corresponding procedure. Or an identity provider software is interposed, such as the open source software [Keycloak](keycloak), with which the connection was implemented at the city of Munich.
 
 The required plugin for the Keycloak version prior to 20.0.0, or for its counterpart RedHat Single-Sign-On (RH-SSO), was implemented and made open source by the development team at it@M.
 
