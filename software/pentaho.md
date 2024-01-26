@@ -1,8 +1,9 @@
 ---
 Source: SNow
 title: Pentaho
-developerlink: https://www.hitachivantara.com/de-de/products/data-management-analytics/pentaho-platform.html
+developerlink: https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
 licensingmodel: open source
+licence: LGPL
 logo: /logo/320px-Pentaho2.JPG
 tags:
 - application
