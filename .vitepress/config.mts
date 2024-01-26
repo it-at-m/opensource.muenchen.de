@@ -51,7 +51,7 @@ export default defineConfig({
         },
 
         footer: {
-          message: `<a href="impress.html">Impressum und Kontakt</a> | <a href="accessibility.html">Barrierefreiheit</a>`
+          message: `<a href="/de/impress.html">Impressum und Kontakt</a> | <a href="/de/accessibility.html">Barrierefreiheit</a>`
         },
         editLink: {
           pattern: 'https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path',
@@ -75,7 +75,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: `<a href="impress.html">Impress and Contact</a> | <a href="accessibility.html">Accessibility</a>`
+      message: `<a href="/impress.html">Impress and Contact</a> | <a href="/accessibility.html">Accessibility</a>`
     },
 
     sidebar: [],
