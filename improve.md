@@ -43,14 +43,11 @@ Further projects will follow in accordance with the [City Council resolution Str
 
 ### Support
 
-Free software is best understood by those who write it.
-Vendors provide highly qualified support and can directly influence development.
-Commercial support is thus one of the most important ways to fund and promote free software.
-The City of Munich is happy to use this opportunity to get help and support quickly and to build internal expertise.
-
-However, it is important to note that open source software is professionally supported and subject to an orderly lifecycle.
-This is essential to ensure timely security updates and to minimize the risk of support gaps if, for example, a community project is temporarily orphaned.
-Therefore, the City typically contracts with service providers who can deliver this support.
+Free software is best understood by those who create it.
+The City of Munich relies on commercial support as an important way of financing and promoting free software.
+Manufacturers offer highly qualified support and can have a direct influence on development.
+The city generally concludes contracts with service providers that ensure an orderly lifecycle and timely security updates.
+This minimizes the risk of support gaps if, for example, a community project is temporarily orphaned.
 
 <TagTile
 :available-tags="['support']"
@@ -61,11 +58,11 @@ show-excerpt
 
 ### Open Core
 
-The open-core model is a business model for financing commercially produced open-source software.
-Here, a "core functionality" or functionally limited version of the software product is offered as free and open source software, while commercial versions or add-ons are available as proprietary software.
+The open core model is a business model for financing commercially produced open source software.
+A "core functionality" or feature-limited version of the software product is offered as free and open source software, while commercial versions or add-ons are available as proprietary software.
 
-As the city of Munich, we use this model to test software faster and promote the FOSS ecosystem.
-By being independent from a single vendor, we avoid financial dependencies and can run the software independently.
+The City of Munich uses this model to test software more quickly and promote the FOSS ecosystem.
+By being independent of a single manufacturer, we avoid financial dependencies and can operate the software independently.
 
 <TagTile
 :available-tags="['opencore']"

@@ -42,14 +42,11 @@ Weitere Projekte werden gemäß dem [Stadtratsbeschluss Strategie zur Finanzieru
 
 ### Support
 
-Freie Software wird am besten von denjenigen verstanden, die sie schreiben.
-Hersteller bieten hoch qualifizierten Support und können direkt auf die Entwicklung Einfluss nehmen.
-Kommerzieller Support ist somit einer der wichtigsten Wege, um freie Software zu finanzieren und zu fördern.
-Die Landeshauptstadt München nutzt diese Möglichkeit gerne, um schnell Hilfe und Unterstützung zu bekommen und interne Kompetenzen aufzubauen.
-
-Es ist jedoch zu beachten, dass Open-Source-Software professionell supportet wird und einem geordneten Lifecycle unterliegt.
-Dies ist unerlässlich, um zeitnahe Sicherheitsupdates sicherzustellen und das Risiko von Support-Lücken zu minimieren, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
-Daher schließt die Stadt in der Regel Verträge mit Dienstleistern ab, die diesen Support liefern können.
+Freie Software wird am besten von denjenigen verstanden, die sie erschaffen.
+Die Landeshauptstadt München setzt auf kommerziellen Support als wichtigen Weg zur Finanzierung und Förderung von freier Software.
+Hersteller bieten hochqualifizierten Support und können direkt auf die Entwicklung Einfluss nehmen.
+Die Stadt schließt in der Regel Verträge mit Dienstleistern ab, die einen geordneten Lifecycle und zeitnahe Sicherheitsupdates sicherstellen.
+Dies minimiert das Risiko von Support-Lücken, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
 
 <TagTile
 :available-tags="['support']"
@@ -62,8 +59,10 @@ show-excerpt
 
 Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung von kommerziell produzierter Open-Source-Software.
 Dabei wird eine "Kernfunktionalität" oder funktionsbeschränkte Version des Softwareprodukts als freie und Open-Source-Software angeboten, während kommerzielle Versionen oder Add-ons als proprietäre Software verfügbar sind.
-Als Stadt München nutzen wir dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
+
+Die Stadt München nutzt dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
+
 
 <TagTile
 :available-tags="['opencore']"
