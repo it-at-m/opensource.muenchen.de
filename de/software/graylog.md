@@ -7,6 +7,7 @@ license: SSPL
 logo: /logo/Graylog-logo-blk.jpg
 tags:
 - infrastruktur
+- support
 ---
 __Graylog__ ist eine Platform für das zentrale Log-Management, der Erfassung, Analyse und Visualisierung von Log-Daten.
 
