@@ -12,7 +12,6 @@ logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
 - eigenentwicklung
 - application
-- opencore
 - start2021
 sortingPriority: 2
 ---
