@@ -1,7 +1,7 @@
 ---
 Source: SNow
 title: GOSA
-developerlink: https://github.com/gosa-project
+code: https://github.com/gosa-project
 licensingmodel: open source
 logo: /logo/Gosa-logo2.png
 tags:
