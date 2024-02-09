@@ -12,7 +12,7 @@ tags:
 - support
 ---
 
-__Nuclos__ ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere gesamte interne Finanzplanung durchführen.
+__Nuclos__ ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere gesamte interne IT-Portfolio und Ressourcenplanung durchführen.
 
 
 ---
