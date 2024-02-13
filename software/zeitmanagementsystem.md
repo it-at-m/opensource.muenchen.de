@@ -28,7 +28,7 @@ Since the beginning of 2021, the time management system (ZMS) has been set up vi
 The application offers several components.
 
 * In the [citizen view](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html), citizens can book appointments via the online appointment calendar on muenchen.de.
-The citizen view is an in-house development of the LHM with [Vue.js](vue.js.html).
+The citizen view is an in-house development of the LHM with [Vue.js](vuejs).
 * The clerk client in the backend is a web application via which waiting citizens can be called up for appointments using call systems. This is connected to the open source database Maria DB, which runs as a Galera cluster.
 * In addition, team leaders can control the available appointments via an administration interface and pull statistics reports (number of appointments/service) via an extra module.
 

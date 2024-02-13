@@ -28,7 +28,7 @@ Seit Anfang 2021 wird das Zeitmanagementsystem (ZMS) über ein Entwicklungsproje
 Die Anwendung bietet mehrere Komponenten.
 
 * In der [Bürgeransicht](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html) können Bürger\*innen Termine über den Online-Terminkalender auf muenchen.de buchen.
-Die Bürgeransicht ist eine Eigenentwicklung er LHM mit [Vue.js](vue.js.html).
+Die Bürgeransicht ist eine Eigenentwicklung er LHM mit [Vue.js](vuejs).
 * Der Sachbearbeiter\*innen Client im Backend ist eine Web-Anwendung, über die wartende Bürger\*innen per Aufrufanlagen zum Termin aufgerufen werden. Diese ist an die Open Source Datenbank Maria DB angebunden, die als Galera-Cluster läuft.
 * Außerdem können Teamleitungen über eine Administrationsoberfläche die verfügbaren Termine steuern und über ein Extra-Modul Statistik-Reports (Anzahl Termine/Dienstleistung) ziehen.
 
