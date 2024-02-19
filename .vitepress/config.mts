@@ -5,7 +5,7 @@ const base = '/';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // cleanUrls: true,
+  // cleanUrls: true, // TODO https://github.com/it-at-m/opensource.muenchen.de/issues/136
   base: base,
   srcExclude: [
       'README.md'
