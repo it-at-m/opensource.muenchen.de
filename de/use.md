@@ -5,12 +5,16 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 # Nutzen
 
-> Wir nutzen freie Software wo immer möglich!  
-
 Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen für moderne Softwareentwicklung.
 Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht mehr vorstellbar.
 Man findet freie Software in nahezu allen modernen Softwareprodukten.
 Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unumstritten.
+
+Unser [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) sehen dies ebenfalls vor:
+
+> Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
+> Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
+
 
 ## Anwendungen
 
