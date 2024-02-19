@@ -28,7 +28,7 @@ Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zu
 
 ## Technische Details
 
-DAVe wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstadt München entwickelt. Im Backend wird Java Spring Boot und im Frontend TypeScript und [Vue.js](vue.js.html) verwendet. Ein Knoten-Strom-Belastungsplan, der die Verkehrsströme übersichtlich darstellt wurde mit Hilfe von SVG.js entworfen.
+DAVe wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstadt München entwickelt. Im Backend wird Java Spring Boot und im Frontend TypeScript und [Vue.js](vuejs) verwendet. Ein Knoten-Strom-Belastungsplan, der die Verkehrsströme übersichtlich darstellt wurde mit Hilfe von SVG.js entworfen.
 
 Die Daten liegen in zwei verschiedenen Datenbanken: Die für die Suche relevanten Daten, wie beispielsweise Lage oder Straßennamen, werden in ElasticSearch gespeichert. Das ermöglicht eine sehr performante Suche mit Suchvorschlägen in Echtzeit. Die für die Suche nicht benötigten Verkehrsdaten aus den Zählungen werden in einer relationalen Datenbank gespeichert.
 Die Anwendung wird im Rechenzentrum der Landeshauptstadt München auf [Openshift](openshift) betrieben.

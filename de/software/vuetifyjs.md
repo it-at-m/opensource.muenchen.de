@@ -12,5 +12,5 @@ In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../p
 
 ---
 
-Genauso wie bei [Vue.js](./vue.js.html) profitieren wir hier massiv von der Arbeit der Community.
+Genauso wie bei [Vue.js](./vuejs) profitieren wir hier massiv von der Arbeit der Community.
 Um die hohe Qualität von Vuetify weiterhin sicherzustellen sponsern wir [Vuetify als Platinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) mit [500 $ pro Monat](https://www.muenchen-transparent.de/dokumente/7347900).
