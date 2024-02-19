@@ -14,5 +14,5 @@ __BlueSpice MediaWiki__ is a free software based on MediaWiki, and is specially 
 
 ---
 
-A wide variety of departments and groups use over 250 wiki instances at the City of Munich.
-From the _waste encyclopaedia_ to the _licensing wiki_.
+We use the Bluespice Pro (+Farming) variant in a wide variety of departments and groups at the City of Munich for over 250 wiki instances.
+From the _Abfalllexikon_ to _Zulassungswiki_.

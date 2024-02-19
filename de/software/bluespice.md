@@ -14,6 +14,5 @@ __BlueSpice MediaWiki__ ist eine freie Software auf Basis von MediaWiki, und ist
 
 ---
 
-Unterschiedlichste Abteilung und Gruppen nutzen bei der Landeshauptstadt München über 250 Wiki-Instanzen.
+Wir nutzen die Variante Bluespice Pro (+Farming) in unterschiedlichsten Abteilungen und Gruppen bei der Landeshauptstadt München für über 250 Wiki-Instanzen.
 Vom _Abfalllexikon_ bis zum _Zulassungswiki_.
-
