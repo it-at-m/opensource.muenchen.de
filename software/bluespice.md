@@ -9,7 +9,7 @@ tags:
 - opencore
 ---
 
-__BlueSpice MediaWiki__ is a free software based on MediaWiki, and is specially developed for companies as an enterprise wiki distribution. 
+__BlueSpice MediaWiki__ is a free software, based on MediaWiki, and specifically developed for companies as an enterprise wiki distribution. 
 
 
 ---
