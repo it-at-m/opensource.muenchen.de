@@ -18,7 +18,7 @@ features:
     link: /de/improve
   - title: Veröffentlichen
     icon: 🚀
-    details: "Sollten wir existierende freie Software nicht nutzen oder verbessern können, so entwicklen wir selbst frei Software. Wenn wir uns entscheiden Software selbst zu entwicklen, passiert das offen und frei."
+    details: "Sollten wir existierende freie Software nicht nutzen oder verbessern können, so entwicklen wir selbst frei Software. Wenn wir uns entscheiden Software selbst zu entwickeln, passiert das offen und frei."
     link: /de/publish
 ---
 
