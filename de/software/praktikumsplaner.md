@@ -23,6 +23,8 @@ Er bietet den Ausbilderinnen und Ausbildern die Möglichkeit ihre verfügbaren P
 Diese kann dann mithilfe der Anwendung die Nachwuchskräfte gezielt an die gemeldeten Praktikumsplätze per Drag-and-Drop-Funktionalität zuteilen.
 Hierbei hilft der Praktikumsplaner einen guten Überblick zu behalten, um die Nachwuchskräfte an möglichst passende Stellen zuzuweisen.
 
+![Screenshot der Zuweisungseite des Praktikumsplaners mit Beispieldaten](/public/inhouse/Screenshot_Praktikumsplaner.png)
+
 ## Technische Details
 
 Der Praktikumsplaner wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstadt München entwickelt.

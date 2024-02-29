@@ -22,6 +22,8 @@ It offers trainers the opportunity to report their available internships to the 
 They can then use the application to assign junior staff to the reported internships using drag-and-drop functionality.
 The internship planner helps to maintain a good overview in order to assign junior staff to the most suitable positions.
 
+![Screenshot of the assignment page of the Praktikumsplaners with sample data](/public/inhouse/Screenshot_Praktikumsplaner.png)
+
 ## Technical details
 
 The Praktikumsplaner was developed with the [reference architecture](../publish#refarch) of the City of Munich. 
