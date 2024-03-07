@@ -29,6 +29,7 @@ Mit Unicode gibt es also eine technische Basis, Systeme für alle Sprachen fit z
 
 In Deutschland wurde zunächst im Personenstandswesen (zum Beispiel in den Standesämtern) bundesweit der Standard „Lateinische Zeichen in Unicode“ eingeführt. Inzwischen hat ein Arbeitskreis zur Entwicklung einer [DIN 91379](https://www.beuth.de/de/technische-regel/din-spec-91379/301228458) für Unicode diesen Zeichensatz von 450 auf rund 900 Zeichen ergänzt. Damit lassen sich nun alle europäischen Sprachen korrekt darstellen. Ab November 2024 müssen laut Vorgabe des [IT-Planungsrats](https://www.it-planungsrat.de) der Bundesregierung bestimmte IT-Verfahren diese Norm erfüllen.
 
+Aktuell unterstützt Kiwi noch *DIN SPEC 91379:2019-03*.
 
 ## Technische Details
 
