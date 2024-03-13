@@ -27,9 +27,7 @@ Kiwi makes all characters from the Latin character set in UNICODE easy to find a
 
 Unicode provides a technical basis for making systems fit for all languages. In practice, however, this huge amount of characters is almost impossible to handle. As a result, Unicode was initially little used until demand increased again with globalisation.
 
-In Germany, the "Latin characters in Unicode" standard was initially introduced nationwide in the civil status system (for example in registry offices). In the meantime, a working group for the development of a [DIN 91379](https://www.beuth.de/de/technische-regel/din-spec-91379/301228458) for Unicode has extended this character set from 450 to around 900 characters. This means that all European languages can now be displayed correctly. From November 2024, certain IT processes must fulfil this standard according to the German government's [IT Planning Council](https://www.it-planungsrat.de).
-
-Kiwi currently still supports *DIN SPEC 91379:2019-03*.
+In Germany, the "Latin characters in Unicode" standard was initially introduced nationwide in the civil status system (for example in registry offices). In the meantime, a working group for the development of a [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379) for Unicode has extended this character set from 450 to around 900 characters. This means that all European languages can now be displayed correctly. From November 2024, certain IT processes must fulfil this standard according to the German government's [IT Planning Council](https://www.it-planungsrat.de).
 
 
 ## Technical details
