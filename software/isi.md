@@ -16,5 +16,4 @@ The __Information System for Social Infrastructure Planning (ISI)__ is an integr
 ---
 ISI supports the mandatory municipal task of planning a need-based and timely supply of day care and primary school places and replaces existing planning instruments.
 
-![Screenshot of a web application of a property in Engadiner Straße including map section](https://raw.githubusercontent.com/it-at-m/isi-frontend/f0645d56043444be56dd452d6c9bc26040f4e23b/images/ISI_screenshot_abfrage.png)
-
+![Screenshot of a web application ISI](/inhouse/isi-screenshot.png)
