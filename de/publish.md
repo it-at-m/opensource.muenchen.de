@@ -13,7 +13,7 @@ const availableTags = ref(['eigenentwicklung', 'kooperation']);
 
 # Veröffentlichen
 
-Sollten wir existierende freie Software nicht [nutzen](./use) oder [verbessern](./improve) können, so entwickeln wir selbst freie Software.
+Nach dem Grundsatz [Public Money Public Code](https://publiccode.eu/de/) entwickeln wir selbst freie Software, sollten wir existierende freie Software nicht [nutzen](./use) oder [verbessern](./improve) können.
 
 Software-Eigenentwicklungen kommen vor allem dann zum Einsatz, wenn keine Lösungen am Markt verfügbar sind oder ein sehr hohes Maß an kommunaler Differenzierung notwendig ist, insbesondere bei kommunalen Fachanwendungen.
 Da wir Eigenentwicklungen als Open-Source-Software zur Verfügung stellen, können auch andere Organisationen und Entwickler\*Innen von unserer Arbeit profitieren und sie weiterentwickeln.

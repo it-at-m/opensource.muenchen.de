@@ -9,7 +9,7 @@ const availableTags = ref(['eigenentwicklung', 'kooperation']);
 
 # Publish
 
-If we cannot [use](./use) or [improve](./improve) existing free software, we develop free software ourselves.
+According to the principle [Public Money Public Code](https://publiccode.eu/en/), we develop free software ourselves if we cannot [use](./use) or [improve](./improve) existing free software.
 
 In-house software developments are mainly used when no solutions are available on the market or a very high degree of municipal differentiation is required, especially for specialized municipal applications.
 Since we make our own developments available as open source software, other organizations and developers can also benefit from our work and develop it further.
