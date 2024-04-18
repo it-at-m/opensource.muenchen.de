@@ -8,6 +8,7 @@ tags:
   - eigenentwicklung
   - application
   - start2023
+  - k8s
 ---
 
 **ad2image** bietet eine einfache HTTP API zum Abrufen von Benutzerfotos aus einer Active Directory / Microsoft Exchange-Umgebung an.

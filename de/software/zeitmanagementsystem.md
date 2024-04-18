@@ -10,6 +10,7 @@ tags:
 - application
 - kooperation
 - start2021
+- k8s
 sortingPriority: 2
 ---
 
@@ -42,5 +43,4 @@ Die Bürgeransicht ist eine Eigenentwicklung er LHM mit [Vue.js](vuejs).
 * Modulare Architektur mit API-Schnittstellen
 * [Oberfläche für Bürger*innen auf muenchen.de](https://github.com/it-at-m/eappointment-buergeransicht) – Eigenentwicklung mit Vue.js
 * Source Code als PHP-Entwicklung ausgeführt
-* Betrieben wird ZMS auf [Openshift](openshift)
 * Maria DB mit Galera Cluster

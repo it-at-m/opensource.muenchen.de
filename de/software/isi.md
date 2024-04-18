@@ -9,6 +9,7 @@ tags:
 - eigenentwicklung
 - application
 - start2022
+- k8s
 sortingPriority: 3
 ---
 Das __Informationssystem für soziale Infrastrukturplanung (ISI)__ ist eine integrierte Lösung für das Referat für Stadtplanung und Bauordnung der Landeshauptstadt München.

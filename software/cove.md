@@ -9,6 +9,7 @@ tags:
 - eigenentwicklung
 - application
 - start2020
+- k8s
 ---
 COVe enabled the management of suspected cases in the context of the Covid19 pandemic. The web application was developed in the IT unit itself.
 

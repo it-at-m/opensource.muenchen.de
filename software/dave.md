@@ -10,6 +10,7 @@ tags:
 - application
 - eigenentwicklung
 - start2021
+  - k8s
 sortingPriority: 3
 ---
 With __DAVe__, traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
@@ -34,4 +35,3 @@ The data collected helps to analyze traffic development and is used, for example
 DAVe was developed with the [reference architecture](../publish#refarch) of the City of Munich. Java Spring Boot is used in the backend and TypeScript and [Vue.js](vuejs) in the frontend. A node-flow load plan that clearly displays the traffic flows was designed with the help of SVG.js.
 
 The data is stored in two different databases: the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. The traffic data from the counts that is not required for the search is stored in a relational database.
-The application is operated in the data center of the City of Munich on [Openshift](openshift).

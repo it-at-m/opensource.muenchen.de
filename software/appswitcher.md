@@ -1,4 +1,15 @@
----
+oftware/cove.md
+vi software/dave.md
+vi software/digiwf.md
+vi software/isi.md
+vi software/kafka.md
+vi software/kiwi.md
+vi software/kobit.md
+vi software/mdas.md
+vi software/openshift.md
+vi software/praktikumsplaner.md
+vi software/zammad.md
+vi software/zeitmanagementsystem.md--
 title: Appswitcher
 developer: LHM
 code: https://github.com/it-at-m/appswitcher-server
@@ -9,6 +20,7 @@ tags:
   - eigenentwicklung
   - infrastruktur
   - start2023
+  - k8s
 ---
 
 **Appswitcher** allows users to easily switch between different web applications.

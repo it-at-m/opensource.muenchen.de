@@ -9,6 +9,7 @@ tags:
 - eigenentwicklung
 - application
 - start2022
+- k8s
 sortingPriority: 3
 ---
 The __Information System for Social Infrastructure Planning (ISI)__ is an integrated solution for the Department of Urban Planning and Building Regulations of the City of Munich.

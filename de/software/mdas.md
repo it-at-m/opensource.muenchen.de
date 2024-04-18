@@ -7,6 +7,7 @@ tags:
 - application
 - eigenentwicklung
 - start2023
+- k8s
 ---
 Im Projekt MDAS werden die EAI-Komponenten für den Datenimport und -export und die Webanwendung für die Steuerung aller ein- und ausgehenden Schnittstellen für die zentrale Mobilitätsdatenplattform (MobidaM) entwickelt.
 
