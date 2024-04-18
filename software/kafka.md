@@ -8,6 +8,7 @@ logo: /logo/80px-Apache_kafka.svg.png
 tags:
 - infrastruktur
 - support
+- k8s
 ---
 Apache Kafka is free software from the Apache Software Foundation that is used in particular for processing data streams.
 

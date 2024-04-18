@@ -10,6 +10,7 @@ tags:
   - application
   - eigenentwicklung
   - start2023
+  - k8s
 sortingPriority: 3
 ---
 Der __Praktikumsplaner__ bietet eine Möglichkeit Nachwuchskräfte und ihre Praktikumsstellen während der Ausbildung zu organisieren.
@@ -28,5 +29,4 @@ Hierbei hilft der Praktikumsplaner einen guten Überblick zu behalten, um die Na
 ## Technische Details
 
 Der Praktikumsplaner wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstadt München entwickelt.
-Im Backend wird Java Spring Boot und im Frontend TypeScript und [Vue.js](vuejs) verwendet.  
-Die Anwendung wird im Rechenzentrum der Landeshauptstadt München auf [Openshift](openshift) betrieben.
+Im Backend wird Java Spring Boot und im Frontend TypeScript und [Vue.js](vuejs) verwendet.

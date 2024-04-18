@@ -8,10 +8,21 @@ tags:
 - support
 - infrastruktur
 ---
-On the Kubernetes platform __Openshift__, approximately 100 internal as well as external services are operated.
-
+Internal and external services are operated on the Kubernetes platform __Openshift__.
 
 ---
 
-[New in-house developments](../publish) are always developed for Openshift.
+[New in-house developments](../publish) are always developed for Kubernetes and Openshift.
+This enables us, but also subsequent users, to operate the applications easily. 
 
+The following Opensource applications are operated by us on Openshift:
+
+
+<TagTile
+:available-tags="['k8s']"
+show-excerpt
+/>
+
+<script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
+</script>

@@ -10,6 +10,7 @@ tags:
 - eigenentwicklung
 - application
 - start2023
+- k8s
 sortingPriority: 3
 ---
 

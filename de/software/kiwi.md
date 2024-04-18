@@ -7,6 +7,7 @@ logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
 tags:
 - application
 - eigenentwicklung
+- k8s
 ---
 __Kiwi__ macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.
 

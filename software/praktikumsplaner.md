@@ -10,6 +10,7 @@ tags:
 - application
 - eigenentwicklung
 - start2023
+- k8s
 sortingPriority: 3
 ---
 The __Praktikumsplaner__ offers a way to organize junior staff and their internships during their vocational training.
@@ -28,4 +29,3 @@ The internship planner helps to maintain a good overview in order to assign juni
 
 The Praktikumsplaner was developed with the [reference architecture](../publish#refarch) of the City of Munich. 
 Java Spring Boot is used in the backend and TypeScript and [Vue.js](vuejs) in the frontend.  
-The application is operated in the data center of the City of Munich on [Openshift](openshift).

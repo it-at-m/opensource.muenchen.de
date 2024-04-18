@@ -13,6 +13,7 @@ tags:
 - eigenentwicklung
 - application
 - start2021
+- k8s
 sortingPriority: 2
 ---
 __DigiWF__ ist eine Plattform für die Prozessautomatisierung. Anwender*innen können Workflows selbst automatisieren und auf andere Systeme zugreifen.
@@ -42,6 +43,5 @@ Insbesondere für kleine und weniger komplexe Prozesse ist dies eine gute Mögli
 
 Das Frontend basiert auf dem Formular-Framework der Referenzarchitektur der Landeshauptstadt.
 Im Backend laufen die Workflows ab, hier kommen als Basis [Kafka](kafka), die camunda Workflow und die camunda Rule Engine zum Einsatz.
-DigiWF wird im Rechenzentrum der Landeshauptstadt München auf [Openshift](openshift) betrieben.
 
 Dazu unser Vortrag auf der [CamundaCon 2023 - Automating Citizen Services in the City of Munich](https://page.camunda.com/camundacon-2023-city-of-munich) (englisch).
