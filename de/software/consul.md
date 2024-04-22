@@ -19,5 +19,5 @@ tags:
 
 Consul wurde ursprünglich von der Stadt Madrid gegründet.
 
-2019 [initierte der der Münchner Stadtrat](https://risi.muenchen.de/risi/dokument/v/5728776) die Plattform zur Digitalen Bürgerbeteiligung [unser.muenchen.de](https://unser.muenchen.de).
+2019 [initierte der der Münchner Stadtrat](https://www.muenchen-transparent.de/antraege/5651290) die Plattform zur Digitalen Bürgerbeteiligung [unser.muenchen.de](https://unser.muenchen.de).
 München benutzt eine von [demokratie.today](https://demokratie.today) für München modifiziert Version.

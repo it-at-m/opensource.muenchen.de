@@ -19,6 +19,6 @@ tags:
 
 Consul was originally founded by the city of Madrid.
 
-In 2019 [the Munich City Council](https://risi.muenchen.de/risi/dokument/v/5728776) initiated the platform for digital citizen participation [unser.muenchen.de](https://unser.muenchen.de).
+In 2019 [the Munich City Council](https://www.muenchen-transparent.de/antraege/5651290) initiated the platform for digital citizen participation [unser.muenchen.de](https://unser.muenchen.de).
 Munich uses a version modified for Munich by [demokratie.today](https://demokratie.today).
 
