@@ -5,6 +5,7 @@ licensingmodel: open source
 logo: /logo/240px-Openstreetmap_logo.svg.png
 tags:
 - saas
+- kooperation
 ---
 __OpenStreetMap__ ist ein freies Projekt, das frei nutzbare Geodaten sammelt, strukturiert, diese als Open Data pflegt und Onlinelandkarten zur Verfügung stellt.
 
