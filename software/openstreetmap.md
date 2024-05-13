@@ -10,8 +10,8 @@ __OpenStreetMap__ is a free project that collects and structures freely usable g
 
 ---
 
-The City of Munich uses OpenStreetMap as a map source for the [Geoportal](geoportal.html) outside of Munich, as we do not have any official maps available there.
-But other applications such as the [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) or the free [mark-a-spot](mark-a-spot.html) ([maengelmelder.muenchen.de](https://maengelmelder.muenchen.de)) also use OpenStreetMap.
+The City of Munich uses OpenStreetMap as a map source for areas outside the city limits in its [Geoportal](geoportal.html).
+But other free applications such as [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) and [mark-a-spot](mark-a-spot.html) (in the form of [maengelmelder.muenchen.de](https://maengelmelder.muenchen.de)) also use OpenStreetMap.
 
 Munich is also interested in making OpenStreetMap better.
 

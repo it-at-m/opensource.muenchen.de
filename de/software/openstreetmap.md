@@ -10,8 +10,8 @@ __OpenStreetMap__ ist ein freies Projekt, das frei nutzbare Geodaten sammelt, st
 
 ---
 
-Die Landeshauptstadt München nutzt OpenStreetMap als Kartenquelle für das [Geoportal](geoportal.html) außerhalb von München, da wir dort keine amtlichen Karten vorliegen haben.
-Aber auch anderen Anwendungen wie der [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) oder ebenfalls freie [mark-a-spot](mark-a-spot.html) ([maengelmelder.muenchen.de](https://maengelmelder.muenchen.de)))nutzt OpenStreetMap.
+Die Landeshauptstadt München nutzt OpenStreetMap als Kartenquelle für Gebiete außerhalb der Stadtgrenzen in ihrem [Geoportal](geoportal.html).
+Aber auch andere freie Anwendungen wie der [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) und [mark-a-spot](mark-a-spot.html) (in Form von [maengelmelder.muenchen.de](https://maengelmelder.muenchen.de))) nutzen OpenStreetMap.
 
 München ist auch interessiert OpenStreetMap besser zu machen.
 Die LHM stellt amtlichen Luftbilder mit einer hochwertigen Auflösung von 20 cm für die Erstellung von Karten [zur verfügung](https://github.com/osmlab/editor-layer-index/blob/gh-pages/sources/europe/de/AktuelleLuftbilderDerLandeshauptstadtMuenchen20cm.geojson?short_path=cdc4d8a).
