@@ -15,5 +15,6 @@ export const enMessages: localizedMessagesType = {
         start2021: "Start 2021",
         start2020: "Start 2020",
         k8s: "Kubernetes",
+        saas: "SaaS",
     }
 };
