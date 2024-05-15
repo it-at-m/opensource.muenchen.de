@@ -13,4 +13,4 @@ Zammad ist ein freies Helpdesk- bzw. Issue-Tracking-System das die Anbindung von
 
 ---
 
-Zammad wird für das [München Portal der Zukunft](https://radar.muenchen.digital/project/Digital-Government/M%C3%BCnchen-Portal-der-Zukunft.html) (MPdZ) für wenige strukturierte Vorgänge (z.B. Formular für technische Anfragen) genutzt.
+Zammad wird im technischen Bürgerservice für wenige strukturierte Vorgänge (z.B. [Formular für technische Anfragen](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)) genutzt.
