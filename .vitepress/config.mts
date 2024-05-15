@@ -38,6 +38,9 @@ export default defineConfig({
                items: [
                    {text: 'Grundlagen', link: '/de/principles'},
                    {text: 'Softwareübersicht', link: '/de/software/'},
+                   {text: 'Lizenzen', link: '/de/licenses' },
+                   {text: 'Sponsoring', link: '/de/sponsoring' },
+                   {text: 'OSPO', link: '/de/ospo' },
                ]
              }
         ],
@@ -81,6 +84,9 @@ export default defineConfig({
         items: [
           {text: 'Principles', link: '/principles'},
           {text: 'Overview', link: '/software/'},
+          {text: 'Licenses', link: '/licenses'},
+          {text: 'Sponsoring', link: '/sponsoring'},
+          {text: 'OSPO', link: '/ospo'},
         ]
       }
     ],
