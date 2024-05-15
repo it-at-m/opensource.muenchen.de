@@ -5,7 +5,7 @@ import TagTile from "./.vitepress/components/TagTile.vue";
 # Sponsoring
 
 We provide financial support for __free software__ that we use frequently.
-In this way, we can help to ensure that the development and maintenance of free software remains guaranteed and that the software continues to meet our needs and is [improved](/en/improve).
+In this way, we can help to ensure that the development and maintenance of free software remains guaranteed and that the software continues to meet our needs and is [improved](./improve).
 
 
 ## Criteria
@@ -14,12 +14,12 @@ Following the [City Council resolution Strategy for the financing of open source
 
 Criteria for potential sponsorship:
 
-* the software is under a [free licence](/en/licenses).
-* the software is [used](/en/use) in the City of Munich.
+* the software is under a [free licence](./licenses).
+* the software is [used](./use) in the City of Munich.
   * Frequency of use
   * Impact
   * Security
-* Many free software projects are often based on commercial business models, such as [open core, support]./improve#support) or SaaS.
+* Many free software projects are often based on commercial business models, such as [open core, support](./improve#support) or SaaS.
 Therefore, the software project must want to accept donations in the first place.
 
 
