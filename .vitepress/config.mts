@@ -33,8 +33,13 @@ export default defineConfig({
           {text: 'Nutzen', link: '/de/use'},
           {text: 'Verbessern', link: '/de/improve'},
           {text: 'Veröffentlichen', link: '/de/publish'},
-          {text: 'Übersicht', link: '/de/software/' },
-          {text: 'Grundlagen', link: '/de/principles'},
+          {
+               text: 'mehr',
+               items: [
+                   {text: 'Grundlagen', link: '/de/principles'},
+                   {text: 'Softwareübersicht', link: '/de/software/'},
+               ]
+             }
         ],
 
         sidebar: [],
@@ -71,8 +76,13 @@ export default defineConfig({
       { text: 'Use', link: '/use' },
       { text: 'Improve', link: '/improve' },
       { text: 'Publish', link: '/publish' },
-      { text: 'Overview', link: '/software/' },
-      {text: 'Principles', link: '/principles'},
+      {
+        text: 'more',
+        items: [
+          {text: 'Principles', link: '/principles'},
+          {text: 'Overview', link: '/software/'},
+        ]
+      }
     ],
 
     footer: {
