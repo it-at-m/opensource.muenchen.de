@@ -9,10 +9,11 @@ license: AGPL
 linkapplication: https://unser.muenchen.de
 logo: /logo/consul_logo.png
 tags:
-- application
-- start2021
-- support
+  - application
+  - start2021
+  - support
 ---
+
 [Consul](https://consuldemocracy.org) ist eine freie Software für Bürgerbeteiligung.
 
 ---

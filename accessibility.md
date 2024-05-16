@@ -27,11 +27,9 @@ IT department, web management team
 Telephone: <a href="tel:+4989233782427" rel="me">089 233-782427</a>  
 E-Mail: [webmanagement@muenchen.de](mailto:webmanagement@muenchen.de)
 
-
 ### Enforcement procedure
 
 If a request to the contact point remains unanswered in whole or in part within six weeks, the competent supervisory authority will examine the matter at the request of the person concerned.
-
 
 ### Enforcement procedure
 

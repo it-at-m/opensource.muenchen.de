@@ -5,8 +5,9 @@ developerlink: https://www.7-zip.de/
 licensingmodel: open source
 logo: /logo/320px-7ziplogo.svg.png
 tags:
-- application
+  - application
 ---
-7-Zip ist ein Datenkompressionsprogramm mit einer hohen Kompressionsrate. 
+
+7-Zip ist ein Datenkompressionsprogramm mit einer hohen Kompressionsrate.
 
 ---

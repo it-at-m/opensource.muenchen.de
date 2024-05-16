@@ -5,8 +5,9 @@ licensingmodel: CE/EE-Modell
 logo: /logo/metabase.svg
 code: https://github.com/metabase/metabase
 tags:
-- application
+  - application
 ---
+
 Metabase ist ein kostenloses Open-Source-Tool für Business Intelligence, das es Benutzer\*innen ermöglicht, Daten aus verschiedenen Quellen zu extrahieren und sie in aussagekräftige Berichte und Dashboards zu verwandeln.
 
 ---

@@ -3,13 +3,12 @@ title: Linux
 licensingmodel: open source
 logo: /logo/100px-Tux.svg.png
 tags:
-- infrastruktur
-- support
+  - infrastruktur
+  - support
 ---
 
 Als Linux ist eine freies unixähnliche Mehrbenutzer-Betriebssystem, die auf dem Linux-Kernel und wesentlich auf GNU-Software basieren.
-Vor allem auf Servern und embedded Computing ist Linux inzwischen zum Standard geworden.  
-
+Vor allem auf Servern und embedded Computing ist Linux inzwischen zum Standard geworden.
 
 ---
 

@@ -6,9 +6,10 @@ developerlink: https://de.libreoffice.org
 licensingmodel: open source
 logo: /logo/320px-LibreOffice_Logo_Flat.svg.png
 tags:
-- application
+  - application
 ---
-__LibreOffice__ ist eine freie Zusammenstellung von Bürosoftware (Office-Paket).
+
+**LibreOffice** ist eine freie Zusammenstellung von Bürosoftware (Office-Paket).
 
 ---
 

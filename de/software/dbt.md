@@ -5,10 +5,11 @@ licensingmodel: open-source
 logo: /logo/dbt.svg
 code: https://github.com/dbt-labs/dbt-core
 tags:
-- application
+  - application
 ---
+
 dbt ermöglicht es Datenanalysten und -ingenieuren, ihre Daten mit denselben Methoden zu transformieren, die auch Softwareingenieure für die Erstellung von Anwendungen verwenden.
-    
+
 ---
 
 Analysten, die dbt verwenden, können ihre Daten transformieren, indem sie einfach Select-Anweisungen schreiben, während dbt die Umwandlung dieser Anweisungen in Tabellen und Views in einem Data Warehouse übernimmt.

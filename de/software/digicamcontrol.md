@@ -7,8 +7,9 @@ licensingmodel: open source
 code: https://github.com/dukus/digiCamControl
 logo: /logo/digicamcontrol.png
 tags:
-- application
+  - application
 ---
+
 Mit dem Open-Source-Tool "digiCamControl" steuern Sie Ihre Kamera bequem vom Windows-Desktop aus.
 
 ---

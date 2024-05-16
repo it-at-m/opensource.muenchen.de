@@ -6,8 +6,9 @@ developerlink: https://fedorahosted.org/spacewalk/
 licensingmodel: open source
 logo: /logo/spacewalk-logo.jpeg
 tags:
-- infrastruktur
+  - infrastruktur
 ---
+
 Software repositories (installation files) are managed in Spacewalk.
 
 ---

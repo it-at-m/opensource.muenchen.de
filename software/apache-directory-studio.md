@@ -6,8 +6,9 @@ developerlink: https://directory.apache.org/studio/
 licensingmodel: open source
 linkapplication: null
 tags:
-- development
+  - development
 ---
-Development environment for directory services (LDAP). 
+
+Development environment for directory services (LDAP).
 
 ---

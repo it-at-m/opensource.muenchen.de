@@ -6,8 +6,9 @@ developerlink: https://www.latex-project.org/
 licensingmodel: open source
 logo: /logo/320px-LaTeX_project_logo_bird.svg.png
 tags:
-- application
+  - application
 ---
-LaTeX ist ein hochwertiges Satzsystem mit Funktionen, die für die Erstellung technischer und wissenschaftlicher Dokumentationen entwickelt wurden. 
+
+LaTeX ist ein hochwertiges Satzsystem mit Funktionen, die für die Erstellung technischer und wissenschaftlicher Dokumentationen entwickelt wurden.
 
 ---

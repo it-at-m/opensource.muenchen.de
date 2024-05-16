@@ -27,7 +27,6 @@ IT-Referat, Team Webmanagement
 Telefon: <a href="tel:+4989233782427" rel="me">089 233-782427</a>  
 E-Mail: [webmanagement@muenchen.de](mailto:webmanagement@muenchen.de)
 
-
 ### Durchsetzungsverfahren
 
 Bleibt eine Anfrage an die Kontaktstelle innerhalb von sechs Wochen ganz oder teilweise unbeantwortet, prüft die zuständige Aufsichtsbehörde auf Antrag der betroffenen Nutzer\*innen, ob im Rahmen der Überwachung gegenüber den Betreibern des Webangebots Maßnahmen erforderlich sind.

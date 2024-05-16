@@ -6,10 +6,10 @@ code: https://github.com/keycloak/keycloak
 logo: /logo/keycloaklogo.svg
 license: Apache
 tags:
-- infrastruktur
+  - infrastruktur
 ---
 
-__Keycloak__ is an open source software product that enables single sign-on with identity and access management for modern applications and services.
+**Keycloak** is an open source software product that enables single sign-on with identity and access management for modern applications and services.
 
 ---
 

@@ -1,4 +1,3 @@
-
 <script setup>
 
 import TagTile from "../.vitepress/components/TagTile.vue";
@@ -8,8 +7,6 @@ import { ref } from 'vue';
 const selectedFilters = ref([]);
 const availableTags = ref(['eigenentwicklung', 'kooperation']);
 </script>
-
-
 
 # Veröffentlichen
 
@@ -29,7 +26,6 @@ Open Source ist die Grundlage für den Austausch von bereits Erreichtem.
 Innerhalb der öffentlichen Verwaltung kann dieser Austausch dazu dienen, sowohl die Nachnutzung im Sinne des EfA[^efa] Prinzips zu unterstützen als auch durch eine größere Verbreitung zur Standardisierung beizutragen.
 Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austausch mit der Wirtschaft.
 
-
 ## Referenzarchitektur für Eigenentwicklungen {#refarch}
 
 In der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ wird der technische Aufbau von selbstentwickelter Software festgelegt.
@@ -38,7 +34,6 @@ Dies ermöglicht es uns, Komponenten leicht auszutauschen und zu aktualisieren.
 Open Source spielt in der Referenzarchitektur für Eigenentwicklungen eine doppelte Rolle:
 Zum einen setzen wir, wie oben ausgeführt, auf einen 100% Open Source Stack.
 Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer [Open-Source-Lizenz](./licenses#eigenentwicklungen) veröffentlichen.
-
 
 ## Übersicht
 

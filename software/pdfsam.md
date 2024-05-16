@@ -5,8 +5,9 @@ developerlink: https://pdfsam.org/de/pdfsam-basic/
 licensingmodel: open source
 logo: /logo/Logo_pdfsam1.png
 tags:
-- application
+  - application
 ---
+
 PDF Split and Merge: splits PDFs or merges PDF files.
 
 ---

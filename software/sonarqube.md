@@ -6,9 +6,10 @@ licensingmodel: open source
 license: LGPL
 logo: /logo/Sonarqube-48x200.png
 tags:
-- infrastruktur
-- development
+  - infrastruktur
+  - development
 ---
-__SonarQube__ is a platform for static analysis and evaluation of the technical quality of source code.
+
+**SonarQube** is a platform for static analysis and evaluation of the technical quality of source code.
 
 ---

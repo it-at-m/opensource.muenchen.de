@@ -6,8 +6,9 @@ developerlink: https://drawio-app.com/product/
 licensingmodel: open source
 logo: /logo/240px-Diagrams.net_Logo.svg.png
 tags:
-- application
+  - application
 ---
-Bearbeiten und formatieren Sie Diagramme mit einer intuitiven Benutzeroberfläche, die Ihren Prozess anleitet. 
+
+Bearbeiten und formatieren Sie Diagramme mit einer intuitiven Benutzeroberfläche, die Ihren Prozess anleitet.
 
 ---

@@ -4,8 +4,9 @@ developerlink: https://jmeter.apache.org/
 licensingmodel: open source
 logo: /logo/jmeter-logo.svg
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-Die Apache JMeter-Anwendung ist Open-Source-Software, die entwickelt wurde, um  Funktionsverhalten zu testen und die Leistung zu messen.
+
+Die Apache JMeter-Anwendung ist Open-Source-Software, die entwickelt wurde, um Funktionsverhalten zu testen und die Leistung zu messen.
 
 ---

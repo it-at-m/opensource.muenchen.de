@@ -7,15 +7,17 @@ licensingmodel: open source
 logo: /inhouse/praktikumsplaner_logo.png
 license: MIT
 tags:
-- application
-- eigenentwicklung
-- start2023
-- k8s
+  - application
+  - eigenentwicklung
+  - start2023
+  - k8s
 sortingPriority: 3
 ---
-The __Praktikumsplaner__ offers a way to organize junior staff and their internships during their vocational training.
+
+The **Praktikumsplaner** offers a way to organize junior staff and their internships during their vocational training.
 
 ---
+
 ## About the project
 
 The Praktikumsplaner, a project launched in collaboration between the Competence Center of Software Engineering (CCSE) and the InnovationLab, aims to support the training management in the allocation of junior staff.
@@ -27,5 +29,5 @@ The internship planner helps to maintain a good overview in order to assign juni
 
 ## Technical details
 
-The Praktikumsplaner was developed with the [reference architecture](../publish#refarch) of the City of Munich. 
-Java Spring Boot is used in the backend and TypeScript and [Vue.js](vuejs) in the frontend.  
+The Praktikumsplaner was developed with the [reference architecture](../publish#refarch) of the City of Munich.
+Java Spring Boot is used in the backend and TypeScript and [Vue.js](vuejs) in the frontend.

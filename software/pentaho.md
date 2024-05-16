@@ -6,8 +6,9 @@ licensingmodel: open source
 license: LGPL
 logo: /logo/320px-Pentaho2.JPG
 tags:
-- application
+  - application
 ---
-Pentaho is a collection of business intelligence software that is open source in a basic version. 
+
+Pentaho is a collection of business intelligence software that is open source in a basic version.
 
 ---

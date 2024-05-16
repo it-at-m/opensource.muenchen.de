@@ -6,10 +6,11 @@ licensingmodel: open source
 license: Apache-2.0
 logo: /logo/color-logo.svg
 tags:
-- infrastruktur
-- sponsor
+  - infrastruktur
+  - sponsor
 ---
-__OpenAPI Generator__ enables the automatic generation of API client libraries (SDK generation), server stubs, documentation and configuration based on an OpenAPI specification.
+
+**OpenAPI Generator** enables the automatic generation of API client libraries (SDK generation), server stubs, documentation and configuration based on an OpenAPI specification.
 The OpenAPI specification is a standard for describing HTTP programming interfaces (APIs), which can also be used to define REST-compliant interfaces.
 
 ---

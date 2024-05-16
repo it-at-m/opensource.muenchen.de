@@ -6,11 +6,11 @@ code: https://github.com/Graylog2/graylog2-server
 license: SSPL
 logo: /logo/Graylog-logo-blk.jpg
 tags:
-- infrastruktur
-- support
+  - infrastruktur
+  - support
 ---
-__Graylog__ is a platform for central log management, the collection, analysis and visualization of log data.
 
+**Graylog** is a platform for central log management, the collection, analysis and visualization of log data.
 
 ---
 

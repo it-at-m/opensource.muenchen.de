@@ -8,11 +8,12 @@ license: MIT
 linkapplication: https://integreat.app/muenchen/
 logo: /logo/integreat_logo.png
 tags:
-- application
-- opencore
-- start2020
+  - application
+  - opencore
+  - start2020
 ---
-__Integreat__ is a local and multilingual integration platform for immigrants that can be used in any municipality without the involvement of the IT department.
+
+**Integreat** is a local and multilingual integration platform for immigrants that can be used in any municipality without the involvement of the IT department.
 
 ---
 
