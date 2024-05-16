@@ -1,4 +1,4 @@
-The __Open Source Programme Office__ (OSPO) was founded as a team within it@M on the basis of the City Council motion [Establish Open Source Hub and Open Source Sabbatical](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900) (2023-02-15).
+The __Open Source Programme Office__ (OSPO) was founded as a team within it@M on the basis of the City Council motion ['Establish Open Source Hub and Open Source Sabbatical'](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900) (2023-02-15).
 
 The Open Source Programme Office aims to coordinate and promote open source activities at LHM in line with the IT strategy.  
 The two dimensions "give" and "take" are taken into account, i.e. both the use of open source software and the publication and release of LHM's own software developments as open source ("public money - public code").
@@ -14,7 +14,7 @@ The tasks of the team are:
 * Evaluation and prioritisation of ideas and initiatives on open source in the LHM in order to invest resources in a focused manner.
 * Managing LHM's presence on public open source platforms, in particular on public code repositories (examples: github.com, gitlab.com). The aim is to ensure standardised and consistent communication and an image that complies with the legal framework.
 * Development of methodological aids and provision of expertise for colleagues who develop [open source software](./use) for the LHM, especially if the development itself takes place on public code repositories such as github.com. (Examples: Methodology for integrating such software into the LHM IT environment).
-* Development, consolidation and provision (e.g. via WiLMA) of expertise and awareness on the subject of open source.
+* Development, consolidation and provision (e.g. via intranet) of expertise and awareness on the subject of open source.
 * Organisation and implementation of the Open Source Sabbatical.
 
 ### Procurement consulting

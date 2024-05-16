@@ -12,18 +12,18 @@ As a rule, modifying existing software does not pose a problem with regard to th
 ## Own developments
 
 The [publication of the software developed by LHM](./publish) is carried out under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) in order to hinder reuse as little as possible.
-The MIT licence is also proposed in the City Council resolution [Develop new software in an open source context!](https://risi.muenchen.de/risi/antrag/detail/6289779).
+The MIT licence is also proposed in the City Council resolution ['Develop new software in an open source context!'](https://risi.muenchen.de/risi/antrag/detail/6289779).
 
 ### Integration in in-house developments
 
 We take care not to use software with licences with a strong copyleft effect. This means we are free to choose the licence for our own software and avoid licence conflicts. 
-We prefer to use software with permissive licences or licences with a weak copyleft effect.
+We prefer to use software that has licences which are either permissive or have a weak copyleft effect.
 
 In practice, we mainly use software with the following permissive licences verified by the [Open Source Initiative](https://opensource.org/licenses):
 
 * [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License)
 * [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-* MIT licence
+* [MIT-Lizenz](https://en.wikipedia.org/wiki/MIT_License)
 * [PostgrSQL licence](https://www.postgresql.org/about/licence/)
 * [PHP licence](https://en.wikipedia.org/wiki/PHP_License)
 

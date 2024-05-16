@@ -10,7 +10,7 @@ In this way, we can help to ensure that the development and maintenance of free 
 
 ## Criteria
 
-Following the [City Council resolution Strategy for the financing of open source libraries and software used by the city](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of 15 November 2023.
+Following the [City Council resolution 'Strategy for the financing of open source libraries and software used by the city'](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of 15 November 2023.
 
 Criteria for potential sponsorship:
 
@@ -28,7 +28,7 @@ Therefore, the software project must want to accept donations in the first place
 Since the OSPO does not know all software and especially the importance for the LHM (use, relevance for security or stability), each sponsorship should have an internal honorary patron.
 This honorary patron should use the tool heavily or be its service owner, admin ect.
 
-The sponsoring honorary patron does not have to represent the sponsoring externally, but must be noted in the internal ticket for enquiry purposes.
+The sponsoring honorary patron does not have to represent the sponsoring externally, but must be noted internally for enquiry purposes.
 
 ## Implementation
 

@@ -10,7 +10,7 @@ Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von 
 
 ## Kriterien
 
-Dem [Stadtratsbeschluss Strategie zur Finanzierung städtisch genutzter Open-Source-Bibliotheken und -Software](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) vom 15. November 2023 folgend.
+Dem [Stadtratsbeschluss "Strategie zur Finanzierung städtisch genutzter Open-Source-Bibliotheken und -Software"](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) vom 15. November 2023 folgend.
 
 Kriterien für potentielle Sponsorings:
 
@@ -25,9 +25,9 @@ Daher muss das Softwareprojekt auch Spenden überhaupt annehmen wollen.
 ## Sponsoringpatenschaften
 
 Da das OSPO nicht alle Software und vor allem die Bedeutung für die LHM (Nutzung, Relevanz für Security oder Stabilität) kennen kann, sollte jedes Sponsoring eine interne Sponsoringpatenschaft haben.
-Diese sollte das Tool stark nutzen oder dessen Serviceowner, Admin ect sein.
+Diese sollte das Tool stark nutzen oder dessen Serviceowner, Admin etc. sein.
 
-Der oder die Sponsoringpate*in muss das Sponsoring nicht extern vertreten, muss aber im internen Ticket zur Rückfragezwecken vermerkt werden.
+Der oder die Sponsoringpate*in muss das Sponsoring nicht extern vertreten, muss aber intern zu Rückfragezwecken vermerkt werden.
 
 ## Durchführung
 

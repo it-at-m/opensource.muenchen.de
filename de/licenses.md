@@ -13,18 +13,18 @@ In der Regel stellt das Verändern bestehender Software hinsichtlich der Lizenz 
 ## Eigenentwicklungen
 
 Die [Veröffentlichung der von der LHM entwickelten Software](./publish) erfolgt unter der [MIT-Lizenz](https://de.wikipedia.org/wiki/MIT-Lizenz), um eine Wiederverwendung möglichst wenig zu behindern.
-Die MIT-Lizenz wird außerdem schon im Stadtratsbeschluss [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779) vorgeschlagen.
+Die MIT-Lizenz wird außerdem schon im Stadtratsbeschluss ["Neue Software im Open Source-Kontext entwickeln!"](https://risi.muenchen.de/risi/antrag/detail/6289779) vorgeschlagen.
 
 ### Einbindung in Eigenentwicklungen
 
 Wir achten darauf, keine Software mit Lizenzen mit starkem Copyleft-Effekt zu nutzen. Dadurch sind wir frei in der Wahl der Lizenz für unsere eigene Software und vermeiden Lizenzkonflikte. 
-Wir nutzen bevorzugt Software mit permissiven Lizenzen oder mit Lizenzen mit schwachem Copyleft-Effekt.
+Wir nutzen bevorzugt Software mit Lizenzen, die permissiv oder mit schwachem Copyleft-Effekt sind.
 
 In der Praxis nutzen wir vor allem Software mit folgenden permissiven, von der [Open Source Initiative](https://opensource.org/licenses) geprüften Lizenzen:
 
 * [Apache 2.0](https://de.wikipedia.org/wiki/Apache-Lizenz)
 * [BSD](https://de.wikipedia.org/wiki/BSD-Lizenz)
-* MIT-Lizenz
+* [MIT-Lizenz](https://de.wikipedia.org/wiki/MIT-Lizenz)
 * [PostgrSQL-Lizenz](https://www.postgresql.org/about/licence/)
 * [PHP-Lizenz](https://de.wikipedia.org/wiki/PHP-Lizenz)
 
@@ -54,10 +54,10 @@ Das bedeutet, Software die OpenJDK nutzt muss nicht zwangsläufig unter der GPL 
 
 Um sicherzustellen, dass wir keine Lizenzverstöße begehen, müssen sämtliche Abhängigkeiten unserer Software geprüft und dokumentiert werden.
 
-Auf Github nutzen wir dazu [advanced-security/policy-as-code](https://github.com/marketplace/actions/ghas-policy-as-code), das ist im [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/build.yaml#L13) schon predefined.
+Auf Github nutzen wir dazu [advanced-security/policy-as-code](https://github.com/marketplace/actions/ghas-policy-as-code), das ist im [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/build.yaml#L13) bereits vorgegeben.
 
 Das **zentrale it@M Policy File** ist definiert in [it-at-m/policy-as-code](https://github.com/it-at-m/policy-as-code) - [dort sind v.a. die Lizenzen mit starken Copyleft definiert](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L12), die wir vermeiden wollen.
 
-Da es bei der Lizenzdetection durchaus zu "False Positives" kommen kann, können diese dort auf eine [Ignore-Liste](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L23) gesetzt werden.
+Da es bei der Lizenzerkennung durchaus zu "false positives" kommen kann, können diese dort auf eine [Ignore-Liste](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L23) gesetzt werden.
 
-Die Compatibility der genutzten Lizenzen können mit dem [JLA - Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) geprüft werden.
+Die Kompatibilität der genutzten Lizenzen können mit dem [JLA - Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) geprüft werden.
