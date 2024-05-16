@@ -6,8 +6,9 @@ developerlink: https://www.qgis.org
 licensingmodel: open source
 logo: /logo/320px-QGIS_logo_2017.svg.png
 tags:
-- application
+  - application
 ---
-Quantum GIS (QGIS)  ist ein geografisches Informationssystem (GIS) verwaltet, analysiert und visualisiert Datenbanken mit geografischen Informationen.
+
+Quantum GIS (QGIS) ist ein geografisches Informationssystem (GIS) verwaltet, analysiert und visualisiert Datenbanken mit geografischen Informationen.
 
 ---

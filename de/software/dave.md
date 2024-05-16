@@ -7,29 +7,27 @@ licensingmodel: open source
 logo: /inhouse/dave_logo.png
 license: MIT
 tags:
-- application
-- eigenentwicklung
-- start2021
-- k8s
+  - application
+  - eigenentwicklung
+  - start2021
+  - k8s
 sortingPriority: 3
 ---
-Mit __DAVe__ können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
+
+Mit **DAVe** können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
 
 ---
 
 ## Über das Projekt
 
 DAVe (kurz: Datenbank und Auswertung von Verkehrszählungen) ist ein Fachverfahren zur Auswertung von Verkehrszählungen. Es ermöglicht den Beschäftigten des Mobilitätsreferats die Verkehrsentwicklung in München zu dokumentieren und zu analysieren. Zugrunde liegen Daten aus über 2000 Zählstellen.
- 
-Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fachanwendung DAVe eingesehen werden. Zur Auswertung werden verschieden Diagramme angeboten, die bei Bedarf auch als PDF-Report heruntergeladen werden können. Weitere Zählstellen sowie neue Verkehrszählungen können angelegt und in direkter Kommunikation mit dem Zähldienstleister beauftragt werden.
-Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
+Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fachanwendung DAVe eingesehen werden. Zur Auswertung werden verschieden Diagramme angeboten, die bei Bedarf auch als PDF-Report heruntergeladen werden können. Weitere Zählstellen sowie neue Verkehrszählungen können angelegt und in direkter Kommunikation mit dem Zähldienstleister beauftragt werden.
+Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger\*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
 ![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/inhouse/DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png)
 ![Screenshot einer Website mit Ganglinien](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot einer Website mit Listenausgabe](/inhouse/DAVE_Listenausgabe.png)
-
-
 
 ## Technische Details
 

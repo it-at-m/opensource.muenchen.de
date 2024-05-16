@@ -5,9 +5,10 @@ developerlink: https://de.libreoffice.org
 licensingmodel: open source
 logo: /logo/320px-LibreOffice_Logo_Flat.svg.png
 tags:
-- application
+  - application
 ---
-__LibreOffice__ is a free set of office software (office suite).
+
+**LibreOffice** is a free set of office software (office suite).
 It includes programs for word processing, spreadsheets, presentation and creating drawings.
 
 ---

@@ -1,4 +1,3 @@
-
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
 </script>
@@ -15,7 +14,6 @@ Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) s
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
 > Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
 
-
 ## Anwendungen
 
 Die Landeshauptstadt München betreibt eine Vielzahl von Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
@@ -26,7 +24,6 @@ Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch 
 show-tags
 show-excerpt
 />
-
 
 ## Infrastruktur
 

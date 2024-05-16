@@ -7,9 +7,9 @@ licensingmodel: open source
 linkapplication: https://geoportal.muenchen.de/portal/master/
 logo: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/Kommunalreferat/img_geoportal/Karten/Logo_GeoPortal.png/jcr:content/Logo_GeoPortal.png
 tags:
-- application
-- kooperation
-- sponsor
+  - application
+  - kooperation
+  - sponsor
 ---
 
 Das [GeoPortal](https://geoportal.muenchen.de/portal/master/) bietet raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder, oder die "Potenzial der oberflächennahen Geothermie".
@@ -22,24 +22,23 @@ Fast alle Anwendungsszenarien einer Smart City, vom digitalen Stadtplan bis zur 
 
 Die stadtweite Plattform ist bereits seit Dezember 2018 online und unterstützt zahlreiche Online-Angebote der Landeshauptstadt mit raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder. Fachthemen aus den städtischen Referaten können darauf aufbauen. So ist eine Vielfalt an thematischen Inhalten möglich und Zusammenhänge werden schnell und auf einen Blick ersichtlich.
 
-Beim GeoPortal kommen überwiegend  Open Source Software (OSS) zum Einsatz. Besonders erwähnt sei hier als Kartenclient das sogenannte  Masterportal. Diese Software wird im Rahmen einer Implementierungspartnerschaft gemeinsam mit weiteren Behörden entwickelt. Die Landeshauptstadt München ist mit der Hansestadt Hamburg Gründungsmitglied dieser Partnerschaft. Seitdem haben sich bedeutende Metropolen aus der DACH-Region (Deutschland, Österreich, Schweiz) sowie einige Bundesländer und Behörden der Bundesverwaltung angeschlossen. So kann an vielen Stellen von den Erfahrungen sowie dem Know-how anderer Partnerorganisationen profitiert werden, um gemeinsam Vorteile zu generieren und mehr Geschwindigkeit in der Umsetzung zu entwickeln.
+Beim GeoPortal kommen überwiegend Open Source Software (OSS) zum Einsatz. Besonders erwähnt sei hier als Kartenclient das sogenannte Masterportal. Diese Software wird im Rahmen einer Implementierungspartnerschaft gemeinsam mit weiteren Behörden entwickelt. Die Landeshauptstadt München ist mit der Hansestadt Hamburg Gründungsmitglied dieser Partnerschaft. Seitdem haben sich bedeutende Metropolen aus der DACH-Region (Deutschland, Österreich, Schweiz) sowie einige Bundesländer und Behörden der Bundesverwaltung angeschlossen. So kann an vielen Stellen von den Erfahrungen sowie dem Know-how anderer Partnerorganisationen profitiert werden, um gemeinsam Vorteile zu generieren und mehr Geschwindigkeit in der Umsetzung zu entwickeln.
 Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings München](https://muenchen.digital/twin/) aufsetzt.
 
 ![Screenshot einer Karte der Region München mit Grundwassertemperaturen in farblich schraffierten Flächen](/inhouse/geoportal_geothermie_screen.png)
 
 ### Architektur
 
-Eine moderne, skalierbare Software besteht heute nicht aus einem monolithischen Stück Code, sondern  wird durch modulare Komponenten zusammengesetzt, die einzeln installierbar und bei Bedarf austauschbar sind sowie über offene, möglichst standardisierte Schnittstellen 
-miteinander kommunizieren. So  wie beim oben genannten Beispiel Masterportal basieren alle
-Komponenten auf  freier Software und werden selber als freie Software von aktiven und international anerkannten Communities  im Geodatenbereich bereitgestellt.
+Eine moderne, skalierbare Software besteht heute nicht aus einem monolithischen Stück Code, sondern wird durch modulare Komponenten zusammengesetzt, die einzeln installierbar und bei Bedarf austauschbar sind sowie über offene, möglichst standardisierte Schnittstellen
+miteinander kommunizieren. So wie beim oben genannten Beispiel Masterportal basieren alle
+Komponenten auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
 
-* Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
-* Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
-* Der [FROST-Server für Sensordaten](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) des Fraunhofer IOSB ist eine Implementierung des [SensorThings-Standards](https://www.ogc.org/standards/sensorthings) des [Open Geospatial Consortiums](https://www.ogc.org/) (OGC).
-* Die freie Datenbank PostgreSQL ist inzwischen zu einem Standard avanciert, das GeoPortal nutzt ebenfalls PostgreSQL und die speziell  für Geodaten entwickelte Erweiterung [PostGIS](https://postgis.net). 
-* [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine
-* Mit [Node-RED](https://nodered.org/) wandeln wir unterschiedlichste Datentypen (zum Beispiel  Sensordaten) in die standardisierte [SensorThingsAPI](https://github.com/opengeospatial/sensorthings).
-
+- Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
+- Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
+- Der [FROST-Server für Sensordaten](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) des Fraunhofer IOSB ist eine Implementierung des [SensorThings-Standards](https://www.ogc.org/standards/sensorthings) des [Open Geospatial Consortiums](https://www.ogc.org/) (OGC).
+- Die freie Datenbank PostgreSQL ist inzwischen zu einem Standard avanciert, das GeoPortal nutzt ebenfalls PostgreSQL und die speziell für Geodaten entwickelte Erweiterung [PostGIS](https://postgis.net).
+- [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine
+- Mit [Node-RED](https://nodered.org/) wandeln wir unterschiedlichste Datentypen (zum Beispiel Sensordaten) in die standardisierte [SensorThingsAPI](https://github.com/opengeospatial/sensorthings).
 
 ### Was haben wir beigetragen?
 

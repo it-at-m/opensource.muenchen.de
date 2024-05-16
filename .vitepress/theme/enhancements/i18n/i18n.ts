@@ -4,6 +4,6 @@ import { enMessages } from "./lang/en";
 export const DEFAULT_LANG = "en";
 
 export const messages = {
-    de: deMessages,
-    en: enMessages
-}
+  de: deMessages,
+  en: enMessages,
+};

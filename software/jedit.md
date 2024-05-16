@@ -5,8 +5,9 @@ developerlink: http://www.jedit.org/
 licensingmodel: open source
 logo: /logo/JEdit.png
 tags:
-- development
+  - development
 ---
+
 jEdit is a sophisticated text editor for programmers.
 
 ---

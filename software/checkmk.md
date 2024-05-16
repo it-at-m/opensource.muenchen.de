@@ -8,9 +8,10 @@ license: GPL
 linkapplication: null
 logo: /logo/320px-CheckMK_logo.svg.png
 tags:
-- infrastruktur
-- opencore
+  - infrastruktur
+  - opencore
 ---
+
 Checkmk is a free software for service monitoring of IT infrastructure.
 It is used to monitor servers, network, applications, clouds, containers, storage, databases and environmental sensors.
 

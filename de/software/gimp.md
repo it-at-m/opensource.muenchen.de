@@ -6,9 +6,10 @@ developerlink: https://www.gimp.org/
 licensingmodel: open source
 logo: /logo/240px-The_GIMP_icon_-_gnome.svg.png
 tags:
-- application
+  - application
 ---
-Gimp ist ein Bildbearbeitungsprogramm für Pixelgrafiken. 
+
+Gimp ist ein Bildbearbeitungsprogramm für Pixelgrafiken.
 
 ---
 

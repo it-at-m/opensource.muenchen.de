@@ -5,9 +5,10 @@ developerlink: https://puppet.com
 licensingmodel: open source
 logo: /logo/320px-Puppet_transparent_logo.svg.png
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-__Puppet__ ist ein Tool zum Konfigurationsmanagement von Servern mit Betriebssystemen wie Unix, Linux und FreeBSD.
+
+**Puppet** ist ein Tool zum Konfigurationsmanagement von Servern mit Betriebssystemen wie Unix, Linux und FreeBSD.
 
 ---
 

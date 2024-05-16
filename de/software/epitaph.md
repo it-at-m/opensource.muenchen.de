@@ -4,21 +4,21 @@ developer: LHM
 code: https://github.com/it-at-m/epitaph_ips
 licensingmodel: open source
 license: MIT
-tags: 
-- eigenentwicklung
-- application
-- start2022
+tags:
+  - eigenentwicklung
+  - application
+  - start2022
 ---
+
 Epitaph ermöglicht eine lokale Positionserfassung auf mobilen Endgeräten. Die Open Source Library nutzt die Programmiersprache Dart und das Framework Flutter.
 
 ---
-
 
 ## Über das Projekt
 
 Das [it@M InnovationLab](https://stadt.muenchen.de/infos/innovationlab-im-it-referat.html) und das Kreisverwaltungsreferat (KVR) arbeiten zusammen an einer Möglichkeit, das vorhandene Besucherleitsystem im Standesamt in der Ruppertstraße zu unterstützen. Hierfür wurde das gemeinsame Projekt „Epitaph – Indoor Navigation“ gestartet. Ziel des Projekts ist die Entwicklung einer Cross-Plattform Smartphone App, mit der Personen durch städtische Gebäude navigieren können.
 
-Dafür arbeiten wir mit BLEs (Bluethooth Low Energy) Beacons. Diese strahlen Bluethooth-Signale aus, die vom Handy erfasst werden. Die App verwendet diese Signale zur Bestimmung der Position, die in der App angezeigt wird. So wird es den Nutzer*innen ermöglicht, sich im Gebäude zurechtzufinden.
+Dafür arbeiten wir mit BLEs (Bluethooth Low Energy) Beacons. Diese strahlen Bluethooth-Signale aus, die vom Handy erfasst werden. Die App verwendet diese Signale zur Bestimmung der Position, die in der App angezeigt wird. So wird es den Nutzer\*innen ermöglicht, sich im Gebäude zurechtzufinden.
 
 ## Technische Details
 

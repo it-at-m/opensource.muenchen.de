@@ -7,8 +7,9 @@ licensingmodel: open source
 linkapplication: null
 logo: /logo/Free_Mind.png
 tags:
-- application
+  - application
 ---
-Freemind ist ein Werkzeug zum Zeichnen von Mind Maps. 
+
+Freemind ist ein Werkzeug zum Zeichnen von Mind Maps.
 
 ---

@@ -21,4 +21,3 @@ features:
     details: "Sollten wir existierende freie Software nicht nutzen oder verbessern können, so entwicklen wir selbst freie Software. Wenn wir uns entscheiden Software selbst zu entwickeln, passiert das offen und frei."
     link: /de/publish
 ---
-

@@ -5,9 +5,10 @@ licensingmodel: open source
 license: Apache
 logo: /logo/320px-MariaDB_colour_logo.svg.png
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-__MariaDB__ ist ein freies, relationales Open-Source-Datenbankmanagementsystem, das durch eine Abspaltung (Fork) aus MySQL entstanden ist.
+
+**MariaDB** ist ein freies, relationales Open-Source-Datenbankmanagementsystem, das durch eine Abspaltung (Fork) aus MySQL entstanden ist.
 
 ---
 

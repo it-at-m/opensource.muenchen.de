@@ -8,11 +8,12 @@ licensingmodel: open source
 license: MIT
 logo: https://inclus.de/logo192.png
 tags:
-- eigenentwicklung
-- application
-- start2021
+  - eigenentwicklung
+  - application
+  - start2021
 sortingPriority: 2
 ---
+
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.
 
 ---
@@ -23,16 +24,15 @@ Mit der Web-Karten-Anwendung [inclus](https://inclus.de) erhalten Menschen mit B
 
 Wählt man eine Toilette durch Anklicken auf der Landkarte aus, werden detaillierte Informationen angezeigt wie:
 
-* Grundriss
-* installierte Handgriffe
-* Türbreite
-* Steigung der Rampe
-* Nutzung mit oder ohne Euro-Schlüssel
+- Grundriss
+- installierte Handgriffe
+- Türbreite
+- Steigung der Rampe
+- Nutzung mit oder ohne Euro-Schlüssel
 
 Die Gäste haben darüber hinaus selbst die Möglichkeit, eine Bewertung des Zustandes der Toilette zu hinterlassen.
 
 ![Screenshot zeigt einen Ausschnitt aus dem Stadtplan München mit Detailinformationen zu einem WC Schrannenhalle](/inhouse/Inclus_Screenshot.jpg)
-
 
 ## Technische Details
 

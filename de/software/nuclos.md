@@ -8,12 +8,11 @@ licensingmodel: open source
 license: AGPL
 logo: /logo/nuclos-logo.png
 tags:
-- application
-- support
+  - application
+  - support
 ---
 
-__Nuclos__ ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere gesamte interne IT-Portfolio und Ressourcenplanung durchführen.
-
+**Nuclos** ist eine freie Enterprise-Resource-Planning-Software mit der wir bei it@M unsere gesamte interne IT-Portfolio und Ressourcenplanung durchführen.
 
 ---
 

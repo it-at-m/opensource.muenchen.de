@@ -5,8 +5,9 @@ developerlink: https://matomo.org
 licensingmodel: open source
 logo: /logo/320px-Matomo_Logo.svg.png
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-Matomo (formerly Piwik) web tracking is used to analyze user behavior of a web application. 
+
+Matomo (formerly Piwik) web tracking is used to analyze user behavior of a web application.
 
 ---

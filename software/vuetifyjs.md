@@ -4,10 +4,11 @@ developerlink: https://vuetifyjs.com
 licensingmodel: open source
 logo: /logo/vuetify-logo-300.png
 tags:
-- development
-- sponsor
+  - development
+  - sponsor
 ---
-__Vuetify__ is a UI library for Vue components in [Material Design](https://m3.material.io).
+
+**Vuetify** is a UI library for Vue components in [Material Design](https://m3.material.io).
 In the reference architecture, Vuetify is used for almost all [custom development](../publish).
 
 ---

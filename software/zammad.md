@@ -4,10 +4,10 @@ developerlink: https://zammad.org
 licensingmodel: open source
 logo: /logo/320px-Logo-zammad.svg.png
 tags:
-- application
-- support
-- start2023
-- k8s
+  - application
+  - support
+  - start2023
+  - k8s
 ---
 
 Zammad is a free helpdesk and issue tracking system that enables the connection of various channels such as e-mail and telephone.

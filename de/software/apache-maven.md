@@ -6,8 +6,9 @@ developerlink: https://maven.apache.org/
 licensingmodel: open source
 logo: /logo/320px-Apache_Maven_logo.svg.png
 tags:
-- development
+  - development
 ---
+
 Maven ist ein Build-Management-Tool der Apache Software Foundation und basiert auf Java.
 
 ---

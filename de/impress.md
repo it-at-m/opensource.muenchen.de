@@ -11,14 +11,12 @@ Körperschaft des öffentlichen Rechts
 Umsatzsteuer-Identifikationsnummer: DE 129 524 000  
 Zuständige Aufsichtsbehörde: Regierung von Oberbayern
 
-
 ## Inhaltliche Verantwortung
 
 IT@M  
 Agnes Pockels Bogen 21  
 80992 München  
 E-Mail: <opensource@muenchen.de>
-
 
 ## Datenschutzerklärung
 
@@ -54,7 +52,6 @@ Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolg
 Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
 
 Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
-
 
 ## Danksagung
 

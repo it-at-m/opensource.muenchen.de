@@ -5,8 +5,9 @@ developerlink: http://cobbler.github.io
 licensingmodel: open source
 logo: /logo/logo-cobbler-new.svg
 tags:
-- infrastruktur
+  - infrastruktur
 ---
+
 Cobbler is a tool for automated provisioning and installation of Linux based servers.
 
 ---

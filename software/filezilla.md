@@ -5,8 +5,9 @@ developerlink: https://filezilla-project.org/
 licensingmodel: open source
 logo: /logo/480px-FileZilla_logo.svg.png
 tags:
-- application
+  - application
 ---
+
 FTP client for file transfer.
 
 ---

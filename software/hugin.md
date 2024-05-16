@@ -5,8 +5,9 @@ developerlink: http://hugin.sourceforge.net
 licensingmodel: open source
 logo: /logo/320px-Hugin-splash.svg.png
 tags:
-- application
+  - application
 ---
+
 Hugin is a free stitching software. It is a GUI for the Panorama Tools (also known as PanoTools) and other tools.
 
 ---

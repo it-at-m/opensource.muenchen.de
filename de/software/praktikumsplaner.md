@@ -13,7 +13,8 @@ tags:
   - k8s
 sortingPriority: 3
 ---
-Der __Praktikumsplaner__ bietet eine Möglichkeit Nachwuchskräfte und ihre Praktikumsstellen während der Ausbildung zu organisieren.
+
+Der **Praktikumsplaner** bietet eine Möglichkeit Nachwuchskräfte und ihre Praktikumsstellen während der Ausbildung zu organisieren.
 
 ---
 

@@ -6,8 +6,9 @@ developerlink: https://www.eclipse.org/
 licensingmodel: open source
 logo: /logo/320px-Eclipse-Luna-Logo.svg.png
 tags:
-- development
+  - development
 ---
+
 Zur Anwendungsentwicklung häufig genutzter, auf [Java] basierender Kern einer Entwicklungsumgebung.
 
 ---

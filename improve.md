@@ -1,4 +1,3 @@
-
 <script setup>
 import TagTile from ".vitepress/components/TagTile.vue";
 </script>
@@ -12,7 +11,7 @@ In this way, free software can be continuously developed and adapted to the need
 
 ## Code Contributions
 
-Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
+Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through **Contributions**.
 Contributions can take different forms and do not always have to include new features or bug fixes.
 Also the correction or update of documentation can be a valuable contribution.
 
@@ -23,7 +22,6 @@ All contributions are created and contributed using our [github account as fork 
 Even though open source software is free, development and maintenance must be paid for.
 Different [business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) enable secure and stable software and sponsor further development.  
 These business models can vary widely depending on the developer and use case, and range from providing support and training to developing customized solutions for customers.
-
 
 ### Sponsoring
 
@@ -40,7 +38,6 @@ We use [opencollective.com/itm](https://opencollective.com/itm) for the transpar
 
 Further projects will follow in accordance with the [City Council resolution Strategy for financing open source libraries and software used by the city](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of November 15, 2023.
 
-
 ### Support
 
 Free software is best understood by those who create it.
@@ -55,7 +52,6 @@ show-tags
 show-excerpt
 />
 
-
 ### Open Core
 
 The open core model is a business model for financing commercially produced open source software.
@@ -69,4 +65,3 @@ By being independent of a single manufacturer, we avoid financial dependencies a
 show-tags
 show-excerpt
 />
-

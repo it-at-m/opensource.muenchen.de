@@ -5,11 +5,11 @@ licensingmodel: open source
 license: Apache
 logo: /logo/233px-Postgresql_elephant.svg.png
 tags:
-- infrastruktur
-- support
+  - infrastruktur
+  - support
 ---
-__PostgreSQL__ is a free, object-relational database management system (ORDBMS) emphasizing extensibility and SQL compliance.
 
+**PostgreSQL** is a free, object-relational database management system (ORDBMS) emphasizing extensibility and SQL compliance.
 
 ---
 

@@ -5,8 +5,9 @@ developerlink: https://theforeman.org
 licensingmodel: open source
 logo: /logo/foremanhelmet.svg
 tags:
-- infrastruktur
+  - infrastruktur
 ---
+
 Katello is a software stack of various components integrated together to provide a complete lifecycle and configuration management system for server systems.
 
 ---

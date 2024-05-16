@@ -16,7 +16,7 @@ Since we make our own developments available as open source software, other orga
 
 For this purpose, we have the mandate and backing of politicians:
 
->Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+> Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
 
 > The developed source code is made publicly available and placed under a permissive open source license (e.g. EUPL, MIT).
 
@@ -35,7 +35,6 @@ This allows us to easily exchange and update components.
 Open source plays a dual role in the reference architecture for in-house developments:
 On the one hand, as explained above, we rely on a 100% open source stack.
 On the other hand, however, the City of Munich will publish all in-house developments on the basis of an open source license.
-
 
 ## Overview
 

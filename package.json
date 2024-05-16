@@ -3,14 +3,19 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "prettier:format": "prettier . --write",
+    "prettier:check": "prettier . --check"
   },
   "devDependencies": {
     "@mdi/font": "^7.3.67",
+    "@muenchen/prettier-codeformat": "^1.0.1",
+    "prettier": "^3.2.5",
     "vitepress": "^1.0.0-rc.22"
   },
   "dependencies": {
     "markdown-it-footnote": "^4.0.0",
     "vuetify": "^3.3.21"
-  }
+  },
+  "prettier": "@muenchen/prettier-codeformat"
 }

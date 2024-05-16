@@ -5,10 +5,11 @@ licensingmodel: open-source
 logo: /logo/dbt.svg
 code: https://github.com/dbt-labs/dbt-core
 tags:
-- application
+  - application
 ---
+
 dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-    
+
 ---
 
 Analysts using dbt can transform their data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.

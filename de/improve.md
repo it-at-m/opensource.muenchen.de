@@ -1,4 +1,3 @@
-
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
 </script>
@@ -10,10 +9,9 @@ Doch hier liegt der große Vorteil von freier Software:
 Sie ermöglicht es, aktiv an der Verbesserung von Software mitzuarbeiten und Fehler zu beheben sowie neue Features zu implementieren.
 Auf diese Weise kann freie Software kontinuierlich weiterentwickelt werden und den Bedürfnissen der Nutzer angepasst werden.
 
-
 ## Code Contributions
 
-Neben den [Eigenveröffentlichungen](./publish) der Landeshauptstadt München tragen wir auch durch __Contributions__ zu anderen FOSS-Projekten bei.
+Neben den [Eigenveröffentlichungen](./publish) der Landeshauptstadt München tragen wir auch durch **Contributions** zu anderen FOSS-Projekten bei.
 Contributions können dabei unterschiedliche Formen haben und müssen nicht immer neue Features oder Bugfixes beinhalten.
 Auch die Korrektur oder Fortschreibung von Dokumentationen kann einen wertvollen Beitrag leisten.
 
@@ -36,7 +34,6 @@ show-tags
 show-excerpt
 />
 
-
 ### Support
 
 Freie Software wird am besten von denjenigen verstanden, die sie erschaffen.
@@ -51,7 +48,6 @@ show-tags
 show-excerpt
 />
 
-
 ### Open-Core
 
 Das Open-Core-Modell ist ein Geschäftsmodell zur Finanzierung von kommerziell produzierter Open-Source-Software.
@@ -59,7 +55,6 @@ Dabei wird eine "Kernfunktionalität" oder funktionsbeschränkte Version des Sof
 
 Die Stadt München nutzt dieses Modell, um Software schneller zu testen und das FOSS-Ökosystem zu fördern.
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
-
 
 <TagTile
 :available-tags="['opencore']"

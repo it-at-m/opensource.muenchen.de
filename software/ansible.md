@@ -5,9 +5,10 @@ licensingmodel: open source
 license: Apache
 logo: /logo/100px-Ansible_logo.svg.png
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-__Ansible__ is a free automation tool for orchestration and configuration and administration of servers.
+
+**Ansible** is a free automation tool for orchestration and configuration and administration of servers.
 
 ---
 

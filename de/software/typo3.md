@@ -5,11 +5,10 @@ developerlink: https://typo3.org
 licensingmodel: open source
 logo: /logo/320px-Logo_TYPO3.svg.png
 tags:
-- application
+  - application
 ---
 
-__TYPO3__ ist ein freies Content-Management-System für Websites.
-
+**TYPO3** ist ein freies Content-Management-System für Websites.
 
 ---
 

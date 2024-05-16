@@ -7,9 +7,9 @@ licensingmodel: open source
 linkapplication: https://geoportal.muenchen.de/portal/master/
 logo: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/Kommunalreferat/img_geoportal/Karten/Logo_GeoPortal.png/jcr:content/Logo_GeoPortal.png
 tags:
-- application
-- kooperation
-- sponsor
+  - application
+  - kooperation
+  - sponsor
 ---
 
 The [GeoPortal](https://geoportal.muenchen.de/portal/master/) provides basic spatial information such as an official city map, addresses and aerial photographs, or the "Potential of near-surface geothermal energy."
@@ -27,20 +27,18 @@ The GeoPortal is the spatial data infrastructure on which the [Digital Twin Muni
 
 ![Screenshot of a map of the Munich region with groundwater temperatures in colored shaded areas](/inhouse/geoportal_geothermie_screen.png)
 
-
 ### Architecture
 
-Today, modern, scalable software does not consist of a monolithic piece of code, but is instead composed of modular components that can be installed individually and exchanged as required, and that communicate with each other via open, standardized interfaces as far as possible. 
+Today, modern, scalable software does not consist of a monolithic piece of code, but is instead composed of modular components that can be installed individually and exchanged as required, and that communicate with each other via open, standardized interfaces as far as possible.
 communicate with each other. As in the case of the master portal example mentioned above, all
 components are based on free software and are themselves provided as free software by active and internationally recognized communities in the geodata field.
 
-* The map service software [Geoserver](https://geoserver.org) with the OGC compliant web services.
-* The metadata catalog [GeoNetwork](https://geonetwork-opensource.org) with also OGC compliant web services with harvesting to and from other metadata catalogs.
-* Fraunhofer IOSB's [FROST server for sensor data](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) is an implementation of the [SensorThings standard](https://www.ogc.org/standards/sensorthings) of the [Open Geospatial Consortium](https://www.ogc.org/) (OGC).
-* The free database PostgreSQL has become a standard, the GeoPortal also uses PostgreSQL and the extension [PostGIS](https://postgis.net), which was developed especially for geodata. 
-* [ElasticSearch](https://www.elastic.co/de/elasticsearch/) as a search engine.
-* With [Node-RED](https://nodered.org/) we convert different types of data (for example sensor data) into the standard
-
+- The map service software [Geoserver](https://geoserver.org) with the OGC compliant web services.
+- The metadata catalog [GeoNetwork](https://geonetwork-opensource.org) with also OGC compliant web services with harvesting to and from other metadata catalogs.
+- Fraunhofer IOSB's [FROST server for sensor data](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) is an implementation of the [SensorThings standard](https://www.ogc.org/standards/sensorthings) of the [Open Geospatial Consortium](https://www.ogc.org/) (OGC).
+- The free database PostgreSQL has become a standard, the GeoPortal also uses PostgreSQL and the extension [PostGIS](https://postgis.net), which was developed especially for geodata.
+- [ElasticSearch](https://www.elastic.co/de/elasticsearch/) as a search engine.
+- With [Node-RED](https://nodered.org/) we convert different types of data (for example sensor data) into the standard
 
 ### What have we contributed?
 

@@ -6,8 +6,9 @@ developerlink: https://testlink.org/
 licensingmodel: open source
 linkapplication: null
 tags:
-- infrastruktur
+  - infrastruktur
 ---
+
 Webbasiertes, freies Software-Testmanagement-Tool
 
 ---
