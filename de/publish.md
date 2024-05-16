@@ -37,7 +37,7 @@ Um eine optimale Wartbarkeit und Skalierbarkeit der Software zu gewährleisten, 
 Dies ermöglicht es uns, Komponenten leicht auszutauschen und zu aktualisieren.
 Open Source spielt in der Referenzarchitektur für Eigenentwicklungen eine doppelte Rolle:
 Zum einen setzen wir, wie oben ausgeführt, auf einen 100% Open Source Stack.
-Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer Open-Source-Lizenz veröffentlichen.
+Zum anderen aber wird die Landeshauptstadt München sämtliche Eigenentwicklungen auf Basis einer [Open-Source-Lizenz](./licenses#eigenentwicklungen) veröffentlichen.
 
 
 ## Übersicht
