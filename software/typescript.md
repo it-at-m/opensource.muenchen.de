@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/320px-TypeScript_Logo.svg.png
 tags:
 - development
+- devstack
 ---
 __TypeScript__ is a scripting language with language constructs such as classes, inheritance, modules, and anonymous functions.
 

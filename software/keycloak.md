@@ -7,6 +7,7 @@ logo: /logo/keycloaklogo.svg
 license: Apache
 tags:
 - infrastruktur
+- devstack
 ---
 
 __Keycloak__ is an open source software product that enables single sign-on with identity and access management for modern applications and services.

@@ -9,6 +9,7 @@ tags:
 - infrastruktur
 - support
 - k8s
+- devstack
 ---
 Apache Kafka is free software from the Apache Software Foundation that is used in particular for processing data streams.
 

@@ -7,6 +7,7 @@ logo: /logo/100px-OpenShift-LogoType.svg.png
 tags:
 - support
 - infrastruktur
+- devstack
 ---
 Internal and external services are operated on the Kubernetes platform __Openshift__.
 
