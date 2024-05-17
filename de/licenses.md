@@ -12,7 +12,7 @@ In der Regel stellt das Verändern bestehender Software hinsichtlich der Lizenz 
 
 ## Eigenentwicklungen
 
-Die [Veröffentlichung der von der LHM entwickelten Software](./publish) erfolgt unter der [MIT-Lizenz](https://de.wikipedia.org/wiki/MIT-Lizenz), um eine Wiederverwendung möglichst wenig zu behindern.
+Die [Veröffentlichung](./publish) der von der LHM [entwickelten Software](./in-house-development) erfolgt unter der [MIT-Lizenz](https://de.wikipedia.org/wiki/MIT-Lizenz), um eine Wiederverwendung möglichst wenig zu behindern.
 Die MIT-Lizenz wird außerdem schon im Stadtratsbeschluss ["Neue Software im Open Source-Kontext entwickeln!"](https://risi.muenchen.de/risi/antrag/detail/6289779) vorgeschlagen.
 
 ### Einbindung in Eigenentwicklungen
