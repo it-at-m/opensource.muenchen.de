@@ -6,6 +6,8 @@ logo: /logo/277px-Vue.js_Logo_2.svg.png
 tags:
 - development
 - sponsor
+- devstack
+sortingPriority: 101
 ---
 __Vue.js__ ist ein clientseitiges JavaScript-Webframework zum Erstellen von Single-Page-Webanwendungen nach dem MVVM-Muster, es kann allerdings auch in Multipage-Webseiten für einzelne Abschnitte verwendet werden.
 

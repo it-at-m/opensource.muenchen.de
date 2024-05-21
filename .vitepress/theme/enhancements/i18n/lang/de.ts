@@ -16,5 +16,6 @@ export const deMessages: localizedMessagesType = {
         start2020: "Start 2020",
         k8s: "Kubernetes",
         saas: "SaaS",
+        devstack: "Development Stack",
     }
 };

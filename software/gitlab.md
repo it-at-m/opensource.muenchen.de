@@ -10,6 +10,7 @@ tags:
 - infrastruktur
 - opencore
 - development
+- devstack
 ---
 GitLab is a version control system for software projects and devops platform.
 

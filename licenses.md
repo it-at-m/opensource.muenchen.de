@@ -11,7 +11,7 @@ As a rule, modifying existing software does not pose a problem with regard to th
 
 ## Own developments
 
-The [publication of the software developed by LHM](./publish) is carried out under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) in order to hinder reuse as little as possible.
+The [publication](./publish) of the [software developed by LHM](./in-house-development) is carried out under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) in order to hinder reuse as little as possible.
 The MIT licence is also proposed in the City Council resolution ['Develop new software in an open source context!'](https://risi.muenchen.de/risi/antrag/detail/6289779).
 
 ### Integration in in-house developments

@@ -6,6 +6,8 @@ logo: /logo/vuetify-logo-300.png
 tags:
 - development
 - sponsor
+- devstack
+sortingPriority: 101
 ---
 __Vuetify__ ist eine UI-Bibliothek für Vue-Komponenten in [Material Design](https://m3.material.io).
 In der Referenzarchitektur wird Vuetify für fast alle [Eigenentwicklungen](../publish) genutzt.
