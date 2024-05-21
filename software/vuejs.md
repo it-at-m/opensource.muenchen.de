@@ -7,7 +7,7 @@ tags:
 - development
 - sponsor
 - devstack
-sortingPriority: 1
+sortingPriority: 101
 ---
 __Vue.js__ is a client-side JavaScript web framework for building single-page web applications following the MVVM pattern, but it can also be used in multipage web pages for single sections.
 

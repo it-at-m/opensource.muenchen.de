@@ -6,7 +6,7 @@ logo: /logo/Javascript_badge.svg
 tags:
 - development
 - devstack
-sortingPriority: 2
+sortingPriority: 102
 ---
 __JavaScript__ ist eine Skriptsprache die sowohl in Webbrowsern als auch auf Servern genutzt werden kann.
 
