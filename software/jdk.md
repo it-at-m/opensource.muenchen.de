@@ -8,7 +8,7 @@ tags:
 - development
 - devstack
 - devstack
-sortingPriority: 1
+sortingPriority: 101
 ---
 OpenJDK JAVADevelopmentKit (development tools, Java compiler) as part of the eighth edition of the Java SE platform. 
 

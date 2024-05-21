@@ -7,7 +7,7 @@ tags:
 - development
 - sponsor
 - devstack
-sortingPriority: 1
+sortingPriority: 101
 ---
 __Vuetify__ is a UI library for Vue components in [Material Design](https://m3.material.io).
 In the reference architecture, Vuetify is used for almost all [custom development](../publish).
