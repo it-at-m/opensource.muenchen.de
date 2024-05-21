@@ -87,7 +87,7 @@ export default defineConfig({
           {text: 'Overview', link: '/software/'},
           {text: 'Licenses', link: '/licenses'},
           {text: 'Sponsoring', link: '/sponsoring'},
-          {text: 'In-house development', link: '/de/in-house-development' },
+          {text: 'In-house development', link: '/in-house-development' },
           {text: 'OSPO', link: '/ospo'},
         ]
       }
