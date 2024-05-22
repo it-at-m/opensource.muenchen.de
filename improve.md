@@ -30,11 +30,13 @@ These business models can vary widely depending on the developer and use case, a
 We financially support free software that we use frequently.
 In this way, we can help to ensure that the development and maintenance of free software remains guaranteed and that the software continues to meet our needs.
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 We use [opencollective.com/itm](https://opencollective.com/itm) for the transparent implementation of our sponsorship payments.
 
@@ -49,11 +51,13 @@ Manufacturers offer highly qualified support and can have a direct influence on 
 The city generally concludes contracts with service providers that ensure an orderly lifecycle and timely security updates.
 This minimizes the risk of support gaps if, for example, a community project is temporarily orphaned.
 
+<ClientOnly>
 <TagTile
 :available-tags="['support']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 
 ### Open Core
@@ -64,9 +68,10 @@ A "core functionality" or feature-limited version of the software product is off
 The City of Munich uses this model to test software more quickly and promote the FOSS ecosystem.
 By being independent of a single manufacturer, we avoid financial dependencies and can operate the software independently.
 
+<ClientOnly>
 <TagTile
 :available-tags="['opencore']"
 show-tags
 show-excerpt
 />
-
+</ClientOnly>

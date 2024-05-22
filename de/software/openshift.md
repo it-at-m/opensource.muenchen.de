@@ -18,10 +18,12 @@ Das ermöglicht uns, aber auch Nachnutzern, einen einfachen Betrieb der Anwendun
 
 Folgende Opensource Anwendungen werden von uns auf Openshift betrieben:
 
+<ClientOnly>
 <TagTile
 :available-tags="['k8s']"
 show-excerpt
 />
+</ClientOnly>
 
 <script setup>
 import TagTile from "../../.vitepress/components/TagTile.vue";

@@ -21,12 +21,13 @@ Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) s
 Die Landeshauptstadt München betreibt eine Vielzahl von Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
 Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
 
+<ClientOnly>
 <TagTile
 :available-tags="['application']"
 show-tags
 show-excerpt
 />
-
+</ClientOnly>
 
 ## Infrastruktur
 
@@ -36,8 +37,10 @@ Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größ
 Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an zentralen Fachanwendungen und Diensten.
 Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, die für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig sind.
 
+<ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']"
 show-tags
 show-excerpt
 />
+</ClientOnly>

@@ -39,8 +39,10 @@ Where possible, we use [opencollective.com/itm](https://opencollective.com/itm) 
 
 ## Overview
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>

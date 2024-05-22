@@ -10,6 +10,8 @@ To ensure optimal maintainability and scalability of the software, we rely on a 
 This is defined in the guideline "Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen".
 This enables us to easily replace and update components.
 
+<ClientOnly>
 <TagTile
 :available-tags="['devstack']"
 />
+</ClientOnly>

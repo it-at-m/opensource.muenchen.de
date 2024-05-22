@@ -19,10 +19,12 @@ This enables us, but also subsequent users, to operate the applications easily.
 The following Opensource applications are operated by us on Openshift:
 
 
+<ClientOnly>
 <TagTile
 :available-tags="['k8s']"
 show-excerpt
 />
+</ClientOnly>
 
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
