@@ -38,9 +38,11 @@ Zur transparenten Durchführung unserer Sponsoringzahlungen nutzen wir, wenn mö
 
 ## Übersicht
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 

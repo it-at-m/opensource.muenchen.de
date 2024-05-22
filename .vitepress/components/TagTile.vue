@@ -3,8 +3,8 @@
     <div class="tagtile">
         <div class="grid">
             <v-card
-                    v-for="(page, index) in pagesWithTags"
-                    :key="index"
+                    v-for="page in pagesWithTags"
+                    :key="page.url"
                     variant="flat"
                     :href="withBase(page.url)"
                     class="card"

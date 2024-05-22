@@ -10,7 +10,9 @@ Um eine optimale Wartbarkeit und Skalierbarkeit der Software zu gewährleisten, 
 Dies wird in der Richtlinie „Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen“ fest gelegt.
 Dies ermöglicht es uns, Komponenten leicht auszutauschen und zu aktualisieren.
 
+<ClientOnly>
 <TagTile
 :available-tags="['devstack']"
 />
+</ClientOnly>
 

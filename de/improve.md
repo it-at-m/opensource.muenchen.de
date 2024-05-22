@@ -30,11 +30,13 @@ Diese Geschäftsmodelle können je nach Entwickler und Anwendungsfall sehr unter
 Freie Software die wir häufig nutzen, [sponsern](./sponsoring) wir finanziell.
 Auf diese Weise können wir dazu beitragen, dass die Entwicklung und Pflege von freier Software gewährleistet bleibt und die Software weiterhin unseren Bedürfnissen entspricht.
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 
 ### Support
@@ -45,11 +47,13 @@ Hersteller bieten hochqualifizierten Support und können direkt auf die Entwickl
 Die Stadt schließt in der Regel Verträge mit Dienstleistern ab, die einen geordneten Lifecycle und zeitnahe Sicherheitsupdates sicherstellen.
 Dies minimiert das Risiko von Support-Lücken, wenn beispielsweise ein Community-Projekt vorübergehend verwaist ist.
 
+<ClientOnly>
 <TagTile
 :available-tags="['support']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 
 ### Open-Core
@@ -61,8 +65,10 @@ Die Stadt München nutzt dieses Modell, um Software schneller zu testen und das 
 Durch die Unabhängigkeit von einem einzelnen Hersteller vermeiden wir finanzielle Abhängigkeiten und können die Software eigenständig betreiben.
 
 
+<ClientOnly>
 <TagTile
 :available-tags="['opencore']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
