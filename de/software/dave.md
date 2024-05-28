@@ -35,4 +35,4 @@ DAVe wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstad
 
 Die Daten liegen in zwei verschiedenen Datenbanken: Die für die Suche relevanten Daten, wie beispielsweise Lage oder Straßennamen, werden in ElasticSearch gespeichert. Das ermöglicht eine sehr performante Suche mit Suchvorschlägen in Echtzeit. Die für die Suche nicht benötigten Verkehrsdaten aus den Zählungen werden in einer relationalen Datenbank gespeichert.
 
-DAVe kann per [helm chart installiert und betreiben werden](https://artifacthub.io/packages/helm/zammad/zammad?modal=install).
+DAVe kann per [helm chart installiert und betreiben werden](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).

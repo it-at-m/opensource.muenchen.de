@@ -36,4 +36,4 @@ DAVe was developed with the [reference architecture](../publish#refarch) of the 
 
 The data is stored in two different databases: the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. The traffic data from the counts that is not required for the search is stored in a relational database.
 
-DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/zammad/zammad?modal=install).
+DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
