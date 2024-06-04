@@ -3,6 +3,9 @@ The __Open Source Programme Office__ (OSPO) was founded as a team within it@M on
 The Open Source Programme Office aims to coordinate and promote open source activities at LHM in line with the IT strategy.  
 The two dimensions "give" and "take" are taken into account, i.e. both the use of open source software and the publication and release of LHM's own software developments as open source ("public money - public code").
 
+
+## Tasks
+
 The tasks of the team are:
 
 * Identifying relevant communities and solutions: Actively screen and explore [open source projects](./use) and communities working on solutions relevant to LHM. Relevance is assessed on the basis of the architectural categorisation of open source.
