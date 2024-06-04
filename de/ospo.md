@@ -3,6 +3,8 @@ Das __Open Source Program Office__ (OSPO) wurde aufgrund des Stadtratsantrags ["
 Das Open Source Program Office verfolgt das Ziel, die Open Source Aktivitäten in der LHM gemäß der IT-Strategie zu koordinieren und zu fördern.  
 Berücksichtigt werden die beiden Dimensionen „geben“ und „nehmen“, also sowohl die Nutzung von Open Source Software als auch die Veröffentlichung und Freigabe von Software-Eigenentwicklungen der LHM als Open Source („public money – public code“).
 
+## Aufgaben
+
 Die Aufgaben des Teams sind:
 
 * Ermittlung relevanter Communities und Lösungen: Aktive Sichtung und Erkundung von [Open Source Projekten](./use) und Communities, die an Lösungen arbeiten, die für die LHM relevant sind. Die Relevanz wird dabei anhand der Architektureinordnung von Open Source bewertet.

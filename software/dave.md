@@ -11,7 +11,7 @@ tags:
 - eigenentwicklung
 - start2021
 - k8s
-sortingPriority: 3
+sortingPriority: 2
 ---
 With __DAVe__, traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 

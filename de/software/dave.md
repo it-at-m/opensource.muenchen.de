@@ -11,7 +11,7 @@ tags:
 - eigenentwicklung
 - start2021
 - k8s
-sortingPriority: 3
+sortingPriority: 2
 ---
 Mit __DAVe__ können Verkehrszählungen beauftragt, erfasst und mit Hilfe verschiedener Diagramme grafisch ausgewertet werden.
 
