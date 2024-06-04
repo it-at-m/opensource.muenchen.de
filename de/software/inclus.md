@@ -11,7 +11,7 @@ tags:
 - eigenentwicklung
 - application
 - start2021
-sortingPriority: 2
+sortingPriority: 3
 ---
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.
 

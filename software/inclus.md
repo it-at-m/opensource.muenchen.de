@@ -11,7 +11,7 @@ tags:
 - eigenentwicklung
 - application
 - start2021
-sortingPriority: 2
+sortingPriority: 3
 ---
 Inclus offers an overview of all accessible, (semi) public toilets in Munich by means of a map.
 
