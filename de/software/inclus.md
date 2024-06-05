@@ -36,4 +36,4 @@ Die Gäste haben darüber hinaus selbst die Möglichkeit, eine Bewertung des Zus
 
 ## Technische Details
 
-Die Anwendung wurde in Zusammenarbeit mit der [Digital Product School](https://www.digitalproductschool.io) der UnternehmerTUM entwickelt und wird derzeit dort als Prototyp betrieben. Die Datengrundlage wurde vom Club Behinderter und ihrer Freunde e.V. erstellt und dem Projekt zur Verfügung gestellt.
+Die Anwendung wurde in Zusammenarbeit mit der [Digital Product School](https://www.digitalproductschool.io) der UnternehmerTUM entwickelt und wird derzeit dort als Prototyp betrieben. Die [Datengrundlage wurde vom Club Behinderter und ihrer Freunde e.V.](https://www.cbf-muenchen.de/barrierefreie-orte/rolli-toiletten) erstellt und dem Projekt zur Verfügung gestellt.
