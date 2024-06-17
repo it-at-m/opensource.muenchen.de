@@ -43,10 +43,10 @@ Eine __Werkvertrag__ oder __Dienstvertrag__ ist aufgrund der Vergabevorberatung,
 
 ### Mitarbeiter*innen der LHM
 
-__Vorübergehende Einsätze__ innerhalb der LHM bieten Mitarbeiter\*innen Entwicklungsmöglichkeiten und sind und kurzfristig umsetzbar.
+__Vorübergehende Einsätze__ innerhalb der LHM bieten Mitarbeiter\*innen Entwicklungsmöglichkeiten und sind kurzfristig umsetzbar.
 Voraussetzung ist ein Einverständnis der abgebenden Dienststelle.
 Das Open Source Sabbatical ist auch als Praktikum während der Berufsausbildung bzw. des Dualen Studiums möglich, sofern das Projekt in den Ausbildungsplan passt.  
-Eine __Direktbesetzung__ innerhalb der LHM ist möglich, sofern die dazu notwendige Stelle geschaffen wurde und eine Kompensationsmöglichkeiten bei abgebender Dienststelle besteht.
+Eine __Direktbesetzung__ innerhalb der LHM ist möglich, sofern die dazu notwendige Stelle geschaffen wurde und eine Kompensationsmöglichkeit bei abgebender Dienststelle besteht.
 
 
 [^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
