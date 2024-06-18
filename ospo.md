@@ -18,7 +18,7 @@ The tasks of the team are:
 * Managing LHM's presence on public open source platforms, in particular on public code repositories (examples: github.com, gitlab.com). The aim is to ensure standardised and consistent communication and an image that complies with the legal framework.
 * Development of methodological aids and provision of expertise for colleagues who develop [open source software](./use) for the LHM, especially if the development itself takes place on public code repositories such as github.com. (Examples: Methodology for integrating such software into the LHM IT environment).
 * Development, consolidation and provision (e.g. via intranet) of expertise and awareness on the subject of open source.
-* Organisation and implementation of the Open Source Sabbatical.
+* Organisation and implementation of the [Open Source Sabbatical](./sabbatical).
 
 ### Procurement consulting
 
