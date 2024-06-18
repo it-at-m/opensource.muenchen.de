@@ -1,35 +1,29 @@
 # Open Source Sabbatical
 
-> Following the creation and establishment of an Open Source Programme Office (Open Source Hubs), a Munich Open Source Sabbatical will be introduced.
-[^application]
-
-> The open source sabbatical is intended to provide professionally qualified software developers with the opportunity to work on an open source project for a limited period of time.
-The programme is not only aimed at LHM employees, but also explicitly at external software developers.
-In order to enable external software developers to take such a sabbatical, LHM should provide financial compensation for the loss of earnings.
-
-[Resolution 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
+After the [Open Source Programme Office](./ospo) was founded in January 2024, the **Munich Open Source Sabbatical** is now officially being introduced.
+Professionally qualified programmers can participate in open source projects for a limited period of time.  
+This sabbatical is not only open to employees of the City of Munich, but also to external software developers.
+To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical.[^beschluss][^antrag]
 
 
 ## Application
 
-> Professionally qualified programmers apply to work on open source projects for a certain period of time.
-> ...
-> The sabbatical is open to international applications. In order to connect the participants, they can work together with the employees of the Open Source Programme Office. The call for applications should indicate that there is a particular interest in applications from women.
-[^application]
+Interested programmers can apply for the sabbatical.
+Participants can work together with the employees of the Open Source Hub.
+Applications from women are particularly encouraged.
 
-We are open in the selection of open source sabbaticals and look forward to ideas from external and internal developers.
-These can be bug fixes, features for projects from the [own development portfolio](https://github.com/it-at-m) of the City of Munich.
-But they can also be completely different free projects if there is a benefit for the city of Munich.
+## Project selection
 
-Applications can be submitted informally to [opensource@muenchen.de](mailto:opensource@muenchen.de), stating the software project and the start date.
-
+The selection of open source sabbaticals is open to ideas from external and internal developers.
+They can be bug fixes or features for projects from the City of Munich's [own development portfolio](https://github.com/it-at-m).
+Other free projects are also possible if they offer a benefit for the city.
 
 ## Financial compensation
 
-> The sabbatical is compensated in an attractive amount, so that the programmers can take time off work from their employer. The participants are not bound by instructions.
-[^application]
+The sabbatical is attractively remunerated so that the programmers can take time off work from their employer.
+The participants are not bound by instructions.[^antrag]
 
-We can currently offer financial compensation:
+The following compensation options are currently offered
 
 ### External software developers
 
@@ -43,10 +37,18 @@ A __work contract__ or __service contract__ is difficult to realise due to the p
 
 ### Employees of the LHM
 
-__Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
-The prerequisite is the consent of the department making the assignment.
-The open source sabbatical is also possible as an internship during vocational training or the dual study programme, provided the project fits in with the training plan.  
-A __direct appointment__ within the LHM is possible, provided that the necessary position has been created and there is a possibility of compensation at the departing department.
+Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
+The prerequisite is the consent of the department that is assigning the employee.
+The open source sabbatical is also possible as an internship during vocational training or dual study programmes, provided the project fits in with the training plan.  
+A __direct appointment__ within LHM is possible, provided that the necessary position has been created and there is a possibility of compensation at the departing department.
 
 
-[^application]: [Introduce a Munich Open Source Sabbatical](https://risi.muenchen.de/risi/antrag/detail/6289826)
+Interested parties can send their applications informally to [opensource@muenchen.de](mailto:opensource@muenchen.de), stating the software project and the start date.
+
+The City of Munich is looking forward to receiving your applications!
+
+
+[^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
+[^beschluss]: [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
+
+
