@@ -20,7 +20,7 @@ With __DAVe__, traffic counts can be commissioned, recorded and graphically eval
 ## About the project
 
 
-DAVe (short for: Database and Evaluation of Traffic Counts) is a specialized procedure for evaluating traffic counts. It enables the employees of the Mobility Department to document and analyze traffic development in Munich. It is based on data from over 2000 counting points.
+DAVe (short for: Database and Evaluation of Traffic Counts) is an application for evaluating traffic counts. It enables the employees of the Mobility Department to document and analyze traffic development in Munich. It is based on data from over 2000 counting points.
  
 All traffic counts carried out in Munich since 1989 can be viewed with the DAVe application. Various diagrams are available for analysis, which can also be downloaded as a PDF report if required. Additional counting points and new traffic counts can be created and commissioned in direct communication with the counting service provider.
 The data collected helps to analyze traffic development and is used, for example, to plan new cycle paths. They also form the basis for the traffic volume map, where interested citizens can view the traffic volumes on Munich's roads online.
