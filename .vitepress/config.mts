@@ -15,7 +15,7 @@ export default defineConfig({
       noExternal: ["vuetify"]
     }
   },
-  head: [['link', { rel: 'icon', href: `${base}opensource.muenchen.de.icon.png` }]],
+  head: [['link', { rel: 'icon', href: `https://assets.muenchen.de/logos/lhm/icon-lhm-muenchen-32.png` }]],
   locales: {
     root: {
       label: 'English',
