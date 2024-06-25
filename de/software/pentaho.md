@@ -1,0 +1,18 @@
+---
+Source: SNow
+title: Pentaho
+developer: null
+developerlink: https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
+licensingmodel: open source
+license: LGPL
+logo: /logo/320px-Pentaho2.JPG
+tags:
+- application
+- development
+---
+
+Pentaho ist eine Sammlung von Business-Intelligence-Software.
+
+---
+
+Der __Pentaho Carte Server__ ist Teil der Datenintegrationsplattform Pentaho Data Integration zum Erfassen, Mischen, Bereinigen und Vorbereiten verschiedener Daten aus beliebigen Quellen in einer beliebigen Umgebung ohne Code.
