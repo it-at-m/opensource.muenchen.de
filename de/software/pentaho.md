@@ -3,6 +3,7 @@ Source: SNow
 title: Pentaho
 developer: null
 developerlink: https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
+code: https://sourceforge.net/projects/pentaho/
 licensingmodel: open source
 license: LGPL
 logo: /logo/320px-Pentaho2.JPG
