@@ -32,6 +32,8 @@ The OSPO only offers advisory assistance, not tender implementation or make-buy-
 
 ## Team
 
+In addition to numerous developers from the urban open source community, who contribute ideas, passion and, above all, public code, take care of open source:
+
 ![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
 
 Dr. Dirk Gernhardt heads the Competence Center Software Engineering in the IT department of the City of Munich and holds the role of Open Source Representative.
