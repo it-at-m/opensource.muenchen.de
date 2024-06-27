@@ -6,7 +6,7 @@ The two dimensions "give" and "take" are taken into account, i.e. both the use o
 
 ## Tasks
 
-The tasks of the team are:
+The tasks of the [team](#team) are:
 
 * Identifying relevant communities and solutions: Actively screen and explore [open source projects](./use) and communities working on solutions relevant to LHM. Relevance is assessed on the basis of the architectural categorisation of open source.
 * Shaping relationships with external communities.
@@ -29,3 +29,20 @@ The OSPO offers advice on new software solutions (procurements, replacements, sm
 * Cooperation if there is no practicable open source solution.
 
 The OSPO only offers advisory assistance, not tender implementation or make-buy-use-compose analyses (MBUC).
+
+## Team
+
+![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
+
+Dr. Dirk Gernhardt heads the Competence Center Software Engineering in the IT department of the City of Munich and holds the role of Open Source Representative.
+Until 2019, he held the role of Chief IT Architect.
+Before joining the City of Munich in 2010, he worked as an IT consultant for the automotive industry at Capgemini.
+
+
+<br class="cb" />
+
+![Klaus Mueller](/people/klml_gelb__150.jpg#right)
+Klaus 'klml' Mueller is Head of the OSPO of the City of Munich, which was founded in 2024.
+Before that, he and his team built the Kubernetes Platform, a world in which FOSS is already standard.
+Klaus has been a stable FOSS enthusiast since Linux kernel 2.6.0.
+

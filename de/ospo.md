@@ -5,7 +5,7 @@ Berücksichtigt werden die beiden Dimensionen „geben“ und „nehmen“, also
 
 ## Aufgaben
 
-Die Aufgaben des Teams sind:
+Die Aufgaben des [Teams](#team) sind:
 
 * Ermittlung relevanter Communities und Lösungen: Aktive Sichtung und Erkundung von [Open Source Projekten](./use) und Communities, die an Lösungen arbeiten, die für die LHM relevant sind. Die Relevanz wird dabei anhand der Architektureinordnung von Open Source bewertet.
 * Gestaltung der Beziehungen zu externen Communities.
@@ -28,3 +28,20 @@ Das OSPO bietet Beratung bei neuen Softwarelösungen (Beschaffungen, Ablöse, kl
 * Mitarbeit bei Fehlanzeigen, wenn es keine praktikable Open Source Lösung gibt.
 
 Das OSPO bietet nur beratende Mithilfe, keine Ausschreibungsdurchführung oder Make-Buy-Use-Compose Analysen (MBUC) an.
+
+
+## Team
+
+![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
+
+Dr. Dirk Gernhardt leitet das Competence Center Software Engineering im IT-Referat der Landeshauptstadt München und ist Open-Source-Beauftragter.
+Bis 2019 hatte er die Funktion des Chief IT Architect inne.
+Bevor er 2010 zur Landeshauptstadt München kam, arbeitete er als IT-Berater für die Automobilindustrie bei Capgemini.
+
+
+<br class="cb" />
+
+![Klaus Mueller](/people/klml_gelb__150.jpg#right)
+Klaus 'klml' Mueller ist Leiter des OSPO der Stadt München, das Anfang 2024 gegründet wurde.
+Davor hat er mit seinem Team die Kubernetes-Plattform aufgebaut, eine Welt, in der FOSS bereits Standard ist.
+Klaus ist seit Linux-Kernel 2.6.0 FOSS-Enthusiast.
