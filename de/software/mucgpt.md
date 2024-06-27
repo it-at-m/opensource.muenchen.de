@@ -30,7 +30,7 @@ Die Chat-Funktion von MUCGPT ermöglicht es Benutzern, Textkonversationen mit ei
 Mit der Zusammenfassungsfunktion von MUCGPT können Benutzer lange Texte oder Dokumente schnell und einfach zusammenfassen, indem sie die relevantesten Informationen extrahieren. Die Detailstufe der Zusammenfassung kann vom Benutzer angepasst werden, um eine präzise Zusammenfassung in kurzer, mittlerer oder langer Form zu erhalten 
 
 ### Brainstorming-Feature:
-![Screenshot der Brainstorming Funktion von MUCGPT](/inhouse/mucgpt_chat.png)  
+![Screenshot der Brainstorming Funktion von MUCGPT](/inhouse/mucgpt_brainstorming.png)  
 Die Brainstorming-Funktion von MUCGPT ermöglicht es Benutzern, kreative Ideen zu entwickeln, indem sie Mind Maps erstellen und bearbeiten. Die Mind Maps können einfach heruntergeladen und mit der Open-Source-Software [Freeplane](freeplane) weiter bearbeitet werden.  
 
 ## Technische Einzelheiten
