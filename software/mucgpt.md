@@ -30,7 +30,7 @@ The chat function of MUCGPT enables users to have text-based conversations with 
 MUCGPT's Summarize function enables users to create summaries of long texts or documents by extracting the most relevant information. The level of detail of the generated summary can be adjusted by the user, with three levels of detail available: short, medium, and long.
 
 ### Brainstorming-Feature:
-![Screenshot of a the brainstorming function of MUCGPT](/inhouse/mucgpt_chat.png)  
+![Screenshot of a the brainstorming function of MUCGPT](/inhouse/mucgpt_brainstorming.png)  
 With MUCGPT's Brainstorming function, users can generate mind maps to aid them in exploring ideas related to a particular topic. The resulting mind maps can be downloaded and edited further using [Freeplane](freeplane).      
 
 
