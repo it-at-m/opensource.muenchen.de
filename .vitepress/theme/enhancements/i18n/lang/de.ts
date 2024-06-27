@@ -2,6 +2,7 @@ import { localizedMessagesType } from "../utility/types";
 
 export const deMessages: localizedMessagesType = {
     tags: {
+        ai: "KI",
         application: "Anwendung",
         development: "Development",
         eigenentwicklung: 'Eigenentwicklung',
@@ -10,6 +11,7 @@ export const deMessages: localizedMessagesType = {
         opencore: "Opencore",
         sponsor: "Sponsor",
         support: "Support",
+        start2024: "Start 2024",
         start2023: "Start 2023",
         start2022: "Start 2022",
         start2021: "Start 2021",
