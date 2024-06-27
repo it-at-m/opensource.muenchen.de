@@ -17,8 +17,7 @@ __MUCGPT__ ist eine Webanwendung, die auf einem Sprachmodell (LLM) basiert und e
 
 ---
 
-## About the project
-
+## Über das Projekt
 
 MUCGPT ist eine Webanwendung, die auf einem Sprachmodell basiert und Benutzern eine intuitive und vielseitige Plattform bietet. Mit Chat, Textzusammenfassung und Brainstorming-Tools können Benutzer schnell und einfach hochwertigen Text generieren, ihre Ideen organisieren und ihre Produktivität steigern.
 
@@ -34,7 +33,7 @@ Mit der Zusammenfassungsfunktion von MUCGPT können Benutzer lange Texte oder Do
 ![Screenshot der Brainstorming Funktion von MUCGPT](/inhouse/mucgpt_chat.png)  
 Die Brainstorming-Funktion von MUCGPT ermöglicht es Benutzern, kreative Ideen zu entwickeln, indem sie Mind Maps erstellen und bearbeiten. Die Mind Maps können einfach heruntergeladen und mit der Open-Source-Software [Freeplane](freeplane) weiter bearbeitet werden.  
 
-## Technical details
+## Technische Einzelheiten
 
 Die Architektur von MUCGPT ist in zwei Teile unterteilt: das Frontend und das Backend. MUCGPT wird als AppService auf Microsoft Azure mit einer [PostgreSQL](postgresql)-Datenbank und einer Azure OpenAI-Ressource bereitgestellt.
 
