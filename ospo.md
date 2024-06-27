@@ -48,3 +48,5 @@ Klaus 'klml' Mueller is Head of the OSPO of the City of Munich, which was founde
 Before that, he and his team built the Kubernetes Platform, a world in which FOSS is already standard.
 Klaus has been a stable FOSS enthusiast since Linux kernel 2.6.0.
 
+
+Contact: <opensource@muenchen.de>
