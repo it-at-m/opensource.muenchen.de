@@ -38,7 +38,7 @@ The architecture of MUCGPT is divided into two parts, the frontend and the backe
 
 The frontend is based on a [template from Microsoft Azure](https://github.com/Azure-Samples/azure-search-openai-demo) and is implemented using React, [Typescript](typescript) and [Javascript](javascript).
 
-The framework used to implement the backend of MUCGPT is called [Quart](quart). It is a fast Python web microframework for building JSON APIs, rendering and serving HTML, serving web sockets and much more. The backend uses [LangChain](langchain) to connect to LLMs like Chat-GPT-3.5, which is currently in use.  
+The framework used to implement the backend of MUCGPT is called Quart. It is a fast Python web microframework for building JSON APIs, rendering and serving HTML, serving web sockets and much more. The backend uses [LangChain](langchain) to connect to LLMs like Chat-GPT-3.5, which is currently in use.  
 
 The included IaC files for Azure make it easy to deploy the project in just a few steps.
 
