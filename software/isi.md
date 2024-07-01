@@ -19,4 +19,4 @@ ISI supports the mandatory municipal task of planning a need-based and timely su
 
 ![Screenshot of a web application ISI](/inhouse/isi-screenshot.png)
 
-ISI is implemented in the [reference architecture for in-house developments](/en/in-house-development.html) and uses the [Pentaho Carte Server](./pentaho.html) as a data integration platform.
+ISI is implemented in the [reference architecture for in-house developments](/in-house-development.html) and uses the [Pentaho Carte Server](./pentaho.html) as a data integration platform.
