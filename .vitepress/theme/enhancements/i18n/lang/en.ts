@@ -2,6 +2,7 @@ import { localizedMessagesType } from "../utility/types";
 
 export const enMessages: localizedMessagesType = {
     tags: {
+        ai: "AI",
         application: "Application",
         development: "Development",
         eigenentwicklung: "Inhouse",
@@ -10,6 +11,7 @@ export const enMessages: localizedMessagesType = {
         opencore: "Opencore",
         sponsor: "Sponsor",
         support: "Support",
+        start2024: "Start 2024",
         start2023: "Start 2023",
         start2022: "Start 2022",
         start2021: "Start 2021",

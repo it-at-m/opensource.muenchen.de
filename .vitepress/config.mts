@@ -40,6 +40,7 @@ export default defineConfig({
                    {text: 'Softwareübersicht', link: '/de/software/'},
                    {text: 'Lizenzen', link: '/de/licenses' },
                    {text: 'Sponsoring', link: '/de/sponsoring' },
+                   {text: 'Sabbatical', link: '/de/sabbatical' },
                    {text: 'Eigenentwicklung', link: '/de/in-house-development' },
                    {text: 'OSPO', link: '/de/ospo' },
                ]
@@ -87,6 +88,7 @@ export default defineConfig({
           {text: 'Overview', link: '/software/'},
           {text: 'Licenses', link: '/licenses'},
           {text: 'Sponsoring', link: '/sponsoring'},
+          {text: 'Sabbatical', link: '/sabbatical' },
           {text: 'In-house development', link: '/in-house-development' },
           {text: 'OSPO', link: '/ospo'},
         ]
