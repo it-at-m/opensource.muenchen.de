@@ -12,3 +12,6 @@ tags:
 Pentaho is a collection of business intelligence software that is open source in a basic version. 
 
 ---
+
+The __Pentaho Carte Server__ is part of the Pentaho Data Integration platform for capturing, blending, cleansing and preparing various data from any source in any environment without code.
+We use this as a [container image](https://github.com/it-at-m/pentaho-carte) in our in-house development [Information System for Social Infrastructure Planning (ISI)](/isi.html).
