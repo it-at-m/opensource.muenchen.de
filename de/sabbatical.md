@@ -9,7 +9,7 @@ Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompe
 ## Bewerbung
 
 Interessierte Programmierer\*innen können sich für das Sabbatical bewerben.
-Die Teilnehmer*innen können mit den Mitarbeiter\*innen des Open Source Hubs zusammenarbeiten.
+Die Teilnehmer*innen können mit den Mitarbeiter\*innen des Open Source Programme Office zusammenarbeiten.
 Bewerbungen von Frauen werden besonders unterstützt.
 
 ## Projektauswahl

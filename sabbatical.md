@@ -9,7 +9,7 @@ To support external developers, the city offers financial compensation for the l
 ## Application
 
 Interested programmers can apply for the sabbatical.
-Participants can work together with the employees of the Open Source Hub.
+Participants can work together with the employees of the Open Source Programme Office.
 Applications from women are particularly encouraged.
 
 ## Project selection
