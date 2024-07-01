@@ -1,6 +1,7 @@
 ---
 Source: SNow
 title: Pentaho
+developer: Hitachi Vantara
 developerlink: https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
 licensingmodel: open source
 license: LGPL
