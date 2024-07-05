@@ -10,6 +10,7 @@ tags:
 - application
 - kooperation
 - start2021
+- k8s
 sortingPriority: 2
 ---
 
@@ -42,5 +43,4 @@ The citizen view is an in-house development of the LHM with [Vue.js](vuejs).
 * Modular architecture with API interfaces
 * [User interface for citizens on muenchen.de](https://github.com/it-at-m/eappointment-buergeransicht) - in-house development with Vue.js
 * Source code executed as PHP development
-* ZMS is operated on [Openshift](openshift)
 * Maria DB with Galera Cluster

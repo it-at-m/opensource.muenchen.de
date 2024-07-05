@@ -72,6 +72,16 @@
   min-width: 169px;
 }
 
+.cb {
+    clear:both;
+}
+img[src$='#right'],
+img.right {
+    float:right;
+    margin:0 0 5px 5px;
+}
+
+
 @media all and (max-width: 450px){
     .VPNav div.logo a {
       overflow: hidden;

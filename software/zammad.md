@@ -7,10 +7,11 @@ tags:
 - application
 - support
 - start2023
+- k8s
 ---
 
 Zammad is a free helpdesk and issue tracking system that enables the connection of various channels such as e-mail and telephone.
 
 ---
 
-Zammad is used for the [München Portal der Zukunft](https://radar.muenchen.digital/project/Digital-Government/M%C3%BCnchen-Portal-der-Zukunft.html) (MPdZ) for a few structured processes (e.g. form for technical requests).
+Zammad is used in the technical citizen service for a few structured processes (e.g. [form for technical enquiries](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)).

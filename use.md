@@ -20,11 +20,13 @@ Our [strategic guidelines](principles#legal-and-political-requirements) also pro
 The City of Munich operates a large number of applications that are used in various areas.
 These range from administrative applications for internal use to applications for citizens that facilitate access to public services.
 
+<ClientOnly>
 <TagTile
 :available-tags="['application']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 ## Infrastructure
 
@@ -35,8 +37,10 @@ The City of Munich's own data center includes an extensive portfolio of central 
 In addition, all the necessary resources and services required to operate these applications and the underlying infrastructure are provided.
 
 
+<ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']" 
 show-tags
 show-excerpt
 />
+</ClientOnly>

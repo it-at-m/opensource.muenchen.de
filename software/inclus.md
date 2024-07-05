@@ -11,7 +11,7 @@ tags:
 - eigenentwicklung
 - application
 - start2021
-sortingPriority: 2
+sortingPriority: 3
 ---
 Inclus offers an overview of all accessible, (semi) public toilets in Munich by means of a map.
 
@@ -36,5 +36,5 @@ In addition, the guests themselves have the possibility to leave an evaluation o
 
 ## Technical details
 
-The application was developed in collaboration with the [Digital Product School](https://www.digitalproductschool.io) of UnternehmerTUM and is currently being prototyped there. The data basis was created by the Club Behinderter und ihrer Freunde e.V. and made available to the project.
+The application was developed in collaboration with the [Digital Product School](https://www.digitalproductschool.io) of UnternehmerTUM and is currently being prototyped there. The [data basis was created by the Club Behinderter und ihrer Freunde e.V.](https://www.cbf-muenchen.de/barrierefreie-orte/rolli-toiletten) and made available to the project.
 

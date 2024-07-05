@@ -9,6 +9,7 @@ tags:
   - eigenentwicklung
   - infrastruktur
   - start2023
+  - k8s
 ---
 
 **Appswitcher** allows users to easily switch between different web applications.

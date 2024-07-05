@@ -5,6 +5,7 @@ logo: /logo/100px-Tux.svg.png
 tags:
 - infrastruktur
 - support
+- devstack
 ---
 
 As Linux is a free unix-like multi-user operating system, which is based on the Linux kernel and substantially on GNU software.

@@ -7,6 +7,7 @@ license: Apache-2.0
 logo: /logo/color-logo.svg
 tags:
 - infrastruktur
+- sponsor
 ---
 __OpenAPI Generator__ ermöglicht die automatische Generierung von API-Client-Bibliotheken (SDK-Generierung), Server-Stubs, Dokumentation und Konfiguration anhand einer OpenAPI-Spezifikation.
 Die OpenAPI Spezifikation ist ein Standard zur Beschreibung von HTTP-Programmierschnittstellen (APIs), mit dieser können auch REST-konforme Schnittstellen definiert werden.

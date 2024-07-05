@@ -7,6 +7,7 @@ logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
 tags:
 - application
 - eigenentwicklung
+- k8s
 ---
 __Kiwi__ makes all characters from the character set "Latin characters in UNICODE" easy to find and use.
 

@@ -2,11 +2,13 @@
 title: MDAS
 code: https://github.com/it-at-m/mobidam-sst-management
 licensingmodel: open source
+developerlink: https://it-at-m.github.io/mobidam-sst-management/
 logo: https://raw.githubusercontent.com/it-at-m/mobidam-sst-management/sprint/images/logo.png
 tags:
 - application
 - eigenentwicklung
 - start2023
+- k8s
 ---
 In the MDAS project, the EAI components for data import and export and the web application for controlling all incoming and outgoing interfaces for the central mobility data platform (MobidaM) are being developed.
 
