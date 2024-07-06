@@ -9,6 +9,7 @@ license: MIT
 tags:
   - application
   - eigenentwicklung
+  - k8s
 sortingPriority: 3
 ---
 
