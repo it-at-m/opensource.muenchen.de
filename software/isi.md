@@ -18,3 +18,5 @@ The __Information System for Social Infrastructure Planning (ISI)__ is an integr
 ISI supports the mandatory municipal task of planning a need-based and timely supply of day care and primary school places and replaces existing planning instruments.
 
 ![Screenshot of a web application ISI](/inhouse/isi-screenshot.png)
+
+ISI is implemented in the [reference architecture for in-house developments](/in-house-development.html) and uses the [Pentaho Carte Server](./pentaho.html) as a data integration platform.
