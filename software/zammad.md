@@ -14,4 +14,7 @@ Zammad is a free helpdesk and issue tracking system that enables the connection 
 
 ---
 
-Zammad is used in the technical citizen service for a few structured processes (e.g. [form for technical enquiries](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)).
+Zammad is used in the digital citizen service for less structured processes.
+Citizens can submit requests on the municipal form server (e.g. [form for technical enquiries](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)) in a legally secure manner.
+City employees can then process the process in Zammad.
+Citizens can then finally view the response at [stadt.muenchen.de Bürgerservice Mein Anliegen](https://stadt.muenchen.de/buergerservice/anliegen/detailAnliegen.html).
