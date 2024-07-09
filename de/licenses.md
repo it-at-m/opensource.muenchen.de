@@ -54,10 +54,10 @@ Das bedeutet, Software die OpenJDK nutzt muss nicht zwangsläufig unter der GPL 
 
 Um sicherzustellen, dass wir keine Lizenzverstöße begehen, müssen sämtliche Abhängigkeiten unserer Software geprüft und dokumentiert werden.
 
-Auf Github nutzen wir dazu [advanced-security/policy-as-code](https://github.com/marketplace/actions/ghas-policy-as-code), das ist im [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/build.yaml#L13) bereits vorgegeben.
+Auf Github nutzen wir dazu [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review), das ist im [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/dependency_review.yaml) bereits vorgegeben.
 
-Das **zentrale it@M Policy File** ist definiert in [it-at-m/policy-as-code](https://github.com/it-at-m/policy-as-code) - [dort sind v.a. die Lizenzen mit starken Copyleft definiert](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L12), die wir vermeiden wollen.
+Das **zentrale it@M Policy File** ist definiert in [it-at-m/.github](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) - [dort sind v.a. die Lizenzen mit starken Copyleft definiert](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L2), die wir vermeiden wollen.
 
-Da es bei der Lizenzerkennung durchaus zu "false positives" kommen kann, können diese dort auf eine [Ignore-Liste](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L23) gesetzt werden.
+Da es bei der Lizenzerkennung durchaus zu "false positives" kommen kann, können diese dort auf eine [Ignore-Liste](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L6) gesetzt werden.
 
 Die Kompatibilität der genutzten Lizenzen können mit dem [JLA - Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) geprüft werden.
