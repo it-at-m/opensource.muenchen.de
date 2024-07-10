@@ -1,102 +1,99 @@
-
 :root {
-    --vp-c-brand-1: #1462ac;
-    --vp-c-brand-2: var(--vp-c-brand-1);
-    --vp-c-brand-3: var(--vp-c-brand-1);
-    --vp-c-brand-soft: var(--vp-c-brand-1);
+  --vp-c-brand-1: #1462ac;
+  --vp-c-brand-2: var(--vp-c-brand-1);
+  --vp-c-brand-3: var(--vp-c-brand-1);
+  --vp-c-brand-soft: var(--vp-c-brand-1);
 
-    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_2400.jpg");
-    --muc-logo-filter: invert(0);
+  --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_2400.jpg");
+  --muc-logo-filter: invert(0);
 }
 
 .dark {
-    --vp-c-brand-1: #b3d0e7;
-    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_2400.jpg");
-    --muc-logo-filter: invert(1);
+  --vp-c-brand-1: #b3d0e7;
+  --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_2400.jpg");
+  --muc-logo-filter: invert(1);
 }
 
 @media all and (max-width: 1920px) {
-    :root {
-        --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_1920.jpg");
-    }
+  :root {
+    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_1920.jpg");
+  }
 
-    .dark {
-        --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_1920.jpg");
-    }
+  .dark {
+    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_1920.jpg");
+  }
 }
 
 @media all and (max-width: 640px) {
-    :root {
-        --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_640.jpg");
-    }
+  :root {
+    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_640.jpg");
+  }
 
-    .dark {
-        --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_640.jpg");
-    }
+  .dark {
+    --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_640.jpg");
+  }
 }
 
 .dark .is-home .container .main {
-    background-color: #202127;
-    padding: 24px;
-    border-radius: 12px;
+  background-color: #202127;
+  padding: 24px;
+  border-radius: 12px;
 }
 .is-home .container .main,
 .is-home .container .item {
-    opacity: 85%;
+  opacity: 85%;
 }
 .is-home .container .item .details {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 .dark .container .main .text {
-    color: white;
+  color: white;
 }
 
 .dark .container .main .tagline {
-     color: #969399;
+  color: #969399;
 }
 
 .is-home {
-    background-image: var(--muc-background);
-    background-attachment: fixed;
-    background-size: cover;
+  background-image: var(--muc-background);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .VPNav,
 .VPNavBar {
-    --vp-nav-bg-color: var(--vp-c-bg-soft);
-    background: var(--vp-nav-bg-color);
-    border-bottom: none;
+  --vp-nav-bg-color: var(--vp-c-bg-soft);
+  background: var(--vp-nav-bg-color);
+  border-bottom: none;
 }
 .VPNav div.logo a img {
   min-width: 169px;
 }
 
 .cb {
-    clear:both;
+  clear: both;
 }
-img[src$='#right'],
+img[src$="#right"],
 img.right {
-    float:right;
-    margin:0 0 5px 5px;
+  float: right;
+  margin: 0 0 5px 5px;
 }
 
-
-@media all and (max-width: 450px){
-    .VPNav div.logo a {
-      overflow: hidden;
-      width: 25px;
-    }
+@media all and (max-width: 450px) {
+  .VPNav div.logo a {
+    overflow: hidden;
+    width: 25px;
+  }
 }
 
-@media all and (max-width: 768px){
+@media all and (max-width: 768px) {
+  .VPDoc {
+    padding: 0 !important;
+  }
 
-    .VPDoc {
-        padding: 0 !important;
-    }
-
-    .VPDoc > .container {
-        border-radius: unset;
-        padding: 32px;
-    }
+  .VPDoc > .container {
+    border-radius: unset;
+    padding: 32px;
+  }
 }
