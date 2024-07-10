@@ -9,6 +9,7 @@ logo: /logo/ckan_logo.svg
 tags:
 - application
 - kooperation
+- support
 ---
 
 __CKAN__ (Comprehensive Knowledge Archive Network) is a web-based data catalog software used especially by public institutions for sharing "open data", which is further developed by the [OKFN](https://okfn.org).
