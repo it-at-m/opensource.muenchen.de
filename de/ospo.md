@@ -32,7 +32,7 @@ Das OSPO bietet nur beratende Mithilfe, keine Ausschreibungsdurchführung oder M
 
 ## Team
 
-Neben zahlreichen Entwickler\*innen der städtischen Open Source Community, die Ideen, Leidenschaft und vor Public Code einbringen, kümmern sich um Open Source:
+Neben zahlreichen Entwickler\*innen der städtischen Open Source Community, die Ideen, Leidenschaft und vor allem Public Code einbringen, kümmern sich um Open Source:
 
 ![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
 
