@@ -21,7 +21,7 @@ Criteria for potential sponsorship:
 - Many free software projects are often based on commercial business models, such as [open core, support](./improve#support) or SaaS.
   Therefore, the software project must want to accept donations in the first place.
 
-## honorary patron
+## Honorary Patron
 
 Since the OSPO does not know all software and especially the importance for the LHM (use, relevance for security or stability), each sponsorship should have an internal honorary patron.
 This honorary patron should use the tool heavily or be its service owner, admin ect.
@@ -37,8 +37,10 @@ Where possible, we use [opencollective.com/itm](https://opencollective.com/itm) 
 
 ## Overview
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>

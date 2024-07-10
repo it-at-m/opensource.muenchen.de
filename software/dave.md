@@ -7,21 +7,21 @@ licensingmodel: open source
 license: MIT
 logo: /inhouse/dave_logo.png
 tags:
-  - application
-  - eigenentwicklung
-  - start2021
-  - k8s
-sortingPriority: 3
+- application
+- eigenentwicklung
+- start2021
+- k8s
+sortingPriority: 2
 ---
-
-With **DAVe**, traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
+With __DAVe__, traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 
 ---
 
 ## About the project
 
-DAVe (short for: Database and Evaluation of Traffic Counts) is a specialized procedure for evaluating traffic counts. It enables the employees of the Mobility Department to document and analyze traffic development in Munich. It is based on data from over 2000 counting points.
 
+DAVe (short for: Database and Evaluation of Traffic Counts) is an application for evaluating traffic counts. It enables the employees of the Mobility Department to document and analyze traffic development in Munich. It is based on data from over 2000 counting points.
+ 
 All traffic counts carried out in Munich since 1989 can be viewed with the DAVe application. Various diagrams are available for analysis, which can also be downloaded as a PDF report if required. Additional counting points and new traffic counts can be created and commissioned in direct communication with the counting service provider.
 The data collected helps to analyze traffic development and is used, for example, to plan new cycle paths. They also form the basis for the traffic volume map, where interested citizens can view the traffic volumes on Munich's roads online.
 
@@ -29,8 +29,11 @@ The data collected helps to analyze traffic development and is used, for example
 ![Screenshot of a website with hydrographs](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot of a website with list output](/inhouse/DAVE_Listenausgabe.png)
 
+
 ## Technical details
 
 DAVe was developed with the [reference architecture](../publish#refarch) of the City of Munich. Java Spring Boot is used in the backend and TypeScript and [Vue.js](vuejs) in the frontend. A node-flow load plan that clearly displays the traffic flows was designed with the help of SVG.js.
 
 The data is stored in two different databases: the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. The traffic data from the counts that is not required for the search is stored in a relational database.
+
+DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).

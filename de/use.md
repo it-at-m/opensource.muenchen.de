@@ -1,3 +1,4 @@
+
 <script setup>
 import TagTile from "../.vitepress/components/TagTile.vue";
 </script>
@@ -14,16 +15,19 @@ Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) s
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
 > Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
 
+
 ## Anwendungen
 
 Die Landeshauptstadt München betreibt eine Vielzahl von Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
 Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
 
+<ClientOnly>
 <TagTile
 :available-tags="['application']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 ## Infrastruktur
 
@@ -33,8 +37,10 @@ Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größ
 Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an zentralen Fachanwendungen und Diensten.
 Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, die für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig sind.
 
+<ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']"
 show-tags
 show-excerpt
 />
+</ClientOnly>

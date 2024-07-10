@@ -4,11 +4,12 @@ developerlink: https://vuejs.org
 licensingmodel: open source
 logo: /logo/277px-Vue.js_Logo_2.svg.png
 tags:
-  - development
-  - sponsor
+- development
+- sponsor
+- devstack
+sortingPriority: 101
 ---
-
-**Vue.js** is a client-side JavaScript web framework for building single-page web applications following the MVVM pattern, but it can also be used in multipage web pages for single sections.
+__Vue.js__ is a client-side JavaScript web framework for building single-page web applications following the MVVM pattern, but it can also be used in multipage web pages for single sections.
 
 ---
 

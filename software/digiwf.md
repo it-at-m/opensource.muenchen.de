@@ -10,27 +10,29 @@ license: MIT
 linkapplication: null
 logo: https://digiwf.oss.muenchen.de/digiwf_logo.png
 tags:
-  - eigenentwicklung
-  - application
-  - start2021
-  - k8s
-sortingPriority: 2
+- eigenentwicklung
+- application
+- start2021
+- k8s
+sortingPriority: 3
+---
+__DigiWF__ is a platform for process automation. Users can automate workflows themselves and access other systems.
+
 ---
 
-**DigiWF** is a platform for process automation. Users can automate workflows themselves and access other systems.
-
----
 
 ## About the project
 
 Since 2019, the topic of process automation has been pushed forward in the Munich City Administration.
 For this purpose, the Camunda BPMN Process Engine is used, which the project DigiWF uses.
-This provides users\* with a platform that enables them to create automated workflows themselves via a modular building block concept.
+This provides users* with a platform that enables them to create automated workflows themselves via a modular building block concept.
 
 The platform ensures that tasks in a business process are processed in the right order and that the necessary information is available digitally in the right place.
 In addition, DigiWF also provides metrics on workflow executions, supporting continuous process improvement.
 
-![Screenshot of a digital travel request with the input fields: type of trip, traveler and venue](https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png)
+![Screenshot of a digital travel request with the input fields\: type of trip, traveler and venue](https://raw.githubusercontent.com/it-at-m/digiwf-core/dev/docs/src/images/platform/screenshot_digiwf_reiseantrag.png)
+
+
 
 ## Technical details
 
@@ -44,3 +46,4 @@ The front end is based on the form framework of the reference architecture of th
 The workflows run in the backend, where [Kafka](kafka), the camunda workflow and the camunda rule engine are used as the basis.
 
 See our presentation at [CamundaCon 2023 - Automating Citizen Services in the City of Munich](https://page.camunda.com/camundacon-2023-city-of-munich).
+

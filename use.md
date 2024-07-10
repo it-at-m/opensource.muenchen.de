@@ -14,16 +14,19 @@ Our [strategic guidelines](principles#legal-and-political-requirements) also pro
 > If economically and technologically or strategically sensible, LHM prioritizes the use of open source solutions, in particular to avoid company dependencies.
 > LHM pursues this approach in both the application and infrastructure areas.
 
+
 ## Applications
 
 The City of Munich operates a large number of applications that are used in various areas.
 These range from administrative applications for internal use to applications for citizens that facilitate access to public services.
 
+<ClientOnly>
 <TagTile
 :available-tags="['application']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 ## Infrastructure
 
@@ -33,8 +36,11 @@ Linux, servers, databases, encryption and programming languages are mostly open 
 The City of Munich's own data center includes an extensive portfolio of central specialist applications and services.
 In addition, all the necessary resources and services required to operate these applications and the underlying infrastructure are provided.
 
+
+<ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']" 
 show-tags
 show-excerpt
 />
+</ClientOnly>

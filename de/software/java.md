@@ -4,10 +4,11 @@ developerlink: https://www.oracle.com/java/
 licensingmodel: open source
 logo: /logo/253px-Java-Logo.svg.png
 tags:
-  - development
+- development
+- devstack
+sortingPriority: 101
 ---
-
-**Java** ist eine objektorientierte Programmiersprache und ist im Unternehmensumfeld Grundlage für zahlreiche Anwendungen.
+__Java__ ist eine objektorientierte Programmiersprache und ist im Unternehmensumfeld Grundlage für zahlreiche Anwendungen.
 So auch aller unsere [Eigenentwicklungen](../publish#refarch).
 
 ---

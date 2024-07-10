@@ -1,16 +1,16 @@
 ---
 title: Apache Kafka
-developer: Apache Software Foundation
-developerlink: https://kafka.apache.org/
+developer: Apache Software Foundation 
+developerlink: https://kafka.apache.org/ 
 licensingmodel: open source
 license: GPL
 logo: /logo/80px-Apache_kafka.svg.png
 tags:
-  - infrastruktur
-  - support
-  - k8s
+- infrastruktur
+- support
+- k8s
+- devstack
 ---
-
 Apache Kafka ist eine freie Software der Apache Software Foundation, die insbesondere zur Verarbeitung von Datenströmen dient.
 
 ---

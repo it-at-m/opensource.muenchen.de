@@ -8,12 +8,11 @@ licensingmodel: open source
 license: MIT
 logo: https://inclus.de/logo192.png
 tags:
-  - eigenentwicklung
-  - application
-  - start2021
-sortingPriority: 2
+- eigenentwicklung
+- application
+- start2021
+sortingPriority: 3
 ---
-
 Inclus offers an overview of all accessible, (semi) public toilets in Munich by means of a map.
 
 ---
@@ -24,16 +23,18 @@ The web map application [inclus](https://inclus.de) provides people with disabil
 
 If one selects a toilet by clicking on the map, detailed information is displayed such as:
 
-- floor plan
-- installed handles
-- door width
-- slope of the ramp
-- use with or without Euro key
+* floor plan
+* installed handles
+* door width
+* slope of the ramp
+* use with or without Euro key
 
 In addition, the guests themselves have the possibility to leave an evaluation of the condition of the toilet.
 
 ![Screenshot shows a section of the Munich city map with detailed information about a WC Schrannenhalle](/inhouse/Inclus_Screenshot.jpg)
 
+
 ## Technical details
 
-The application was developed in collaboration with the [Digital Product School](https://www.digitalproductschool.io) of UnternehmerTUM and is currently being prototyped there. The data basis was created by the Club Behinderter und ihrer Freunde e.V. and made available to the project.
+The application was developed in collaboration with the [Digital Product School](https://www.digitalproductschool.io) of UnternehmerTUM and is currently being prototyped there. The [data basis was created by the Club Behinderter und ihrer Freunde e.V.](https://www.cbf-muenchen.de/barrierefreie-orte/rolli-toiletten) and made available to the project.
+

@@ -11,7 +11,7 @@ As a rule, modifying existing software does not pose a problem with regard to th
 
 ## Own developments
 
-The [publication of the software developed by LHM](./publish) is carried out under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) in order to hinder reuse as little as possible.
+The [publication](./publish) of the [software developed by LHM](./in-house-development) is carried out under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) in order to hinder reuse as little as possible.
 The MIT licence is also proposed in the City Council resolution ['Develop new software in an open source context!'](https://risi.muenchen.de/risi/antrag/detail/6289779).
 
 ### Integration in in-house developments
@@ -51,10 +51,10 @@ This means that software that uses OpenJDK does not necessarily have to be licen
 
 To ensure that we do not commit any licence violations, all dependencies of our software must be checked and documented.
 
-We use [advanced-security/policy-as-code](https://github.com/marketplace/actions/ghas-policy-as-code) on Github for this purpose, which is already predefined in [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/build.yaml#L13).
+We use [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review) for this purpose, which is already predefined in [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/dependency_review.yaml).
 
-The **central it@M policy file** is defined in [it-at-m/policy-as-code](https://github.com/it-at-m/policy-as-code) - [the licences with a strong copyleft are defined there](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L12), which we want to avoid.
+The **central it@M policy file** is defined in [it-at-m/.github](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) - [the licences with a strong copyleft are defined there](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L2), which we want to avoid.
 
-As "false positives" can occur during licence detection, these can be placed on an [ignore list](https://github.com/it-at-m/policy-as-code/blob/main/default.yaml#L23).
+As "false positives" can occur during licence detection, these can be placed on an [ignore list](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L6).
 
 The compatibility of the licences used can be checked with the [JLA - Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker).

@@ -13,6 +13,6 @@ tags:
 ---
 
 Die Landeshauptstadt München nutzt OpenStreetMap als Kartenquelle für Gebiete außerhalb der Stadtgrenzen in ihrem [Geoportal](geoportal.html).
-Aber auch andere freie Anwendungen wie der [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) nutzen OpenStreetMap.
+Aber auch andere Anwendungen wie der [Kitafinder](https://kitafinder.muenchen.de/elternportal/de/einrichtungen/karte/ergebnisse) oder [muenchen-mitdenken.de](https://muenchen-mitdenken.de/) nutzen OpenStreetMap.
 
 Die LHM stellt amtlichen Luftbilder mit einer hochwertigen Auflösung von 20 cm für die Erstellung von Karten [zur verfügung](https://github.com/osmlab/editor-layer-index/blob/gh-pages/sources/europe/de/AktuelleLuftbilderDerLandeshauptstadtMuenchen20cm.geojson?short_path=cdc4d8a).

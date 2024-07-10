@@ -5,9 +5,10 @@ developerlink: https://www.typescriptlang.org/
 licensingmodel: open source
 logo: /logo/320px-TypeScript_Logo.svg.png
 tags:
-  - development
+- development
+- devstack
+sortingPriority: 101
 ---
-
-**TypeScript** ist eine Skriptsprache mit Sprachkonstrukten wie Klassen, Vererbung, Module und anonyme Funktionen.
+__TypeScript__ ist eine Skriptsprache mit Sprachkonstrukten wie Klassen, Vererbung, Module und anonyme Funktionen.
 
 ---

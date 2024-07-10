@@ -20,3 +20,5 @@ Das **Informationssystem für soziale Infrastrukturplanung (ISI)** ist eine inte
 ISI unterstützt die kommunale Pflichtaufgabe zur Planung einer bedarfs- und zeitgerechten Versorgung mit Kindertagesbetreuungs- und Grundschulplätzen und löst bestehende Planungsinstrumente ab.
 
 ![Screenshot der Webanwendung ISI](/inhouse/isi-screenshot.png)
+
+ISI ist in der [Referenzarchitektur für Eigenentwicklungen](/de/in-house-development.html) umgesetzt und nutzt den [Pentaho Carte Server](./pentaho.html) als Datenintegrationsplattform.

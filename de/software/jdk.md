@@ -4,11 +4,12 @@ title: JDK
 developer: null
 developerlink: java.com
 licensingmodel: open source
-logo: /logo/253px-Java-Logo.svg.png
+logo: /logo/320px-OpenJDK_logo.svg.png
 tags:
-  - development
+- development
+- devstack
+sortingPriority: 101
 ---
-
-OpenJDK JAVADevelopmentKit (Entwicklungswerkzeuge, Java-Compiler) als Teil der achten Edition der Java SE Plattform.
+OpenJDK JAVADevelopmentKit (Entwicklungswerkzeuge, Java-Compiler) als Teil der achten Edition der Java SE Plattform. 
 
 ---

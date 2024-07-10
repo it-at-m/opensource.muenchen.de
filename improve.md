@@ -1,3 +1,4 @@
+
 <script setup>
 import TagTile from ".vitepress/components/TagTile.vue";
 </script>
@@ -11,7 +12,7 @@ In this way, free software can be continuously developed and adapted to the need
 
 ## Code Contributions
 
-Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through **Contributions**.
+Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
 Contributions can take different forms and do not always have to include new features or bug fixes.
 Also the correction or update of documentation can be a valuable contribution.
 
@@ -23,20 +24,24 @@ Even though open source software is free, development and maintenance must be pa
 Different [business models for open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) enable secure and stable software and sponsor further development.  
 These business models can vary widely depending on the developer and use case, and range from providing support and training to developing customized solutions for customers.
 
+
 ### Sponsoring
 
 We financially support free software that we use frequently.
 In this way, we can help to ensure that the development and maintenance of free software remains guaranteed and that the software continues to meet our needs.
 
+<ClientOnly>
 <TagTile
 :available-tags="['sponsor']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
 
 We use [opencollective.com/itm](https://opencollective.com/itm) for the transparent implementation of our sponsorship payments.
 
 Further projects will follow in accordance with the [City Council resolution Strategy for financing open source libraries and software used by the city](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) of November 15, 2023.
+
 
 ### Support
 
@@ -46,11 +51,14 @@ Manufacturers offer highly qualified support and can have a direct influence on 
 The city generally concludes contracts with service providers that ensure an orderly lifecycle and timely security updates.
 This minimizes the risk of support gaps if, for example, a community project is temporarily orphaned.
 
+<ClientOnly>
 <TagTile
 :available-tags="['support']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
+
 
 ### Open Core
 
@@ -60,8 +68,10 @@ A "core functionality" or feature-limited version of the software product is off
 The City of Munich uses this model to test software more quickly and promote the FOSS ecosystem.
 By being independent of a single manufacturer, we avoid financial dependencies and can operate the software independently.
 
+<ClientOnly>
 <TagTile
 :available-tags="['opencore']"
 show-tags
 show-excerpt
 />
+</ClientOnly>
