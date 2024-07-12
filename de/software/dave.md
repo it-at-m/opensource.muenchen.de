@@ -25,6 +25,7 @@ Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fa
 Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
 
+![Screenshot einer Website mit einer Karte von München die aktuelle Zählstellen auflistet](/inhouse/DAVE_Karte.png)
 ![Screenshot einer Website mit dem Plan einer Straßenkreuzung, mit stilisierten Fahrspuren in unterschiedlichen Farben](/inhouse/DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png)
 ![Screenshot einer Website mit Ganglinien](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot einer Website mit Listenausgabe](/inhouse/DAVE_Listenausgabe.png)
