@@ -22,7 +22,7 @@ Mit __DAVe__ können Verkehrszählungen beauftragt, erfasst und mit Hilfe versch
 DAVe (kurz: Datenbank und Auswertung von Verkehrszählungen) ist ein Fachverfahren zur Auswertung von Verkehrszählungen. Es ermöglicht den Beschäftigten des Mobilitätsreferats die Verkehrsentwicklung in München zu dokumentieren und zu analysieren. Zugrunde liegen Daten aus über 2000 Zählstellen.
  
 Alle seit 1989 in München durchgeführten Verkehrszählungen können mit der Fachanwendung DAVe eingesehen werden. Zur Auswertung werden verschieden Diagramme angeboten, die bei Bedarf auch als PDF-Report heruntergeladen werden können. Weitere Zählstellen sowie neue Verkehrszählungen können angelegt und in direkter Kommunikation mit dem Zähldienstleister beauftragt werden.
-Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die Verkehrsmengenkarte, auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
+Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zum Beispiel für die Planung neuer Radwege verwendet. Außerdem bilden sie die Grundlage für die [Verkehrsmengenkarte](https://stadt.muenchen.de/infos/verkehrsdaten.html), auf der interessierte Bürger*innen die Verkehrsbelastungen auf den Münchner Straßen online einsehen können.
 
 
 ![Screenshot einer Website mit einer Karte von München die aktuelle Zählstellen auflistet](/inhouse/DAVE_Karte.png)
