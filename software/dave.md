@@ -38,3 +38,12 @@ DAVe was developed with the [reference architecture](../publish#refarch) of the 
 The data is stored in two different databases: the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. The traffic data from the counts that is not required for the search is stored in a relational database.
 
 DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
+
+
+## Roadmap
+
+Currently, only individual counts can be uploaded.
+In the second expansion stage of DAVe, the evaluation options for permanent counting points will be integrated.
+This means that all current evaluation options that are available for counting points will also be possible (where appropriate) for measuring points (i.e. permanent counting points for motorised and bicycle traffic).
+Some additional evaluation options that are only useful for permanent counting points will also be available.  
+There are also plans to integrate pedestrian traffic data in a follow-up project (time horizon: 2025).
