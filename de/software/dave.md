@@ -41,7 +41,7 @@ DAVe kann per [helm chart installiert und betreiben werden](https://artifacthub.
 ## Roadmap
 
 Aktuell können nur Einzelzählungen hochgeladen werden.
-In der zweiten Ausbaustufe von DAVe die Auswertungsmöglichkeiten von Dauerzählstellen integriert.
-Das heißt, alle aktuellen Auswertungsmöglichkeiten, die für die Zählstellen zur Verfügung stehen, werden (soweit sinnvoll) auch für Messstellen (d.h. Dauerzählstellen für Kfz- und Radverkehr) möglich sein.
-Es werden auch einige zusätzliche Auswertungsoptionen, die nur für Dauerzählstellen sinnvoll sind, zur Verfügung stehen.  
+In der zweiten Ausbaustufe von DAVe werden die Auswertungsmöglichkeiten von Messstellen (d.h. Dauerzählstellen für Kfz- und Radverkehr) integriert.
+Damit werden alle aktuellen Auswertungsmöglichkeiten, die für die Zählstellen zur Verfügung stehen, soweit sinnvoll auch für Messstellen möglich sein.
+Es werden auch einige zusätzliche Auswertungsoptionen, die nur für Dauerzählstellen sinnvoll sind hinzugefügt.
 Zudem ist geplant, in einem Folgeprojekt (Zeithorizont: 2025) Fußverkehrsdaten zu integrieren.
