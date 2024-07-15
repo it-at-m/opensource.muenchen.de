@@ -42,7 +42,7 @@ DAVe can be installed and operated via [helm chart](https://artifacthub.io/packa
 
 ## Roadmap
 
-Currently, only individual counts can be uploaded.
+Currently, only individual counting stations can be uploaded.
 In the second expansion stage of DAVe, the evaluation options for permanent counting points will be integrated.
 This means that all current evaluation options that are available for counting points will also be possible (where appropriate) for measuring points (i.e. permanent counting points for motorised and bicycle traffic).
 Some additional evaluation options that are only useful for permanent counting points will also be available.  
