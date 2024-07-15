@@ -19,7 +19,7 @@ Auch die Korrektur oder Fortschreibung von Dokumentationen kann einen wertvollen
 
 Alle Contributions sind mit unserem [github account als fork repositories](https://github.com/orgs/it-at-m/repositories?type=fork) erstellt und contributed.
 
-Mit dem [Open Source Sabatical](./sabbatical.html) können sich Mitarbeiter*innen aber auch externe Entwickler*innen für eine begrenzte Zeit an Open Source-Projekten beteiligen.
+Mit dem [Open Source Sabatical](./sabbatical.html) können sich sowohl interne Mitarbeiter*innen als auch externe Entwickler*innen für eine begrenzte Zeit an Open Source-Projekten beteiligen.
 
 ## Finanzierung
 
