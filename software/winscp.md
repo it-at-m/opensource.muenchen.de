@@ -5,8 +5,9 @@ developerlink: https://winscp.net
 licensingmodel: open source
 logo: /logo/WinSCP_6_Logo.png
 tags:
-- application
+  - application
 ---
+
 WinSCP is a program for transferring data securely.
 
 ---

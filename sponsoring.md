@@ -4,9 +4,8 @@ import TagTile from "./.vitepress/components/TagTile.vue";
 
 # Sponsoring
 
-We provide financial support for __free software__ that we use frequently.
+We provide financial support for **free software** that we use frequently.
 In this way, we can help to ensure that the development and maintenance of free software remains guaranteed and that the software continues to meet our needs and is [improved](./improve).
-
 
 ## Criteria
 
@@ -14,14 +13,13 @@ Following the [City Council resolution 'Strategy for the financing of open sourc
 
 Criteria for potential sponsorship:
 
-* the software is under a [free licence](./licenses).
-* the software is [used](./use) in the City of Munich.
-  * Frequency of use
-  * Impact
-  * Security
-* Many free software projects are often based on commercial business models, such as [open core, support](./improve#support) or SaaS.
-Therefore, the software project must want to accept donations in the first place.
-
+- the software is under a [free licence](./licenses).
+- the software is [used](./use) in the City of Munich.
+  - Frequency of use
+  - Impact
+  - Security
+- Many free software projects are often based on commercial business models, such as [open core, support](./improve#support) or SaaS.
+  Therefore, the software project must want to accept donations in the first place.
 
 ## Honorary Patron
 
@@ -32,8 +30,8 @@ The sponsoring honorary patron does not have to represent the sponsoring externa
 
 ## Implementation
 
-* [Typical sponsorship opportunities for individual maintainers amount to approx. € 500 per month, i.e. € 6,000 p.a.](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) but may vary for justified reasons.
-* As a rule, sponsorships should be for __5 years__.
+- [Typical sponsorship opportunities for individual maintainers amount to approx. € 500 per month, i.e. € 6,000 p.a.](https://risi.muenchen.de/risi/sitzungsvorlage/detail/8013996) but may vary for justified reasons.
+- As a rule, sponsorships should be for **5 years**.
 
 Where possible, we use [opencollective.com/itm](https://opencollective.com/itm) to make our sponsorship payments transparent.
 

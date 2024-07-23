@@ -21,4 +21,3 @@ features:
     details: "If we cannot use or improve existing free software, we develop free software ourselves. If we decide to develop software ourselves, it happens openly and freely."
     link: /publish
 ---
-

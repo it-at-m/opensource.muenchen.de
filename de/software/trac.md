@@ -6,8 +6,9 @@ developerlink: http://trac.edgewall.org/
 licensingmodel: open source
 logo: /logo/320px-Trac_logo.svg.png
 tags:
-- development
+  - development
 ---
+
 Ein freies, webbasiertes Projektmanagement-Werkzeug zur Softwareentwicklung / -versionsverwaltung.
 
 ---

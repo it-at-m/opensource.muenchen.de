@@ -22,4 +22,3 @@ Appswitcher was heavily inspired by Google's [App Bar](https://support.google.co
 ![Screenshot of a web page with the truncated headline "kita einrich", on top right a menu of 9 buttons](https://raw.githubusercontent.com/it-at-m/appswitcher-server/main/docs/embedded_in_applications.png)
 
 Appswitcher is container based and can be deployed via [helm-chart](https://github.com/it-at-m/helm-charts/tree/main/charts/appswitcher-server).
-

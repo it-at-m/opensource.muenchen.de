@@ -5,8 +5,9 @@ developerlink: https://www.phplist.com
 licensingmodel: open source
 logo: /logo/phplist-logo.svg
 tags:
-- application
+  - application
 ---
+
 The newsletter platform of the City of Munich uses the open source software phplist.
 
 ---

@@ -6,10 +6,10 @@ code: https://github.com/it-at-m/BayernID-Plugin
 logo: https://id.bayernportal.de/cms/assets/images/64/BayernID_Icon-rund.625c9ab7.svg
 licensingmodel: open source
 tags:
-- infrastruktur
-- eigenentwicklung
-- application
-- start2021
+  - infrastruktur
+  - eigenentwicklung
+  - application
+  - start2021
 ---
 
 As part of the project, a plugin for the integration of the [BayernID](https://id.bayernportal.de/de/) to the specialized applications of the City of Munich was implemented using Keycloak.
@@ -26,11 +26,8 @@ With the BayernID, it is possible to identify oneself uniquely online using vari
 
 This makes it possible to easily integrate the registration via citizen account into the specialized applications of the City of Munich.
 
-
-
 ## Technical details
 
 Integration with specialized procedures is performed by default using the SAML2 protocol. Since direct integration of each specialized procedure server is complex due to the need to exchange certificates and metadata, the City of Munich uses an intermediate identity provider (IDP) based on the Keycloak software (or its largely identical commercial counterpart RedHat Single Sign On (RH-SSO)). This has the advantage that the connected specialized procedures can only establish a position of trust with this IDP. Both OpenID-Connect (OIDC) and SAML2 are available as protocols for this purpose.
 
 The plugin is also published on [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/bayernid-plugin), a joint platform of the public administration for the exchange of open source software.
-

@@ -1,6 +1,5 @@
 # Updates
 
-
 ## 2023
 
 <ClientOnly>

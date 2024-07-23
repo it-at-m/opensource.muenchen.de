@@ -1,16 +1,15 @@
 ---
-title: BlueSpice 
+title: BlueSpice
 developer: Hallo Welt! GmbH
 developerlink: https://bluespice.com
 licensingmodel: open source
 logo: /logo/bluespice_logo.png
 tags:
-- application
-- opencore
+  - application
+  - opencore
 ---
 
-__BlueSpice MediaWiki__ ist eine freie Software, auf Basis von MediaWiki, und speziell für Unternehmen als Enterprise-Wiki-Distribution entwickelt. 
-
+**BlueSpice MediaWiki** ist eine freie Software, auf Basis von MediaWiki, und speziell für Unternehmen als Enterprise-Wiki-Distribution entwickelt.
 
 ---
 

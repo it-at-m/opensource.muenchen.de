@@ -5,8 +5,9 @@ licensingmodel: open source
 license: Apache
 logo: /logo/320px-Apache_HTTP_server_logo.svg.png
 tags:
-- infrastruktur
+  - infrastruktur
 ---
-The __Apache HTTP Server__ is one of the most widely used web servers on the Internet.
+
+The **Apache HTTP Server** is one of the most widely used web servers on the Internet.
 
 ---
