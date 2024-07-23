@@ -80,7 +80,7 @@ img.right {
   margin: 0 0 5px 5px;
 }
 img + img {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 @media all and (max-width: 450px) {
