@@ -18,6 +18,9 @@ Also the correction or update of documentation can be a valuable contribution.
 
 All contributions are created and contributed using our [github account as fork repositories](https://github.com/orgs/it-at-m/repositories?type=fork).
 
+With the [Open Source Sabatical](./sabbatical), employees as well as external developers can participate in open source projects for a limited period of time.
+
+
 ## Funding
 
 Even though open source software is free, development and maintenance must be paid for.
