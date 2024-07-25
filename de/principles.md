@@ -28,9 +28,14 @@ Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integr
 > Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
 > Die IT der LHM stellt Eigenentwicklungen, die frei von Rechten Dritter sind, als Open Source der Community zur Verfügung.
 
-Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) verpflichtet uns zu offener Software:
+Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) 
 
 > Die Behörden des Freistaates Bayern sollen bei Neuanschaffungen offene Software verwenden und offene Austauschstandards nutzen, soweit dies wirtschaftlich und zweckmäßig ist
+
+... sowie [OZG §4](https://www.gesetze-im-internet.de/ozg/__4.html) verpflichtet uns zu offener Software:
+
+> (3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1 sollen offene Standards und offene Schnittstellen verwendet werden und soll Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt. 
+
 
 ## Standard
 

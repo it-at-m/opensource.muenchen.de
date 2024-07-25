@@ -35,11 +35,18 @@ An important step towards integrating the topic of open source into the orientat
 > LHM pursues this approach in both the application and infrastructure areas.
 > LHM's IT makes proprietary developments that are free of third-party rights available to the community as open source.
 
-The [Bavarian Digital Act - BayDiG Art. 3 Para.4 Sentence 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) also obliges us to use open software:
+The [Bavarian Digital Act - BayDiG Art. 3 Para. 4 Sentence 1](https://www.gesetze-bayern.de/Content/Document/BayDiG-3) 
 
 > Die Behörden des Freistaates Bayern sollen bei Neuanschaffungen offene Software verwenden und offene Austauschstandards nutzen, soweit dies wirtschaftlich und zweckmäßig ist
 
-> The authorities of the Free State of Bavaria shall use open software in new acquisitions and shall use open exchange standards insofar as this is economical and expedient
+> The authorities of the Free State of Bavaria shall use open software and open exchange standards for new acquisitions, insofar as this is economical and expedient
+
+... and [OZG §4](https://www.gesetze-im-internet.de/ozg/__4.html) obliges us to use open software:
+
+> (3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1 sollen offene Standards und offene Schnittstellen verwendet werden und soll Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt. 
+
+> (3) When providing the IT components within the meaning of paragraph 1, open standards and open interfaces shall be used and open source software shall be given priority over software whose source code is not publicly accessible or whose license restricts its use, distribution and modification. 
+
 
 ## Standard
 
