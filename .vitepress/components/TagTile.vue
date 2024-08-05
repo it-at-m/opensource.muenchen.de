@@ -102,11 +102,15 @@ const pagesWithTags = computed(() => {
         if (props.filter.length > 0) {
           if (
             props.filter.every((tag) => softwareEntryTags.includes(tag)) &&
-              !props.exclude.every((exclude) => softwareEntryTags.includes(exclude))
+            !props.exclude.every((exclude) =>
+              softwareEntryTags.includes(exclude)
+            )
           ) {
             filteredSoftware.push(softwareEntry);
           }
-        } else if(!props.exclude.every((exclude) => softwareEntryTags.includes(exclude))) {
+        } else if (
+          !props.exclude.every((exclude) => softwareEntryTags.includes(exclude))
+        ) {
           // When no tags are given, show everything that's not excluded
           filteredSoftware.push(softwareEntry);
         }
