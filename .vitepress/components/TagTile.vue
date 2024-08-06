@@ -51,19 +51,7 @@ import SoftwareImageAvatar from "./SoftwareImageAvatar.vue";
 import TagChipGroup from "./TagChipGroup.vue";
 
 const props = defineProps({
-  /**
-   * List of Software-Tags to be shown.
-   * If list is empty, all Tags are shown, except the excluded ones.
-   */
   filter: {
-    type: Array,
-    default: [],
-  },
-  /**
-   * List of Software-Tags to be removed.
-   * Removes all Software with the given tags.
-   */
-  exclude: {
     type: Array,
     default: [],
   },
@@ -89,9 +77,7 @@ const pagesWithTags = computed(() => {
   const i18nData = lang.value === "de" ? deData : enData;
 
   for (let softwareEntry of i18nData) {
-    let softwareEntryTags = softwareEntry.frontmatter.tags;
-
-    if (softwareEntry.frontmatter && softwareEntryTags) {
+    if (softwareEntry.frontmatter && softwareEntry.frontmatter.tags) {
       if (
         !props.availableTags ||
         props.availableTags.length === 0 ||
@@ -101,17 +87,14 @@ const pagesWithTags = computed(() => {
       ) {
         if (props.filter.length > 0) {
           if (
-            props.filter.every((tag) => softwareEntryTags.includes(tag)) &&
-            !props.exclude.every((exclude) =>
-              softwareEntryTags.includes(exclude)
+            props.filter.every((tag) =>
+              softwareEntry.frontmatter.tags.includes(tag)
             )
           ) {
             filteredSoftware.push(softwareEntry);
           }
-        } else if (
-          !props.exclude.every((exclude) => softwareEntryTags.includes(exclude))
-        ) {
-          // When no tags are given, show everything that's not excluded
+        } else {
+          // When no tags are given, show everything
           filteredSoftware.push(softwareEntry);
         }
       }
