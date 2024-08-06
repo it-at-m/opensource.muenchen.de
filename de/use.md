@@ -24,6 +24,7 @@ Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch 
 <ClientOnly>
 <TagTile
 :available-tags="['application']"
+:exclude="['eigenentwicklung']"
 show-tags
 show-excerpt
 />
