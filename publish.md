@@ -4,7 +4,7 @@ import TagFilter from ".vitepress/components/TagFilter.vue";
 import { ref } from 'vue';
 
 const selectedFilters = ref([]);
-const availableTags = ref(['eigenentwicklung', 'kooperation']);
+const availableTags = ref(['eigenentwicklung']);
 </script>
 
 # Publish
