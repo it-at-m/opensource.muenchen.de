@@ -16,7 +16,10 @@ Zammad ist ein freies Helpdesk- bzw. Issue-Tracking-System das die Anbindung von
 ---
 
 Zammad wird im digitalen Bürgerservice für wenig strukturierte Vorgänge genutzt.
-Bürger\*innen können Anliegen am städtische Formularserver (z.B. [Formular für technische Anfragen](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)) rechtssicher einreichen.
-Mitarbeiter\*innen der Stadt können in Zammad den Vorgang dann bearbeiten, während die Bürger\*innen im [Bürgerservice](https://stadt.muenchen.de/buergerservice/anliegen/detailAnliegen.html) den Bearbeitungsstand einsehen und mit den Sachbearbeiter\*innen in Kontakt treten können.
+Bürger\*innen können Anliegen am städtische Formularserver (z.B. [Formular für technische Anfragen](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)) einreichen.
+Mitarbeiter\*innen der Stadt können in Zammad den Vorgang dann bearbeiten, während die Bürger\*innen im [digtalen Bürgerservice](https://stadt.muenchen.de/buergerservice/anliegen/detailAnliegen.html) den Bearbeitungsstand einsehen und mit den Sachbearbeiter\*innen in Kontakt treten können.
+
+Da sich Bürger\*innen sowohl am städtischen Formularserver, als auch am digitale Bürgerservice, mit der [BayernID](https://id.bayernportal.de/de/) anmelden, können wir auch Bürgerservices mit einem [hohen Vertrauensniveau](https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/eIDAS-Verordnung/Elektronische-Identifizierung/elektronische-identifizierung_node.html) anbieten.
+Die BayernID haben wir über unser [BayernId-plugin](./bayernid-plugin.html) integriert.
 
 Der von uns eigenentwickelte [zammad-ldap-sync](https://github.com/it-at-m/zammad-ldap-sync) ermöglicht eine strukturierte Darstellung von LDAP-Einträgen in Zammad.
