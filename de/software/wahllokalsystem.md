@@ -23,3 +23,6 @@ Außerdem wird zu definierten Zeitpunkten abgefragt, welche Mitglieder des Wahlv
 Während der Stimmauszählung, und der damit verbundenen Erstellung der Niederschrift, unterstützt das System den Wahlvorstand bei der korrekten Erfassung der Daten. Dazu gibt es zahlreiche Regeln und Konsistenzprüfungen, die dem Wahlvorstand Feedback geben, ob die erfassten Daten korrekt sind.
 
 Das Wahlamt kann über das System den Wahlbezirken wichtige Informationen zukommen lassen.
+
+Die so erfassten Wahlergebnisse eines Wahllokals, werden einerseits direkt an das Wahlamt übermittelt, wo sie dann zeitnah auf [wahlen-muenchen.de](https://www.wahlen-muenchen.de/) veröffentlicht werden.
+Andereseits werden die Ergebnisse als Niederschrift in Papierform ausgedruckt und noch am Wahlabend vom Wahlvorstand unterschrieben und dem Wahlamt überstellt werden.
