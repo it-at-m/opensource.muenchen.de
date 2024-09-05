@@ -13,3 +13,13 @@ tags:
 sortingPriority: 2
 ---
 Das __Wahllokalsystem__ ist eine Anwendung zur Erfassung und Übermittlung von Wahlergebnissen aus den Wahllokalen zum Wahlamt.
+
+---
+
+Der Hauptfokus der Software liegt auf den Handlungen am Wahltag. Sie unterstützt bei der Eröffnung des Wahllokals, indem man z.B. anhand einer Checkliste prüfen kann, dass alle notwendigen Materialien für die Durchführung vorhanden sind. Während der Zeit der Stimmabgabe wird übermittelt, wie viele Wähler*innen bereits im Wahllokal waren. Des Weiteren werden über die Software wahlrelevante Vorkommnisse dokumentiert.
+
+Außerdem wird zu definierten Zeitpunkten abgefragt, welche Mitglieder des Wahlvorstandes im Wahllokal anwesend sind. So wird sichergestellt, dass das Gremium zu jederzeit ausreichend besetzt ist.
+
+Während der Stimmauszählung, und der damit verbundenen Erstellung der Niederschrift, unterstützt das System den Wahlvorstand bei der korrekten Erfassung der Daten. Dazu gibt es zahlreiche Regeln und Konsistenzprüfungen, die dem Wahlvorstand Feedback geben, ob die erfassten Daten korrekt sind.
+
+Das Wahlamt kann über das System den Wahlbezirken wichtige Informationen zukommen lassen.
