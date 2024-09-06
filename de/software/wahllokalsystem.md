@@ -21,7 +21,7 @@ Das __Wahllokalsystem__ ist eine Anwendung zur Erfassung und Übermittlung von W
 Das Wahllokalsystem wurde initial zur Bundestagswahl 2017 eingeführt, aber der Quellcode nicht veröffentlicht.
 Im Rahmen einer geplante Lifecyclemaßnahme wird die gesamte Anwendung reviewed und dabei veröffentlicht.
 
-Entlang von 3 [milestones](https://github.com/it-at-m/Wahllokalsystem/milestones) sind wir noch dabei einzelne Module Schritt für Schritt zu reviewen und hier zu veröffentlichen.
+Entlang von 3 [milestones](https://github.com/it-at-m/Wahllokalsystem/milestones?direction=asc&sort=title) sind wir noch dabei einzelne Module Schritt für Schritt zu reviewen und hier zu veröffentlichen.
 
 
 ## Funktion
