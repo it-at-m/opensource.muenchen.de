@@ -16,6 +16,16 @@ Das __Wahllokalsystem__ ist eine Anwendung zur Erfassung und Übermittlung von W
 
 ---
 
+## Projekt
+
+Das Wahllokalsystem wurde initial zur Bundestagswahl 2017 eingeführt, aber der Quellcode nicht veröffentlicht.
+Im Rahmen einer geplante Lifecyclemaßnahme wird die gesamte Anwendung reviewed und dabei veröffentlicht.
+
+Entlang von 3 [milestones](https://github.com/it-at-m/Wahllokalsystem/milestones) sind wir noch dabei einzelne Module Schritt für Schritt zu reviewen und hier zu veröffentlichen.
+
+
+## Funktion
+
 Der Hauptfokus der Software liegt auf den Handlungen am Wahltag. Sie unterstützt bei der Eröffnung des Wahllokals, indem man z.B. anhand einer Checkliste prüfen kann, dass alle notwendigen Materialien für die Durchführung vorhanden sind. Während der Zeit der Stimmabgabe wird übermittelt, wie viele Wähler*innen bereits im Wahllokal waren. Des Weiteren werden über die Software wahlrelevante Vorkommnisse dokumentiert.
 
 Außerdem wird zu definierten Zeitpunkten abgefragt, welche Mitglieder des Wahlvorstandes im Wahllokal anwesend sind. So wird sichergestellt, dass das Gremium zu jederzeit ausreichend besetzt ist.
