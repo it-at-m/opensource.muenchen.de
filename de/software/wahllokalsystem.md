@@ -35,4 +35,4 @@ Während der Stimmauszählung, und der damit verbundenen Erstellung der Niedersc
 Das Wahlamt kann über das System den Wahlbezirken wichtige Informationen zukommen lassen.
 
 Die so erfassten Wahlergebnisse eines Wahllokals, werden einerseits direkt an das Wahlamt übermittelt, wo sie dann zeitnah auf [wahlen-muenchen.de](https://www.wahlen-muenchen.de/) veröffentlicht werden.
-Andereseits werden die Ergebnisse als Niederschrift in Papierform ausgedruckt und noch am Wahlabend vom Wahlvorstand unterschrieben und dem Wahlamt überstellt werden.
+Andereseits werden die Ergebnisse als Niederschrift in Papierform ausgedruckt und noch am Wahlabend vom Wahlvorstand unterschrieben und dem Wahlamt überstellt.
