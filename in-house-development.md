@@ -6,9 +6,8 @@ import TagTile from "./.vitepress/components/TagTile.vue";
 
 All in-house developments of the City of Munich are [published](./publish) under an [open source licence](./licenses#own-developments).
 
-To ensure optimal maintainability and scalability of the software, we rely on a modular technology stack of open source components.
-This is defined in the guideline "Landeshauptstadt München-Referenzarchitektur für Eigenentwicklungen".
-This enables us to easily replace and update components.
+The [reference architecture for in-house developments](https://github.com/it-at-m/refarch) enables us to achieve optimum maintainability and scalability.
+Here, too, we rely on a modular technology stack of open source components, which allows us to easily replace and update components.
 
 <ClientOnly>
 <TagTile
