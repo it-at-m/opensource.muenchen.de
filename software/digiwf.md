@@ -20,6 +20,10 @@ __DigiWF__ is a platform for process automation. Users can automate workflows th
 
 ---
 
+## Development of DigiWF is discontinued
+
+DigiWF was discontinued due to cost-cutting measures and cost pressure in the city administration. We were able to successfully digitize some processes with the platform until the beginning of 2024, but the success came too late due to various setbacks. The experience gained and the complex application landscape are now leading to a realignment of the Munich digitalization platform, of which DigiWF was a part. The further development of DigiWF has therefore been stopped. This is not due to the technology, but to the framework conditions and the overall architecture.
+
 
 ## About the project
 
