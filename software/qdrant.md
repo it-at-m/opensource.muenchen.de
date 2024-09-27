@@ -10,7 +10,7 @@ tags:
 - k8s
 - ai
 ---
-__Qdrant__ (read: quadrant) is a vector similarity search engine and vector database. 
+__Qdrant__ (read: quadrant) is a container-based vector similarity search engine and vector database. 
 
 ---
 
