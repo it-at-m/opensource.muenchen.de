@@ -18,7 +18,7 @@ The __Wahllokalsystem__ (polling station system) is an application for recording
 
 ## Project
 
-Wahllokalsystem station system was initially introduced for the 2017 federal election, but the source code was not published.
+Wahllokalsystem was initially introduced for the 2017 federal election, but the source code was not published.
 As part of a planned lifecycle measure, the entire application will be reviewed and published.
 
 Along 3 [milestones](https://github.com/it-at-m/Wahllokalsystem/milestones?direction=asc&sort=title) we are still in the process of reviewing individual modules step by step and publishing them here.
