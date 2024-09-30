@@ -20,6 +20,9 @@ __DigiWF__ ist eine Plattform für die Prozessautomatisierung. Anwender*innen k�
 
 ---
 
+## Entwicklung von DigiWF wird eingestellt
+
+DigiWF wurde aufgrund von Sparmaßnahmen und Kostendruck in der Stadtverwaltung eingestellt. Bis Anfang des Jahres 2024 konnten wir erfolgreich einige Prozesse mit der Plattform digitalisieren, jedoch kam der Erfolg durch diverse Rückschläge zu spät. Die gesammelten Erfahrungen und die komplexe Anwendungslandschaft führen nun zu einer Neuausrichtung der Münchner Digitalisierungsplattform, von der DigiWF ein Teil war. Deshalb wurde die Weiterentwicklung von DigiWF gestoppt. Dies liegt nicht an der Technik, sondern an den Rahmenbedingungen und der Gesamtarchitektur.
 
 ## Über das Projekt
 
