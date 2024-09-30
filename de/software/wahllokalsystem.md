@@ -30,7 +30,7 @@ Der Hauptfokus der Software liegt auf den Handlungen am Wahltag. Sie unterstütz
 
 Außerdem wird zu definierten Zeitpunkten abgefragt, welche Mitglieder des Wahlvorstandes im Wahllokal anwesend sind. So wird sichergestellt, dass das Gremium zu jederzeit ausreichend besetzt ist.
 
-Während der Stimmauszählung, und der damit verbundenen Erstellung der Niederschrift, unterstützt das System den Wahlvorstand bei der korrekten Erfassung der Daten. Dazu gibt es zahlreiche Regeln und Konsistenzprüfungen, die dem Wahlvorstand Feedback geben, ob die erfassten Daten korrekt sind.
+Während der Stimmauszählung, und der damit verbundenen Erstellung der Niederschrift, unterstützt das System den Wahlvorstand bei der korrekten Erfassung der Daten. Dazu gibt es zahlreiche Regeln und Konsistenzprüfungen, die dem Wahlvorstand Feedback geben, ob die erfassten Daten konsistent sind.
 
 Das Wahlamt kann über das System den Wahlbezirken wichtige Informationen zukommen lassen.
 
