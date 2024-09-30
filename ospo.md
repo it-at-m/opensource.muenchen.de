@@ -34,16 +34,14 @@ The OSPO only offers advisory assistance, not tender implementation or make-buy-
 
 In addition to numerous developers from the urban open source community, who contribute ideas, passion and, above all, public code, take care of open source:
 
-![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
-
+<img src="/people/dirk_gernhardt__150.jpg" alt="Dirk Gernhardt" class="right">
 Dr. Dirk Gernhardt heads the Competence Center Software Engineering in the IT department of the City of Munich and holds the role of Open Source Representative.
 Until 2019, he held the role of Chief IT Architect.
 Before joining the City of Munich in 2010, he worked as an IT consultant for the automotive industry at Capgemini.
 
 
 <br class="cb" />
-
-![Klaus Mueller](/people/klml_gelb__150.jpg#right)
+<img src="/people/klml_gelb__150.jpg" alt="Klaus Mueller" class="right">
 Klaus 'klml' Mueller is Head of the OSPO of the City of Munich, which was founded in 2024.
 Before that, he and his team built the Kubernetes Platform, a world in which FOSS is already standard.
 Klaus has been a stable FOSS enthusiast since Linux kernel 2.6.0.

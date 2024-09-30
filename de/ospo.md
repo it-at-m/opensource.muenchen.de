@@ -34,16 +34,13 @@ Das OSPO bietet nur beratende Mithilfe, keine Ausschreibungsdurchführung oder M
 
 Neben zahlreichen Entwickler\*innen der städtischen Open Source Community, die Ideen, Leidenschaft und vor allem Public Code einbringen, kümmern sich um Open Source:
 
-![Dirk Gernhardt](/people/dirk_gernhardt__150.jpg#right)
-
+<img src="/people/dirk_gernhardt__150.jpg" alt="Dirk Gernhardt" class="right">
 Dr. Dirk Gernhardt leitet das Competence Center Software Engineering im IT-Referat der Landeshauptstadt München und ist Open-Source-Beauftragter.
 Bis 2019 hatte er die Funktion des Chief IT Architect inne.
 Bevor er 2010 zur Landeshauptstadt München kam, arbeitete er als IT-Berater für die Automobilindustrie bei Capgemini.
-
-
 <br class="cb" />
 
-![Klaus Mueller](/people/klml_gelb__150.jpg#right)
+<img src="/people/klml_gelb__150.jpg" alt="Klaus Mueller" class="right">
 Klaus 'klml' Mueller ist Leiter des OSPO der Stadt München, das Anfang 2024 gegründet wurde.
 Davor hat er mit seinem Team die Kubernetes-Plattform aufgebaut, eine Welt, in der FOSS bereits Standard ist.
 Klaus ist seit Linux-Kernel 2.6.0 FOSS-Enthusiast.
