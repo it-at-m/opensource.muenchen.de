@@ -35,13 +35,11 @@ Die Brainstorming-Funktion von MUCGPT ermöglicht es Benutzern, kreative Ideen z
 
 ## Technische Einzelheiten
 
-Die Architektur von MUCGPT ist in zwei Teile unterteilt: das Frontend und das Backend. MUCGPT wird als AppService auf Microsoft Azure mit einer [PostgreSQL](postgresql)-Datenbank und einer Azure OpenAI-Ressource bereitgestellt.
+Die Architektur von MUCGPT ist in zwei Teile unterteilt: das Frontend und das Backend. MUCGPT wird als Docker-Container bereitgestellt und kann zusammen mit einer  [PostgreSQL](postgresql)-Datenbank betrieben werden.
 
 Das Frontend basiert auf einem [Template von Azure](https://github.com/Azure-Samples/azure-search-openai-demo) und wurde mit React, [Typescript](typescript) und [Javascript](javascript) implementiert.
 
-Das Framework, das zur Implementierung des Backends von MUCGPT verwendet wird, heißt Quart. Es ist ein schnelles Python-Web-Micro-Framework zum Erstellen von JSON-APIs, zum Rendern und Bereitstellen von HTML, zum Bereitstellen von WebSockets und vielem mehr. Das Backend verwendet [LangChain](langchain), um sich mit LLMs wie Chat-GPT-3.5 zu verbinden, welches derzeit verwendet werden.
-
-Die enthaltenen IaC-Dateien für Azure machen die Bereitstellung des Projekts einfach und unkompliziert, so dass Benutzer direkt mit der Nutzung von MUCGPT beginnen können.
+Das Framework, das zur Implementierung des Backends von MUCGPT verwendet wird, heißt [FastApi](fastapi). FastAPI ist ein modernes, schnelles Web-Framework zur Erstellung von APIs mit [python](python). Das Backend verwendet [LangChain](langchain) als Language Model Integration Framework.
 
 ---
 __Dieser Website-Text wurde mithilfe MUCGPT generiert.__

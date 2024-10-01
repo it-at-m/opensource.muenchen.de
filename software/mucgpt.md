@@ -13,13 +13,13 @@ tags:
 - ai
 sortingPriority: 2
 ---
-__MUCGPT__ is a web interface based on a large language model that allows users to chat, summarise text and brainstorm.
+__MUCGPT__ is a web interface based on a large language model (LLM) that allows users to chat, summarise text and brainstorm.
 
 ---
 
 ## About the project
 
-MUCGPT is an innovative project that leverages the power of language models to provide users with an intuitive and feature-rich web interface that can help them with a variety of tasks, from generating chat responses to summarising text and creating mind maps. The project is built on top of ChatGPT3.5, which is a powerful language model that has been fine-tuned to provide accurate and contextually relevant responses to user input. With MUCGPT, users can easily generate high-quality text, organise their ideas, and improve their productivity, all in one convenient platform.
+MUCGPT is an innovative project that harnesses the power of language models to provide users with an intuitive and feature-rich web interface that can help them with a variety of tasks, from generating chat responses to summarising text and creating mind maps. The interface currently connects to one or more OpenAI-compliant LLM endpoints. With MUCGPT, users can easily generate high-quality text, organise their ideas and improve their productivity, all in one convenient platform.
 
 ### Chat-Feature:
 ![Screenshot of a the chat function of MUCGPT](/inhouse/mucgpt_chat.png)  
@@ -36,13 +36,11 @@ With MUCGPT's Brainstorming function, users can generate mind maps to aid them i
 
 ## Technical details
 
-The architecture of MUCGPT is divided into two parts, the frontend and the backend. MUCGPT is deployed on Microsoft Azure as an AppService with a [PostgreSQL](postgresql) database and an Azure OpenAI resource.
+The architecture of MUCGPT is divided into two parts, the frontend and the backend. MUCGPT can be deployed as an docker container together with an [PostgreSQL](postgresql) database.
 
 The frontend is based on a [template from Microsoft Azure](https://github.com/Azure-Samples/azure-search-openai-demo) and is implemented using React, [Typescript](typescript) and [Javascript](javascript).
 
-The framework used to implement the backend of MUCGPT is called Quart. It is a fast Python web microframework for building JSON APIs, rendering and serving HTML, serving web sockets and much more. The backend uses [LangChain](langchain) to connect to LLMs like Chat-GPT-3.5, which is currently in use.  
-
-The included IaC files for Azure make it easy to deploy the project in just a few steps.
+The framework used to implement the backend of MUCGPT is called [FastAPI](fastapi) and is written in [python](python). The backend uses [LangChain](langchain) to connect to various LLM providers.
 
 ---
 __This site text was generated using MUCGPT.__
