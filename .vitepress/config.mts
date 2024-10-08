@@ -48,6 +48,7 @@ export default defineConfig({
               { text: "Sponsoring", link: "/de/sponsoring" },
               { text: "Sabbatical", link: "/de/sabbatical" },
               { text: "Eigenentwicklung", link: "/de/in-house-development" },
+              { text: "Repositories", link: "/de/repositories" },
               { text: "OSPO", link: "/de/ospo" },
             ],
           },
