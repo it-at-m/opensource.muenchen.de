@@ -6,7 +6,6 @@ licensingmodel: open source
 logo: /logo/bluespice_logo.png
 tags:
   - application
-  - opencore
 ---
 
 **BlueSpice MediaWiki** is a free software, based on MediaWiki, and specifically developed for companies as an enterprise wiki distribution.
