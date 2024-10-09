@@ -23,6 +23,7 @@ These range from administrative applications for internal use to applications fo
 <ClientOnly>
 <TagTile
 :available-tags="['application']"
+:exclude="['eigenentwicklung']"
 show-tags
 show-excerpt
 />
