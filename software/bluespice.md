@@ -12,5 +12,5 @@ tags:
 
 ---
 
-We use the Bluespice Pro (+Farming) variant in a wide variety of departments and groups at the City of Munich for over 250 wiki instances.
+We use Bluespice in a wide variety of departments and groups at the City of Munich for over 250 wiki instances.
 From _Abfalllexikon_ to _Zulassungswiki_.
