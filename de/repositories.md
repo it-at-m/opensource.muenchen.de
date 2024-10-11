@@ -21,7 +21,7 @@ Wenn wir uns an anderen Softwareprojekten [beteiligen](./improve.html#code-contr
 
 Eine für die Öffentlichen Verwaltungen in Deutschland wichtige relevante Alternative ist [gitlab.opencode.de](https://gitlab.opencode.de).
 Dazu betreiben wir dort die Gruppe [landeshauptstadt-muenchen](https://gitlab.opencode.de/groups/landeshauptstadt-muenchen).
-Auch wenn wir auf gitlab.opencode.de nicht primäre veröffentlichen, sind wir auf Anfrage bereit Repositories dorthin zu spiegeln. 
+Auch wenn wir auf gitlab.opencode.de nicht primär veröffentlichen, sind wir auf Anfrage bereit Repositories dorthin zu spiegeln. 
 Wenn wir uns an freien Softwareprojekten anderer Communities aus der öffentlichen Verwaltungen beteiligen wollen, werden wir das ausschliesslich dort machen, sofern die Projekte MergeRequests erlauben.
 
 Um Mitarbeitende nicht zu zwingen mit Klarnamen im Internet zu agieren, dürfen Mitarbeiter\*innen Pseudonyme nutzen.
