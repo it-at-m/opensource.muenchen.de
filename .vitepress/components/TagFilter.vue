@@ -30,6 +30,16 @@ const allTags = computed(() => {
 
   return allTags;
 });
+
+function getCountOfTag(tag) {
+  let counter = 0;
+  for (let softwareEntry of data) {
+    if (softwareEntry && softwareEntry.frontmatter && softwareEntry.frontmatter.tags && softwareEntry.frontmatter.tags.includes(tag)) {
+      counter++;
+    }
+  }
+  return counter;
+}
 </script>
 
 <template>
@@ -42,6 +52,7 @@ const allTags = computed(() => {
       v-for="(tag, index) in availableTags.length > 0 ? availableTags : allTags"
       :key="index"
       :tag="tag"
+      :count="getCountOfTag(tag)"
       filter
     />
   </v-chip-group>
