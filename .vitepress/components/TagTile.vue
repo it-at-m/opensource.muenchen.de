@@ -91,26 +91,24 @@ const pagesWithTags = computed(() => {
   for (let softwareEntry of i18nData) {
     let softwareEntryTags = softwareEntry.frontmatter.tags;
 
-    if (softwareEntry.frontmatter && softwareEntryTags) {
+    if (softwareEntryTags) {
       if (
         !props.availableTags ||
         props.availableTags.length === 0 ||
-        softwareEntry.frontmatter.tags.some((node) =>
+        softwareEntryTags.some((node) =>
           props.availableTags.includes(node)
         )
       ) {
+        // if this software as a tag which is "available" in this context, continue
         if (props.filter.length > 0) {
           if (
             props.filter.every((tag) => softwareEntryTags.includes(tag)) &&
-            !props.exclude.every((exclude) =>
-              softwareEntryTags.includes(exclude)
+              !softwareEntryTags.some(tag => props.exclude.includes(tag)
             )
           ) {
             filteredSoftware.push(softwareEntry);
           }
-        } else if (
-          !props.exclude.every((exclude) => softwareEntryTags.includes(exclude))
-        ) {
+        } else if (!softwareEntryTags.some(tag => props.exclude.includes(tag))) {
           // When no tags are given, show everything that's not excluded
           filteredSoftware.push(softwareEntry);
         }
