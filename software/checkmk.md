@@ -10,6 +10,7 @@ logo: /logo/320px-CheckMK_logo.svg.png
 tags:
   - infrastruktur
   - opencore
+sortingPriority: 2
 ---
 
 Checkmk is a free software for service monitoring of IT infrastructure.

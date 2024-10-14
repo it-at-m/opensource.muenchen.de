@@ -41,6 +41,7 @@ Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, 
 <ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']"
+:exclude="['eigenentwicklung']"
 show-tags
 show-excerpt
 />

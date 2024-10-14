@@ -8,6 +8,7 @@ tags:
 - infrastruktur
 - support
 - devstack
+sortingPriority: 2
 ---
 __PostgreSQL__ is a free, object-relational database management system (ORDBMS) emphasizing extensibility and SQL compliance.
 

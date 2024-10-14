@@ -13,6 +13,7 @@ tags:
   - start2021
   - support
   - sponsor
+sortingPriority: 2
 ---
 
 [Consul](https://consuldemocracy.org) is a free software for citizen participation.
