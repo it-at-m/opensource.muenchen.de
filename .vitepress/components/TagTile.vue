@@ -95,20 +95,19 @@ const pagesWithTags = computed(() => {
       if (
         !props.availableTags ||
         props.availableTags.length === 0 ||
-        softwareEntryTags.some((node) =>
-          props.availableTags.includes(node)
-        )
+        softwareEntryTags.some((node) => props.availableTags.includes(node))
       ) {
         // if this software as a tag which is "available" in this context, continue
         if (props.filter.length > 0) {
           if (
             props.filter.every((tag) => softwareEntryTags.includes(tag)) &&
-              !softwareEntryTags.some(tag => props.exclude.includes(tag)
-            )
+            !softwareEntryTags.some((tag) => props.exclude.includes(tag))
           ) {
             filteredSoftware.push(softwareEntry);
           }
-        } else if (!softwareEntryTags.some(tag => props.exclude.includes(tag))) {
+        } else if (
+          !softwareEntryTags.some((tag) => props.exclude.includes(tag))
+        ) {
           // When no tags are given, show everything that's not excluded
           filteredSoftware.push(softwareEntry);
         }
