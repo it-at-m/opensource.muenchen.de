@@ -8,6 +8,7 @@ tags:
   - support
   - start2023
   - k8s
+sortingPriority: 2
 ---
 
 Zammad ist ein freies Helpdesk- bzw. Issue-Tracking-System das die Anbindung von verschiedensten Kanälen wie E-Mail, Telefon ermöglicht.
