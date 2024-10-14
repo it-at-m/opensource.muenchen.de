@@ -34,7 +34,12 @@ const allTags = computed(() => {
 function getCountOfTag(tag) {
   let counter = 0;
   for (let softwareEntry of data) {
-    if (softwareEntry && softwareEntry.frontmatter && softwareEntry.frontmatter.tags && softwareEntry.frontmatter.tags.includes(tag)) {
+    if (
+      softwareEntry &&
+      softwareEntry.frontmatter &&
+      softwareEntry.frontmatter.tags &&
+      softwareEntry.frontmatter.tags.includes(tag)
+    ) {
       counter++;
     }
   }

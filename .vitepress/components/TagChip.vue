@@ -9,8 +9,8 @@ const props = defineProps({
   },
   count: {
     type: Number,
-    required: false
-  }
+    required: false,
+  },
 });
 
 const i18nSelectorTags = TAG_PROP;
@@ -24,7 +24,10 @@ const { t } = useTranslator();
     filter
   >
     {{ t(`${i18nSelectorTags}.${tag}`) }}
-    <span style="padding-left: 4px;" v-if="count">
+    <span
+      style="padding-left: 4px"
+      v-if="count"
+    >
       ({{ count }})
     </span>
   </v-chip>
