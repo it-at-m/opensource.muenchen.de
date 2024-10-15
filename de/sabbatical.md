@@ -29,10 +29,10 @@ Aktuell werden folgende Kompensationsmöglichkeiten angeboten:
 
 Eine __befristete Festanstellung__ ist grundsätzlich mit Sachgrund von einem halben Jahr möglich.
 
-Eine befristete Festanstellung ist einerseits über die digitale Beratungsgesellschaft der Landeshauptstadt München [digital@M](https://digital-at-m.de/) möglich.
-Unsere Zielvorstellung bei der finanzielle Kompensation liegt dabei 60% vom üblichen Gehalt.
+Eine befristete Festanstellung ist über die digitale Beratungsgesellschaft der Landeshauptstadt München [digital@M](https://digital-at-m.de/) möglich.
+Unsere Zielvorstellung bei der finanziellen Kompensation liegt dabei 60% des üblichen Gehalts.
 
-Eine __Werkvertrag__ oder __Dienstvertrag__ ist aufgrund der Vergabevorberatung, der Ausarbeit der Vergabe- und Vertragsunterlagen und einer Ausschreibung des Vertrages durch die Vergabestelle schwer möglich
+Ein __Werkvertrag__ oder __Dienstvertrag__ ist aufgrund der Vergabevorberatung, der Ausarbeit der Vergabe- und Vertragsunterlagen und einer Ausschreibung des Vertrages durch die Vergabestelle schwer möglich.
 
 
 ### Mitarbeiter*innen der LHM
@@ -41,7 +41,6 @@ __Vorübergehende Einsätze__ innerhalb der LHM bieten Mitarbeiter\*innen Entwic
 Voraussetzung ist ein Einverständnis der abgebenden Dienststelle.
 Das Open Source Sabbatical ist auch als Praktikum während der Berufsausbildung bzw. des Dualen Studiums möglich, sofern das Projekt in den Ausbildungsplan passt.  
 Eine __Direktbesetzung__ innerhalb der LHM ist möglich, sofern die dazu notwendige Stelle geschaffen wurde und eine Kompensationsmöglichkeit bei abgebender Dienststelle besteht.
-
 
 Interessierte können ihre Bewerbungen formlos an [opensource@muenchen.de](mailto:opensource@muenchen.de) senden, unter Angabe des Softwareprojekts und des Starttermins.
 
