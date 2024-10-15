@@ -29,7 +29,7 @@ Aktuell werden folgende Kompensationsmöglichkeiten angeboten:
 
 Eine __befristete Festanstellung__ ist grundsätzlich mit Sachgrund von einem halben Jahr möglich.
 
-Eine befristete Festanstellung ist einerseits über die digitale Beratungsgesellschaft der Landeshauptstadt München [digital@M](https://digital-at-m.de/) möglich.
+Eine befristete Festanstellung ist über die digitale Beratungsgesellschaft der Landeshauptstadt München [digital@M](https://digital-at-m.de/) möglich.
 Unsere Zielvorstellung bei der finanziellen Kompensation liegt dabei 60% des üblichen Gehalts.
 
 Ein __Werkvertrag__ oder __Dienstvertrag__ ist aufgrund der Vergabevorberatung, der Ausarbeit der Vergabe- und Vertragsunterlagen und einer Ausschreibung des Vertrages durch die Vergabestelle schwer möglich.
