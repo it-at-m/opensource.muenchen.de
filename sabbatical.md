@@ -15,8 +15,11 @@ Applications from women are particularly encouraged.
 ## Project selection
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
-They can be bug fixes or features for projects from the City of Munich's [own development portfolio](https://github.com/it-at-m).
-Other free projects are also possible if they offer a benefit for the city.
+
+* They can be bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
+* Software projects that we already [use](use).
+* Other published free projects, if they offer a benefit for the city.
+
 
 ## Financial compensation
 
