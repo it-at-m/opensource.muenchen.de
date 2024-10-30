@@ -42,4 +42,4 @@ Das Frontend basiert auf einem [Template von Azure](https://github.com/Azure-Sam
 Das Framework, das zur Implementierung des Backends von MUCGPT verwendet wird, heißt [FastApi](fastapi). FastAPI ist ein modernes, schnelles Web-Framework zur Erstellung von APIs mit [python](python). Das Backend verwendet [LangChain](langchain) als Language Model Integration Framework.
 
 ---
-__Dieser Website-Text wurde mithilfe MUCGPT generiert.__
+__Dieser Website-Text wurde mithilfe von MUCGPT generiert.__
