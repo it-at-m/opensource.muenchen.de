@@ -23,7 +23,7 @@ The city council elected in March 2020 has taken a clear and sustainable positio
 
 > Wherever technically and financially possible, the city relies on open standards and free open source licensed software and thus avoids foreseeable manufacturer dependencies. We include this consideration as a criterion for tenders; any deviation from this principle must be justified.[^koalitionsvertrag_2020]
 
-An important step towards integrating the topic of open source into the orientation of IT was the inclusion of the topic in the [strategic orientation of LHM's IT](https://www.muenchen-transparent.de/dokumente/6229564) adopted by the City Council on 11.11.2020:
+An important step towards integrating the topic of open source into the orientation of IT was the inclusion of the topic in the [strategic orientation of LHM's IT](https://risi.muenchen.de/risi/dokument/v/6229564) adopted by the City Council on 11.11.2020:
 
 > **3.6. Die IT der LHM setzt priorisiert Open Source-Lösungen ein, wenn wirtschaftlich und technologisch oder strategisch sinnvoll.**
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
