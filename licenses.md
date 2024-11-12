@@ -1,5 +1,7 @@
 Free software is defined by open access to the source code, but above all by its licence characteristics.
 
+> The following is a purely informative description of our practice; it is expressly not a recommendation of any kind to proceed in this way.
+
 ## Use
 
 When [using free software](./use) we can use all [OSI Approved Licences](https://opensource.org/licenses).

@@ -1,5 +1,7 @@
 Freie Software wird über den offenen Zugang zum Quellcode, vor allem aber über die lizenzrechtlichen Eigenschaften definiert.
 
+> Nachfolgend beschreiben wir rein informatorisch unsere Praxis; eine irgendwie geartete Empfehlung, so vorzugehen, ist damit ausdrücklich nicht verbunden.
+
 ## Nutzen
 
 Beim [Einsatz von freier Software](./use) können wir alle [OSI Approved Licenses](https://opensource.org/licenses) nutzen.
