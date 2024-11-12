@@ -16,7 +16,7 @@ Die MIT-Lizenz wird außerdem schon im Stadtratsbeschluss ["Neue Software im Ope
 
 ### Einbindung in Eigenentwicklungen
 
-Wir achten darauf, keine Software mit Lizenzen mit starkem Copyleft-Effekt zu nutzen. Dadurch sind wir frei in der Wahl der Lizenz für unsere eigene Software und vermeiden Lizenzkonflikte.
+Wir achten darauf, keine Software mit Lizenzen mit starkem Copyleft-Effekt zu nutzen. Dadurch sind wir freier in der Wahl der Lizenz für unsere eigene Software und vermeiden Lizenzkonflikte.
 Wir nutzen bevorzugt Software mit Lizenzen, die permissiv oder mit schwachem Copyleft-Effekt sind.
 
 In der Praxis nutzen wir vor allem Software mit folgenden permissiven, von der [Open Source Initiative](https://opensource.org/licenses) geprüften Lizenzen:
@@ -24,12 +24,12 @@ In der Praxis nutzen wir vor allem Software mit folgenden permissiven, von der [
 - [Apache 2.0](https://de.wikipedia.org/wiki/Apache-Lizenz)
 - [BSD](https://de.wikipedia.org/wiki/BSD-Lizenz)
 - [MIT-Lizenz](https://de.wikipedia.org/wiki/MIT-Lizenz)
-- [PostgrSQL-Lizenz](https://www.postgresql.org/about/licence/)
+- [PostgreSQL-Lizenz](https://www.postgresql.org/about/licence/)
 - [PHP-Lizenz](https://de.wikipedia.org/wiki/PHP-Lizenz)
 
 Als Lizenzen mit schwachem Copyleft kommen in Frage:
 
-- [Eclipse Public License](https://de.wikipedia.org/wiki/Eclipse_Public_License)
+- [Eclipse Public License - v2.0](https://de.wikipedia.org/wiki/Eclipse_Public_License#EPL_2.0)
 - [LGPL](https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
 - [MPL](https://de.wikipedia.org/wiki/Mozilla_Public_License)
 
