@@ -30,7 +30,7 @@ The following compensation options are currently offered
 
 ### External software developers
 
-A __permanent permanent position__ is generally possible with a six-month material reason.
+A __permanent position__ is generally possible with a six-month material reason.
 
 A fixed-term permanent position is possible via the digital consulting company of the City of Munich [digital@M](https://digital-at-m.de/).
 Our target for financial compensation is 60% of the usual salary.
