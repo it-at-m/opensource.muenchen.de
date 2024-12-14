@@ -40,7 +40,7 @@ A __work contract__ or __service contract__ is difficult to realise due to the p
 
 ### Employees of the LHM
 
-Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
+__Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
 The prerequisite is the consent of the department that is assigning the employee.
 The open source sabbatical is also possible as an internship during vocational training or dual study programmes, provided the project fits in with the training plan.  
 A __direct appointment__ within LHM is possible, provided that the necessary position has been created and there is a possibility of compensation at the departing department.
