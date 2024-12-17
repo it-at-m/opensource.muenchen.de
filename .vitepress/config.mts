@@ -99,6 +99,7 @@ export default defineConfig({
           { text: "Sponsoring", link: "/sponsoring" },
           { text: "Sabbatical", link: "/sabbatical" },
           { text: "In-house development", link: "/in-house-development" },
+          { text: "Repositories", link: "/de/repositories" },
           { text: "OSPO", link: "/ospo" },
         ],
       },
