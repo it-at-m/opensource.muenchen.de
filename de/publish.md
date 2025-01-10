@@ -1,14 +1,6 @@
-
 <script setup>
-
 import TagTile from "../.vitepress/components/TagTile.vue";
-import TagFilter from "../.vitepress/components/TagFilter.vue";
-import { ref } from 'vue';
-
-const selectedFilters = ref([]);
-const availableTags = ref(['eigenentwicklung']);
 </script>
-
 
 
 # Veröffentlichen
@@ -33,19 +25,11 @@ Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austa
 ## Übersicht
 
 <ClientOnly>
-
-<TagFilter
-  v-model="selectedFilters"
-  :available-tags="availableTags"
+<TagTile
+:available-tags="['eigenentwicklung']"
+show-tags
+show-excerpt
 />
-
-<TagTile 
-  :filter="selectedFilters"
-  :available-tags="availableTags"
-  show-tags
-  show-excerpt
-/>
-
 </ClientOnly>
 
 [^efa]: "Einer für Alle"

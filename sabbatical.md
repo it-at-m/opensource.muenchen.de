@@ -15,8 +15,11 @@ Applications from women are particularly encouraged.
 ## Project selection
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
-They can be bug fixes or features for projects from the City of Munich's [own development portfolio](https://github.com/it-at-m).
-Other free projects are also possible if they offer a benefit for the city.
+
+* They can be bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
+* Software projects that we already [use](use).
+* Other published free projects, if they offer a benefit for the city.
+
 
 ## Financial compensation
 
@@ -27,7 +30,7 @@ The following compensation options are currently offered
 
 ### External software developers
 
-A __permanent permanent position__ is generally possible with a six-month material reason.
+A __permanent position__ is generally possible with a six-month material reason.
 
 A fixed-term permanent position is possible via the digital consulting company of the City of Munich [digital@M](https://digital-at-m.de/).
 Our target for financial compensation is 60% of the usual salary.
@@ -37,7 +40,7 @@ A __work contract__ or __service contract__ is difficult to realise due to the p
 
 ### Employees of the LHM
 
-Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
+__Temporary assignments__ within LHM offer employees development opportunities and can be realised at short notice.
 The prerequisite is the consent of the department that is assigning the employee.
 The open source sabbatical is also possible as an internship during vocational training or dual study programmes, provided the project fits in with the training plan.  
 A __direct appointment__ within LHM is possible, provided that the necessary position has been created and there is a possibility of compensation at the departing department.

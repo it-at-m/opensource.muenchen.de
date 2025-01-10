@@ -21,7 +21,7 @@ Der im März 2020 gewählte Stadtrat hat sich im Bereich des Themas Open Source 
 
 > Wo immer technisch und finanziell möglich setzt die Stadt auf offene Standards und freie Open Source-lizenzierte Software und vermeidet damit absehbare Herstellerabhängigkeiten. Diese Abwägung nehmen wir als Kriterium für Ausschreibungen mit auf, eine Abweichung von diesem Grundsatz muss begründet werden.[^koalitionsvertrag_2020]
 
-Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren, war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://www.muenchen-transparent.de/dokumente/6229564):
+Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren, war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://risi.muenchen.de/risi/dokument/v/6229564):
 
 > **3.6. Die IT der LHM setzt priorisiert Open Source-Lösungen ein, wenn wirtschaftlich und technologisch oder strategisch sinnvoll.**
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.

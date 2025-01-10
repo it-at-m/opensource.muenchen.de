@@ -1,5 +1,7 @@
 Free software is defined by open access to the source code, but above all by its licence characteristics.
 
+> The following is a purely informative description of our practice; it is expressly not a recommendation of any kind to proceed in this way.
+
 ## Use
 
 When [using free software](./use) we can use all [OSI Approved Licences](https://opensource.org/licenses).
@@ -16,7 +18,8 @@ The MIT licence is also proposed in the City Council resolution ['Develop new so
 
 ### Integration in in-house developments
 
-We take care not to use software with licences with a strong copyleft effect. This means we are free to choose the licence for our own software and avoid licence conflicts.
+We take care not to use software with licenses with a strong copyleft effect. This gives us more freedom in choosing the license for our own software and avoids licensing conflicts.
+
 We prefer to use software that has licences which are either permissive or have a weak copyleft effect.
 
 In practice, we mainly use software with the following permissive licences verified by the [Open Source Initiative](https://opensource.org/licenses):
@@ -24,12 +27,12 @@ In practice, we mainly use software with the following permissive licences verif
 - [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License)
 - [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 - [MIT-Lizenz](https://en.wikipedia.org/wiki/MIT_License)
-- [PostgrSQL licence](https://www.postgresql.org/about/licence/)
+- [PostgreSQL licence](https://www.postgresql.org/about/licence/)
 - [PHP licence](https://en.wikipedia.org/wiki/PHP_License)
 
 Licences with weak copyleft are possible:
 
-- [Eclipse Public Licence](https://en.wikipedia.org/wiki/Eclipse_Public_License)
+- [Eclipse Public License - v2.0](https://en.wikipedia.org/wiki/Eclipse_Public_License#Version_2.0)
 - [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
 - [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License)
 
