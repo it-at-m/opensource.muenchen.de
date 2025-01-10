@@ -48,6 +48,10 @@ Interessierte können ihre Bewerbungen formlos an [opensource@muenchen.de](mailt
 
 Die Landeshauptstadt München freut sich auf eure Bewerbungen!
 
+## Sabbaticals
+
+Das erste Open Source Sabbatical im ersten Halbjahr 2025 haben wir an das Projekt [integreat-chat](software/integreat#open-source-sabbatical) vergeben, um einen Chat-Service in die Integreat App zu integrieren.
+
 
 [^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
 [^beschluss]: [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
