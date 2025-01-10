@@ -10,7 +10,7 @@ Wir wollen Bürger\*innen, Entwickler\*innen anderer Behörden, Citizen Develope
 GitHub ist das bekannteste öffentliche Code-Repository für freie Software.
 Nutzer\*innen aus der FOSS-Community suchen, teilen und diskutieren freien Code hauptsächlich auf GitHub.
 Wir richten uns nach der Community und nutzen ebenso [GitHub für Public Code der Landeshauptstadt München](https://github.com/it-at-m/).
-Durch die Codeverwaltung auf GitHub bieten wir eine niederschwellig Teilhaben für alle an.  
+Durch die Codeverwaltung auf GitHub bieten wir eine niederschwellige Teilhabe für alle an.  
 GitHub hält keinerlei beschränkende Rechte an dem dort verwalteten Code, jedes Projekt kann seine Lizenz selbst bestimmen.
 Dies führt zu einer geringen Herstellerabhängigkeit, der außerdem leicht zu entkommen ist:
 Wir sind nur an Git als freie Software zur verteilten Codeverwaltung gebunden.
