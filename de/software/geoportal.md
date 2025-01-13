@@ -29,9 +29,7 @@ Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings Mün
 
 ### Architektur
 
-Eine moderne, skalierbare Software besteht heute nicht aus einem monolithischen Stück Code, sondern wird durch modulare Komponenten zusammengesetzt, die einzeln installierbar und bei Bedarf austauschbar sind sowie über offene, möglichst standardisierte Schnittstellen
-miteinander kommunizieren. So wie beim oben genannten Beispiel Masterportal basieren alle
-Komponenten auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
+Eine moderne, skalierbare Software besteht heute nicht aus einem monolithischen Stück Code, sondern wird durch modulare Komponenten zusammengesetzt, die einzeln installierbar und bei Bedarf austauschbar sind sowie über offene, möglichst standardisierte Schnittstellen miteinander kommunizieren. So wie beim oben genannten Beispiel Masterportal basieren alle Komponenten auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
 
 - Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
 - Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
