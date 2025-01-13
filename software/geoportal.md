@@ -16,8 +16,6 @@ The [GeoPortal](https://geoportal.muenchen.de/portal/master/) provides basic spa
 
 ---
 
-### About the project
-
 Almost all application scenarios of a smart city, from digital city maps to intelligent traffic control, are based on the central availability of geoinformation and corresponding interfaces through which this data can be integrated into digital services.
 The GeoPortal Munich makes precisely this geoinformation and services available to users from business, science and administration - and not least the citizens themselves - in a user-friendly way: quickly, reliably and digitally.
 
@@ -28,7 +26,7 @@ The GeoPortal is the geodata infrastructure on which the [Digital Twin Munich](h
 
 ![Screenshot of a map of the Munich region with groundwater temperatures in colored shaded areas](/inhouse/geoportal_geothermie_screen.png)
 
-### Architecture
+## Architecture
 
 Most of the components are based on free software and are themselves provided as free software by active and internationally recognized communities in the geodata sector.
 
@@ -40,7 +38,7 @@ Most of the components are based on free software and are themselves provided as
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) as a search engine.
 - With [Node-RED](https://nodered.org/) we convert different types of data (for example sensor data) into the standard
 
-### Improve
+## Improve
 
 We also contribute to the Masterportal by being an active member of the [Implementation Partnership](https://www.masterportal.org/maintainer-group.html), and also contribute financially to the [Development Fund](https://www.masterportal.org/entwicklungsfonds.html).
 In total, we as LHM support the Masterportal with €10,000/year (net) of taxpayers' money.

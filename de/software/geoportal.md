@@ -26,7 +26,7 @@ Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings Mün
 
 ![Screenshot einer Karte der Region München mit Grundwassertemperaturen in farblich schraffierten Flächen](/inhouse/geoportal_geothermie_screen.png)
 
-### Architektur
+## Architektur
 
 Die meisten Komponenten basieren auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
 
@@ -38,7 +38,7 @@ Die meisten Komponenten basieren auf freier Software und werden selber als freie
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine
 - Mit [Node-RED](https://nodered.org/) wandeln wir unterschiedlichste Datentypen (zum Beispiel Sensordaten) in die standardisierte [SensorThingsAPI](https://github.com/opengeospatial/sensorthings).
 
-### Improve
+## Improve
 
 Wir tragen auch zum  Masterportal bei, indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
 Insgesamt fördern wir als LHM das Masterportal mit 10.000 €/pro Jahr (netto) an Steuergeldern.
