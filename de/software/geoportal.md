@@ -16,12 +16,10 @@ Das [GeoPortal](https://geoportal.muenchen.de/portal/master/) bietet raumbezogen
 
 ---
 
-### Über das Projekt
-
 Fast alle Anwendungsszenarien einer Smart City, vom digitalen Stadtplan bis zur intelligenten Verkehrssteuerung, basieren auf der zentralen Verfügbarkeit von Geoinformationen und entsprechender Schnittstellen, über die diese Daten in digitale Services integriert werden können.
 Mit dem GeoPortal München werden genau diese Geoinformationen und Dienste den Anwenderinnen und Anwendern aus Wirtschaft, Wissenschaft, Verwaltung – und nicht zuletzt den Bürgerinnen und Bürgern selbst – benutzerfreundlich zur Verfügung gestellt: schnell, zuverlässig und digital.
 
-Die stadtweite Plattform ist bereits seit Dezember 2018 online und unterstützt zahlreiche Online-Angebote der Landeshauptstadt mit raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder.
+Das GeoPortal unterstützt zahlreiche Online-Angebote der Landeshauptstadt mit raumbezogenen Basisinformationen wie einem amtlichen Stadtplan, Adressen und Luftbilder.
 Fachthemen aus den städtischen Referaten können darauf aufbauen.
 So ist eine Vielfalt an thematischen Inhalten möglich und Zusammenhänge werden schnell und auf einen Blick ersichtlich.
 Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings München](https://muenchen.digital/twin/) aufsetzt.
@@ -30,7 +28,6 @@ Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings Mün
 
 ### Architektur
 
-Eine moderne, skalierbare Software besteht heute nicht aus einem monolithischen Stück Code, sondern wird durch modulare Komponenten zusammengesetzt, die einzeln installierbar und bei Bedarf austauschbar sind sowie über offene, möglichst standardisierte Schnittstellen miteinander kommunizieren.
 Die meisten Komponenten basieren auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
 
 - Das [Masterportal](https://www.masterportal.org/), ein Toolkit basierend auf [OpenLayers](https://openlayers.org/), [Vue.js](vuejs) und [Backbone.js](https://backbonejs.org/), ein Projekt der [Geowerkstatt Hamburg](https://www.hamburg.de/geowerkstatt/).
@@ -41,8 +38,7 @@ Die meisten Komponenten basieren auf freier Software und werden selber als freie
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine
 - Mit [Node-RED](https://nodered.org/) wandeln wir unterschiedlichste Datentypen (zum Beispiel Sensordaten) in die standardisierte [SensorThingsAPI](https://github.com/opengeospatial/sensorthings).
 
-### Was haben wir beigetragen?
+### Improve
 
-Wir nutzen hier also eine reichhaltige Quelle an IT Services und tragen aber auch beim Masterportal zur Pflege & Wartung und Weiterentwicklung bei, indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
-
+Wir tragen auch zum  Masterportal bei, indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
 Insgesamt fördern wir als LHM das Masterportal mit 10.000 €/pro Jahr (netto) an Steuergeldern.
