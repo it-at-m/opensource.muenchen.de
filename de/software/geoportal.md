@@ -35,7 +35,7 @@ Die meisten Komponenten basieren auf freier Software und werden selber als freie
   - Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
   - Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
 - Der [FROST-Server für Sensordaten](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) des Fraunhofer IOSB ist eine Implementierung des [SensorThings-Standards](https://www.ogc.org/standards/sensorthings) des [Open Geospatial Consortiums](https://www.ogc.org/) (OGC).
-- Die freie Datenbank PostgreSQL ist inzwischen zu einem Standard avanciert, das GeoPortal nutzt ebenfalls PostgreSQL und die speziell für Geodaten entwickelte Erweiterung [PostGIS](https://postgis.net).
+- Die freie Datenbank [PostgreSQL](postgresql) ist inzwischen zu einem Standard avanciert, das GeoPortal nutzt ebenfalls PostgreSQL und die speziell für Geodaten entwickelte Erweiterung [PostGIS](https://postgis.net).
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine
 - Mit [Node-RED](https://nodered.org/) wandeln wir unterschiedlichste Datentypen (zum Beispiel Sensordaten) in die standardisierte [SensorThingsAPI](https://github.com/opengeospatial/sensorthings).
 
