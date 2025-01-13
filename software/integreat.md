@@ -24,5 +24,5 @@ The overview of Munich's offerings is also a great help for full-time staff and 
 ## Open Source Sabbatical
 
 We awarded the first [Open Source Sabbatical](../sabbatical) in the first half of 2025 to the [integreat-chat](https://github.com/digitalfabrik/integreat-chat) project to integrate a chat service into the Integreat app.  
-The integreat-chat uses a large language model that is trained with the existing content of the Integreat app.
+The integreat-chat uses a large language model to answer questions based on the content of the Integreat app.
 For incoming requests, the system generates suggested answers for the human agents in our [Zammad](zammad).
