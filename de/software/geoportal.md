@@ -31,8 +31,9 @@ Das GeoPortal ist die Geodateninfrastruktur auf die der [Digitale Zwillings Mün
 Die meisten Komponenten basieren auf freier Software und werden selber als freie Software von aktiven und international anerkannten Communities im Geodatenbereich bereitgestellt.
 
 - Das [Masterportal](https://www.masterportal.org/), ein Toolkit basierend auf [OpenLayers](https://openlayers.org/), [Vue.js](vuejs) und [Backbone.js](https://backbonejs.org/), ein Projekt der [Geowerkstatt Hamburg](https://www.hamburg.de/geowerkstatt/).
-- Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
-- Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
+- Die zentralen Serverkomponenten werden von der [Open Source Geospatial Foundation](https://www.osgeo.org/) zur Verfügung gestellt
+  - Die Kartendienst-Software [Geoserver](https://geoserver.org) mit den OGC-konformen Webservices
+  - Der Metadatenkatalog [GeoNetwork](https://geonetwork-opensource.org) mit ebenfalls OGC-konformen Webservices mit dem Harvesting zu und von anderen Metadatenkatalogen.
 - Der [FROST-Server für Sensordaten](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) des Fraunhofer IOSB ist eine Implementierung des [SensorThings-Standards](https://www.ogc.org/standards/sensorthings) des [Open Geospatial Consortiums](https://www.ogc.org/) (OGC).
 - Die freie Datenbank PostgreSQL ist inzwischen zu einem Standard avanciert, das GeoPortal nutzt ebenfalls PostgreSQL und die speziell für Geodaten entwickelte Erweiterung [PostGIS](https://postgis.net).
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) als Suchmaschine

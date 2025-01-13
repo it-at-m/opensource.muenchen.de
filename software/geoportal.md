@@ -31,8 +31,9 @@ The GeoPortal is the geodata infrastructure on which the [Digital Twin Munich](h
 Most of the components are based on free software and are themselves provided as free software by active and internationally recognized communities in the geodata sector.
 
 - The [Masterportal](https://www.masterportal.org/), a toolkit based on [OpenLayers](https://openlayers.org/), [Vue.js](vuejs) and [Backbone.js](https://backbonejs.org/), a project of [Geowerkstatt Hamburg](https://www.hamburg.de/geowerkstatt/).
-- The map service software [Geoserver](https://geoserver.org) with the OGC compliant web services.
-- The metadata catalog [GeoNetwork](https://geonetwork-opensource.org) with also OGC compliant web services with harvesting to and from other metadata catalogs.
+- The central server components are provided by the [Open Source Geospatial Foundation](https://www.osgeo.org/):
+  - The map service software [Geoserver](https://geoserver.org) with the OGC compliant web services.
+  - The metadata catalog [GeoNetwork](https://geonetwork-opensource.org) with also OGC compliant web services with harvesting to and from other metadata catalogs.
 - Fraunhofer IOSB's [FROST server for sensor data](https://www.iosb.fraunhofer.de/de/projekte-produkte/frostserver.html) is an implementation of the [SensorThings standard](https://www.ogc.org/standards/sensorthings) of the [Open Geospatial Consortium](https://www.ogc.org/) (OGC).
 - The free database PostgreSQL has become a standard, the GeoPortal also uses PostgreSQL and the extension [PostGIS](https://postgis.net), which was developed especially for geodata.
 - [ElasticSearch](https://www.elastic.co/de/elasticsearch/) as a search engine.
