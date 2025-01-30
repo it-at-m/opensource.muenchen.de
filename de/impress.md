@@ -43,9 +43,9 @@ Da Sie sich als Besucher weder registrieren noch einloggen können, erheben wir 
 
 IP-Adresse, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
 
-Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 lit. e) DSGVO i.V.m. Art. 4 BayDSG.
 
-Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist Deutschland.
+Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 lit. e) DSGVO i.V.m. Art. 4 BayDSG, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist Deutschland.
 
 Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
