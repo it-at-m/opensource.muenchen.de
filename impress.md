@@ -43,9 +43,9 @@ Since you cannot register or log in as a visitor, we only collect the following 
 
 IP address, date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request comes and information about the browser and operating system.
 
-This is necessary to display our website and to ensure stability and security. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR.
+This is necessary to display our website and to ensure stability and security. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. e) GDPR i.V.m. para. 4 BayDSG.
 
-This is the recipient of your personal data and acts as a processor for us. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR in not having to maintain a server on our premises ourselves. The server location is Germany.
+This is the recipient of your personal data and acts as a processor for us. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. e) GDPR i.V.m. para. 4 BayDSG in not having to maintain a server on our premises ourselves. The server location is Germany.
 
 You have the right to object to the processing. Whether the objection is successful must be determined as part of a balancing of interests.
 
