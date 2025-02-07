@@ -2,8 +2,10 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
-import lhmLogo from "./logo-lhm.png";
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
+
+const lhmLogo =
+  "https://assets.muenchen.de/logos/lhm/logo-lhm-muenchen-500.png";
 
 const { Layout } = DefaultTheme;
 </script>
