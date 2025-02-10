@@ -62,7 +62,7 @@ In highly standardized IT areas such as operating systems, network components, d
 
 Especially in the area of municipal software we are often challenged [to develop free software ourselves](./publish).
 
-![Software service quadrant model](/SoftwareServiceQuadrantenmodell.png)
+![Software service quadrant model](/SoftwareServiceQuadrantenmodell_en.png)
 
 Structuring of the solution space for IT solutions - the approaches differ depending on the classification from the point of view of the state capital Munich
 
