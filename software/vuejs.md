@@ -13,4 +13,6 @@ __Vue.js__ is a client-side JavaScript web framework for building single-page we
 
 ---
 
-In our reference architecture, Vue.js, along with [Vuetify](./vuetifyjs), is used for almost all [in-house developments](../publish.html), which is why we [sponsor](../improve.html#sponsoring) [Vue.js as a gold sponsor](https://vuejs.org/sponsor/#gold).
+In our reference architecture, Vue.js, together with [Vuetify](./vuetifyjs), is used for almost all [in-house developments](../publish.html).
+The [Geoportal](geoportal) also uses Vue.js with the front-end component [Masterportal](https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev/).
+We therefore [sponsor](../improve.html#sponsoring) [Vue.js as a gold sponsor](https://vuejs.org/sponsor/#gold).
