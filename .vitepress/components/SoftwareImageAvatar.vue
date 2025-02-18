@@ -9,7 +9,7 @@
       v-if="frontmatter && frontmatter.logo"
       :alt="frontmatter.title + ' logo'"
       :src="withBase(frontmatter.logo)"
-      :cover=false
+      :cover="false"
     />
     <span v-else>
       {{ frontmatter.title[0] }}
