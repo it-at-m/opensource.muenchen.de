@@ -9,6 +9,7 @@
       v-if="frontmatter && frontmatter.logo"
       :alt="frontmatter.title + ' logo'"
       :src="withBase(frontmatter.logo)"
+      :cover=false
     />
     <span v-else>
       {{ frontmatter.title[0] }}
@@ -34,6 +35,5 @@ defineProps({
   height: 64px;
   width: 64px;
   padding: 8px;
-  object-fit: scale-down;
 }
 </style>
