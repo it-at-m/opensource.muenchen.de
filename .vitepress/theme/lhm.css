@@ -75,7 +75,7 @@
   clear: both;
 }
 img[src$="#right"],
-img.right {
+.right {
   float: right;
   margin: 0 0 5px 5px;
 }
