@@ -41,5 +41,7 @@ Die meisten Komponenten basieren auf freier Software und werden selber als freie
 
 ## Improve
 
-Wir tragen auch zum  Masterportal bei, indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind, und auch finanziell in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
-Insgesamt fördern wir als LHM das Masterportal mit 10.000 €/pro Jahr (netto) an Steuergeldern.
+Wir tragen auch zum  Masterportal bei:
+
+* indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind und 10.000 €/pro Jahr (netto) in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
+* wir entwicklen das [GDI Geoportal Gateway](https://github.com/it-at-m/geoportal-gateway), ein Gateway um einzelne Fachportale des Masterportals zu veröffentlichen.
