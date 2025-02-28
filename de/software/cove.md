@@ -10,6 +10,7 @@ tags:
   - application
   - start2020
   - k8s
+  - archive
 ---
 
 COVe ermöglichte die Verwaltung von Verdachtsfällen im Rahmen der Covid19-Pandemie. Die Webanwendung wurde im IT-Referat selbst entwickelt.

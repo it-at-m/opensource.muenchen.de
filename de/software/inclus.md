@@ -1,15 +1,14 @@
 ---
 title: Inclus
 developer: LHM
-developerlink: https://inclus.de
 code: https://github.com/it-at-m/inclus
 licensingmodel: open source
 license: MIT
-logo: https://inclus.de/logo192.png
 tags:
 - eigenentwicklung
 - application
 - start2021
+- archive
 sortingPriority: 3
 ---
 Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (halb-) öffentlichen Toiletten in München.
@@ -18,7 +17,7 @@ Inclus bietet mittels einer Karte eine Übersicht über alle barrierefreien, (ha
 
 ## Über das Projekt
 
-Mit der Web-Karten-Anwendung [inclus](https://inclus.de) erhalten Menschen mit Behinderung einen Überblick über alle (halb-) öffentlichen, barrierefreien Toiletten und deren Ausstattung.
+Mit der Web-Karten-Anwendung inclus erhalten Menschen mit Behinderung einen Überblick über alle (halb-) öffentlichen, barrierefreien Toiletten und deren Ausstattung.
 
 Wählt man eine Toilette durch Anklicken auf der Landkarte aus, werden detaillierte Informationen angezeigt wie:
 

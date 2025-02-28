@@ -10,6 +10,7 @@ tags:
   - eigenentwicklung
   - application
   - start2022
+  - archive
 ---
 
 Kinderzeit war ein Ferienplaner für Eltern und Veranstalter\*innen, der in Zusammenarbeit mit der Digital Product School (DPS) entstanden ist.

@@ -10,6 +10,7 @@ tags:
   - eigenentwicklung
   - application
   - start2022
+  - archive
 ---
 
 Kinderzeit was a vacation planner for parents and event organizers, created in collaboration with the Digital Product School (DPS).

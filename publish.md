@@ -28,6 +28,7 @@ Outside the public administration, it serves transparency as well as exchange wi
 <ClientOnly>
 <TagTile
 :available-tags="['eigenentwicklung']"
+:exclude="['archive']"
 show-tags
 show-excerpt
 />

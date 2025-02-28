@@ -27,6 +27,7 @@ Außerhalb der öffentlichen Verwaltung dient er der Transparenz sowie dem Austa
 <ClientOnly>
 <TagTile
 :available-tags="['eigenentwicklung']"
+:exclude="['archive']"
 show-tags
 show-excerpt
 />
