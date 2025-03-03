@@ -1,15 +1,14 @@
 ---
 title: Inclus
 developer: LHM
-developerlink: https://inclus.de
 code: https://github.com/it-at-m/inclus
 licensingmodel: open source
 license: MIT
-logo: https://inclus.de/logo192.png
 tags:
 - eigenentwicklung
 - application
 - start2021
+- archive
 sortingPriority: 3
 ---
 Inclus offers an overview of all accessible, (semi) public toilets in Munich by means of a map.
@@ -18,7 +17,7 @@ Inclus offers an overview of all accessible, (semi) public toilets in Munich by 
 
 ## About the project
 
-The web map application [inclus](https://inclus.de) provides people with disabilities with an overview of all (semi-) public, barrier-free toilets and their equipment.
+The web map application inclus provides people with disabilities with an overview of all (semi-) public, barrier-free toilets and their equipment.
 
 If one selects a toilet by clicking on the map, detailed information is displayed such as:
 
