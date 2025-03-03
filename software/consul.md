@@ -25,5 +25,5 @@ Consul was originally founded by the city of Madrid.
 In 2019 [the Munich City Council](https://www.muenchen-transparent.de/antraege/5651290) initiated the platform for digital citizen participation [unser.muenchen.de](https://unser.muenchen.de).
 Munich uses a version modified for Munich by [demokratie.today](https://demokratie.today).
 
-[![consuldemocracy sponsor ambassador](/logo/sponsor_label_ambassador__115.png)](https://consuldemocracy.org/2024/09/welcoming-our-first-official-project-sponsor/){.right}
+[![consuldemocracy sponsor ambassador](/logo/sponsor_label_ambassador__115.png){.transparent}](https://consuldemocracy.org/2024/09/welcoming-our-first-official-project-sponsor/){.right}
 In order to continue to ensure high quality, we sponsor [Consul as Ambassador Sponsor](https://consuldemocracy.org/2024/09/welcoming-our-first-official-project-sponsor/).
