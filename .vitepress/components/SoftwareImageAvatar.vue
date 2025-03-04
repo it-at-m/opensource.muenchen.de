@@ -2,7 +2,7 @@
   <v-avatar
     size="64"
     rounded="0"
-    color="var(--vp-c-default-soft)"
+    color="#e7e8ec"
     class="thumb mr-2 rounded"
   >
     <v-img
