@@ -85,7 +85,9 @@ img + img {
 
 .infobox img,
 img.transparent {
-  background: #fff;
+    background: #e7e8ec;
+    padding: 8px;
+    border-radius: 4px;
 }
 @media all and (max-width: 450px) {
   .VPNav div.logo a {
