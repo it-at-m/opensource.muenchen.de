@@ -4,7 +4,7 @@ Die Landeshauptstadt München nutzt Cloud-Services.
 
 > In den Fällen, in denen die Sourcing-Strategie die externe Beschaffung von neuen oder bestehenden IT-Services vorsieht, werden bevorzugt Cloud-Services beschafft.
 
-[Sourcing- und Cloud-Strategie der Landeshauptstadt München](https://risi.muenchen.de/risi/dokument/v/5700029) Seite 11
+[Sourcing- und Cloud-Strategie der Landeshauptstadt München](https://risi.muenchen.de/risi/dokument/v/5700029) (Seite 11)
 
 Cloud-Services versprechen flexibler zu sein, können aber auch die Handlungsoptionen einschränken.
 Cloud-Services versprechen durch die Spezialisierung eines Betreibers kostengünstiger zu sein, können aber auch den Preis einseitig diktieren.
@@ -28,4 +28,4 @@ Denn Cloud-Dienste für freie Software gibt es in der Regel bei verschiedenen un
 Und wenn nicht, besteht immer die Möglichkeit auch wieder On-Premises gehen.
 
 
-[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 S. 264
+[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (Seite 264)

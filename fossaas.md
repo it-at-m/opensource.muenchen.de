@@ -4,7 +4,7 @@ The City of Munich uses cloud services.
 
 > In cases where the sourcing strategy provides for the external procurement of new or existing IT services, cloud services are preferably procured.
 
-[Sourcing and cloud strategy of the City of Munich](https://risi.muenchen.de/risi/dokument/v/5700029) page 11
+[Sourcing and cloud strategy of the City of Munich](https://risi.muenchen.de/risi/dokument/v/5700029) (page 11)
 
 Cloud services promise to be more flexible, but can also limit the options for action.
 Cloud services promise to be more cost-effective due to the specialization of an operator, but can also dictate the price unilaterally.
@@ -28,4 +28,4 @@ This is because cloud services for free software are usually available from vari
 And if not, there is always the option of going on-premises again.
 
 
-[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 p. 264
+[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (page 264)
