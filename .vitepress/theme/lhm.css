@@ -83,6 +83,12 @@ img + img {
   margin-top: 15px;
 }
 
+.infobox img,
+img.transparent {
+  background: #e7e8ec;
+  padding: 8px;
+  border-radius: 4px;
+}
 @media all and (max-width: 450px) {
   .VPNav div.logo a {
     overflow: hidden;
