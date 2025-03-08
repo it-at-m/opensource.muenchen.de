@@ -1,14 +1,14 @@
 # FOSSaaS
 
-Die Landeshauptstadt München nutzt Private-Cloud, wie auch Public-Cloud Angebote.
+Die Landeshauptstadt München nutzt Cloud-Services.
 
-> Als Cloud Provider für die Landeshauptstadt München stellen wir sowohl Cloud Services auf unserer eigenen Infrastruktur, als auch Public Cloud Angebote zur Verfügung, die unseren hohen Sicherheitsanforderungen entsprechen.
+> In den Fällen, in denen die Sourcing-Strategie die externe Beschaffung von neuen oder bestehenden IT-Services vorsieht, werden bevorzugt Cloud-Services beschafft.
 
-[Eigenbetrieb it@M – IT-Services](https://stadt.muenchen.de/infos/itm-eigenbetrieb-im-it-referat.html)
+[Sourcing- und Cloud-Strategie der Landeshauptstadt München](https://risi.muenchen.de/risi/dokument/v/5700029) Seite 11
 
-Cloudangebote versprechen flexibler zu sein, können aber auch die Handlungsoptionen einschränken.
-Cloudangebote versprechen durch die Spezialisierung eines Betreibers kostengünstiger zu sein, können aber auch den Preis einseitig diktieren.
-Jeder IT-Service, vor allem Public Cloud Angebote, benötigen daher eine Exit-Strategie um einem Vendor Lock-in entkommen zu können:
+Cloud-Services versprechen flexibler zu sein, können aber auch die Handlungsoptionen einschränken.
+Cloud-Services versprechen durch die Spezialisierung eines Betreibers kostengünstiger zu sein, können aber auch den Preis einseitig diktieren.
+Jeder IT-Service, vor allem Cloud-Services, benötigen daher eine Exit-Strategie um einem Vendor Lock-in entkommen zu können:
 
 > Bei kritischer Dienstleistung: sofortige Übernahme in private Cloud oder bei anderer Public-Cloud muss möglich sein
 
@@ -26,8 +26,6 @@ Muss man einen Cloud-Service, der auf freier Software basiert, migrieren, ist ei
 Man kann freie Software nicht nur mitnehmen, sondern noch besser, die Anwendung ist meist bereits am Exitziel vorhanden.
 Denn Cloud-Dienste für freie Software gibt es in der Regel bei verschiedenen unabhängigen Serviceanbietern.
 Und wenn nicht, besteht immer die Möglichkeit auch wieder On-Premises gehen.
-
-![/fossaas-venn.svg](/fossaas-venn.svg)
 
 
 [^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 S. 264
