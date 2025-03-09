@@ -22,7 +22,10 @@ The remedy can be to only use PaaS services that are based on an open source pro
 
 This applies specifically to the Platform as a Service cloud service model, but also to all other cloud service models in general.
 
-If you have to migrate a cloud service based on free software, an *immediate takeover*, as required by the BSI's exit strategy specifications, is possible due to the fundamental free accessibility of the software.  
+If you have to migrate a cloud service based on free software, an *immediate takeover*, as required by the BSI's exit strategy specifications, is possible due to the fundamental free accessibility of the software.
+
+![/fossaas-venn.svg](/fossaas-venn.svg)
+
 Not only can you take free software with you, but even better, the application is usually already available at the exit destination.
 This is because cloud services for free software are usually available from various independent service providers.
 And if not, there is always the option of going on-premises again.
