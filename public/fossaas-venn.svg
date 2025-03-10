@@ -5,7 +5,8 @@ style="background-color:#fff;" >
   <ellipse stroke-width="2" ry="140" rx="140" id="circle_cloud" cy="150" cx="150" stroke="#000" fill="#fff" fill-opacity="0"/>
   <ellipse stroke-width="2" ry="140" rx="140" id="circle_foss" cy="150" cx="300" stroke="#000" fill="#fff" fill-opacity="0"/>
   <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="cloud" y="150" x="70" stroke-width="0" stroke="#000" fill="#000000">Cloud</text>
-  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="foss" y="150" x="210" stroke-width="0" stroke="#000" fill="#000000">Exit</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="foss" y="135" x="200" stroke-width="0" stroke="#000" fill="#000000">Exit-</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="foss" y="165" x="180" stroke-width="0" stroke="#000" fill="#000000">strategy</text>
   <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="exit" y="150" x="325" stroke-width="0" stroke="#000" fill="#000000">FOSS</text>
  </g>
 </svg>

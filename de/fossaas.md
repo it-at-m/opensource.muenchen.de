@@ -22,7 +22,10 @@ Abhilfe kann darin bestehen, nur PaaS-Dienste zu nutzen, die auf einem Open-Sour
 
 Das gilt speziell für das Cloud-Servicemodell Platform as a Service, aber auch allgemein für alle anderen Cloud-Servicemodelle.
 
-Muss man einen Cloud-Service, der auf freier Software basiert, migrieren, ist eine *sofortige Übernahme*, wie in der Exit-Strategie Vorgaben des BSI gefordert, durch die grundsätzliche freie Zugänglichkeit der Software möglich.  
+Muss man einen Cloud-Service, der auf freier Software basiert, migrieren, ist eine *sofortige Übernahme*, wie in der Exit-Strategie Vorgaben des BSI gefordert, durch die grundsätzliche freie Zugänglichkeit der Software möglich.
+
+![/fossaas-venn.svg](/fossaas-venn.svg)
+
 Man kann freie Software nicht nur mitnehmen, sondern noch besser, die Anwendung ist meist bereits am Exitziel vorhanden.
 Denn Cloud-Dienste für freie Software gibt es in der Regel bei verschiedenen unabhängigen Serviceanbietern.
 Und wenn nicht, besteht immer die Möglichkeit auch wieder On-Premises gehen.
