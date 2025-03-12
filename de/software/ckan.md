@@ -19,8 +19,8 @@ __CKAN__ (Comprehensive Knowledge Archive Network) ist eine webbasierte Datenkat
 
 Wir verwenden CKAN in zwei Projekten:
 
-Über das Portal [opendata.muenchen.de](https://opendata.muenchen.de) wird das Angebot der Landeshauptstadt München an offenen Daten publiziert und in unterschiedlichsten Visualisierungen angeboten.
-
+* Über das öffentliche Portal [opendata.muenchen.de](https://opendata.muenchen.de) wird das Angebot der Landeshauptstadt München an offenen Daten publiziert und in unterschiedlichsten Visualisierungen angeboten.
+* Der Metadatenkatalog (MDK) ist der interne zentrale Katalog für Metadaten aller Daten, Dienste und Anwendungen (z.B. Portale) des Digitalen Zwillings München. Er ermöglicht die zentrale Recherche nach verfügbaren Daten des Geodatenpools.
 Im Rahmen des Projekts [Connected Urban Twins](https://www.connectedurbantwins.de) (CUT) entwickelt München zusammen mit Hamburg und Leipzig den Digitalen Zwilling.
 Die Entwicklung der Projekte erfolgt nutzerorientiert und modular.
 [Alle Projektergebnisse werden frühzeitig geteilt und als „Open Source“ zur Verfügung gestellt.](https://stadt.muenchen.de/infos/connected-urban-twins.html), so wie es die [Regelungen zu Open Source für Modellprojekte Smart Cities des Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen ](https://www.smart-city-dialog.de/regelungen-zu-open-source-fuer-modellprojekte-smart-cities) vorsehen.
