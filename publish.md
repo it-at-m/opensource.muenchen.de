@@ -11,9 +11,11 @@ Since we make our own developments available as open source software, other orga
 
 For this purpose, we have the mandate and backing of politicians:
 
->Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+> Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt. [...]
+> Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen Repository [...] statt.
 
-> The developed source code is made publicly available and placed under a permissive open source license (e.g. EUPL, MIT).
+> The developed source code is made publicly available and placed under a permissive open source [license](./licenses) (e.g. EUPL, MIT). [...]
+> The development takes place on a suitable [public repository](./repositories) [...] right from the start.
 
 _from City Council resolution [Develop new software in an open source context!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
 

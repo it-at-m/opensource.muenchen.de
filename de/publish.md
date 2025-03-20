@@ -12,7 +12,8 @@ Da wir [Eigenentwicklungen](./in-house-development) als Open-Source-Software zur
 
 Dazu haben wir den Auftrag und Rückhalt der Politik:
 
-> Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+> Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-[Lizenz](./licenses) (z.B. EUPL, MIT) gestellt. [...]
+> Die Entwicklung findet von Anfang an auf einem geeigneten [öffentlichen Repository](./repositories) [...] statt.
 
 _aus Stadtrats-Beschluss [Neue Software im Open Source-Kontext entwickeln!](https://risi.muenchen.de/risi/antrag/detail/6289779)_
 
