@@ -11,6 +11,7 @@ tags:
   - application
   - opencore
   - start2020
+  - saas
 ---
 
 **Integreat** ist eine lokale und mehrsprachige Integrations-Plattform für Zugewanderte, die in jeder Kommune ohne Beteiligung der IT-Abteilung eingesetzt werden kann.
