@@ -38,6 +38,10 @@ Die Daten liegen in zwei verschiedenen Datenbanken: Die für die Suche relevante
 
 DAVe kann per [helm chart installiert und betreiben werden](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
 
+Die aktuelle technischen Entwicklung mit interessierten Kommunen führen wir im [Project dave](https://github.com/orgs/it-at-m/projects/14/).
+Dort sammlen wir alle Featurerequests und Bugs aus allen DAVe repositories (code, helm-charts, doku).
+
+
 ## Roadmap
 
 Aktuell können nur Einzelzählungen hochgeladen werden.
