@@ -24,6 +24,8 @@ Der Überblick über die Münchner Angebotslandschaft ist auch eine große Hilfe
 
 ## Open Source Sabbatical
 
-Das erste [Open Source Sabbatical](../sabbatical) im ersten Halbjahr 2025 haben wir an das Projekt [integreat-chat](https://github.com/digitalfabrik/integreat-chat) vergeben, um einen Chat-Service in die Integreat App zu integrieren.  
+Integreat erhielt bereits den [Münchner Innovationspreise 2024 für das Digitales Welcome Center](https://stadt.muenchen.de/news/innovationspreis-muenchen2024.html#id2).
+Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im ersten Halbjahr 2025 haben wir an das Projekt [integreat-chat](https://github.com/digitalfabrik/integreat-chat) vergeben, um einen Chat-Service in die Integreat App zu integrieren.
+
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
 Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
