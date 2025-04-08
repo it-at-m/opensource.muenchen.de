@@ -11,6 +11,7 @@ tags:
   - application
   - opencore
   - start2020
+  - saas
 ---
 
 **Integreat** is a local and multilingual integration platform for immigrants that can be used in any municipality without the involvement of the IT department.
@@ -23,6 +24,8 @@ The overview of Munich's offerings is also a great help for full-time staff and 
 
 ## Open Source Sabbatical
 
-We awarded the first [Open Source Sabbatical](../sabbatical) in the first half of 2025 to the [integreat-chat](https://github.com/digitalfabrik/integreat-chat) project to integrate a chat service into the Integreat app.  
+Integreat has already received the [Munich Innovation Award 2024 for the Digital Welcome Center](https://stadt.muenchen.de/news/innovationspreis-muenchen2024.html#id2).
+In addition, we have awarded the first [Open Source Sabbatical](../sabbatical) in the first half of 2025 to the [integreat-chat](https://github.com/digitalfabrik/integreat-chat) project to integrate a chat service into the Integreat app.
+
 The integreat-chat uses a large language model to answer questions based on the content of the Integreat app.
 For incoming requests, the system generates suggested answers for the human agents in our [Zammad](zammad).
