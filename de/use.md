@@ -5,10 +5,10 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 # Nutzen
 
-Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen für moderne Softwareentwicklung.
-Ohne den Einsatz freier Software ist eine zeitgemäße Softwareentwicklung nicht mehr vorstellbar.
+Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen.
 Man findet freie Software in nahezu allen modernen Softwareprodukten.
-Die Bedeutung und der Einfluss der freien Software auf die Softwareentwicklung sind somit unverzichtbar und unumstritten.
+Die Landeshauptstadt München betreibt eine Vielzahl von freien Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
+Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
 
 Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) sehen dies ebenfalls vor:
 
@@ -18,8 +18,6 @@ Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) s
 
 ## Anwendungen
 
-Die Landeshauptstadt München betreibt eine Vielzahl von Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
-Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
 
 <ClientOnly>
 <TagTile
