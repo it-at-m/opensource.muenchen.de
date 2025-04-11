@@ -26,4 +26,4 @@ uvs highlights include:
 
 ---
 
-We use uv as our singular Python dependency and enviroment management system in applications with AI and machine learning context, such as [MUCGPT](mucgpt).
+We use uv as our singular [Python](python) dependency and enviroment management system in applications with AI and machine learning context, such as [MUCGPT](mucgpt).
