@@ -6,6 +6,8 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 Alle Eigenentwicklungen der Landeshauptstadt München werden unter einer [Open-Source-Lizenz](./licenses#eigenentwicklungen) [veröffentlicht](publish).
 
+
+Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen für moderne Softwareentwicklung.
 Die [Referenzarchitektur für Eigenentwicklungen](https://github.com/it-at-m/refarch) ermöglicht uns eine optimale Wartbarkeit und Skalierbarkeit.
 Auch hier setzen wir auf einen modularen Technologie-Stack aus Open Source Komponenten, was uns ermöglicht Komponenten leicht auszutauschen und zu aktualisieren.
 
