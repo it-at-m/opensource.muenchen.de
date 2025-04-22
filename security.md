@@ -6,7 +6,7 @@ Software security is a crucial requirement, especially when processing and stori
 
 Contributing developers should – like all developers – possess a fundamental understanding of security-relevant aspects. The following points are of particular importance:
 
-### No Publication of Passwords: Passwords must not appear in any Git repository, whether local, on git.muenchen.de, or github.com. Should an incident occur, it is unfortunate but not uncommon. In such cases, the relevant data must be promptly replaced. This may involve additional effort, such as contacting the database team, but it is imperative. The old password is no longer usable in this context and does not necessarily need to be removed from the Git history.
+### No Publication of Passwords: Passwords must not appear in any Git repository, regardless of the platform. If this does occur, the affected data must be promptly changed, even if it incurs additional effort.
 
 ### Confidentiality of Infrastructure Data: It is also crucial to refrain from publishing infrastructure data (e.g., Infrastructure as Code (IaC), OpenShift objects, IP addresses, and internal domains). Although this is not as severe as disclosing passwords, the specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
 

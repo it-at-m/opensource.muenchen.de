@@ -6,9 +6,9 @@ Software Security ist vor allem bei der Verarbeitung und Speicherung von persone
 
 Beitragende Entwickler sollten – wie alle Entwickler – über ein grundlegendes Verständnis sicherheitsrelevanter Aspekte verfügen. Die folgenden Punkte sind hierbei von besonderer Bedeutung:
 
-### Keine Veröffentlichung von Passwörtern: Passwörter dürfen in keinem Git-Repository erscheinen, unabhängig davon, ob es sich um lokale Repositories, git.muenchen.de oder github.com handelt. Sollte es dennoch zu einem Vorfall kommen, ist dies zwar bedauerlich, aber nicht ungewöhnlich. In einem solchen Fall müssen die entsprechenden Daten umgehend ausgetauscht werden. Dies könnte zusätzlichen Aufwand verursachen, beispielsweise die Kontaktaufnahme mit dem Datenbankteam, ist jedoch unerlässlich. Das alte Passwort ist in diesem Kontext ohnehin nicht mehr verwendbar und muss nicht zwingend aus der Git-Historie entfernt werden.
+### Keine Veröffentlichung von Passwörtern: Passwörter dürfen in keinem Git-Repository erscheinen, unabhängig von der Plattform. Sollte es doch vorkommen,  müssen die entsprechenden Daten umgehend ausgetauscht werden, auch wenn dies zusätzlichen Aufwand verursacht.
 
-### Vertraulichkeit von Infrastruktur-Daten**: Es ist ebenfalls unerlässlich, Infrastruktur-Daten (z.B. Infrastructure as Code (IaC), OpenShift-Objekte, IP-Adressen und interne Domains) nicht zu veröffentlichen. Obwohl dies nicht so gravierend ist wie die Offenlegung von Passwörtern, sollten die spezifischen Infrastruktur-Einstellungen der LHM stets vom Applikationscode getrennt und in einem separaten Infrastruktur-Git-Repository abgelegt werden.
+### Vertraulichkeit von Infrastruktur-Daten: Es ist ebenfalls unerlässlich, Infrastruktur-Daten nicht zu veröffentlichen. Obwohl dies nicht so gravierend ist wie die Offenlegung von Passwörtern, sollten die spezifischen Infrastruktur-Einstellungen der LHM stets vom Applikationscode getrennt und in einem separaten Infrastruktur-Git-Repository abgelegt werden.
 
 ### Vermeidung der Nennung von Personen: In Kommentaren sollten keine Namen von Personen erwähnt werden, die nicht direkt im GitHub-Repository mitwirken. Zum Beispiel sollten fachliche Anforderungen nicht mit Formulierungen wie „Herr Maier hat sich gewünscht …“ versehen werden.
 
