@@ -1,23 +1,22 @@
-
 <script setup>
-import TagTile from "../.vitepress/components/TagTile.vue";
+import TagTile from ".vitepress/components/TagTile.vue";
 </script>
 
-# Nutzen
+# Use
 
-Das Ökosystem der freien Software bietet unzählige Lösungen und Anwendungen.
-Man findet freie Software in nahezu allen modernen Softwareprodukten.
-Die Landeshauptstadt München betreibt eine Vielzahl von freien Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
-Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
+The free software ecosystem offers countless solutions and applications.
+Without the use of free software, modern software development is no longer imaginable.
+You can find free software in almost all modern software products.
 
-Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) sehen dies ebenfalls vor:
+The City of Munich operates a large number of applications that are used in various areas.
+These range from administrative applications for internal use to applications for citizens that facilitate access to public services.
+Our [strategic guidelines](principles#legal-and-political-requirements) also provide for this:
 
-> Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
-> Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
+> If economically and technologically or strategically sensible, LHM prioritizes the use of open source solutions, in particular to avoid company dependencies.
+> LHM pursues this approach in both the application and infrastructure areas.
 
 
-## Anwendungen
-
+## Applications
 
 <ClientOnly>
 <TagTile
@@ -28,17 +27,18 @@ show-excerpt
 />
 </ClientOnly>
 
-## Infrastruktur
+## Infrastructure
 
-Die zum Betrieb und zur Entwicklung von Softwareanwendungen benötigte Infrastruktur basiert seit jeher auf Open Source Software.
-Linux, Server, Datenbanken, Verschlüsselung und Programmiersprachen sind größtenteils Open Source.
+The infrastructure needed to run and develop software applications has always been based on open source software.
+Linux, servers, databases, encryption and programming languages are mostly open source.
 
-Das eigene Rechenzentrum der Landeshauptstadt München umfasst ein umfangreiches Portfolio an zentralen Fachanwendungen und Diensten.
-Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, die für den Betrieb dieser Anwendungen und der darunterliegenden Infrastruktur notwendig sind.
+The City of Munich's own data center includes an extensive portfolio of central specialist applications and services.
+In addition, all the necessary resources and services required to operate these applications and the underlying infrastructure are provided.
+
 
 <ClientOnly>
 <TagTile
-:available-tags="['infrastruktur']"
+:available-tags="['infrastruktur']" 
 :exclude="['eigenentwicklung']"
 show-tags
 show-excerpt
