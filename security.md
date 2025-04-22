@@ -6,21 +6,21 @@ Software security is a crucial requirement, especially when processing and stori
 
 Contributing developers should – like all developers – possess a fundamental understanding of security-relevant aspects. The following points are of particular importance:
 
-1. **No Publication of Passwords**: It is essential to avoid publishing passwords (e.g., for databases or external services). Passwords must not appear in any Git repository, whether local, on git.muenchen.de, or github.com. Should an incident occur, it is unfortunate but not uncommon. In such cases, the relevant data must be promptly replaced. This may involve additional effort, such as contacting the database team, but it is imperative. The old password is no longer usable in this context and does not necessarily need to be removed from the Git history.
+### No Publication of Passwords: Passwords must not appear in any Git repository, whether local, on git.muenchen.de, or github.com. Should an incident occur, it is unfortunate but not uncommon. In such cases, the relevant data must be promptly replaced. This may involve additional effort, such as contacting the database team, but it is imperative. The old password is no longer usable in this context and does not necessarily need to be removed from the Git history.
 
-2. **Confidentiality of Infrastructure Data**: It is also crucial to refrain from publishing infrastructure data (e.g., Infrastructure as Code (IaC), OpenShift objects, IP addresses, and internal domains). Although this is not as severe as disclosing passwords, the specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
+### Confidentiality of Infrastructure Data: It is also crucial to refrain from publishing infrastructure data (e.g., Infrastructure as Code (IaC), OpenShift objects, IP addresses, and internal domains). Although this is not as severe as disclosing passwords, the specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
 
-3. **Avoid Mentioning Individuals**: Comments should not mention the names of individuals who do not directly contribute to the GitHub repository. For example, technical requirements should not be phrased as “Mr. Maier has requested …”.
+### Avoid Mentioning Individuals: Comments should not mention the names of individuals who do not directly contribute to the GitHub repository. For example, technical requirements should not be phrased as “Mr. Maier has requested …”.
 
-4. **Sensitive Data in Log Outputs**: Care must be taken to ensure that no sensitive data appears in log outputs.
+### Sensitive Data in Log Outputs: Care must be taken to ensure that no sensitive data appears in log outputs.
 
-5. **Error Details in Frontend Outputs**: Additionally, detailed error messages should not be displayed in frontend outputs.
+### Error Details in Frontend Outputs: Additionally, detailed error messages should not be displayed in frontend outputs.
 
-6. **External Sources**: The loading of resources from external sources, such as JavaScript libraries, should be avoided.
+### External Sources: The loading of resources from external sources, such as JavaScript libraries, should be avoided.
 
-7. **Cryptographic Logic**: The implementation of custom cryptographic logic should be avoided to mitigate security risks.
+### Cryptographic Logic: The implementation of custom cryptographic logic should be avoided to mitigate security risks.
 
-8. **Cookies**: When using cookies, it is important to ensure that the attributes “Secure,” “HttpOnly,” and “SameSite” are used wherever possible.
+### Cookies: When using cookies, it is important to ensure that the attributes “Secure,” “HttpOnly,” and “SameSite” are used wherever possible.
 
 By adhering to these principles, the security of the software can be significantly enhanced.
 
