@@ -8,7 +8,7 @@ Contributing developers should – like all developers – possess a fundamental
 
 ### No Publication of Passwords: Passwords must not appear in any Git repository, regardless of the platform. If this does occur, the affected data must be promptly changed, even if it incurs additional effort.
 
-### Confidentiality of Infrastructure Data: It is also crucial to refrain from publishing infrastructure data (e.g., Infrastructure as Code (IaC), OpenShift objects, IP addresses, and internal domains). Although this is not as severe as disclosing passwords, the specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
+### Confidentiality of Infrastructure Data: It is important not to publish infrastructure data. While this is less severe than the disclosure of passwords, specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
 
 ### Avoid Mentioning Individuals: Comments should not mention the names of individuals who do not directly contribute to the GitHub repository. For example, technical requirements should not be phrased as “Mr. Maier has requested …”.
 
@@ -30,19 +30,13 @@ Unlike other platforms such as GitLab, GitHub does not provide a means for confi
 
 ## Automated Testing
 
-The internal Continuous Integration/Continuous Deployment (CI/CD) process includes the OWASP Dependency Check, which must be integrated into the build process for risk analysis.
-
-On GitHub, the "Advanced Security Policy as Code" should be incorporated into the actions. The global security configuration "it@M Security Config" (for administrators only) must be activated for all repositories. This configuration includes:
-
-- **Push Protection**: Blocks commits that contain supported secret data.
-
-Additionally, the Renovate Bot should be activated to enable fixes for Dependabot alerts (default configuration). It is important to monitor and address all security alerts in the security tab of the repositories.
-
-All open Pull Requests (PR) and issues must be addressed within two weeks. After this period, all open PRs and issues will be assigned to the maintainer of the repository for further handling. The "itm-security" team will be notified of open alerts and will actively reach out to the relevant teams.
+The internal CI/CD process includes the OWASP Dependency Check for risk analysis. On GitHub, the "Advanced Security Policy as Code" should be implemented, and the global security configuration must be activated for all repositories. 
+All open Pull Requests (PR) and issues must be addressed within two weeks. After this period, they will be assigned to the repository maintainer for further handling.
 
 ## Public Security Tests
 
-MGM Security Partners conducts public security tests (penetration tests) for free and open source software (FOSS). In the past, the Federal Office for Information Security (BSI) has reviewed the source code of the messaging service Matrix and the social media application Mastodon, discovering security vulnerabilities in the process. In the result reports, MGM reserves the right to adjust the texts and formats compared to confidential tests so that they can be published.
+MGM Security Partners conducts public security tests (penetration tests) for free and open source software (FOSS). In the past, the Federal Office for Information Security (BSI) has reviewed the source code of the messaging service Matrix and the social media application Mastodon, discovering security vulnerabilities in the process. 
+In the result reports, MGM reserves the right to adjust the texts and formats compared to confidential tests so that they can be published.
 
 ## Web Links
 
