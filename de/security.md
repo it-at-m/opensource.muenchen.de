@@ -6,21 +6,21 @@ Software Security ist vor allem bei der Verarbeitung und Speicherung von persone
 
 Beitragende Entwickler sollten – wie alle Entwickler – über ein grundlegendes Verständnis sicherheitsrelevanter Aspekte verfügen. Die folgenden Punkte sind hierbei von besonderer Bedeutung:
 
-1. **Keine Veröffentlichung von Passwörtern**: Es ist zwingend zu vermeiden, Passwörter (z. B. für Datenbanken oder externe Dienste) zu veröffentlichen. Passwörter dürfen in keinem Git-Repository erscheinen, unabhängig davon, ob es sich um lokale Repositories, git.muenchen.de oder github.com handelt. Sollte es dennoch zu einem Vorfall kommen, ist dies zwar bedauerlich, aber nicht ungewöhnlich. In einem solchen Fall müssen die entsprechenden Daten umgehend ausgetauscht werden. Dies könnte zusätzlichen Aufwand verursachen, beispielsweise die Kontaktaufnahme mit dem Datenbankteam, ist jedoch unerlässlich. Das alte Passwort ist in diesem Kontext ohnehin nicht mehr verwendbar und muss nicht zwingend aus der Git-Historie entfernt werden.
+### Keine Veröffentlichung von Passwörtern: Es ist zwingend zu vermeiden, Passwörter (z. B. für Datenbanken oder externe Dienste) zu veröffentlichen. Passwörter dürfen in keinem Git-Repository erscheinen, unabhängig davon, ob es sich um lokale Repositories, git.muenchen.de oder github.com handelt. Sollte es dennoch zu einem Vorfall kommen, ist dies zwar bedauerlich, aber nicht ungewöhnlich. In einem solchen Fall müssen die entsprechenden Daten umgehend ausgetauscht werden. Dies könnte zusätzlichen Aufwand verursachen, beispielsweise die Kontaktaufnahme mit dem Datenbankteam, ist jedoch unerlässlich. Das alte Passwort ist in diesem Kontext ohnehin nicht mehr verwendbar und muss nicht zwingend aus der Git-Historie entfernt werden.
 
-2. **Vertraulichkeit von Infrastruktur-Daten**: Es ist ebenfalls unerlässlich, Infrastruktur-Daten (z.B. Infrastructure as Code (IaC), OpenShift-Objekte, IP-Adressen und interne Domains) nicht zu veröffentlichen. Obwohl dies nicht so gravierend ist wie die Offenlegung von Passwörtern, sollten die spezifischen Infrastruktur-Einstellungen der LHM stets vom Applikationscode getrennt und in einem separaten Infrastruktur-Git-Repository abgelegt werden.
+### Vertraulichkeit von Infrastruktur-Daten**: Es ist ebenfalls unerlässlich, Infrastruktur-Daten (z.B. Infrastructure as Code (IaC), OpenShift-Objekte, IP-Adressen und interne Domains) nicht zu veröffentlichen. Obwohl dies nicht so gravierend ist wie die Offenlegung von Passwörtern, sollten die spezifischen Infrastruktur-Einstellungen der LHM stets vom Applikationscode getrennt und in einem separaten Infrastruktur-Git-Repository abgelegt werden.
 
-3. **Vermeidung der Nennung von Personen**: In Kommentaren sollten keine Namen von Personen erwähnt werden, die nicht direkt im GitHub-Repository mitwirken. Zum Beispiel sollten fachliche Anforderungen nicht mit Formulierungen wie „Herr Maier hat sich gewünscht …“ versehen werden.
+### Vermeidung der Nennung von Personen: In Kommentaren sollten keine Namen von Personen erwähnt werden, die nicht direkt im GitHub-Repository mitwirken. Zum Beispiel sollten fachliche Anforderungen nicht mit Formulierungen wie „Herr Maier hat sich gewünscht …“ versehen werden.
 
-4. **Sensible Daten in Logausgaben**: Es ist darauf zu achten, dass keine sensiblen Daten in Logausgaben erscheinen.
+### Sensible Daten in Logausgaben: Es ist darauf zu achten, dass keine sensiblen Daten in Logausgaben erscheinen.
 
-5. **Fehlerdetails in Frontendausgaben**: Zudem sollten keine detaillierten Fehlermeldungen in den Frontendausgaben angezeigt werden.
+### Fehlerdetails in Frontendausgaben: Zudem sollten keine detaillierten Fehlermeldungen in den Frontendausgaben angezeigt werden.
 
-6. **Externe Quellen**: Das Nachladen von Ressourcen aus externen Quellen, wie beispielsweise JavaScript-Bibliotheken, sollte vermieden werden.
+### Externe Quellen: Das Nachladen von Ressourcen aus externen Quellen, wie beispielsweise JavaScript-Bibliotheken, sollte vermieden werden.
 
-7. **Kryptografische Logik**: Die Implementierung eigener kryptografischer Logik ist zu unterlassen, um Sicherheitsrisiken zu vermeiden.
+### Kryptografische Logik: Die Implementierung eigener kryptografischer Logik ist zu unterlassen, um Sicherheitsrisiken zu vermeiden.
 
-8. **Cookies**: Bei der Verwendung von Cookies sollte darauf geachtet werden, dass, wo immer möglich, die Attribute „Secure“, „HttpOnly“ und „SameSite“ verwendet werden.
+### Cookies: Bei der Verwendung von Cookies sollte darauf geachtet werden, dass, wo immer möglich, die Attribute „Secure“, „HttpOnly“ und „SameSite“ verwendet werden.
 
 Durch die Beachtung dieser Grundsätze kann die Sicherheit der Software erheblich verbessert werden.
 
