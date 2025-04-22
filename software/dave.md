@@ -39,6 +39,9 @@ The data is stored in two different databases: the data relevant for the search,
 
 DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
 
+We maintain the current technical development with interested communities in [Project dave](https://github.com/orgs/it-at-m/projects/14/).
+There we collect all feature requests and bugs from all DAVe repositories (code, helm-charts, documentation).
+
 
 ## Roadmap
 

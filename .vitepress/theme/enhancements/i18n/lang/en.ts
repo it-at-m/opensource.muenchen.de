@@ -3,6 +3,7 @@ import { localizedMessagesType } from "../utility/types";
 export const enMessages: localizedMessagesType = {
   tags: {
     ai: "AI",
+    archive: "Archive",
     application: "Application",
     development: "Development",
     eigenentwicklung: "Inhouse",
