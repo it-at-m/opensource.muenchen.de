@@ -7,7 +7,8 @@ Die Analyse wird anhand folgender Kriterien durchgeführt:
 
 ## Verbreitung
 
-Existieren bereits relevante Referenzkunden aus diesem Bereich? Community-Aktivitäten auf Github wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.
+Existieren bereits relevante Referenzkunden aus diesem Bereich?
+Community-Aktivitäten auf Github wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.
 
 ## Code Review
 
@@ -25,16 +26,21 @@ Der Fokus liegt dabei auf der potentielle Wartbarkeit und Sicherheit der Softwar
 ## DevOps
 
 Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) nicht älter als _drei_ und der letzte Release nicht älter als _sechs Monate_ sein.
-Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests. Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
+Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests.
+Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
 Sind Code, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar?
-Bereitstellung lauffähiger Container für Kubernetes oder idealerweise Openshift. Das Dockerfile sollte den internen Qualitätsanforderungen (z.B. LHM-Standards) entsprechen.
+Bereitstellung lauffähiger Container für Kubernetes oder idealerweise Openshift.
+Das Dockerfile sollte den internen Qualitätsanforderungen (z.B. LHM-Standards) entsprechen.
 
 ## Sicherheit
 
-Es ist zu prüfen ob Sicherheitsscans vorhanden sind und aktuelle Common Vulnerabilities and Exposures (CVEs) vorliegen. Ist der Dependency-Graph sauber - z.B. auf GitHub - einsehbar?
-Gibt es externe Audits, wie etwa bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)? Liegt eine Software Bill of Materials (SBOM) vor?
+Es ist zu prüfen ob Sicherheitsscans vorhanden sind und aktuelle Common Vulnerabilities and Exposures (CVEs) vorliegen.
+Ist der Dependency-Graph sauber - z.B. auf GitHub - einsehbar?
+Gibt es externe Audits, wie etwa bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
+Liegt eine Software Bill of Materials (SBOM) vor?
 Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der Container Approval Process (CAP) entsprechen?
 
 ## Hersteller
 
-Hat das Projekt einen ansprechbaren Hersteller? Bietet dieser Support oder proprietäre Features? Liegt eine Förderung oder Finanzierung durch Dritte vor?
+Hat das Projekt einen ansprechbaren Hersteller? Bietet dieser Support oder proprietäre Features?
+Liegt eine Förderung oder Finanzierung durch Dritte vor?
