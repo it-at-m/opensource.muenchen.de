@@ -32,7 +32,7 @@ Bereitstellung lauffähiger Container für Kubernetes oder idealerweise Openshif
 ## Sicherheit
 
 Es ist zu prüfen ob Sicherheitsscans vorhanden sind und aktuelle Common Vulnerabilities and Exposures (CVEs) vorliegen. Ist der Dependency-Graph sauber - z.B. auf GitHub - einsehbar?
-Gibt es externe Audits, wie etwa bei curl? Liegt eine Software Bill of Materials (SBOM) vor?
+Gibt es externe Audits, wie etwa bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)? Liegt eine Software Bill of Materials (SBOM) vor?
 Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der Container Approval Process (CAP) entsprechen?
 
 ## Hersteller

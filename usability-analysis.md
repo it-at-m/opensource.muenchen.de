@@ -31,7 +31,7 @@ Provision of runnable containers for Kubernetes or, ideally, OpenShift. The Dock
 ## Security
 
 It should be checked whether security scans are available and if there are current Common Vulnerabilities and Exposures (CVEs). Is the dependency graph clean and viewable, for example, on GitHub?
-Are there external audits, such as those for curl? Is there a Software Bill of Materials (SBOM) available?
+Are there external audits, such as those for [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)? Is there a Software Bill of Materials (SBOM) available?
 For container applications, should the Dockerfile meet the quality criteria of the Container Approval Process (CAP)?
 
 ## Producer
