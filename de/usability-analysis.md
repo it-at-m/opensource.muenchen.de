@@ -5,12 +5,6 @@ Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framew
 
 Die Analyse wird anhand folgender Kriterien durchgeführt:
 
-* Verbreitung
-* Code Review
-* DevOps
-* Sicherheit
-* Hersteller
-
 ## Verbreitung
 
 Existieren bereits relevante Referenzkunden aus diesem Bereich? Community-Aktivitäten auf Github wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.

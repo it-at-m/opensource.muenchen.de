@@ -4,12 +4,6 @@ In order to use or even further develop existing open-source software, it must f
 
 The analysis is conducted based on the following criteria:
 
-* Popularity
-* Code Review
-* DevOps
-* Security
-* Producer
-
 ## Popularity
 
 Are there already relevant reference customers from this field? Community activities on GitHub, such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.
