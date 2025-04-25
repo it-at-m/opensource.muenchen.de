@@ -24,7 +24,7 @@ Der Fokus liegt dabei auf der potentielle Wartbarkeit und Sicherheit der Softwar
 
 ## DevOps
 
-Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) nicht älter als drei und der letzte Release nicht älter als sechs Monate sein.
+Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) nicht älter als _drei_ und der letzte Release nicht älter als _sechs Monate_ sein.
 Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests. Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
 Sind Code, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar?
 Bereitstellung lauffähiger Container für Kubernetes oder idealerweise Openshift. Das Dockerfile sollte den internen Qualitätsanforderungen (z.B. LHM-Standards) entsprechen.

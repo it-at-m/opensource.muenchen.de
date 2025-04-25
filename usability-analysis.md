@@ -23,7 +23,7 @@ The focus is on the potential maintainability and security of the software.
 
 ## DevOps
 
-For the assessment, the last significant contribution (not a documentation update) should be no older than three months, and the last release should be no older than six months.
+For the assessment, the last significant contribution (not a documentation update) should be no older than _three_ months, and the last release should be no older than _six months_.
 Are there current pull requests available, and what is the number of closed or merged pull requests? Is publicly accessible Continuous Integration and Deployment (CI/CD) available?
 Are code, artifacts, releases, containers, etc., available in common repositories?
 Provision of runnable containers for Kubernetes or, ideally, OpenShift. The Dockerfile should meet the internal quality requirements (e.g., LHM standards).
