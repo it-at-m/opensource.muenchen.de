@@ -1,7 +1,7 @@
 # Usability Analysis
 
 In order to use or even further develop existing open-source software, it must first undergo a usability analysis.
-This usability analysis should encompass any open-source software, whether it is intended to be used as a framework, library, development tools, or as completed software.
+All free software should undergo this usability analysis, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or [use](./use.html) as ready-made software.
 
 The analysis is conducted based on the following criteria:
 

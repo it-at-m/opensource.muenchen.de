@@ -1,7 +1,7 @@
 # Nutzbarkeitsanalyse
 
 Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer Nutzbarkeitsanalyse unterzogen werden.
-Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framework, Library, Entwicklungstools oder Use als fertige Software eingesetzt werden soll, durchlaufen.
+Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) oder [Use](./use.html) als fertige Software eingesetzt werden soll, durchlaufen.
 
 Die Analyse wird anhand folgender Kriterien durchgeführt:
 
