@@ -8,7 +8,7 @@ Die Analyse wird anhand folgender Kriterien durchgeführt:
 ## Verbreitung
 
 Existieren bereits relevante Referenzkunden aus diesem Bereich?
-Community-Aktivitäten auf Github wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.
+Community-Aktivitäten auf [öffentlichen Repositories](./repositories.html) wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.
 
 ## Code Review
 
@@ -29,8 +29,7 @@ Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) 
 Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests.
 Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
 Sind Code, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar?
-Bereitstellung lauffähiger Container für Kubernetes oder idealerweise Openshift.
-Das Dockerfile sollte den internen Qualitätsanforderungen (z.B. LHM-Standards) entsprechen.
+Bereitstellung lauffähiger Container für Kubernetes oder idealerweise [Openshift](./software/openshift.html).
 
 ## Sicherheit
 
@@ -38,7 +37,7 @@ Es ist zu prüfen ob Sicherheitsscans vorhanden sind und aktuelle Common Vulnera
 Ist der Dependency-Graph sauber - z.B. auf GitHub - einsehbar?
 Gibt es externe Audits, wie etwa bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
 Liegt eine Software Bill of Materials (SBOM) vor?
-Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der Container Approval Process (CAP) entsprechen?
+Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der [LHM Container Application Platform (CAP)](./software/openshift.html)? entsprechen?
 
 ## Hersteller
 

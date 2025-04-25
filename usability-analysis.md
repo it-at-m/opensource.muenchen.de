@@ -8,7 +8,7 @@ The analysis is conducted based on the following criteria:
 ## Popularity
 
 Are there already relevant reference customers from this field?
-Community activities on GitHub, such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.
+Community activities on [public Repositories](./repositories.html), such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.
 
 ## Code Review
 
@@ -29,8 +29,7 @@ For the assessment, the last significant contribution (not a documentation updat
 Are there current pull requests available, and what is the number of closed or merged pull requests?
 Is publicly accessible Continuous Integration and Deployment (CI/CD) available?
 Are code, artifacts, releases, containers, etc., available in common repositories?
-Provision of runnable containers for Kubernetes or, ideally, OpenShift.
-The Dockerfile should meet the internal quality requirements (e.g., LHM standards).
+Provision of runnable containers for Kubernetes or, ideally, [OpenShift](./software/openshift.html).
 
 ## Security
 
@@ -38,7 +37,7 @@ It should be checked whether security scans are available and if there are curre
 Is the dependency graph clean and viewable, for example, on GitHub?
 Are there external audits, such as those for [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
 Is there a Software Bill of Materials (SBOM) available?
-For container applications, should the Dockerfile meet the quality criteria of the Container Approval Process (CAP)?
+For container applications, should the Dockerfile meet the quality criteria of the [LHM Container Application Platform (CAP)](./software/openshift.html)?
 
 ## Producer
 
