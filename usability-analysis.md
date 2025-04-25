@@ -8,7 +8,7 @@ The analysis is conducted based on the following criteria:
 ## Popularity
 
 Are there already relevant reference customers from this field?
-Community activities on [public Repositories](./repositories.html), such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.
+Community activities on [public Repositories](./repositories.html), such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.[^DevOps_Handbook_stars].
 
 ## Code Review
 
@@ -44,3 +44,8 @@ For container applications, should the Dockerfile meet the quality criteria of t
 Does the project have a contactable producer?
 Does this producer offer support or proprietary features?
 Is there funding or financing from third parties?
+
+
+
+---
+[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

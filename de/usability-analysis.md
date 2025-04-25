@@ -8,7 +8,7 @@ Die Analyse wird anhand folgender Kriterien durchgeführt:
 ## Verbreitung
 
 Existieren bereits relevante Referenzkunden aus diesem Bereich?
-Community-Aktivitäten auf [öffentlichen Repositories](./repositories.html) wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.
+Community-Aktivitäten auf [öffentlichen Repositories](./repositories.html) wie etwa die Anzahl Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine weite Verbreitung sein, dies muss aber nicht sein.[^DevOps_Handbook_stars].
 
 ## Code Review
 
@@ -43,3 +43,7 @@ Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der [LHM 
 
 Hat das Projekt einen ansprechbaren Hersteller? Bietet dieser Support oder proprietäre Features?
 Liegt eine Förderung oder Finanzierung durch Dritte vor?
+
+
+---
+[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
