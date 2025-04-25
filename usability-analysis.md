@@ -1,0 +1,51 @@
+# Usability Analysis
+
+In order to use or even further develop existing open-source software, it must first undergo a usability analysis.
+All free software should undergo this usability analysis, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or [use](./use.html) as ready-made software.
+
+The analysis is conducted based on the following criteria:
+
+## Popularity
+
+Are there already relevant reference customers from this field?
+Community activities on [public Repositories](./repositories.html), such as the number of stars, watchers, contributors, or pull requests, can indicate widespread adoption, but this may not necessarily be the case.[^DevOps_Handbook_stars].
+
+## Code Review
+
+The evaluation of the code should be carried out by an experienced developer who is familiar with the relevant language or framework being used. 
+The following questions should be answered:
+
+* Is a framework being used? If not, what is the reasoning? If so, the selection and integration should be evaluated.
+* Are there any other dependencies (e.g., Redis, Memcached, Elasticsearch), and are these being used in stable, up-to-date versions?
+* Is it a web-based application? If not, why? Perhaps due to large data volumes or graphics, such as CAD.
+* Is there a (preferably external) coding style guide? Is the code written in a comprehensible manner with meaningful names for variables and methods? 
+* What is the estimated onboarding time for a developer?
+
+The focus is on the potential maintainability and security of the software.
+
+## DevOps
+
+For the assessment, the last significant contribution (not a documentation update) should be no older than _three_ months, and the last release should be no older than _six months_.
+Are there current pull requests available, and what is the number of closed or merged pull requests?
+Is publicly accessible Continuous Integration and Deployment (CI/CD) available?
+Are code, artifacts, releases, containers, etc., available in common repositories?
+Provision of runnable containers for Kubernetes or, ideally, [OpenShift](./software/openshift.html).
+
+## Security
+
+It should be checked whether security scans are available and if there are current Common Vulnerabilities and Exposures (CVEs).
+Is the dependency graph clean and viewable, for example, on GitHub?
+Are there external audits, such as those for [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
+Is there a Software Bill of Materials (SBOM) available?
+For container applications, should the Dockerfile meet the quality criteria of the [LHM Container Application Platform (CAP)](./software/openshift.html)?
+
+## Producer
+
+Does the project have a contactable producer?
+Does this producer offer support or proprietary features?
+Is there funding or financing from third parties?
+
+
+
+---
+[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
