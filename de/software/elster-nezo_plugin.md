@@ -1,5 +1,5 @@
 ---
-title: Elster Nezo
+title: Keycloak ELSTER Plugin
 developer: LHM
 code: https://github.com/it-at-m/ELSTER_NEZO_Plugin
 licensingmodel: open source
@@ -11,7 +11,7 @@ tags:
   - start2023
 ---
 
-Mit dem Plugin **Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos** lässt sich über die Open Source Software Keycloak eine Anbindung an das bundesweite Elster Unternehmenskonto herstellen.
+Das __Keycloak ELSTER Plugin__ ist ein Plugin für Keycloak bzw. RH-SSO zur Anbindung des [ELSTER Unternehmenskontos / NEZO](https://mein-unternehmenskonto.de/).
 
 ---
 
