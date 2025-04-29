@@ -6,7 +6,6 @@ code: https://github.com/nvaccess/nvda
 licensingmodel: open source
 logo: /logo/nvda_logo.png
 tags:
-  - sponsor
 ---
 
 **NVDA** (NonVisual Desktop Access) is a powerful open-source screenreader for Microsoft Windows that enables blind and visually impaired users to access digital content.
