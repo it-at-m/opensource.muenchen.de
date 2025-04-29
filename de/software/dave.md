@@ -41,6 +41,9 @@ DAVe kann per [helm chart installiert und betreiben werden](https://artifacthub.
 Die aktuelle technische Entwicklung mit interessierten Kommunen führen wir im [Project dave](https://github.com/orgs/it-at-m/projects/14/).
 Dort sammlen wir alle Featurerequests und Bugs aus allen DAVe repositories (code, helm-charts, doku).
 
+* User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (deutsch)
+* Developer Manual: [/docs](https://github.com/it-at-m/dave/blob/main/docs/src/index.md) (english)
+
 
 ## Roadmap
 
