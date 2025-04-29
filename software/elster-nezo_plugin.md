@@ -35,4 +35,4 @@ The plugin must be installed within Keycloak as described in the readme.
 
 It can also be used for the commercial Keycloak variant RH-SSO 7.6, which is still based on Keycloak 18.0.3 (according to [Component List](https://access.redhat.com/articles/2342881)) or for organizations that still need to use an older Keycloak version.
 
-The plugin is also published on [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugi), a joint public administration platform for the exchange of open source software.
+The plugin is also published on [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugin/), a joint public administration platform for the exchange of open source software.
