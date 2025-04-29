@@ -27,7 +27,7 @@ Das benötigte Plugin für die Keycloak-Version vor 20.0.0, beziehungsweise für
 
 ## Technische Details
 
-Für eine native Anbindung an das [ELSTER Unternehmenskonto (NEZO)](https://mein-unternehmenskonto.de/public/#Startseite) ist Keycloak in der Version vor 20.0.0, sowie in der neuesten Version von RH-SSO 7.6 (zum Zeitpunkt der Plugin-Erstellung im Dezember 2022) nicht geeignet, da dort in der SAML-Response komplexe, ELSTER-eigene Datentypen verwendet werden.
+Für eine native Anbindung an das [ELSTER Unternehmenskonto (NEZO)](https://mein-unternehmenskonto.de/) ist Keycloak in der Version vor 20.0.0, sowie in der neuesten Version von RH-SSO 7.6 (zum Zeitpunkt der Plugin-Erstellung im Dezember 2022) nicht geeignet, da dort in der SAML-Response komplexe, ELSTER-eigene Datentypen verwendet werden.
 
 Ab der Keycloak Version 20.0.0 existiert hierzu eine Anpassung. In den Vorversionen wird aber noch zusätzlicher Code in Form des bereitgestellten Plugins benötigt. Damit können die komplexen Datentypen in einfache Datentypen vom Typ String umwandelt werden, bevor die SAML-Response maschinell gelesen und verarbeitet wird.
 

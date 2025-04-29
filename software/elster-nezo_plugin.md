@@ -27,7 +27,7 @@ The required plugin for the Keycloak version prior to 20.0.0, or for its counter
 
 ## Technical details
 
-Keycloak in the version prior to 20.0.0, as well as in the latest version of RH-SSO 7.6 (at the time of plugin creation in December 2022) is not suitable for a native connection to the [ELSTER Enterprise Account (NEZO)](https://mein-unternehmenskonto.de/public/#Startseite), as complex, ELSTER-specific data types are used there in the SAML response.
+Keycloak in the version prior to 20.0.0, as well as in the latest version of RH-SSO 7.6 (at the time of plugin creation in December 2022) is not suitable for a native connection to the [ELSTER Enterprise Account (NEZO)](https://mein-unternehmenskonto.de/), as complex, ELSTER-specific data types are used there in the SAML response.
 
 As of Keycloak version 20.0.0, an adjustment exists for this. In the previous versions, however, additional code is still required in the form of the plugin provided. This allows the complex data types to be converted to simple data types of type string before the SAML response is read and processed by machine.
 
