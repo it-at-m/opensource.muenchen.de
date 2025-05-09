@@ -106,7 +106,7 @@ export default defineConfig({
           { text: "Repositories", link: "/repositories" },
           { text: "FOSSaaS", link: "/fossaas" },
           { text: "OSPO", link: "/ospo" },
-          { text: "Security", link: "/security"},
+          { text: "Security", link: "/security" },
         ],
       },
     ],
