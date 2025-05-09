@@ -8,6 +8,7 @@ tags:
   - eigenentwicklung
   - application
   - start2022
+  - archive
 ---
 
 Epitaph ermöglicht eine lokale Positionserfassung auf mobilen Endgeräten. Die Open Source Library nutzt die Programmiersprache Dart und das Framework Flutter.

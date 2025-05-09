@@ -8,7 +8,7 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 Nach dem Grundsatz [Public Money Public Code](https://publiccode.eu/de/) entwickeln wir selbst freie Software, sollten wir existierende freie Software nicht [nutzen](./use) oder [verbessern](./improve) können.
 
 Software-Eigenentwicklungen kommen vor allem dann zum Einsatz, wenn keine Lösungen am Markt verfügbar sind oder ein sehr hohes Maß an kommunaler Differenzierung notwendig ist, insbesondere bei kommunalen Fachanwendungen.
-Da wir [Eigenentwicklungen](./in-house-development) als Open-Source-Software zur Verfügung stellen, können auch andere Organisationen und Entwickler\*Innen von unserer Arbeit profitieren und sie weiterentwickeln.
+Da wir [Eigenentwicklungen](./in-house-development) als Open-Source-Software zur Verfügung stellen, können auch andere Organisationen und Entwickler\*innen von unserer Arbeit profitieren und sie weiterentwickeln.
 
 Dazu haben wir den Auftrag und Rückhalt der Politik:
 

@@ -42,6 +42,9 @@ DAVe can be installed and operated via [helm chart](https://artifacthub.io/packa
 We maintain the current technical development with interested communities in [Project dave](https://github.com/orgs/it-at-m/projects/14/).
 There we collect all feature requests and bugs from all DAVe repositories (code, helm-charts, documentation).
 
+* User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (german)
+* Developer Manual: [/docs](https://github.com/it-at-m/dave/blob/main/docs/src/index.md) (english)
+
 
 ## Roadmap
 
