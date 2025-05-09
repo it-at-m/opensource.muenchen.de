@@ -44,7 +44,7 @@ const { Layout } = DefaultTheme;
     <template #layout-bottom>
       <div class="bottom-logo">
         <a
-          href="https://www.muenchen.de/"
+          href="https://stadt.muenchen.de/"
           target="_blank"
         >
           <img
