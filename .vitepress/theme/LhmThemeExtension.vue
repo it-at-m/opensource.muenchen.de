@@ -1,11 +1,15 @@
 <!--.vitepress/theme/MyLayout.vue-->
 <script setup>
+import { useData } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
 
-const lhmLogo =
-  "https://assets.muenchen.de/logos/lhm/logo-lhm-muenchen-500.png";
+const { isDark } = useData();
+
+const ritLogo =
+  "https://assets.muenchen.de/logos/rit/RIT_Basislogo_umbragrau-64.png";
+const lhmLogo = "https://assets.muenchen.de/logos/lhm/logo-lhm-muenchen.svg";
 
 const { Layout } = DefaultTheme;
 </script>
@@ -14,12 +18,12 @@ const { Layout } = DefaultTheme;
     <template #nav-bar-content-after>
       <div class="logo">
         <a
-          href="https://www.muenchen.de/"
+          href="https://muenchen.digital/"
           target="_blank"
         >
           <img
-            :src="lhmLogo"
-            alt="Logo Landeshauptstadt München"
+            :src="ritLogo"
+            alt="Logo München. Digital."
           />
         </a>
       </div>
@@ -35,6 +39,20 @@ const { Layout } = DefaultTheme;
         horizontal
         class="mobile"
       />
+    </template>
+
+    <template #layout-bottom>
+      <div class="bottom-logo">
+        <a
+          href="https://www.muenchen.de/"
+          target="_blank"
+        >
+          <img
+            :src="lhmLogo"
+            alt="Logo Landeshauptstadt München"
+          />
+        </a>
+      </div>
     </template>
   </Layout>
 </template>
@@ -60,8 +78,18 @@ const { Layout } = DefaultTheme;
 }
 
 .logo img {
-  filter: var(--muc-logo-filter);
   height: 28px;
+  filter: var(--muc-logo-filter);
+}
+
+.bottom-logo {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.bottom-logo img {
+  filter: var(--muc-logo-filter);
 }
 
 @media all and (max-width: 1279px) {
