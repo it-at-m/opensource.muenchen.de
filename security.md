@@ -1,46 +1,82 @@
-# Security
+The following text is based on Chapter 2.4 by Dr. Thomas Reeg from *“Open Source in Municipalities – Part 2: Establishing Open Source Governance”* (https://www.kgst.de/doc/20241219A0004), published by [KGSt](https://www.kgst.de/) (Reeg, 2024).
 
-Software security is a crucial requirement, especially when processing and storing personal data. This is particularly true for published software.
+## Security
 
-## Basic Understanding of Security-Relevant Aspects
+Software security is particularly important when processing and storing personal data. This also applies especially to publicly released software. Secure software development is part of broader information security management (ISM), which aims to ensure the secure development and use of software – particularly open source software (OSS) (Reeg, 2024).
 
-Contributing developers should – like all developers – possess a fundamental understanding of security-relevant aspects. The following points are of particular importance:
+### Basic understanding of security-relevant aspects
 
-### No Publication of Passwords: Passwords must not appear in any Git repository, regardless of the platform. If this does occur, the affected data must be promptly changed, even if it incurs additional effort.
+Contributing developers – like all developers – should have a basic understanding of security-relevant aspects. The following points are of particular importance (Reeg, 2024):
 
-### Confidentiality of Infrastructure Data: It is important not to publish infrastructure data. While this is less severe than the disclosure of passwords, specific infrastructure settings should always be separated from the application code and stored in a separate infrastructure Git repository.
+- **Do not publish passwords**  
+  Passwords must not appear in any Git repository, regardless of the platform. If this does happen, the relevant data must be immediately replaced, even if it causes extra effort (Reeg, 2024).
 
-### Avoid Mentioning Individuals: Comments should not mention the names of individuals who do not directly contribute to the GitHub repository. For example, technical requirements should not be phrased as “Mr. Maier has requested …”.
+- **Confidentiality of infrastructure data**  
+  Infrastructure data should not be published. Although this is less critical than exposing passwords, specific infrastructure configurations should always be separated from application code and stored in a separate infrastructure Git repository (Reeg, 2024).
 
-### Sensitive Data in Log Outputs: Care must be taken to ensure that no sensitive data appears in log outputs.
+- **Avoid naming individuals**  
+  Comments should not mention names of individuals who are not directly involved in the GitHub repository. For example, business requirements should not include phrasing such as “Mr. Smith requested...” (Reeg, 2024).
 
-### Error Details in Frontend Outputs: Additionally, detailed error messages should not be displayed in frontend outputs.
+- **Sensitive data in log outputs**  
+  Care must be taken to ensure that no sensitive data appears in log outputs (Reeg, 2024).
 
-### External Sources: The loading of resources from external sources, such as JavaScript libraries, should be avoided.
+- **Error details in frontend output**  
+  Detailed error messages should not be displayed in frontend outputs (Reeg, 2024).
 
-### Cryptographic Logic: The implementation of custom cryptographic logic should be avoided to mitigate security risks.
+- **External resources**  
+  Loading resources from external sources, such as JavaScript libraries, should be avoided (Reeg, 2024).
 
-### Cookies: When using cookies, it is important to ensure that the attributes “Secure,” “HttpOnly,” and “SameSite” are used wherever possible.
+- **Cryptographic logic**  
+  Custom implementation of cryptographic logic should be avoided to prevent security risks (Reeg, 2024).
 
-By adhering to these principles, the security of the software can be significantly enhanced.
+- **Cookies**  
+  When using cookies, attributes such as “Secure,” “HttpOnly,” and “SameSite” should be used whenever possible (Reeg, 2024).
 
-## Reporting Security Vulnerabilities
+By following these principles, software security can be significantly improved (Reeg, 2024).
 
-Unlike other platforms such as GitLab, GitHub does not provide a means for confidential reporting of security issues. Therefore, security-related bugs should not be reported as public, normal issues. Each project must provide the email address opensource@muenchen.de for reporting security-related bugs.
+### Reporting vulnerabilities
 
-## Automated Testing
+Unlike platforms like GitLab, GitHub does not offer a confidential channel for reporting security issues. Therefore, security-related bugs should not be submitted as public issues. Every project must provide the email address opensource@muenchen.de for reporting security vulnerabilities (Reeg, 2024).
 
-The internal CI/CD process includes the OWASP Dependency Check for risk analysis. On GitHub, the "Advanced Security Policy as Code" should be implemented, and the global security configuration must be activated for all repositories. 
-All open Pull Requests (PR) and issues must be addressed within two weeks. After this period, they will be assigned to the repository maintainer for further handling.
+### Automated tests
 
-## Public Security Tests
+The internal CI/CD process includes the OWASP Dependency Check for risk analysis. On GitHub, the “Advanced Security Policy as Code” should be implemented, and the global security configuration must be enabled for all repositories (Reeg, 2024).
 
-MGM Security Partners conducts public security tests (penetration tests) for free and open source software (FOSS). In the past, the Federal Office for Information Security (BSI) has reviewed the source code of the messaging service Matrix and the social media application Mastodon, discovering security vulnerabilities in the process. 
-In the result reports, MGM reserves the right to adjust the texts and formats compared to confidential tests so that they can be published.
+All open pull requests (PRs) and issues must be addressed within two weeks. After this period, they will be assigned to the repository maintainer for further action (Reeg, 2024).
 
-## Web Links
+It is also recommended to create a Software Bill of Materials (SBOM) to transparently list all used OSS components. This allows known vulnerabilities to be detected early and appropriate security measures to be taken (Reeg, 2024).
 
-If there are uncertainties regarding specific points, it is recommended to take a look at the following resources:
+### OSS project maturity
 
-- [IT-Grundschutz-Kompendium](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html)
-- [OWASP List](https://owasp.org/www-project-top-ten/)
+When selecting and using open source software, project maturity is a key criterion for security. The following aspects should be assessed (Reeg, 2024):
+
+- Stability and maturity level of the project  
+- Size and activity of the community  
+- Response time to security vulnerabilities  
+- Quality of communication (e.g. handling of feature requests)  
+- Transparency of release and patch processes  
+
+Cross-referencing vulnerability databases (e.g. CVE) and reviewing code repositories help in forming a realistic risk assessment. OSS generally offers advantages over proprietary software due to its openness, but also requires internal analysis capabilities and defined evaluation criteria (Reeg, 2024).
+
+### Public security testing
+
+MGM Security Partners conducts public penetration tests for free and open source software (FOSS). In the past, the German Federal Office for Information Security (BSI) reviewed the source code of the Matrix messenger service and the Mastodon social media application and discovered vulnerabilities (Reeg, 2024).
+
+MGM reserves the right to edit the results before publication (Reeg, 2024).
+
+### Strategic recommendations and control
+
+A key advantage of OSS is its transparency, which enables thorough security analysis. Control is possible in the OSS context, but requires both personnel and technical resources. Strategically, building internal expertise or cooperating with external OSS service providers can be beneficial. These often offer support models with security-audited updates (Reeg, 2024).
+
+Close coordination between IT management and information security is necessary to implement these requirements. Inter-municipal cooperation can also help to standardize assessment processes, share results, and reduce effort (Reeg, 2024).
+
+## Web Resources
+
+If any points are unclear, it is recommended to consult the following resources:
+
+- IT Baseline Protection Compendium  
+- OWASP Top Ten List
+
+## References
+
+Reeg, T. (2024). Chapter 2.4. In *Open Source in Municipalities – Part 2: Establishing Open Source Governance*. Cologne: KGSt.
