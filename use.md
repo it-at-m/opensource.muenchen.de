@@ -45,3 +45,18 @@ show-tags
 show-excerpt
 />
 </ClientOnly>
+
+## Development
+
+Our [in-house developments](in-house-development.html) are based on an open source technology stack.
+We also use numerous other open source tools in software development.
+
+
+<ClientOnly>
+<TagTile
+:available-tags="['development']"
+:exclude="['eigenentwicklung']"
+show-tags
+show-excerpt
+/>
+</ClientOnly>
