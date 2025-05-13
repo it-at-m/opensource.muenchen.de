@@ -1,15 +1,17 @@
 :root {
-  --vp-c-brand-1: #1462ac;
+  /*official rit colors*/
+  --vp-c-brand-1: #003ceb;
   --vp-c-brand-2: var(--vp-c-brand-1);
   --vp-c-brand-3: var(--vp-c-brand-1);
   --vp-c-brand-soft: var(--vp-c-brand-1);
-
+  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
+  --vp-nav-logo-height: 28px; /*bigger size for the logo*/
   --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/city_day_2400.jpg");
   --muc-logo-filter: invert(0);
 }
 
 .dark {
-  --vp-c-brand-1: #b3d0e7;
+  --vp-c-brand-1: #69fff5;
   --muc-background: url("https://opensource.muenchen.de/assets/backgrounds/wheel_night_2400.jpg");
   --muc-logo-filter: invert(1);
 }
