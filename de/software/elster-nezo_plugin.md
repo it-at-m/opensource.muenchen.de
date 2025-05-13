@@ -1,5 +1,5 @@
 ---
-title: Elster Nezo
+title: Keycloak ELSTER Plugin
 developer: LHM
 code: https://github.com/it-at-m/ELSTER_NEZO_Plugin
 licensingmodel: open source
@@ -11,7 +11,7 @@ tags:
   - start2023
 ---
 
-Mit dem Plugin **Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos** lässt sich über die Open Source Software Keycloak eine Anbindung an das bundesweite Elster Unternehmenskonto herstellen.
+Das __Keycloak ELSTER Plugin__ ist ein Plugin für Keycloak bzw. RH-SSO zur Anbindung des [ELSTER Unternehmenskontos / NEZO](https://mein-unternehmenskonto.de/).
 
 ---
 
@@ -27,7 +27,7 @@ Das benötigte Plugin für die Keycloak-Version vor 20.0.0, beziehungsweise für
 
 ## Technische Details
 
-Für eine native Anbindung an das [ELSTER Unternehmenskonto (NEZO)](https://mein-unternehmenskonto.de/public/#Startseite) ist Keycloak in der Version vor 20.0.0, sowie in der neuesten Version von RH-SSO 7.6 (zum Zeitpunkt der Plugin-Erstellung im Dezember 2022) nicht geeignet, da dort in der SAML-Response komplexe, ELSTER-eigene Datentypen verwendet werden.
+Für eine native Anbindung an das [ELSTER Unternehmenskonto (NEZO)](https://mein-unternehmenskonto.de/) ist Keycloak in der Version vor 20.0.0, sowie in der neuesten Version von RH-SSO 7.6 (zum Zeitpunkt der Plugin-Erstellung im Dezember 2022) nicht geeignet, da dort in der SAML-Response komplexe, ELSTER-eigene Datentypen verwendet werden.
 
 Ab der Keycloak Version 20.0.0 existiert hierzu eine Anpassung. In den Vorversionen wird aber noch zusätzlicher Code in Form des bereitgestellten Plugins benötigt. Damit können die komplexen Datentypen in einfache Datentypen vom Typ String umwandelt werden, bevor die SAML-Response maschinell gelesen und verarbeitet wird.
 
@@ -35,4 +35,4 @@ Das Plugin muss innerhalb von Keycloak installiert werden, wie im Readme beschri
 
 Genutzt werden kann es auch für die kommerzielle Keycloak-Variante RH-SSO 7.6, die noch auf Keycloak 18.0.3 basiert (gemäß [Komponentenliste](https://access.redhat.com/articles/2342881)) oder für Organisationen, die noch eine ältere Keycloak-Version einsetzen müssen.
 
-Das Plugin ist ebenfalls auf [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugi) veröffentlicht, einer gemeinsamen Plattform der öffentlichen Verwaltung für den Austausch von Open Source Software.
+Das Plugin ist ebenfalls auf [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugin/) veröffentlicht, einer gemeinsamen Plattform der öffentlichen Verwaltung für den Austausch von Open Source Software.
