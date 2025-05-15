@@ -16,12 +16,6 @@ Folgende Fragen sollen dabei beantwortet werden:
 
 Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Software.
 
-## DevOps
-
-Software besteht nicht nur aus Quellcode sondern sind eingebettet in Automatisierunge für Testing und Deployment .
-Daher ist zu prüfen ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
-Auserdem ob Quellcode, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar sind.
-
 
 ## Sicherheit
 
@@ -42,5 +36,12 @@ Eine große und engagierte Community kann diese Unterstützung grundsätzlich au
 Denn kommerzieller Support bietet in der Regel eine verlässlichere und professionellere Unterstützung an, was besonders in sicherheits- und betriebskritischen Situationen von Vorteil ist.
 
 Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein.[^DevOps_Handbook_stars].
+
+## DevOps
+
+Software besteht nicht nur aus Quellcode sondern sind eingebettet in Automatisierunge für Testing und Deployment .
+Daher ist zu prüfen ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
+Auserdem ob Quellcode, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar sind.
+
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
