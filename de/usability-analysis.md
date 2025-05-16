@@ -32,8 +32,11 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 
 Die Verfügbarkeit externer Unterstützung ist im professionellen Betrieb als auch bei Änderungswünschen wichtig.
 Diese Unterstützung kann durch eine aktive Community oder einen kommerziellen Anbieter angeboten werden.  
+
 Eine große und engagierte Community kann diese Unterstützung grundsätzlich auch liefern, aber wenn kommerzieller Support angeboten wird, sollte dieser grundsätzlich bevorzugt werden.
-Denn kommerzieller Support bietet in der Regel eine verlässlichere und professionellere Unterstützung an, was besonders in sicherheits- und betriebskritischen Situationen von Vorteil ist.
+Denn kommerzieller Support bietet in der Regel eine verlässlichere und professionellere Unterstützung an, was besonders in sicherheits- und betriebskritischen Situationen von Vorteil ist.  
+Sollte kein kommerzieller Support verfügbar oder zu teuer sein, muss sicher gestellt sein dass wir die notwendigen Kompetenzen im Haus haben.
+Dazu kann es notwendig sein, das wir Schulungen und Weiterbildungen für unsere Mitarbeitenden beschaffen.
 
 Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein.[^DevOps_Handbook_stars].
 

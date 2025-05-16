@@ -31,9 +31,13 @@ However, it must be checked whether IT security is also actively ensured and whe
 ## External support
 
 The availability of external support is important for professional operation as well as for change requests.
-This support can be offered by an active community or a commercial provider.  
+This support can be offered by an active community or a commercial provider.
+
 A large and committed community can also provide this support in principle, but if commercial support is offered, this should always be preferred.
-This is because commercial support generally offers more reliable and professional support, which is particularly advantageous in security and operationally critical situations.
+This is because commercial support generally offers more reliable and professional support, which is particularly advantageous in security and operationally critical situations.  
+If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
+This may require us to procure training and further education for our employees.
+
 
 The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
 
