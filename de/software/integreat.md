@@ -29,3 +29,5 @@ Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im erste
 
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
 Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
+
+Der integreat-chat befindet sich derzeit in Beta-Phase und beantwortet Fragen mit einer Erfolgsrate von über 50%. Etwa 40% der Anfragen waren zu spezifisch für den Chat, so dass die Antwort menschlicher Sachbearbeiter*innen nötig war.
