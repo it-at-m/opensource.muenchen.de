@@ -1,3 +1,8 @@
+<script setup>
+import TagTile from ".vitepress/components/TagTile.vue";
+</script>
+
+
 # FOSSaaS
 
 The City of Munich uses cloud services.
@@ -30,5 +35,17 @@ Not only can you take free software with you, but even better, the application i
 This is because cloud services for free software are usually available from various independent service providers.
 And if not, there is always the option of going on-premises again.
 
+
+## Applications
+
+Applications that we use as SaaS:
+
+<ClientOnly>
+<TagTile
+:available-tags="['saas']"
+show-tags
+show-excerpt
+/>
+</ClientOnly>
 
 [^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (page 264)

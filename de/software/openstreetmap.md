@@ -4,7 +4,6 @@ developerlink: https://openstreetmap.org
 licensingmodel: open source
 logo: /logo/240px-Openstreetmap_logo.svg.png
 tags:
-  - saas
   - kooperation
 ---
 
