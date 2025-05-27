@@ -29,3 +29,5 @@ In addition, we have awarded the first [Open Source Sabbatical](../sabbatical) i
 
 The integreat-chat uses a large language model to answer questions based on the content of the Integreat app.
 For incoming requests, the system generates suggested answers for the human agents in our [Zammad](zammad).
+
+The integreat-chat is currently in beta phase and answers questions with a success rate of over 50%. About 40% of the inquiries were too specific for the chat, requiring responses from human agents. 
