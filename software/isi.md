@@ -1,7 +1,7 @@
 ---
 title: Informationssystem für soziale Infrastrukturplanung
 developer: LHM
-code: https://github.com/it-at-m/isi-frontend
+code: https://github.com/orgs/it-at-m/repositories?q=isi
 licensingmodel: open source
 license: MIT
 logo: https://raw.githubusercontent.com/it-at-m/isi-frontend/dev/images/logo.png
