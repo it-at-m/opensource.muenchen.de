@@ -59,7 +59,8 @@ const { Layout } = DefaultTheme;
             href="https://m-digital.lineupr.com/digitaltag-2025/item/ospo"
             target="_blank"
             rel="noopener noreferrer"
-            >Das Open Source Program Office der Landeshauptstadt München stellt sich vor!</a
+            >Das Open Source Program Office der Landeshauptstadt München stellt
+            sich vor!</a
           >
         </p>
       </div>
@@ -68,7 +69,6 @@ const { Layout } = DefaultTheme;
 </template>
 
 <style scoped>
-
 .banner {
   background-color: var(--vp-c-bg-soft);
   /* Use VitePress background color variable for theme consistency */
@@ -103,8 +103,6 @@ const { Layout } = DefaultTheme;
 .banner a:hover {
   text-decoration: underline;
 }
-
-
 
 .mobile {
   display: none;
