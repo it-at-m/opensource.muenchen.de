@@ -11,6 +11,7 @@ tags:
 - eigenentwicklung
 - start2024
 - ai
+- saas
 sortingPriority: 2
 ---
 __MUCGPT__ is a web interface based on a large language model (LLM) that allows users to chat, summarise text and brainstorm.
