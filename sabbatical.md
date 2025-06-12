@@ -5,14 +5,10 @@ Professionally qualified programmers can participate in open source projects for
 This sabbatical is not only open to employees of the City of Munich, but also to external software developers.
 To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical.[^beschluss][^antrag]
 
-
-## Application
-
-Interested programmers can apply for the sabbatical.
-Participants can work together with the employees of the Open Source Programme Office.
-Applications from women are particularly encouraged.
-
 ## Project selection
+
+Interested programmers can apply for the sabbatical with their project.
+Applications from women are particularly encouraged.
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
 
