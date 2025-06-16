@@ -8,6 +8,7 @@ logo: /logo/Graylog-logo-blk.jpg
 tags:
   - infrastruktur
   - support
+  - observability
 ---
 
 **Graylog** is a platform for central log management, the collection, analysis and visualization of log data.
