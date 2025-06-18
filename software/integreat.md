@@ -30,6 +30,10 @@ In addition, we have awarded the first [Open Source Sabbatical](../sabbatical) i
 The integreat-chat uses a large language model to answer questions based on the content of the Integreat app.
 For incoming requests, the system generates suggested answers for the human agents in our [Zammad](zammad).
 
-The integreat-chat is currently in beta phase and answers questions with a success rate of over 50%. About 40% of the inquiries were too specific for the chat, requiring responses from human agents.
+The chatbot is currently in beta and was specifically enhanced and tested as part of the Munich Integration Assistant (MIA) project. The project evaluated whether an open source chatbot based on state-of-the-art LLMs can provide reliable, multilingual answers while being fully self-hosted to ensure digital sovereignty.
 
-In May 2025, 12 people were once again surveyed in the waiting area of the [Integration counselling (IBZ - language and career)](https://stadt.muenchen.de/service/en-GB/info/abteilung-migration-integration-teilhabe/10426703/) to test the chatbot. The participants asked their own questions and then rated the responses, translations, and linked content. The translations received an average rating of 4.9 out of 5 points, the responses 4 out of 5 stars, and the linked content 4.8 out of 5 points.
+The results are promising: in approximately 50% of cases, the chatbot provides accurate answers, even to more complex inquiries. For questions not covered by existing content, it reliably indicates that no answer is available. The chatbot currently supports 24 languages. Translations are powered by Google Gemma 3, with consistently positive feedback on translation quality.
+
+In May 2025, the integreat-chat was tested with 12 participants in the waiting area of the Integration Counselling Centre IBZ – Language and Career. Translations were rated an average of 4.9 out of 5 points, responses 4 out of 5 stars, and linked content 4.8 out of 5 points.
+
+The chatbot not only supports newcomers seeking information but also eases the workload of staff and complements the existing counselling services — particularly outside of office hours. Integration of the chatbot solution, developed within the MIA project, into the planned Welcome Center of the City of Munich is planned.

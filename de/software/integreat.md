@@ -29,7 +29,11 @@ Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im erste
 
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
 Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
+ 
+Der Chatbot befindet sich derzeit in der Beta-Phase und wurde im Rahmen des Projekts Munich Integration Assistant (MIA) gezielt weiterentwickelt und getestet. Dabei wurde geprüft, ob ein Open Source Chatbot auf Basis aktueller LLMs verlässliche, mehrsprachige Antworten liefern kann und dabei vollständiselbst betrieben wird, um digitale Souveränität zu gewährleisten.
 
-Der integreat-chat befindet sich derzeit in Beta-Phase und beantwortet Fragen mit einer Erfolgsrate von über 50%. Etwa 40% der Anfragen waren zu spezifisch für den Chat, so dass die Antwort menschlicher Sachbearbeiter*innen nötig war.
+Die Ergebnisse sind vielversprechend: In ca. 50 % der Fälle liefert der Chatbot passende Antworten, auch bei komplexeren Anfragen. Bei Fragen ohne hinterlegte Inhalte gibt er zuverlässig Rückmeldung. Der Chatbot ist aktuell für 24 Sprachen aktiviert. Für Übersetzungen wird Google Gemma 3 genutzt, mit durchweg positiver Bewertung der Übersetzungsqualität.
 
-Im Mai 2025 wurden im Wartebereich des [Integrationsberatungszentrums IBZ Sprache und Beruf](https://stadt.muenchen.de/service/info/abteilung-migration-integration-teilhabe/10320352/) erneut 12 Personen befragt, um den Chatbot zu testen. Die Teilnehmenden stellten eigene Fragen und bewerteten anschließend die Antworten, Übersetzungen und verlinkten Inhalte. Die Übersetzungen erhielten dabei durchschnittlich 4,9 von 5 Punkten, die Antworten 4 von 5 Sternen und die verlinkten Inhalte 4,8 von 5 Punkten.
+Im Mai 2025 wurde der integreat-chat im Wartebereich des  [Integrationsberatungszentrums IBZ Sprache und Beruf](https://stadt.muenchen.de/service/info/abteilung-migration-integration-teilhabe/10320352/) mit 12 Personen getestet. Dabei wurden Übersetzungen mit durchschnittlich 4,9 von 5 Punkten, die Antworten mit 4 von 5 Sternen und die verlinkten Inhalte mit 4,8 von 5 Punkten bewertet.
+
+Der Chatbot unterstützt damit nicht nur Ratsuchende, sondern entlastet auch Mitarbeiter/*innen und ergänzt das bestehende Beratungsangebot sinnvoll, besonders außerhalb der Öffnungszeiten. Eine Integration der im MIA-Projekt entwickelten Chatbot-Lösung in das geplante [Welcome Center der Stadt München](https://stadt.muenchen.de/news/welcome-center.html) ist vorgesehen.
