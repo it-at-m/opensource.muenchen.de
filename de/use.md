@@ -15,6 +15,7 @@ Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) s
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
 > Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
 
+Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer [Nutzbarkeitsanalyse](./usability-analysis.md) unterzogen werden.
 
 ## Anwendungen
 
@@ -39,6 +40,22 @@ Darüber hinaus werden alle notwendigen Ressourcen und Services bereitgestellt, 
 <ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']"
+:exclude="['eigenentwicklung']"
+show-tags
+show-excerpt
+/>
+</ClientOnly>
+
+
+
+## Development
+
+Unsere [Eigenentwicklungen](in-house-development.html) basieren auf einem Open Source Technologie-Stack.
+Darüber hinaus setzen wir zahlreiche weitere Open-Source-Tools in der Softwareentwicklung ein.
+
+<ClientOnly>
+<TagTile
+:available-tags="['development']"
 :exclude="['eigenentwicklung']"
 show-tags
 show-excerpt

@@ -1,5 +1,5 @@
 ---
-title: Elster Nezo
+title: Keycloak ELSTER Plugin
 developer: LHM
 code: https://github.com/it-at-m/ELSTER_NEZO_Plugin
 licensingmodel: open source
@@ -11,7 +11,7 @@ tags:
   - start2023
 ---
 
-With the plugin **Elster Nezo - Plugin zur Anbindung des Elster Unternehmenskontos** a connection to the nationwide Elster company account can be established via the open source software Keycloak.
+The __Keycloak ELSTER Plugin__ is a plugin for Keycloak or RH-SSO for connecting the [ELSTER company account / NEZO](https://mein-unternehmenskonto.de/).
 
 ---
 
@@ -27,7 +27,7 @@ The required plugin for the Keycloak version prior to 20.0.0, or for its counter
 
 ## Technical details
 
-Keycloak in the version prior to 20.0.0, as well as in the latest version of RH-SSO 7.6 (at the time of plugin creation in December 2022) is not suitable for a native connection to the [ELSTER Enterprise Account (NEZO)](https://mein-unternehmenskonto.de/public/#Startseite), as complex, ELSTER-specific data types are used there in the SAML response.
+Keycloak in the version prior to 20.0.0, as well as in the latest version of RH-SSO 7.6 (at the time of plugin creation in December 2022) is not suitable for a native connection to the [ELSTER Enterprise Account (NEZO)](https://mein-unternehmenskonto.de/), as complex, ELSTER-specific data types are used there in the SAML response.
 
 As of Keycloak version 20.0.0, an adjustment exists for this. In the previous versions, however, additional code is still required in the form of the plugin provided. This allows the complex data types to be converted to simple data types of type string before the SAML response is read and processed by machine.
 
@@ -35,4 +35,4 @@ The plugin must be installed within Keycloak as described in the readme.
 
 It can also be used for the commercial Keycloak variant RH-SSO 7.6, which is still based on Keycloak 18.0.3 (according to [Component List](https://access.redhat.com/articles/2342881)) or for organizations that still need to use an older Keycloak version.
 
-The plugin is also published on [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugi), a joint public administration platform for the exchange of open source software.
+The plugin is also published on [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/ELSTER_NEZO_Plugin/), a joint public administration platform for the exchange of open source software.

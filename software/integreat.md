@@ -37,3 +37,4 @@ The results are promising: in approximately 50% of cases, the chatbot provides a
 In May 2025, the integreat-chat was tested with 12 participants in the waiting area of the Integration Counselling Centre IBZ – Language and Career. Translations were rated an average of 4.9 out of 5 points, responses 4 out of 5 stars, and linked content 4.8 out of 5 points.
 
 The chatbot not only supports newcomers seeking information but also eases the workload of staff and complements the existing counselling services — particularly outside of office hours. Integration of the chatbot solution, developed within the MIA project, into the planned Welcome Center of the City of Munich is planned.
+
