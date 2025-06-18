@@ -29,3 +29,7 @@ Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im erste
 
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
 Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
+
+Der integreat-chat befindet sich derzeit in Beta-Phase und beantwortet Fragen mit einer Erfolgsrate von über 50%. Etwa 40% der Anfragen waren zu spezifisch für den Chat, so dass die Antwort menschlicher Sachbearbeiter*innen nötig war.
+
+Im Mai 2025 wurden im Wartebereich des [Integrationsberatungszentrums IBZ Sprache und Beruf](https://stadt.muenchen.de/service/info/abteilung-migration-integration-teilhabe/10320352/) erneut 12 Personen befragt, um den Chatbot zu testen. Die Teilnehmenden stellten eigene Fragen und bewerteten anschließend die Antworten, Übersetzungen und verlinkten Inhalte. Die Übersetzungen erhielten dabei durchschnittlich 4,9 von 5 Punkten, die Antworten 4 von 5 Sternen und die verlinkten Inhalte 4,8 von 5 Punkten.
