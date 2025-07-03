@@ -5,14 +5,10 @@ Fachlich qualifizierte Programmierer\*innen können sich für eine begrenzte Zei
 Dieses Sabbatical steht nicht nur Mitarbeiter\*innen der Landeshauptstadt München offen, sondern auch externen Softwareentwickler\*innen.
 Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals.[^beschluss][^antrag]
 
-
-## Bewerbung
-
-Interessierte Programmierer\*innen können sich für das Sabbatical bewerben.
-Die Teilnehmer*innen können mit den Mitarbeiter\*innen des Open Source Programme Office zusammenarbeiten.
-Bewerbungen von Frauen werden besonders unterstützt.
-
 ## Projektauswahl
+
+Interessierte Programmierer\*innen können sich mit ihrem Projekt für das Sabbatical bewerben.
+Bewerbungen von Frauen werden besonders unterstützt.
 
 Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und internen Entwickler*innen.
 
