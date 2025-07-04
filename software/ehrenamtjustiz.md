@@ -8,9 +8,13 @@ tags:
 - application
 - eigenentwicklung
 - start2024
+- k8s
+sortingPriority: 2
 ---
 
 The __Honorary Justice__ application simplifies the processes involved in appointing honorary judges.
+
+---
 
 ## Project
 

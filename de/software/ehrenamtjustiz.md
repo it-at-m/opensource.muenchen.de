@@ -8,9 +8,12 @@ tags:
 - application
 - eigenentwicklung
 - start2024
+- k8s
+sortingPriority: 2
 ---
 Die Anwendung __Ehrenamtjustiz__  vereinfacht die Abläufe rund um die Berufung ehrenamtlicher Richter\*innen.
 
+---
 
 ## Projekt
 
