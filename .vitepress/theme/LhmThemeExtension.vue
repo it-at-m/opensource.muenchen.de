@@ -2,6 +2,7 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
+import EscapeGame from "../components/EscapeGame.vue";
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
 
 const lhmLogo =
@@ -23,6 +24,10 @@ const { Layout } = DefaultTheme;
           />
         </a>
       </div>
+    </template>
+
+    <template #not-found>
+      <EscapeGame />
     </template>
 
     <template #aside-top>
@@ -59,8 +64,7 @@ const { Layout } = DefaultTheme;
             href="https://m-digital.lineupr.com/digitaltag-2025/item/ospo"
             target="_blank"
             rel="noopener noreferrer"
-            >Das Open Source Program Office der Landeshauptstadt München stellt
-            sich vor!</a
+            >Use - Improve - Publish - FOSS bei der Landeshauptstadt München</a
           >
         </p>
       </div>
