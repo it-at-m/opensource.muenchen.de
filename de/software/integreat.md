@@ -28,7 +28,7 @@ Integreat erhielt bereits den [Münchner Innovationspreise 2024 für das Digital
 Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im ersten Halbjahr 2025 an das Projekt [integreat-chat](https://github.com/digitalfabrik/integreat-chat) vergeben, um einen Chat-Service in die Integreat App zu integrieren.
 
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
-Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
+Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter\*innen in unserem [Zammad](zammad).
 
 Der Chatbot befindet sich derzeit in der Beta-Phase und wurde im Rahmen des Projekts Munich Integration Assistant (MIA) gezielt weiterentwickelt und getestet. Dabei wurde geprüft, ob ein Open Source Chatbot auf Basis aktueller LLMs verlässliche, mehrsprachige Antworten liefern kann und dabei vollständiselbst betrieben wird, um digitale Souveränität zu gewährleisten.
 
@@ -36,5 +36,5 @@ Die Ergebnisse sind vielversprechend: In ca. 50 % der Fälle liefert der Chatbot
 
 Im Mai 2025 wurde der integreat-chat im Wartebereich des  [Integrationsberatungszentrums IBZ Sprache und Beruf](https://stadt.muenchen.de/service/info/abteilung-migration-integration-teilhabe/10320352/) mit 12 Personen getestet. Dabei wurden Übersetzungen mit durchschnittlich 4,9 von 5 Punkten, die Antworten mit 4 von 5 Sternen und die verlinkten Inhalte mit 4,8 von 5 Punkten bewertet.
 
-Der Chatbot unterstützt damit nicht nur Ratsuchende, sondern entlastet auch Mitarbeiter/*innen und ergänzt das bestehende Beratungsangebot sinnvoll, besonders außerhalb der Öffnungszeiten. Eine Integration der im MIA-Projekt entwickelten Chatbot-Lösung in das geplante [Welcome Center der Stadt München](https://stadt.muenchen.de/news/welcome-center.html) ist vorgesehen.
+Der Chatbot unterstützt damit nicht nur Ratsuchende, sondern entlastet auch Mitarbeiter\*innen und ergänzt das bestehende Beratungsangebot sinnvoll, besonders außerhalb der Öffnungszeiten. Eine Integration der im MIA-Projekt entwickelten Chatbot-Lösung in das geplante [Welcome Center der Stadt München](https://stadt.muenchen.de/news/welcome-center.html) ist vorgesehen.
 
