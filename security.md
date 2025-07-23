@@ -1,80 +1,93 @@
-The following text is based on Chapter 2.4 by Dr. Thomas Reeg from *“Open Source in Municipalities – Part 2: Establishing Open Source Governance”* (https://www.kgst.de/doc/20241219A0004), published by [KGSt](https://www.kgst.de/) (Reeg, 2024).
-
 ## Security
 
-Software security is particularly important when processing and storing personal data. This also applies especially to publicly released software. Secure software development is part of broader information security management (ISM), which aims to ensure the secure development and use of software – particularly open source software (OSS) (Reeg, 2024).
+Software security is especially important when processing and storing personal data. This applies in particular to published software. Secure software development is part of a broader information security management (ISM) strategy that aims to ensure both in-house development and the use of software – especially Open Source Software (OSS) – are secure.
 
-### Basic understanding of security-relevant aspects
+A key advantage of Open Source Software lies in its transparency, which enables in-depth security analyses. Control is possible in the open source environment, but requires personnel and technical expertise. Strategically, it can be beneficial to build internal competencies or collaborate with external OSS service providers. These often offer support models with security-reviewed updates.
 
-Contributing developers – like all developers – should have a basic understanding of security-relevant aspects. The following points are of particular importance (Reeg, 2024):
+**Security through obscurity** is a problematic approach, as it conveys a false sense of security and merely hides vulnerabilities instead of systematically addressing them. Attackers can still uncover such weaknesses over time, e.g., through reverse engineering. In contrast, OSS relies on transparency. The openly available source code allows for independent reviews and continuous improvement. Security here does not stem from secrecy, but from verifiable and robust mechanisms, supported by community knowledge, proven security practices, and regular updates. Openness not only fosters innovation, but also provides a more reliable long-term security foundation. (See https://wikipedia.org/wiki/Security_through_obscurity)
+
+A close integration of IT management and information security is necessary to meet these requirements. Intermunicipal collaboration can also help standardize evaluation processes, share results, and reduce effort.
+
+This is also the strategic position of the BSI and the AG KRITIS. (+ links)
+
+## Use
+
+### Project Maturity of OSS
+
+When [selecting and using Open Source Software](https://opensource.muenchen.de/de/usability-analysis.html), project maturity is a key criterion for security.  
+No distinction is made between software that is used ([Use](use.md)) and software that is developed in-house – the same requirements apply to both.
+
+A clear advantage of Open Source Software lies in its transparency, which enables deep security analyses in the first place – unlike proprietary software.
+
+However, this transparency can only be effectively used if:
+
+  - sufficient personnel and technical resources are available
+
+  - a systematic evaluation methodology is established
+
+> Platforms such as [Open CoDE](https://www.open-code.de/) support municipalities in the structured evaluation of Open Source Software in use.
+
+### CVE
+
+Comparing with vulnerability databases (e.g., CVE) and inspecting code repositories is helpful to obtain a realistic risk profile. OSS inherently offers advantages over proprietary software due to its openness, but also requires in-house analysis capabilities and defined evaluation criteria.
+
+## Publish
+
+The City of Munich follows the principle of [Public Money, Public Code](https://publiccode.eu/): Software developed in-house should be published as open source wherever possible. The aim is not only to ensure the city's own IT security but also to enable others to securely and transparently reuse the software.
+
+### SBOM
+
+A Software Bill of Materials (SBOM) is a structured list of all components contained in a piece of software, including open source and third-party libraries. It provides transparency about dependencies and helps identify and resolve known vulnerabilities early.
+
+The City of Munich uses SBOMs to specifically improve security in the software supply chain. This follows the recommendations of the [Federal Office for Information Security (BSI)](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/TR-03183-2-SBOM-Anforderungen.html), which defines SBOMs as a central element of cyber resilience in Technical Guideline TR-03183.
+
+The [CycloneDX](https://cyclonedx.org/) format is used for both in-house developed and used software.
+
+The [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html) provides standardized mechanisms for this: in all templates (e.g., Java- and NodeJS-based templates and the API gateway), an SBOM is automatically generated and made available via a standardized endpoint (/actuator/sbom/application). This facilitates security assessment but also poses risks if SBOMs in non-public projects unintentionally disclose confidential information. It is therefore recommended to deactivate the external visibility of the SBOM endpoint for non-public or security-critical applications.
+
+### Automated Tests
+
+The internal CI/CD process includes the OWASP Dependency Check for risk analysis. On GitHub, the "Advanced Security Policy as Code" should be implemented, and the global security configuration must be activated for all repositories.
+
+Security-related pull requests and issues must be addressed within two weeks. After this period, they are forwarded to the respective maintainers.
+
+### Reporting Vulnerabilities
+
+Unlike platforms such as GitLab, GitHub does not offer a way to report security issues confidentially. Therefore, security-related bugs should not be submitted as public, normal issues. Every project must provide a dedicated email address (e.g., [opensource@muenchen.de](mailto:opensource@muenchen.de)) through which vulnerabilities can be reported (Responsible Disclosure).
+
+### Operational Recommendations
+
+Contributing developers – like all developers – should have a fundamental understanding of security-related aspects. The following points are particularly important:
 
 - **Do not publish passwords**  
-  Passwords must not appear in any Git repository, regardless of the platform. If this does happen, the relevant data must be immediately replaced, even if it causes extra effort (Reeg, 2024).
+  Passwords must never appear in any Git repository, regardless of the platform. If this does occur, the affected data must be replaced immediately, even if this causes additional effort.
 
 - **Confidentiality of infrastructure data**  
-  Infrastructure data should not be published. Although this is less critical than exposing passwords, specific infrastructure configurations should always be separated from application code and stored in a separate infrastructure Git repository (Reeg, 2024).
+  Infrastructure data should not be published. Although less severe than password leaks, specific infrastructure settings should always be separated from application code and stored in a dedicated infrastructure Git repository.
 
 - **Avoid naming individuals**  
-  Comments should not mention names of individuals who are not directly involved in the GitHub repository. For example, business requirements should not include phrasing such as “Mr. Smith requested...” (Reeg, 2024).
+  Comments should not mention names of individuals who are not directly involved in the GitHub repository. For example, functional requirements should not be written as "Mr. Maier requested...".
 
-- **Sensitive data in log outputs**  
-  Care must be taken to ensure that no sensitive data appears in log outputs (Reeg, 2024).
+- **Sensitive data in log output**  
+  Ensure that no sensitive data is logged.
 
 - **Error details in frontend output**  
-  Detailed error messages should not be displayed in frontend outputs (Reeg, 2024).
+  Detailed error messages should not be displayed in frontend outputs.
 
-- **External resources**  
-  Loading resources from external sources, such as JavaScript libraries, should be avoided (Reeg, 2024).
+- **External sources**  
+  Avoid loading resources from external sources, such as JavaScript libraries.
 
 - **Cryptographic logic**  
-  Custom implementation of cryptographic logic should be avoided to prevent security risks (Reeg, 2024).
+  Avoid implementing your own cryptographic logic to prevent security risks.
 
 - **Cookies**  
-  When using cookies, attributes such as “Secure,” “HttpOnly,” and “SameSite” should be used whenever possible (Reeg, 2024).
+  When using cookies, make sure the attributes "Secure", "HttpOnly", and "SameSite" are applied wherever possible.
 
-By following these principles, software security can be significantly improved (Reeg, 2024).
+## Weblinks
 
-### Reporting vulnerabilities
+If any points remain unclear, we recommend checking the following resources:
 
-Unlike platforms like GitLab, GitHub does not offer a confidential channel for reporting security issues. Therefore, security-related bugs should not be submitted as public issues. Every project must provide the email address opensource@muenchen.de for reporting security vulnerabilities (Reeg, 2024).
-
-### Automated tests
-
-The internal CI/CD process includes the OWASP Dependency Check for risk analysis. On GitHub, the “Advanced Security Policy as Code” should be implemented, and the global security configuration must be enabled for all repositories (Reeg, 2024).
-
-All open pull requests (PRs) and issues must be addressed within two weeks. After this period, they will be assigned to the repository maintainer for further action (Reeg, 2024).
-
-It is also recommended to create a Software Bill of Materials (SBOM) to transparently list all used OSS components. This allows known vulnerabilities to be detected early and appropriate security measures to be taken (Reeg, 2024).
-
-### OSS project maturity
-
-When selecting and using open source software, project maturity is a key criterion for security. The following aspects should be assessed (Reeg, 2024):
-
-- Stability and maturity level of the project  
-- Size and activity of the community  
-- Response time to security vulnerabilities  
-- Quality of communication (e.g. handling of feature requests)  
-- Transparency of release and patch processes  
-
-Cross-referencing vulnerability databases (e.g. CVE) and reviewing code repositories help in forming a realistic risk assessment. OSS generally offers advantages over proprietary software due to its openness, but also requires internal analysis capabilities and defined evaluation criteria (Reeg, 2024).
-
-### Public security testing
-
-MGM Security Partners conducts public penetration tests for free and open source software (FOSS). In the past, the German Federal Office for Information Security (BSI) reviewed the source code of the Matrix messenger service and the Mastodon social media application and discovered vulnerabilities (Reeg, 2024).
-
-MGM reserves the right to edit the results before publication (Reeg, 2024).
-
-### Strategic recommendations and control
-
-A key advantage of OSS is its transparency, which enables thorough security analysis. Control is possible in the OSS context, but requires both personnel and technical resources. Strategically, building internal expertise or cooperating with external OSS service providers can be beneficial. These often offer support models with security-audited updates (Reeg, 2024).
-
-Close coordination between IT management and information security is necessary to implement these requirements. Inter-municipal cooperation can also help to standardize assessment processes, share results, and reduce effort (Reeg, 2024).
-
-## Web Resources
-
-If any points are unclear, it is recommended to consult the following resources:
-
-- IT Baseline Protection Compendium  
+- IT Baseline Protection Compendium (IT-Grundschutz-Kompendium) https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html — feel free to cite this source
 - OWASP Top Ten List
 
 ## References
