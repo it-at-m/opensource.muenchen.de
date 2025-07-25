@@ -8,7 +8,7 @@ A key advantage of Open Source Software lies in its transparency, which enables 
 
 A close integration of IT management and information security is necessary to meet these requirements. Intermunicipal collaboration can also help standardize evaluation processes, share results, and reduce effort.
 
-This is also the strategic position of the BSI and the AG KRITIS. (+ links)
+The strategic position of the [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), as well as that of the [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource), also advocate the use of open-source software to improve IT security and reduce vendor dependencies.
 
 ## Use
 
@@ -22,10 +22,7 @@ A clear advantage of Open Source Software lies in its transparency, which enable
 However, this transparency can only be effectively used if:
 
   - sufficient personnel and technical resources are available
-
   - a systematic evaluation methodology is established
-
-> Platforms such as [Open CoDE](https://www.open-code.de/) support municipalities in the structured evaluation of Open Source Software in use.
 
 ### CVE
 
@@ -33,7 +30,7 @@ Comparing with vulnerability databases (e.g., CVE) and inspecting code repositor
 
 ## Publish
 
-The City of Munich follows the principle of [Public Money, Public Code](https://publiccode.eu/): Software developed in-house should be published as open source wherever possible. The aim is not only to ensure the city's own IT security but also to enable others to securely and transparently reuse the software.
+The City of Munich follows the principle of [Public Money, Public Code](./publish.md): Software developed in-house should be published as open source wherever possible. The aim is not only to ensure the city's own IT security but also to enable others to securely and transparently reuse the software.
 
 ### SBOM
 
@@ -54,42 +51,3 @@ Security-related pull requests and issues must be addressed within two weeks. Af
 ### Reporting Vulnerabilities
 
 Unlike platforms such as GitLab, GitHub does not offer a way to report security issues confidentially. Therefore, security-related bugs should not be submitted as public, normal issues. Every project must provide a dedicated email address (e.g., [opensource@muenchen.de](mailto:opensource@muenchen.de)) through which vulnerabilities can be reported (Responsible Disclosure).
-
-### Operational Recommendations
-
-Contributing developers – like all developers – should have a fundamental understanding of security-related aspects. The following points are particularly important:
-
-- **Do not publish passwords**  
-  Passwords must never appear in any Git repository, regardless of the platform. If this does occur, the affected data must be replaced immediately, even if this causes additional effort.
-
-- **Confidentiality of infrastructure data**  
-  Infrastructure data should not be published. Although less severe than password leaks, specific infrastructure settings should always be separated from application code and stored in a dedicated infrastructure Git repository.
-
-- **Avoid naming individuals**  
-  Comments should not mention names of individuals who are not directly involved in the GitHub repository. For example, functional requirements should not be written as "Mr. Maier requested...".
-
-- **Sensitive data in log output**  
-  Ensure that no sensitive data is logged.
-
-- **Error details in frontend output**  
-  Detailed error messages should not be displayed in frontend outputs.
-
-- **External sources**  
-  Avoid loading resources from external sources, such as JavaScript libraries.
-
-- **Cryptographic logic**  
-  Avoid implementing your own cryptographic logic to prevent security risks.
-
-- **Cookies**  
-  When using cookies, make sure the attributes "Secure", "HttpOnly", and "SameSite" are applied wherever possible.
-
-## Weblinks
-
-If any points remain unclear, we recommend checking the following resources:
-
-- IT Baseline Protection Compendium (IT-Grundschutz-Kompendium) https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html — feel free to cite this source
-- OWASP Top Ten List
-
-## References
-
-Reeg, T. (2024). Chapter 2.4. In *Open Source in Municipalities – Part 2: Establishing Open Source Governance*. Cologne: KGSt.

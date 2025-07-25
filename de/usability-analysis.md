@@ -11,8 +11,7 @@ Die Analyse wird anhand folgender Kriterien durchgeführt:
 * Community-Aktivitäten auf [öffentlichen Repositories](./repositories.html): Anzahl von Stars, Watchern, Issues, Pull Requests, Diskussionsaktivität
 * Wie groß ist die aktive Entwickler-Community?
 * Ist die Weiterentwicklung des Projekts absehbar sichergestellt?
-
-> _Hinweis_: Eine hohe Anzahl von GitHub-Stars ist **kein verlässlicher Qualitätsindikator**[^DevOps_Handbook_stars].
+* Eine hohe Anzahl von GitHub-Stars ist **kein verlässlicher Qualitätsindikator**[^DevOps_Handbook_stars].
 
 ## Reifegrad und Community
 
@@ -25,8 +24,6 @@ Zu bewerten sind:
 * Anzahl und Aktivität der **Kernentwickler*innen**
 * **Reaktionsfähigkeit** auf Bug-Reports und Sicherheitslücken
 * **Qualität der Kommunikation** (z. B. bei Feature Requests oder im Umgang mit der Community)
-* **Transparenz der Release- und Patchprozesse**
-* Bewertung der Freigabeprozesse unter Zeitdruck: Werden Sicherheitspatches strukturiert und nachvollziehbar veröffentlicht?
 
 ## Code Review
 
@@ -40,7 +37,7 @@ Folgende Fragen sollen dabei beantwortet werden:
 * Existiert ein Coding Styleguide (intern/extern)? Ist der Code verständlich geschrieben mit sprechender Bezeichnung für Variablen und Methoden
 * Wie hoch ist die geschätzte Einarbeitungszeit für neue Entwickler*innen?
 
-> Fokus: Bewertung der potentiellen **Wartbarkeit**, **Lesbarkeit** und **Sicherheit** des Codes.
+Fokus: Bewertung der potentiellen **Wartbarkeit**, **Lesbarkeit** und **Sicherheit** des Codes.
 
 ## DevOps
 
@@ -58,11 +55,18 @@ Gibt es externe Audits, wie etwa bei [curl](https://daniel.haxx.se/blog/2016/11/
 Liegt eine Software Bill of Materials (SBOM) vor?
 Bei Containeranwendungen sollte das Dockerfile den Qualitätskritieren der [LHM Container Application Platform (CAP)](./software/openshift.html)? entsprechen?
 
+###  CVE 
+
+Ein Abgleich mit Schwachstellendatenbanken (z. B. CVE) und die Einsicht in Code-Repositories sind hilfreich, um ein realistisches Risikobild zu erhalten. 
+Darübr hinaus soll geprüft werden,
+
+- ob sogenannte protected branches eingerichtet wurden.
+- ob es verantwortliche Maintainer gibt. 
+
 ## Hersteller
 
 Hat das Projekt einen ansprechbaren Hersteller? Bietet dieser Support oder proprietäre Features?
 Liegt eine Förderung oder Finanzierung durch Dritte vor?
-
 
 ---
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

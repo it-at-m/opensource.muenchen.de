@@ -11,8 +11,7 @@ The analysis is based on the following criteria:
 * Community activity on [public repositories](./repositories.html): number of stars, watchers, issues, pull requests, discussions
 * How large is the active developer community?
 * Is the ongoing development of the project reliably ensured?
-
-> _Note_: A high number of GitHub stars is **not a reliable quality indicator**[^DevOps_Handbook_stars].
+* A high number of GitHub stars is **not a reliable quality indicator**[^DevOps_Handbook_stars].
 
 ## Maturity and Community
 
@@ -40,7 +39,7 @@ The following questions should be addressed:
 * Is there a coding style guide (internal or external)? Is the code clearly written with descriptive naming for variables and methods?
 * What is the estimated onboarding time for new developers?
 
-> Focus: Evaluation of the potential **maintainability**, **readability**, and **security** of the code.
+Focus: Evaluation of the potential **maintainability**, **readability**, and **security** of the code.
 
 ## DevOps
 
@@ -60,6 +59,16 @@ Is the dependency graph clean and publicly visible – e.g., on GitHub?
 Are there external audits, such as [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
 Is a Software Bill of Materials (SBOM) available?
 For container-based applications, does the Dockerfile comply with the quality standards of the [LHM Container Application Platform (CAP)](./software/openshift.html)?
+
+### CVE
+
+Comparing with vulnerability databases (e.g., CVE) and reviewing code repositories is helpful for obtaining a realistic risk assessment.  
+
+In addition, the following should be checked:
+
+- whether so-called protected branches have been set up.
+- whether there are responsible maintainers.
+
 
 ## Producer
 
