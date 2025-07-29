@@ -1,53 +1,48 @@
-# Security
+## Security
 
-Software Security ist vor allem bei der Verarbeitung und Speicherung von personenbezogenen Daten eine wichtige Voraussetzung. Dies gilt insbesondere auch für veröffentlichte Software.
+Software Security ist vor allem bei der Verarbeitung und Speicherung von personenbezogenen Daten eine wichtige Voraussetzung. Dies gilt insbesondere auch für veröffentlichte Software. Sichere Softwareentwicklung ist Teil des umfassenderen Informationssicherheitsmanagements (ISM), das sowohl die Eigenentwicklung als auch den Einsatz von Software – insbesondere Open Source Software (OSS) – sicher gestalten soll.
 
-## Grundlegendes Verständnis für Sicherheitsrelevante Aspekte
+Ein wesentlicher Vorteil von Open Source Software liegt in der Transparenz, die fundierte Sicherheitsanalysen ermöglicht. Kontrolle ist im Open Source Software-Umfeld möglich, setzt jedoch personelle und fachliche Ressourcen voraus. Strategisch sinnvoll kann der Aufbau eigener Kompetenzen oder die Zusammenarbeit mit externen Open Source Software-Dienstleistern sein. Diese bieten oft Support-Modelle mit sicherheitsgeprüften Updates an.
 
-Beitragende Entwickler sollten – wie alle Entwickler – über ein grundlegendes Verständnis sicherheitsrelevanter Aspekte verfügen. Die folgenden Punkte sind hierbei von besonderer Bedeutung:
+[**Security through obscurity**](https://de.wikipedia.org/wiki/Security_through_obscurity) –  also Sicherheit durch Verschleierung, ist ein problematischer Ansatz, da er ein trügerisches Sicherheitsgefühl vermittelt und Schwachstellen lediglich versteckt, statt sie systematisch zu beheben. Angreifer können solche Lücken über Zeit dennoch aufdecken, etwa durch Reverse Engineering. Im Gegensatz dazu setzt Open Source Software auf Transparenz. Der offen zugängliche Quellcode ermöglicht unabhängige Prüfungen und kontinuierliche Verbesserung. Sicherheit entsteht hier nicht durch Geheimhaltung, sondern durch überprüfbare und robuste Mechanismen, gestützt durch Community-Wissen, bewährte Sicherheitspraktiken und regelmäßige Updates. Offenheit fördert nicht nur Innovation, sondern bietet langfristig eine verlässlichere Sicherheitsbasis.
 
-### Keine Veröffentlichung von Passwörtern: Es ist zwingend zu vermeiden, Passwörter (z. B. für Datenbanken oder externe Dienste) zu veröffentlichen. Passwörter dürfen in keinem Git-Repository erscheinen, unabhängig davon, ob es sich um lokale Repositories, git.muenchen.de oder github.com handelt. Sollte es dennoch zu einem Vorfall kommen, ist dies zwar bedauerlich, aber nicht ungewöhnlich. In einem solchen Fall müssen die entsprechenden Daten umgehend ausgetauscht werden. Dies könnte zusätzlichen Aufwand verursachen, beispielsweise die Kontaktaufnahme mit dem Datenbankteam, ist jedoch unerlässlich. Das alte Passwort ist in diesem Kontext ohnehin nicht mehr verwendbar und muss nicht zwingend aus der Git-Historie entfernt werden.
+Auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), sowie der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource). fordern den Einsatz von Open-Source-Software zur Verbesserung der IT-Sicherheit und Reduzierung von Herstellerabhängigkeiten.
 
-### Vertraulichkeit von Infrastruktur-Daten**: Es ist ebenfalls unerlässlich, Infrastruktur-Daten (z.B. Infrastructure as Code (IaC), OpenShift-Objekte, IP-Adressen und interne Domains) nicht zu veröffentlichen. Obwohl dies nicht so gravierend ist wie die Offenlegung von Passwörtern, sollten die spezifischen Infrastruktur-Einstellungen der LHM stets vom Applikationscode getrennt und in einem separaten Infrastruktur-Git-Repository abgelegt werden.
+## Use
 
-### Vermeidung der Nennung von Personen: In Kommentaren sollten keine Namen von Personen erwähnt werden, die nicht direkt im GitHub-Repository mitwirken. Zum Beispiel sollten fachliche Anforderungen nicht mit Formulierungen wie „Herr Maier hat sich gewünscht …“ versehen werden.
+### Projektreife von OSS
 
-### Sensible Daten in Logausgaben: Es ist darauf zu achten, dass keine sensiblen Daten in Logausgaben erscheinen.
+Bei der [Auswahl und Nutzung von Open Source Software](./usability-analysis.md) ist die Projektreife ein zentrales Kriterium für die Sicherheit. 
+Dabei wird kein Unterschied gemacht zwischen eingesetzter ([Use](use.md)) und intern entwickelter (Inhouse) Software, für beide gelten dieselben Anforderungen.
 
-### Fehlerdetails in Frontendausgaben: Zudem sollten keine detaillierten Fehlermeldungen in den Frontendausgaben angezeigt werden.
+Ein klarer Vorteil von Open Source Software liegt in ihrer Transparenz, die tiefgreifende Sicherheitsanalysen überhaupt erst ermöglicht – im Gegensatz zu proprietärer Software
 
-### Externe Quellen: Das Nachladen von Ressourcen aus externen Quellen, wie beispielsweise JavaScript-Bibliotheken, sollte vermieden werden.
+Diese Transparenz kann jedoch nur dann effektiv genutzt werden, wenn:
 
-### Kryptografische Logik: Die Implementierung eigener kryptografischer Logik ist zu unterlassen, um Sicherheitsrisiken zu vermeiden.
+  - ausreichende personelle und fachliche Ressourcen vorhanden sind
+  - eine systematische Bewertungsmethodik etabliert ist
 
-### Cookies: Bei der Verwendung von Cookies sollte darauf geachtet werden, dass, wo immer möglich, die Attribute „Secure“, „HttpOnly“ und „SameSite“ verwendet werden.
+  In unserer [Nutzbarkeitsanalyse von freier Software](https://opensource.muenchen.de/de/usability-analysis.html#sicherheit) ist Sicherheit daher neben Codequalität der wichtigste Faktor.
 
-Durch die Beachtung dieser Grundsätze kann die Sicherheit der Software erheblich verbessert werden.
+## Publish
 
-## Meldung von Sicherheitsanfälligkeiten
+Die Landeshauptstadt München verfolgt den Grundsatz [Public Money, Public Code](./publish.md): Eigenentwickelte Software soll, wo immer möglich, als Open Source veröffentlicht werden. Ziel ist es, nicht nur die eigene IT-Sicherheit zu gewährleisten, sondern auch Dritten eine sichere, transparente und nachvollziehbare Nachnutzung zu ermöglichen.
 
-Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden. Jedes Projekt muss die E-Mail-Adresse opensource@muenchen.de angeben, um sicherheitsrelevante Bugs zu melden.
+### SBOM
 
-## Automatisierte Tests
+Eine Software Bill of Materials (SBOM) ist eine strukturierte Auflistung aller in einer Software enthaltenen Komponenten, einschließlich Open Source und Drittanbieter-Bibliotheken. Sie schafft Transparenz über Abhängigkeiten und unterstützt dabei, bekannte Sicherheitslücken frühzeitig zu identifizieren und zu beheben.
+Die Landeshauptstadt München setzt SBOMs ein, um die Sicherheit in der Software-Lieferkette gezielt zu verbessern. Sie folgt damit den Empfehlungen des [BSI](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/TR-03183-2-SBOM-Anforderungen.html), das in der Technischen Richtlinie TR-03183 SBOMs als zentrales Element für Cyber-Resilienz definiert.
 
-Im internen Continuous Integration/Continuous Deployment (CI/CD) Prozess ist der OWASP Dependency Check integriert, der zur Risikoanalyse zwingend in den Build-Prozess einbezogen werden muss. 
+Bei intern entwickelter Software wird das [CycloneDX](https://cyclonedx.org/)-Format verwendet.
 
-Auf GitHub sollte in den Aktionen die "Advanced Security Policy as Code" integriert werden. Für alle Repositories muss die globale Sicherheitskonfiguration "it@M Security Config" (nur für Administratoren) aktiviert werden. Diese Konfiguration umfasst unter anderem:
+Die [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html ) stellt hierfür standardisierte Mechanismen bereit: In allen Vorlagen (z. B. Java- und NodeJS-basierten Templates sowie dem API-Gateway) wird automatisch eine SBOM erzeugt und über einen standardisierten Endpunkt (/actuator/sbom/application) bereitgestellt. Dies erleichtert die Sicherheitsbewertung, birgt aber auch Risiken, wenn etwa SBOMs in nicht-öffentlichen Projekten unbeabsichtigt vertrauliche Informationen offenlegen. Deshalb wird empfohlen, bei nicht öffentlichen oder sicherheitskritischen Anwendungen die externe Sichtbarkeit des SBOM-Endpunkts zu deaktivieren. 
 
-- **Push-Schutz**: Blockiert Commits, die unterstützte geheime Daten enthalten.
+### Automatisierte Tests
 
-Zusätzlich sollte der Renovate-Bot aktiviert werden, um Fixes für Dependabot-Alerts zu ermöglichen (Standardkonfiguration). Es ist wichtig, alle Sicherheitswarnungen im Sicherheitsbereich der Repositories zu beachten und entsprechend zu bearbeiten.
+Der interne CI/CD-Prozess umfasst den OWASP Dependency Check zur Risikoanalyse. Auf GitHub sollte die "Advanced Security Policy as Code" implementiert werden, und die globale Sicherheitskonfiguration muss für alle Repositories aktiviert werden.
 
-Alle geöffneten Pull Requests (PR) und Issues müssen zeitnah, innerhalb von zwei Wochen, bearbeitet werden. Nach Ablauf dieser Frist werden alle offenen PR und Issues dem Maintainer des Repositories zur weiteren Bearbeitung zugewiesen. Das Team "itm-security" wird über offene Alerts informiert und wird aktiv auf die betreffenden Teams zugehen.
+Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen Maintainer weitergeleitet.
 
-## Öffentliche Sicherheitstests
+### Meldung von Sicherheitslücken
 
-MGM Security Partners führt öffentliche Sicherheitstests (Penetrationstests) für freie und Open Source Software (FOSS) durch. In der Vergangenheit hat das Bundesamt für Sicherheit in der Informationstechnik (BSI) den Quellcode des Messenger-Dienstes Matrix und der Social-Media-Anwendung Mastodon überprüft und dabei Sicherheitsanfälligkeiten entdeckt.
-In den Ergebnisberichten behält sich MGM das Recht vor, die Texte und Formate im Vergleich zu vertraulichen Tests anzupassen, sodass sie veröffentlicht werden können. 
-
-## Weblinks
-
-Falls Unklarheiten zu bestimmten Punkten bestehen, wird empfohlen, einen Blick auf die folgenden Ressourcen zu werfen:
-
-- [IT-Grundschutz-Kompendium](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html)
-- [OWASP-Liste](https://owasp.org/www-project-top-ten/)
+Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden. Jedes Projekt muss eine dedizierte E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, über die Sicherheitslücken gemeldet werden können (Responsible Disclosure).
