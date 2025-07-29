@@ -21,8 +21,8 @@ A clear advantage of Open Source Software lies in its transparency, which enable
 
 However, this transparency can only be effectively used if:
 
-  - sufficient personnel and technical resources are available
-  - a systematic evaluation methodology is established
+- sufficient personnel and technical resources are available
+- a systematic evaluation methodology is established
 
 ### CVE
 
