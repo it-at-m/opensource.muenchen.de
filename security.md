@@ -24,6 +24,8 @@ However, this transparency can only be effectively used if:
 - sufficient personnel and technical resources are available
 - a systematic evaluation methodology is established
 
+In our [usability analysis of free software](usability-analysis#security), security is therefore the most important factor alongside code quality.
+
 ### CVE
 
 Comparing with vulnerability databases (e.g., CVE) and inspecting code repositories is helpful to obtain a realistic risk profile. OSS inherently offers advantages over proprietary software due to its openness, but also requires in-house analysis capabilities and defined evaluation criteria.

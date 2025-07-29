@@ -22,7 +22,7 @@ Diese Transparenz kann jedoch nur dann effektiv genutzt werden, wenn:
 - ausreichende personelle und fachliche Ressourcen vorhanden sind
 - eine systematische Bewertungsmethodik etabliert ist
 
-In unserer [Nutzbarkeitsanalyse von freier Software](https://opensource.muenchen.de/de/usability-analysis.html#sicherheit) ist Sicherheit daher neben Codequalität der wichtigste Faktor.
+In unserer [Nutzbarkeitsanalyse von freier Software](usability-analysis#sicherheit) ist Sicherheit daher neben Codequalität der wichtigste Faktor.
 
 ## Publish
 
