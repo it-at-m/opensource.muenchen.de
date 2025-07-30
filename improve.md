@@ -84,7 +84,7 @@ show-excerpt
 
 To incorporate specific requirements and improvements into existing open source projects, the City of Munich directly commissions the respective developers or maintainers of the software. This ensures that enhancements are implemented in line with the city's needs while also benefiting the wider public.
 
-The City typically allocates between 10 and 30 person-days per project to implement new features, improve existing ones, or carry out important adaptations.
+The City of Munich commissions specific development work to implement new features, improve existing ones, or carry out important adaptations.
 All work is done directly within the original project and remains fully open source.
 
 
