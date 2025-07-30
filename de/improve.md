@@ -74,3 +74,19 @@ show-tags
 show-excerpt
 />
 </ClientOnly>
+
+
+### Feature-Funding - Auftragsarbeit
+
+Um spezifische Anforderungen und Wünsche in bestehende Open-Source-Projekte einzubringen, beauftragt die Landeshauptstadt München gezielt die jeweiligen Entwickler\*Innen oder Maintainer. So stellen wir sicher, dass Weiterentwicklungen im Sinne der Stadt und ihrer Nutzer*Innen umgesetzt werden und gleichzeitig der Allgemeinheit zugutekommen.
+
+Dafür vergibt die Landeshauptstadt München 10 bis 30 Personentage pro Projekt, um neue Funktionen umzusetzen, bestehende zu verbessern oder wichtige Anpassungen vorzunehmen. Die Umsetzung erfolgt direkt im Originalprojekt und bleibt damit vollständig Open Source.
+
+
+<ClientOnly>
+<TagTile
+:available-tags="['featurefunding']"
+show-tags
+show-excerpt
+/>
+</ClientOnly>

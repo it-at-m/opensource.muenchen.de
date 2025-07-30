@@ -8,6 +8,7 @@ licensingmodel: open source
 logo: /logo/300px-Alfresco-logo.svg.png
 tags:
   - application
+  - featurefunding
 ---
 
 The cooperation platform **Alfresco** offers the possibility of cooperation with external parties, e.g. in the context of committee work (district committees) or with engineering firms.

@@ -10,6 +10,7 @@ export interface Tags {
     opencore: string;
     sponsor: string;
     support: string;
+    featurefunding: string;
     start2023: string;
     start2022: string;
     start2021: string;
