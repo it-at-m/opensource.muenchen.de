@@ -8,6 +8,7 @@ tags:
 - support
 - infrastruktur
 - devstack
+- observability
 ---
 Auf der Kubernetes Plattform __Openshift__ werden interne, als auch externe Services betrieben.
 

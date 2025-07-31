@@ -10,6 +10,7 @@ logo: /logo/320px-CheckMK_logo.svg.png
 tags:
   - infrastruktur
   - opencore
+  - observability
 sortingPriority: 2
 ---
 

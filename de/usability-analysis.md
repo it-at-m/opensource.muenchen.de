@@ -63,10 +63,23 @@ Darübr hinaus soll geprüft werden,
 - ob sogenannte protected branches eingerichtet wurden.
 - ob es verantwortliche Maintainer gibt. 
 
-## Hersteller
+## externe Unterstützung
 
-Hat das Projekt einen ansprechbaren Hersteller? Bietet dieser Support oder proprietäre Features?
-Liegt eine Förderung oder Finanzierung durch Dritte vor?
+Die Verfügbarkeit externer Unterstützung ist im professionellen Betrieb als auch bei Änderungswünschen wichtig.
+Diese Unterstützung kann durch eine aktive Community oder einen kommerziellen Anbieter angeboten werden.  
 
----
+Eine große und engagierte Community kann diese Unterstützung grundsätzlich auch liefern, aber wenn kommerzieller Support angeboten wird, sollte dieser grundsätzlich bevorzugt werden.
+Denn kommerzieller Support bietet in der Regel eine verlässlichere und professionellere Unterstützung an, was besonders in sicherheits- und betriebskritischen Situationen von Vorteil ist.  
+Sollte kein kommerzieller Support verfügbar oder zu teuer sein, muss sicher gestellt sein dass wir die notwendigen Kompetenzen im Haus haben.
+Dazu kann es notwendig sein, das wir Schulungen und Weiterbildungen für unsere Mitarbeitenden beschaffen.
+
+Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein.[^DevOps_Handbook_stars].
+
+## DevOps
+
+Software besteht nicht nur aus Quellcode sondern ist eingebettet in Automatisierungen für Testing und Deployment.
+Daher ist zu prüfen ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
+Auserdem ob Quellcode, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar sind.
+
+
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

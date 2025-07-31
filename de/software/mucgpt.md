@@ -11,6 +11,7 @@ tags:
 - eigenentwicklung
 - start2024
 - ai
+- saas
 sortingPriority: 2
 ---
 __MUCGPT__ ist eine Webanwendung, die auf einem Sprachmodell (LLM) basiert und es Benutzern ermöglicht, zu chatten, Texte zusammenzufassen und MindMaps zu generieren.

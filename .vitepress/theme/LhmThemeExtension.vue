@@ -2,6 +2,7 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
+import EscapeGame from "../components/EscapeGame.vue";
 import SoftwareInfoBox from "./SoftwareInfoBox.vue";
 
 const lhmLogo =
@@ -25,6 +26,10 @@ const { Layout } = DefaultTheme;
       </div>
     </template>
 
+    <template #not-found>
+      <EscapeGame />
+    </template>
+
     <template #aside-top>
       <software-info-box :frontmatter="$frontmatter" />
     </template>
@@ -40,6 +45,41 @@ const { Layout } = DefaultTheme;
 </template>
 
 <style scoped>
+.banner {
+  background-color: var(--vp-c-bg-soft);
+  /* Use VitePress background color variable for theme consistency */
+  padding: 1rem;
+  /* Adjust top padding to account for nav bar height */
+  text-align: center;
+  color: var(--vp-c-text-1);
+  /* Use VitePress text color variable */
+  border-bottom: 1px solid var(--vp-c-divider);
+  /* Add a subtle bottom border */
+}
+
+@media (min-width: 768px) {
+  .banner {
+    padding-top: calc(var(--vp-nav-height) + 1rem);
+    /* Adjust top padding to account for nav bar height on larger screens */
+  }
+}
+
+.banner p {
+  margin: 0;
+  /* Remove default paragraph margin */
+  font-size: 0.9rem;
+  /* Slightly smaller font size */
+}
+.banner a {
+  color: var(--vp-c-brand);
+  /* Use VitePress brand color for links */
+  text-decoration: none;
+  font-weight: 500;
+}
+.banner a:hover {
+  text-decoration: underline;
+}
+
 .mobile {
   display: none;
 }

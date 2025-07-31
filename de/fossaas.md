@@ -1,3 +1,8 @@
+<script setup>
+import TagTile from "../.vitepress/components/TagTile.vue";
+</script>
+
+
 # FOSSaaS
 
 Die Landeshauptstadt München nutzt Cloud-Services.
@@ -29,6 +34,19 @@ Muss man einen Cloud-Service, der auf freier Software basiert, migrieren, ist ei
 Man kann freie Software nicht nur mitnehmen, sondern noch besser, die Anwendung ist meist bereits am Exitziel vorhanden.
 Denn Cloud-Dienste für freie Software gibt es in der Regel bei verschiedenen unabhängigen Serviceanbietern.
 Und wenn nicht, besteht immer die Möglichkeit auch wieder On-Premises gehen.
+
+## Anwendungen
+
+Anwendungen die wir als SaaS einsetzen:
+
+<ClientOnly>
+<TagTile
+:available-tags="['saas']"
+show-tags
+show-excerpt
+/>
+</ClientOnly>
+
 
 
 [^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (Seite 264)
