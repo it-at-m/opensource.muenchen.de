@@ -1,12 +1,19 @@
 ## Security
 
-Software Security ist vor allem bei der Verarbeitung und Speicherung von personenbezogenen Daten eine wichtige Voraussetzung. Dies gilt insbesondere auch für veröffentlichte Software. Sichere Softwareentwicklung ist Teil des umfassenderen Informationssicherheitsmanagements (ISM), das sowohl die Eigenentwicklung als auch den Einsatz von Software – insbesondere Open Source Software (OSS) – sicher gestalten soll.
+Software Security ist vor allem bei der Verarbeitung und Speicherung von personenbezogenen Daten eine wichtige Voraussetzung.
+Dies gilt insbesondere auch für veröffentlichte Software.
+Sichere Softwareentwicklung ist Teil des umfassenderen Informationssicherheitsmanagements (ISM), das sowohl die Eigenentwicklung als auch den Einsatz von Software – insbesondere Open Source Software (OSS) – sicher gestalten soll.
 
-Ein wesentlicher Vorteil von Open Source Software liegt in der __Transparenz__, die fundierte Sicherheitsanalysen ermöglicht. Kontrolle ist im Open Source Software-Umfeld möglich, setzt jedoch personelle und fachliche Ressourcen voraus. Strategisch sinnvoll kann der Aufbau eigener Kompetenzen oder die Zusammenarbeit mit externen Open Source Software-Dienstleistern sein. Diese bieten oft Support-Modelle mit sicherheitsgeprüften Updates an.
+Ein wesentlicher Vorteil von Open Source Software liegt in der __Transparenz__, die fundierte Sicherheitsanalysen ermöglicht. Kontrolle ist im Open Source Software-Umfeld möglich, setzt jedoch personelle und fachliche Ressourcen voraus.
+Strategisch sinnvoll kann der Aufbau eigener Kompetenzen oder die Zusammenarbeit mit externen Open Source Software-Dienstleistern sein.
+Diese bieten oft Support-Modelle mit sicherheitsgeprüften Updates an.
 
-[**Security through obscurity**](https://de.wikipedia.org/wiki/Security_through_obscurity) –  also Sicherheit durch Verschleierung, ist ein problematischer Ansatz, da er ein trügerisches Sicherheitsgefühl vermittelt und Schwachstellen lediglich versteckt, statt sie systematisch zu beheben. Angreifer können solche Lücken über Zeit dennoch aufdecken, etwa durch Reverse Engineering. Im Gegensatz dazu setzt Open Source Software auf Transparenz. Der offen zugängliche Quellcode ermöglicht unabhängige Prüfungen und kontinuierliche Verbesserung. Sicherheit entsteht hier nicht durch Geheimhaltung, sondern durch überprüfbare und robuste Mechanismen, gestützt durch Community-Wissen, bewährte Sicherheitspraktiken und regelmäßige Updates. Offenheit fördert nicht nur Innovation, sondern bietet langfristig eine verlässlichere Sicherheitsbasis.
+[**Security through obscurity**](https://de.wikipedia.org/wiki/Security_through_obscurity) –  also Sicherheit durch Verschleierung, ist ein problematischer Ansatz, da er ein trügerisches Sicherheitsgefühl vermittelt und Schwachstellen lediglich versteckt, statt sie systematisch zu beheben. Angreifer können solche Lücken über Zeit dennoch aufdecken, etwa durch Reverse Engineering.
+Im Gegensatz dazu setzt Open Source Software auf Transparenz.
+Der offen zugängliche Quellcode ermöglicht unabhängige Prüfungen und kontinuierliche Verbesserung. Sicherheit entsteht hier nicht durch Geheimhaltung, sondern durch überprüfbare und robuste Mechanismen, gestützt durch Community-Wissen, bewährte Sicherheitspraktiken und regelmäßige Updates.
+Offenheit fördert nicht nur Innovation, sondern bietet langfristig eine verlässlichere Sicherheitsbasis.
 
-Auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), sowie der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource). fordern den Einsatz von Open-Source-Software zur Verbesserung der IT-Sicherheit und Reduzierung von Herstellerabhängigkeiten.
+Auch die strategische Position des [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html), sowie der [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource) fordern den Einsatz von Open-Source-Software zur Verbesserung der IT-Sicherheit und Reduzierung von Herstellerabhängigkeiten.
 
 ## Use
 
@@ -26,23 +33,30 @@ In unserer [Nutzbarkeitsanalyse von freier Software](usability-analysis#sicherhe
 
 ## Publish
 
-Die Landeshauptstadt München verfolgt den Grundsatz [Public Money, Public Code](./publish.md): Eigenentwickelte Software soll, wo immer möglich, als Open Source veröffentlicht werden. Ziel ist es, nicht nur die eigene IT-Sicherheit zu gewährleisten, sondern auch Dritten eine sichere, transparente und nachvollziehbare Nachnutzung zu ermöglichen.
+Die Landeshauptstadt München verfolgt den Grundsatz [Public Money, Public Code](./publish.md):
+Eigenentwickelte Software soll, wo immer möglich, als Open Source veröffentlicht werden.
+Ziel ist es, nicht nur die eigene IT-Sicherheit zu gewährleisten, sondern auch Dritten eine sichere, transparente und nachvollziehbare Nachnutzung zu ermöglichen.
 
 ### SBOM
 
-Eine Software Bill of Materials (SBOM) ist eine strukturierte Auflistung aller in einer Software enthaltenen Komponenten, einschließlich Open Source und Drittanbieter-Bibliotheken. Sie schafft Transparenz über Abhängigkeiten und unterstützt dabei, bekannte Sicherheitslücken frühzeitig zu identifizieren und zu beheben.
+Eine Software Bill of Materials (SBOM) ist eine strukturierte Auflistung aller in einer Software enthaltenen Komponenten, einschließlich Open Source und Drittanbieter-Bibliotheken.
+Sie schafft Transparenz über Abhängigkeiten und unterstützt dabei, bekannte Sicherheitslücken frühzeitig zu identifizieren und zu beheben.
 Die Landeshauptstadt München setzt SBOMs ein, um die Sicherheit in der Software-Lieferkette gezielt zu verbessern. Sie folgt damit den Empfehlungen des [BSI](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/TR-03183-2-SBOM-Anforderungen.html), das in der Technischen Richtlinie TR-03183 SBOMs als zentrales Element für Cyber-Resilienz definiert.
 
 Bei intern entwickelter Software wird das [CycloneDX](https://cyclonedx.org/)-Format verwendet.
 
-Die [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html ) stellt hierfür standardisierte Mechanismen bereit: In allen Vorlagen (z. B. Java- und NodeJS-basierten Templates sowie dem API-Gateway) wird automatisch eine SBOM erzeugt und über einen standardisierten Endpunkt (/actuator/sbom/application) bereitgestellt. Dies erleichtert die Sicherheitsbewertung, birgt aber auch Risiken, wenn etwa SBOMs in nicht-öffentlichen Projekten unbeabsichtigt vertrauliche Informationen offenlegen. Deshalb wird empfohlen, bei nicht öffentlichen oder sicherheitskritischen Anwendungen die externe Sichtbarkeit des SBOM-Endpunkts zu deaktivieren. 
+Die [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html ) stellt hierfür standardisierte Mechanismen bereit:
+In allen Vorlagen (z. B. Java- und NodeJS-basierten Templates sowie dem API-Gateway) wird automatisch eine SBOM erzeugt und über einen standardisierten Endpunkt (/actuator/sbom/application) bereitgestellt. Dies erleichtert die Sicherheitsbewertung, birgt aber auch Risiken, wenn etwa SBOMs in nicht-öffentlichen Projekten unbeabsichtigt vertrauliche Informationen offenlegen.
+Deshalb wird empfohlen, bei nicht öffentlichen oder sicherheitskritischen Anwendungen die externe Sichtbarkeit des SBOM-Endpunkts zu deaktivieren.
 
 ### Automatisierte Tests
 
-Der interne CI/CD-Prozess umfasst den OWASP Dependency Check zur Risikoanalyse. Auf GitHub sollte die "Advanced Security Policy as Code" implementiert werden, und die globale Sicherheitskonfiguration muss für alle Repositories aktiviert werden.
+Der interne CI/CD-Prozess umfasst den OWASP Dependency Check zur Risikoanalyse.
+Auf GitHub sollte die "Advanced Security Policy as Code" implementiert werden, und die globale Sicherheitskonfiguration muss für alle Repositories aktiviert werden.
 
 Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen Maintainer weitergeleitet.
 
 ### Meldung von Sicherheitslücken
 
-Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden. Jedes Projekt muss eine dedizierte E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, über die Sicherheitslücken gemeldet werden können (Responsible Disclosure).
+Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden.
+Jedes Projekt muss eine dedizierte E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, über die Sicherheitslücken gemeldet werden können (Responsible Disclosure).
