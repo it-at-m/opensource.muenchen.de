@@ -21,8 +21,10 @@ A clear advantage of Open Source Software lies in its transparency, which enable
 
 However, this transparency can only be effectively used if:
 
-  - sufficient personnel and technical resources are available
-  - a systematic evaluation methodology is established
+- sufficient personnel and technical resources are available
+- a systematic evaluation methodology is established
+
+In our [usability analysis of free software](usability-analysis#security), security is therefore the most important factor alongside code quality.
 
 ### CVE
 

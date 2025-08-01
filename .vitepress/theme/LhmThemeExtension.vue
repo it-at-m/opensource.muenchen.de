@@ -41,34 +41,6 @@ const { Layout } = DefaultTheme;
         class="mobile"
       />
     </template>
-    <template #layout-top>
-      <div class="banner">
-        <h1>
-          Trefft uns auf dem
-          <a
-            href="https://m-digital.lineupr.com/digitaltag-2025/schedule"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Digitaltag 2025</a
-          >
-        </h1>
-        <p>
-          <a
-            href="https://veranstaltungen.muenchen.de/rit/veranstaltungen/digitaltag_2025/"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Anmeldung</a
-          >
-          |
-          <a
-            href="https://m-digital.lineupr.com/digitaltag-2025/item/ospo"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Use - Improve - Publish - FOSS bei der Landeshauptstadt München</a
-          >
-        </p>
-      </div>
-    </template>
   </Layout>
 </template>
 

@@ -8,6 +8,7 @@ code: https://github.com/collectiveaccess/providence
 logo: /logo/collectiveaccess-logo.png
 tags:
   - application
+  - featurefunding 
 ---
 
 **CollectiveAccess** ist eine Open-Source-Software zur Katalogisierung und Veröffentlichung von Museums- und Archivsammlungen.

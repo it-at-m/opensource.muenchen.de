@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/WinSCP_6_Logo.png
 tags:
   - application
+  - featurefunding
 ---
 
 WinSCP is a program for transferring data securely.
