@@ -1,8 +1,28 @@
 ## Security
 
+Software security is an important requirement, especially when processing and storing personal data.
+Secure software is part of comprehensive information security management (ISM), which is intended to make both the use of software and in-house development secure.
+This applies equally to free software and proprietary software.
+
+A major advantage of open source software lies in its __transparency__, which makes well-founded security analyses possible in the first place.
+Comprehensive control is only possible with open source software, but requires human and technical resources.
+It makes strategic sense to build up your own expertise or to work with external open source software service providers.
+However, open source software can also be security tested by various external players.
+These are government institutions, commercial companies but also private individuals who find security gaps
+This gives developers, but also users, an opportunity to eliminate these gaps quickly and comprehensively.
+
+[Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is a problematic approach, as it conveys a false sense of security and merely hides vulnerabilities instead of systematically eliminating them.
+Attackers can still uncover such gaps over time, for example through reverse engineering or by trading in zero-day exploits.
+
+Openness not only promotes innovation, but also offers a more reliable security basis in the long term.
+The strategic position of the [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html) and the [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource) also call for the use of open source software to improve IT security and reduce vendor dependencies.
+
+
+## Security
+
 Software security is especially important when processing and storing personal data. This applies in particular to published software. Secure software development is part of a broader information security management (ISM) strategy that aims to ensure both in-house development and the use of software – especially Open Source Software (OSS) – are secure.
 
-A key advantage of Open Source Software lies in its __transparency__, which enables in-depth security analyses. Control is possible in the open source environment, but requires personnel and technical expertise. Strategically, it can be beneficial to build internal competencies or collaborate with external OSS service providers. These often offer support models with security-reviewed updates.
+A key advantage of Open Source Software lies in its transparency, which enables in-depth security analyses. Control is possible in the open source environment, but requires personnel and technical expertise. Strategically, it can be beneficial to build internal competencies or collaborate with external OSS service providers. These often offer support models with security-reviewed updates.
 
 **Security through obscurity** is a problematic approach, as it conveys a false sense of security and merely hides vulnerabilities instead of systematically addressing them. Attackers can still uncover such weaknesses over time, e.g., through reverse engineering. In contrast, OSS relies on transparency. The openly available source code allows for independent reviews and continuous improvement. Security here does not stem from secrecy, but from verifiable and robust mechanisms, supported by community knowledge, proven security practices, and regular updates. Openness not only fosters innovation, but also provides a more reliable long-term security foundation. (See https://wikipedia.org/wiki/Security_through_obscurity)
 
