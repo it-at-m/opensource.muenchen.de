@@ -44,6 +44,7 @@ export default defineConfig({
             items: [
               { text: "Grundlagen", link: "/de/principles" },
               { text: "Softwareübersicht", link: "/de/software/" },
+              { text: "Security", link: "/de/security" },
               { text: "Lizenzen", link: "/de/licenses" },
               { text: "Sponsoring", link: "/de/sponsoring" },
               { text: "Sabbatical", link: "/de/sabbatical" },
@@ -52,7 +53,6 @@ export default defineConfig({
               { text: "Repositories", link: "/de/repositories" },
               { text: "FOSSaaS", link: "/de/fossaas" },
               { text: "OSPO", link: "/de/ospo" },
-              { text: "Security", link: "/de/security" },
             ],
           },
         ],
@@ -98,6 +98,7 @@ export default defineConfig({
         items: [
           { text: "Principles", link: "/principles" },
           { text: "Overview", link: "/software/" },
+          { text: "Security", link: "/security" },
           { text: "Licenses", link: "/licenses" },
           { text: "Sponsoring", link: "/sponsoring" },
           { text: "Sabbatical", link: "/sabbatical" },
@@ -106,7 +107,6 @@ export default defineConfig({
           { text: "Repositories", link: "/repositories" },
           { text: "FOSSaaS", link: "/fossaas" },
           { text: "OSPO", link: "/ospo" },
-          { text: "Security", link: "/security" },
         ],
       },
     ],
