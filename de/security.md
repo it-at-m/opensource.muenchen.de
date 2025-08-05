@@ -25,7 +25,6 @@ Ein klarer Vorteil von Open Source Software liegt in ihrer Transparenz, die tief
 
 In unserer [Nutzbarkeitsanalyse von freier Software](usability-analysis#sicherheit) ist Sicherheit daher neben Codequalität der wichtig Faktor.
 
-
 ## Publish
 
 Die Landeshauptstadt München verfolgt den Grundsatz [Public Money, Public Code](publish): 
@@ -54,4 +53,3 @@ Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen 
 
 Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden. 
 Jedes Projekt muss eine dedizierte E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, über die Sicherheitslücken gemeldet werden können (Responsible Disclosure).
-

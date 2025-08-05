@@ -79,7 +79,7 @@ Es ist wichtig, dass die Dokumentation frei im Internet zugänglich ist und in o
 Eine englische Version der Dokumentation ist ausreichend.
 Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
 
-## externe Unterstützung
+## Externe Unterstützung
 
 Die Verfügbarkeit externer Unterstützung ist im professionellen Betrieb als auch bei Änderungswünschen wichtig.
 Diese Unterstützung kann durch eine aktive Community oder einen kommerziellen Anbieter angeboten werden.  

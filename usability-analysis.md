@@ -47,7 +47,6 @@ Is public Continuous Integration and Deployment (CI/CD) available?
 Are code, artifacts, releases, containers, etc. available in common repositories?  
 Is the software available as runnable containers for Kubernetes or ideally [Openshift](./software/openshift.html)?
 
-
 ## [Security](./security.md)
 
 It must be checked whether security scans are available and whether there are any known Common Vulnerabilities and Exposures (CVEs).  
