@@ -1,4 +1,4 @@
-## Security
+# Security
 
 Software security is an important requirement, especially when processing and storing personal data.
 Secure software is part of comprehensive information security management (ISM), which is intended to make both the use of software and in-house development secure.
