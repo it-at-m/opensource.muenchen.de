@@ -39,13 +39,6 @@ Folgende Fragen sollen dabei beantwortet werden:
 
 Fokus: Bewertung der potentiellen **Wartbarkeit**, **Lesbarkeit** und **Sicherheit** des Codes.
 
-## DevOps
-
-Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) nicht älter als _drei_ und der letzte Release nicht älter als _sechs Monate_ sein.
-Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests.
-Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
-Sind Code, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar?
-Bereitstellung lauffähiger Container für Kubernetes oder idealerweise [Openshift](./software/openshift.html).
 
 ## [Sicherheit](./security.md)
 
@@ -90,5 +83,14 @@ Sollte kein kommerzieller Support verfügbar oder zu teuer sein, muss sicher ges
 Dazu kann es notwendig sein, das wir Schulungen und Weiterbildungen für unsere Mitarbeitenden beschaffen.
 
 Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein.[^DevOps_Handbook_stars].
+
+## DevOps
+
+Für die Einschätzung sollte der letzte wesentliche Beitrag (kein Doku-Update) nicht älter als _drei_ und der letzte Release nicht älter als _sechs Monate_ sein.
+Sind aktuelle Pull Requests vorhanden und wie ist die Anzahl geschlossener bzw. gemergter Pull Requests.
+Ist öffentlich einsehbares Continuous Integration und Deployment (CI/CD) vorhanden?
+Sind Code, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar?
+Bereitstellung lauffähiger Container für Kubernetes oder idealerweise [Openshift](./software/openshift.html).
+
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

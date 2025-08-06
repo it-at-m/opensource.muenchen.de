@@ -39,13 +39,6 @@ The following questions should be addressed:
 
 **Focus**: Evaluation of potential **maintainability**, **readability**, and **security** of the code.
 
-## DevOps
-
-For assessment, the last substantial contribution (not a documentation update) should be no older than _three months_, and the last release no older than _six months_.  
-Are there currently open pull requests? What is the number of closed or merged pull requests?  
-Is public Continuous Integration and Deployment (CI/CD) available?  
-Are code, artifacts, releases, containers, etc. available in common repositories?  
-Is the software available as runnable containers for Kubernetes or ideally [Openshift](./software/openshift.html)?
 
 ## [Security](./security.md)
 
@@ -89,5 +82,14 @@ If commercial support is not available or is too expensive, it must be ensured t
 This may require us to procure training and further education for our employees.
 
 The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
+
+
+## DevOps
+
+For assessment, the last substantial contribution (not a documentation update) should be no older than _three months_, and the last release no older than _six months_.  
+Are there currently open pull requests? What is the number of closed or merged pull requests?  
+Is public Continuous Integration and Deployment (CI/CD) available?  
+Are code, artifacts, releases, containers, etc. available in common repositories?  
+Is the software available as runnable containers for Kubernetes or ideally [Openshift](./software/openshift.html)?
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
