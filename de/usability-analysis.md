@@ -5,24 +5,28 @@ Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framew
 
 ## Code Review
 
-Die Bewertung des Codes sollte durch ein/e erfahrene/n Entwickler*in erfolgen, der/die in der entsprechenden Sprache bzw. dem genutzten Framework vertraut ist. 
+Die Bewertung des Codes erfolgt durch erfahrene Entwickler*innen, die mit der verwendeten Sprache und Technologie vertraut sind.
 Folgende Fragen sollen dabei beantwortet werden:
 
-* Ist der Code verständlich geschrieben mit sprechender Bezeichnung für Variablen und Methoden? 
-* Gibt es einen Coding-Styleguide und wird dieser auch eingehalten?
-* Bestehen Abhängigkeiten zu anderen Diensten (z.B. Redis, Memcached, Elasticsearch) und werden diese in stabilen, aktuellen Versionen eingesetzt?
 * Wird ein Framework genutzt? Falls nicht, was ist die Begründung? Falls ja, sollten Auswahl und Einbindung bewertet werden.
-* Wie lange ist geschätzte Einarbeitungszeit für eine/n Entwickler*in?
+* Bestehen darüber hinaus andere Abhängigkeiten (z.B. Redis, Memcached, Elasticsearch) und werden diese in stabilen, aktuellen Versionen eingesetzt?
+* Handelt es sich um eine webbasierte Anwendung? Falls nicht, weshalb? Etwa aufgrund hoher Datenmengen oder der Grafik, beispielsweise CAD.
+* Existiert ein Coding Styleguide (intern/extern)? Ist der Code verständlich geschrieben mit sprechender Bezeichnung für Variablen und Methoden
+* Wie hoch ist die geschätzte Einarbeitungszeit für neue Entwickler*innen?
 
 Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Software.
 
 
 ## Sicherheit
 
-Öffentlich zugänglicher Code lässt sich hinsichtlich Sicherheitslücken leicht überprüfen.
+Öffentlich zugänglicher Code lässt auf die [IT-Sicherheit](security) leicht überprüfen.
 Ein Vorteil von freier Software ist die Transparenz des Quellcodes, so können Sicherheitsforscher und Entwickler Open Source Software unabhänigig überprüfen.
 Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt wird und ob dazu geeignete Werkzeuge vorliegen:
 
+
+* werden Codeänderungen ausschliesslich durch verantwortliche und benannte Maintainer in einem Freigabeverfahren durchgeführt (z.B. durch protected branches).
+* wie schnell war die Reaktionsgeschwindigkeit bei vergangenen Sicherheitsvorfällen.
+* werden Maintainer durch [Unternehmen](#externe-unterstutzung) oder durch andere [Geschäftsmodelle](improve#finanzierung) für ihre Aufgabe ausreichend finanziell unterstüzt.
 * Liegt eine Auflistung von _Common Vulnerabilities and Exposures_ (CVE) vor und wird diese entsprechend der Dringlichkeit bearbeitet.
 * Sind alle Abhängigkeiten nicht nur einsehbar, sondern sind potenzielle Risiken auch durch eine _Software Bill of Materials_ in diesen Abhängigkeiten transparent.
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
@@ -45,7 +49,7 @@ Eine englische Version der Dokumentation ist ausreichend.
 Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
 
 
-## externe Unterstützung
+## Externe Unterstützung
 
 Die Verfügbarkeit externer Unterstützung ist im professionellen Betrieb als auch bei Änderungswünschen wichtig.
 Diese Unterstützung kann durch eine aktive Community oder einen kommerziellen Anbieter angeboten werden.  
