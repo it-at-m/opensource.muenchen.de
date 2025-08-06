@@ -1,73 +1,50 @@
-# Usability Analysis
+# Usability analysis
 
-In order to use or further develop existing free software, it must first undergo a usability analysis.  
-This usability analysis should be applied to all types of free software, whether used as a framework, library, [development tool](./in-house-development.html), or [use](./use.html) as finished software.
+In order to use or even further develop existing free software, it must first be subjected to a usability analysis.
+All free software should undergo this usability analysis, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
 
-The analysis is based on the following criteria:
+## Code review
 
-## Popularity
+The code is evaluated by experienced developers who are familiar with the language and technology used.
+The following questions should be answered:
 
-* Are there already relevant reference users or productive deployments in comparable institutions?
-* Community activity on [public repositories](./repositories.html): number of stars, watchers, issues, pull requests, discussions
-* How large is the active developer community?
-* Is the ongoing development of the project reliably ensured?
-* A high number of GitHub stars is **not a reliable quality indicator**[^DevOps_Handbook_stars].
+* Is a framework used? If not, what is the reason? If yes, the selection and integration should be evaluated.
+* Are there other dependencies (e.g. Redis, Memcached, Elasticsearch) and are these used in stable, current versions?
+* Is it a web-based application? If not, why? Because of high data volumes or the graphics, for example CAD.
+* Is there a coding style guide (internal/external)? Is the code written in an understandable way with descriptive names for variables and methods?
+* How long is the estimated training period for new developers?
 
-## Maturity and Community
+The focus is on the potential maintainability and security of the software.
 
-Project maturity is a key criterion, regardless of whether the software is only used or also actively developed.
+## Security
 
-Evaluation criteria include:
+Publicly accessible code can be easily checked for [IT security](security).
+One advantage of free software is the transparency of the source code, which means that security researchers and developers can check open source software independently.
+However, it must be checked whether IT security is also actively ensured and whether suitable tools are available for this purpose:
 
-* **Stability and maturity** of the project
-* **Project history** and continuity of development
-* Number and activity of **core developers**
-* **Responsiveness** to bug reports and security vulnerabilities
-* **Quality of communication** (e.g., handling of feature requests and interaction with the community)
-* **Transparency of release and patch processes**
-* Evaluation of patch release processes under time pressure: Are security patches published in a structured and traceable manner?
 
-## Code Review
+* code changes are made exclusively by responsible and named maintainers in a release procedure (e.g. through protected branches).
+* How fast was the response time for past security incidents?
+* Are maintainers sufficiently financially supported by [companies](#external-support) or by other [business models](improve#financing) for their task?
+* Is a list of _Common Vulnerabilities and Exposures_ (CVE) available and is it processed according to urgency?
+* Are all dependencies not only visible, but are potential risks also transparent through a software bill of materials in these dependencies?
+* If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively.
 
-The code should be reviewed by experienced developers who are familiar with the relevant programming language and technology.
+## Documentation
 
-The following questions should be addressed:
+Comprehensive software documentation is essential for all software, especially for software that is to be used or modified by others.
 
-* Is a framework used? If not, what is the reason? If so, the choice and integration should be evaluated.
-* Are there other dependencies (e.g., Redis, Memcached, Elasticsearch), and are they used in stable and up-to-date versions?
-* Is it a web-based application? If not, why? Possibly due to large data volumes or graphical requirements such as CAD?
-* Is there a coding style guide (internal or external)? Is the code clearly written with descriptive naming for variables and methods?
-* What is the estimated onboarding time for new developers?
+The following documentation must be available:
 
-Focus: Evaluation of the potential **maintainability**, **readability**, and **security** of the code.
+* User documentation
+* Developer, installation and maintenance documentation.
 
-## DevOps
+All documentation must comprehensively describe __all__ technical functions and user interfaces of the software.
+This includes information about the software itself, its use, the API and installation and maintenance instructions.
 
-For evaluation purposes, the last significant contribution (not a documentation update) should be no older than _three_ months, and the last release should be no older than _six months_.
-
-Further criteria include:
-
-* Are current pull requests present, and what is the ratio of closed vs. merged pull requests?
-* Is publicly accessible Continuous Integration and Deployment (CI/CD) available?
-* Are code, artifacts, releases, containers, etc., hosted in commonly used repositories?
-* Is the software provided as runnable containers for Kubernetes, or ideally for [OpenShift](./software/openshift.html)?
-
-## [Security](./security.md)
-
-It must be verified whether security scans are in place and if current Common Vulnerabilities and Exposures (CVEs) exist.
-Is the dependency graph clean and publicly visible – e.g., on GitHub?
-Are there external audits, such as [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)?
-Is a Software Bill of Materials (SBOM) available?
-For container-based applications, does the Dockerfile comply with the quality standards of the [LHM Container Application Platform (CAP)](./software/openshift.html)?
-
-### CVE
-
-Comparing with vulnerability databases (e.g., CVE) and reviewing code repositories is helpful for obtaining a realistic risk assessment.  
-
-In addition, the following should be checked:
-
-- whether so-called protected branches have been set up.
-- whether there are responsible maintainers.
+It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, text).
+An English version of the documentation is sufficient.
+It must be possible to submit suggestions for improving the documentation.
 
 ## External support
 
@@ -79,14 +56,13 @@ This is because commercial support generally offers more reliable and profession
 If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
 This may require us to procure training and further education for our employees.
 
-
-The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
+The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not have to be [^DevOps_Handbook_stars].
 
 ## DevOps
 
 Software consists not only of source code but is also embedded in automation for testing and deployment.
 It is therefore necessary to check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
-In addition, whether source code, artifacts, releases, containers, etc. are available in common repositories.
+Also check whether source code, artifacts, releases, containers, etc. are available in common repositories.
 
 
-[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
+[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ from The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 p. 365
