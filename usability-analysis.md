@@ -18,7 +18,7 @@ The focus is on the potential maintainability and security of the software.
 
 ## Security
 
-Publicly accessible code can be easily checked for [IT security](ssecurity).
+Publicly accessible code can be easily checked for [IT security](security).
 One advantage of free software is the transparency of the source code, which means that security researchers and developers can check open source software independently.
 However, it must be checked whether IT security is also actively ensured and whether suitable tools are available for this purpose:
 

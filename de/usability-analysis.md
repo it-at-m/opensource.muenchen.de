@@ -19,7 +19,7 @@ Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Softwa
 
 ## Sicherheit
 
-Öffentlich zugänglicher Code lässt auf die [IT-Sicherheit](ssecurity) leicht überprüfen.
+Öffentlich zugänglicher Code lässt auf die [IT-Sicherheit](security) leicht überprüfen.
 Ein Vorteil von freier Software ist die Transparenz des Quellcodes, so können Sicherheitsforscher und Entwickler Open Source Software unabhänigig überprüfen.
 Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt wird und ob dazu geeignete Werkzeuge vorliegen:
 
