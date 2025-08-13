@@ -32,7 +32,6 @@ Unsere Zielvorstellung bei der finanziellen Kompensation liegt dabei 60% des üb
 
 Ein __Werkvertrag__ oder __Dienstvertrag__ ist aufgrund der Vergabevorberatung, der Ausarbeit der Vergabe- und Vertragsunterlagen und einer Ausschreibung des Vertrages durch die Vergabestelle schwer möglich.
 
-
 ### Mitarbeiter*innen der LHM
 
 __Vorübergehende Einsätze__ innerhalb der LHM bieten Mitarbeiter\*innen Entwicklungsmöglichkeiten und sind kurzfristig umsetzbar.
@@ -46,8 +45,15 @@ Die Landeshauptstadt München freut sich auf eure Bewerbungen!
 
 ## Sabbaticals
 
-Das erste Open Source Sabbatical im ersten Halbjahr 2025 haben wir an das Projekt [integreat-chat](software/integreat#open-source-sabbatical) vergeben, um einen Chat-Service in die Integreat App zu integrieren.
+### [Integreat-Chat](software/integreat#open-source-sabbatical)
 
+Das erste Open Source Sabbatical im ersten Halbjahr 2025 haben wir an das Projekt [integreat-chat](software/integreat#open-source-sabbatical) vergeben, um einen mehrsprachigen Chat-Service in die Integreat App zu integrieren. Dieser soll Ratsuchenden in München rund um die Uhr zur Verfügung steht.
+
+Durch den Einsatz von Llama 3.3 und Google Gemma 3 wird eine effektive Kommunikation gewährleistet, die sowohl einfache als auch komplexe Anfragen beantworten kann. Die gesamte Software ist Open Source und der Quellcode ist öffentlich auf GitHub zugänglich. 
+
+Die bisherigen  Ergebnisse des Projekts sind vielversprechend: Der Chatbot liefert in etwa 50 % der Fälle hilfreiche und passende Antworten auf Anfragen. Die Übersetzungsqualität wurde mit 4,9 von 5 bewertet, während die Antwortqualität bei 4,0 von 5 liegt. Zudem wurde die Relevanz der verlinkten Inhalte mit 4,8 von 5 bewertet. Das durchweg positive Feedback der Nutzer*innen zeigt, dass der Chatbot nicht nur die Integreat-App interaktiver macht, sondern auch einen echten Mehrwert für die Integration und Unterstützung von Menschen mit Migrationshintergrund bietet.
+
+Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefreiheit gelegt, um sicherzustellen, dass alle Münchener Bürger*innen, unabhängig von ihrer Herkunft oder ihren Sprachkenntnissen, die Vorteile der Integreat-App optimal nutzen können.
 
 [^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
 [^beschluss]: [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
