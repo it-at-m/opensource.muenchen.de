@@ -48,10 +48,10 @@ Dies erleichtert die Sicherheitsbewertung, birgt aber auch Risiken, wenn etwa SB
 
 ### Automatisierte Tests
 
-Der interne CI/CD-Prozess umfasst den OWASP Dependency Check zur Risikoanalyse.
+Der interne CI/CD-Prozess umfasst den [OWASP](https://de.wikipedia.org/wiki/Open_Worldwide_Application_Security_Project) Dependency Check zur Risikoanalyse.
 Auf GitHub müssem die "Advanced Security Policy as Code" implementiert werden, und die globale Sicherheitskonfiguration muss für alle Repositories aktiviert sein.
 
-Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen Maintainer weitergeleitet.
+Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen [Maintainer](https://de.wikipedia.org/wiki/Maintainer) weitergeleitet.
 
 ### Meldung von Sicherheitslücken
 
