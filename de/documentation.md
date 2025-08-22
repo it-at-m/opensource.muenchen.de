@@ -20,16 +20,11 @@ Im Ordner `/docs` können technische Dokumentationen thematisch strukturiert abg
 Für größere Projekte oder Multirepositories kann eine Dokumentationswebsite unter einer Subdomain von `*.oss.muenchen.de` erstellt werden (z. B. [digiwf.oss.muenchen.de](https://digiwf.oss.muenchen.de)).  
 Die gesamte Domain `muenchen.de` ist auf [GitHub Pages](https://github.com/organizations/it-at-m/settings/pages) verifiziert, was für alle Projekte gilt.  
 Um eine Projekt-Website zu erstellen, kann die Subdomain im entsprechenden Projekt-Repository für GitHub Pages angelegt werden.
-
-Um sicherzustellen, dass die Subdomain funktioniert, ist es erforderlich, einen DNS-Eintrag zu erstellen. Hierfür muss ein CNAME-Eintrag mit der genauen Subdomain im DNS hinterlegt werden.
-
-Zur Überprüfung, ob der DNS-Eintrag korrekt gesetzt wurde, kann [MX-Toolbox](https://mxtoolbox.com/TXTLookup.aspx) verwendet werden.  
-Nach erfolgreicher Einrichtung sollte die über GitHub Pages veröffentlichte Seite unter der jeweiligen Subdomain, z. B. <http://digiwf.oss.muenchen.de/>, erreichbar sein.  
 Ein Benutzerhandbuch oder eine allgemeine Produktdokumentation sollte idealerweise in beiden Sprachen, Deutsch und Englisch, verfügbar sein.
 
 ## Herausforderungen bei der Dokumentation
 
-Das Erstellen und Pflegen von Dokumentation kann eine Herausforderung sein. Sie erfordert Zeit und muss regelmäßig aktualisiert werden, um Änderungen in der Software zu berücksichtigen. Mangelnde oder veraltete Dokumentation kann zu Fehlern, höheren Supportkosten und einer verkürzten Lebensdauer des Produkts führen. Daher ist es entscheidend, dass Entwickler die Bedeutung der Dokumentation nicht unterschätzen.
+Das Erstellen und Pflegen von Dokumentation kann eine Herausforderung sein. Sie erfordert Zeit und muss regelmäßig aktualisiert werden, um Änderungen in der Software zu berücksichtigen. Mangelnde oder veraltete Dokumentation kann zu Fehlern, höheren Supportkosten und einer verkürzten Lebensdauer des Produkts führen. Daher ist es entscheidend, dass Entwickler*innen die Bedeutung der Dokumentation nicht unterschätzen.
 
 ## Best Practices für effektive Dokumentation
 
