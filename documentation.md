@@ -20,11 +20,6 @@ Technical documentation can be thematically structured and stored in the `/docs`
 For larger projects or multi-repositories, a documentation website can be created under a subdomain of `*.oss.muenchen.de` (e.g., [digiwf.oss.muenchen.de](https://digiwf.oss.muenchen.de)).  
 The entire `muenchen.de` domain is verified on [GitHub Pages](https://github.com/organizations/it-at-m/settings/pages), which applies to all projects.  
 To create a project website, the subdomain can be configured in the respective project repository for GitHub Pages.
-
-To ensure that the subdomain works, it is necessary to create a DNS record. For this, a CNAME record with the exact subdomain must be entered in the DNS.
-
-To verify that the DNS entry has been set correctly, [MX-Toolbox](https://mxtoolbox.com/TXTLookup.aspx) can be used.  
-After successful setup, the page published via GitHub Pages should be accessible under the respective subdomain, e.g., <http://digiwf.oss.muenchen.de/>.  
 A user manual or general product documentation should ideally be available in both German and English.
 
 ## Challenges in Documentation
