@@ -1,6 +1,6 @@
 # Dokumentation von Open Source Software
 
-Eine umfassende Dokumentation ist für jede Software unerlässlich, insbesondere für Open Source Software, die von anderen genutzt oder verändert werden soll. Eine klare und detaillierte Dokumentation im Quellcode ist eine grundlegende Voraussetzung, um die Zugänglichkeit und Nutzbarkeit der Software zu gewährleisten. Effektive Dokumentation kann den Unterschied zwischen einer positiven und einer negativen Nutzererfahrung ausmachen. Eine Umfrage von GitHub aus dem Jahr 2017 zeigt, dass „unvollständige oder verwirrende Dokumentation“ die häufigste Beschwerde von Entwickler*innen ist.
+Eine umfassende Dokumentation ist für jede Software unerlässlich, insbesondere für Open Source Software, die von anderen genutzt oder verändert werden soll. Eine klare und detaillierte Dokumentation im Quellcode ist eine grundlegende Voraussetzung, um die Zugänglichkeit und Nutzbarkeit der Software zu gewährleisten. 
 
 ## Struktur der Dokumentation
 

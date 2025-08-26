@@ -1,6 +1,6 @@
 # Documentation of Open Source Software
 
-Comprehensive documentation is essential for any software, especially for open source software that is intended to be used or modified by others. Clear and detailed documentation in the source code is a fundamental prerequisite for ensuring the accessibility and usability of the software. Effective documentation can make the difference between a positive and a negative user experience. A GitHub survey from 2017 shows that “incomplete or confusing documentation” is the most common complaint among developers.
+Comprehensive documentation is essential for any software, especially for open source software that is intended to be used or modified by others. Clear and detailed documentation in the source code is a fundamental prerequisite for ensuring the accessibility and usability of the software.
 
 ## Structure of the Documentation
 
