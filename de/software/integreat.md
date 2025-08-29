@@ -28,7 +28,7 @@ Integreat erhielt bereits den [Münchner Innovationspreise 2024 für das Digital
 Zusätzlich haben wir das erste [Open Source Sabbatical](../sabbatical) im ersten Halbjahr 2025 an das Projekt [integreat-chat](https://github.com/digitalfabrik/integreat-chat) vergeben, um einen Chat-Service in die Integreat App zu integrieren.
 
 Der integreat-chat nutzt ein Large Language Model, das basierenden auf den bestehenden Inhalten der Integreat-App Fragen beantwortet.
-Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter*innen in unserem [Zammad](zammad).
+Bei eingehenden Anfragen generiert das System Antwortvorschläge für die menschlichen Sachbearbeiter\*innen in unserem [Zammad](zammad).
 
 Der Chatbot befindet sich derzeit in der Beta-Phase und wurde im Rahmen des Projekts Munich Integration Assistant (MIA) gezielt weiterentwickelt und getestet. Dabei wurde geprüft, ob ein Open Source Chatbot auf Basis aktueller LLMs verlässliche, mehrsprachige Antworten liefern kann und dabei vollständiselbst betrieben wird, um digitale Souveränität zu gewährleisten.
 
