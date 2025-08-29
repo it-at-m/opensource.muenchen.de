@@ -28,6 +28,23 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
 
 
+## Dokumentation
+
+Eine umfassende Software-Dokumentation ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
+
+Es müssen folgende Dokumentationen vorhanden sein:
+
+* Benutzerdokumentation
+* Entwickler, Installations- und Wartungsdokumentation.
+
+Alle Dokumentationen müssen __alle__ technischen Funktionen und Benutzeroberflächen der Software umfassend beschreiben.
+Dazu gehören Informationen über die Software selbst, ihre Nutzung, die API sowie Installations- und Wartungsanleitungen.
+
+Es ist wichtig, dass die Dokumentation frei im Internet zugänglich ist und in offenen Formaten bereitgestellt wird (z. B. Markdown, HTML, Text).
+Eine englische Version der Dokumentation ist ausreichend.
+Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
+
+
 ## externe Unterstützung
 
 Die Verfügbarkeit externer Unterstützung ist im professionellen Betrieb als auch bei Änderungswünschen wichtig.

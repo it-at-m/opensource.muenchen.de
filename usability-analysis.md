@@ -27,6 +27,20 @@ However, it must be checked whether IT security is also actively ensured and whe
 * Are all dependencies not only visible, but are potential risks also transparent through a _Software Bill of Materials_ in these dependencies?
 * If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively
 
+## Documentation
+
+Comprehensive software documentation is essential for all software, especially for software that is to be used or modified by others.
+
+The following documentation must be available:
+
+* User documentation
+* Developer, installation and maintenance documentation.
+
+All documentation must comprehensively describe __all__ the technical functions and user interfaces of the software.
+This includes information about the software itself, its use, the API and installation and maintenance instructions.
+
+It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, Text).
+It must be possible to submit suggestions for improving the documentation.
 
 ## External support
 
