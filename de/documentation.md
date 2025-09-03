@@ -24,17 +24,17 @@ Ein Benutzerhandbuch oder eine allgemeine Produktdokumentation sollte idealerwei
 
 ## Herausforderungen bei der Dokumentation
 
-Das Erstellen und Pflegen von Dokumentation kann eine Herausforderung sein. Sie erfordert Zeit und muss regelmäßig aktualisiert werden, um Änderungen in der Software zu berücksichtigen. Mangelnde oder veraltete Dokumentation kann zu Fehlern, höheren Supportkosten und einer verkürzten Lebensdauer des Produkts führen. Daher ist es entscheidend, dass Entwickler*innen die Bedeutung der Dokumentation nicht unterschätzen.
+Das Erstellen und Pflegen von Dokumentation kann eine Herausforderung sein. Sie erfordert Zeit und muss regelmäßig aktualisiert werden, um Änderungen in der Software zu berücksichtigen. Mangelnde oder veraltete Dokumentation kann zu Fehlern, höheren Supportkosten und einer verkürzten Lebensdauer des Produkts führen. Daher ist es entscheidend, dass Entwickler\*innen die Bedeutung der Dokumentation nicht unterschätzen.
 
 ## Best Practices für effektive Dokumentation
 
 Um die Qualität der Dokumentation zu verbessern und eine inklusive Community zu schaffen, sollten folgende Best Practices beachtet werden:
 
 1. **Gemeinsame Terminologie:** Konsistente Begriffsdefinitionen und -verwendung fördern die Kommunikation innerhalb der Community.  
-2. **Beitragsrichtlinien:** Klare Richtlinien erleichtern es Nutzer*innen, zur Dokumentation beizutragen.  
+2. **Beitragsrichtlinien:** Klare Richtlinien erleichtern es Nutzer\*innen, zur Dokumentation beizutragen.  
 3. **Dokumentationsvorlagen:** Vorlagen helfen, Informationen konsistent zu erfassen.  
-4. **Dokumentation neuer Funktionen:** Jede neue oder aktualisierte Funktion sollte dokumentiert werden, um den Nutzern die Anwendung zu erleichtern.  
+4. **Dokumentation neuer Funktionen:** Jede neue oder aktualisierte Funktion sollte dokumentiert werden, um den Nutzer\*innen die Anwendung zu erleichtern.  
 5. **Regelmäßige Überprüfungen:** Mindestens vierteljährliche Aktualisierungen der Inhalte sind notwendig, um deren Relevanz zu gewährleisten.
 
-Durch die Umsetzung dieser Maßnahmen kann die Dokumentation von Open Source Software wesentlich verbessert werden, was zu einer höheren Nutzer*innenzufriedenheit und einer lebendigen, inklusiven Community führt.  
-Effektive Dokumentation ist nicht nur für die Nutzer von Vorteil, sondern trägt auch zum langfristigen Erfolg des Projekts bei.
+Durch die Umsetzung dieser Maßnahmen kann die Dokumentation von Open Source Software wesentlich verbessert werden, was zu einer höheren Nutzer\*innenzufriedenheit und einer lebendigen, inklusiven Community führt.  
+Effektive Dokumentation ist nicht nur für die Nutzer\*innen von Vorteil, sondern trägt auch zum langfristigen Erfolg des Projekts bei.

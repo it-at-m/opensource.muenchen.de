@@ -28,9 +28,9 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
 
 
-## Dokumentation
+## [Dokumentation](./documentation.md)
 
-Eine umfassende Software-Dokumentation ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
+Eine umfassende Software-[Dokumentation](./documentation.md) ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
 
 Es müssen folgende Dokumentationen vorhanden sein:
 
