@@ -11,6 +11,14 @@ To ensure effective documentation, the following elements are required:
 Every repository must contain a `README.md` file in the root directory. This file should include all sections of the [OSS Repository Template](https://github.com/it-at-m/oss-repository-en-template/blob/main/README.md).  
 **Important:** The `README.md` file must be written in English to reach a wider audience of open source enthusiasts worldwide and to avoid language barriers.
 
+A README aims to answer the following questions:
+
+* What does this project do?
+* Why is it useful?
+* How can I use it or contribute to it?
+* Where can I get help if I need assistance?
+
+
 ### Documentation Folder `/docs`
 
 Technical documentation can be thematically structured and stored in the `/docs` folder. This folder can also serve as the basis for a website. The technical documentation should preferably be written in an "English First" approach to ensure international comprehensibility.

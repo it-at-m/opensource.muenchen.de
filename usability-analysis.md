@@ -27,9 +27,9 @@ However, it must be checked whether IT security is also actively ensured and whe
 * Are all dependencies not only visible, but are potential risks also transparent through a _Software Bill of Materials_ in these dependencies?
 * If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively
 
-## Documentation
+## [Documentation](./documentation.md)
 
-Comprehensive software documentation is essential for all software, especially for software that is to be used or modified by others.
+Comprehensive software [documentation](./documentation.md) is essential for all software, especially for software that is to be used or modified by others.
 
 The following documentation must be available:
 
@@ -52,7 +52,6 @@ This is because commercial support generally offers more reliable and profession
 If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
 This may require us to procure training and further education for our employees.
 
-
 The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
 
 ## DevOps
@@ -60,6 +59,5 @@ The number of stars, watchers, contributors or pull requests can be an indicatio
 Software consists not only of source code but is also embedded in automation for testing and deployment.
 It is therefore necessary to check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
 In addition, whether source code, artifacts, releases, containers, etc. are available in common repositories.
-
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

@@ -11,6 +11,13 @@ Für eine effektive Dokumentation sind folgende Elemente erforderlich:
 Jedes Repository muss eine `README.md`-Datei im Hauptverzeichnis enthalten. Diese Datei sollte alle Abschnitte des [OSS Repository Templates](https://github.com/it-at-m/oss-repository-en-template/blob/main/README.md) umfassen.  
 **Wichtig:** Die `README.md`-Datei muss in englischer Sprache verfasst sein, um eine breitere Zielgruppe von Open Source-Enthusiasten weltweit anzusprechen und Sprachbarrieren zu vermeiden.
 
+Eine README versucht folgende Fragen zu beantworten:
+
+* Was macht dieses Projekt?
+* Warum ist es nützlich?
+* Wie kann ich es nutzen oder dazu etwas beitragen?
+* Wo wird mir geholfen, wenn ich Hilfe benötige?
+
 ### Dokumentationsordner `/docs`
 
 Im Ordner `/docs` können technische Dokumentationen thematisch strukturiert abgelegt werden. Dieser Ordner kann auch als Grundlage für eine Website dienen. Die technische Dokumentation sollte vorzugsweise nach dem Prinzip „English First“ verfasst werden, um international verständlich zu sein.

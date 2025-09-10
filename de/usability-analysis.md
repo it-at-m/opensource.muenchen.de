@@ -27,7 +27,6 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 * Sind alle Abhängigkeiten nicht nur einsehbar, sondern sind potenzielle Risiken auch durch eine _Software Bill of Materials_ in diesen Abhängigkeiten transparent.
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
 
-
 ## [Dokumentation](./documentation.md)
 
 Eine umfassende Software-[Dokumentation](./documentation.md) ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
@@ -43,7 +42,6 @@ Dazu gehören Informationen über die Software selbst, ihre Nutzung, die API sow
 Es ist wichtig, dass die Dokumentation frei im Internet zugänglich ist und in offenen Formaten bereitgestellt wird (z. B. Markdown, HTML, Text).
 Eine englische Version der Dokumentation ist ausreichend.
 Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
-
 
 ## externe Unterstützung
 
@@ -62,6 +60,5 @@ Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indi
 Software besteht nicht nur aus Quellcode sondern ist eingebettet in Automatisierungen für Testing und Deployment.
 Daher ist zu prüfen ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
 Auserdem ob Quellcode, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar sind.
-
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
