@@ -18,7 +18,6 @@ A README aims to answer the following questions:
 * How can I use it or contribute to it?
 * Where can I get help if I need assistance?
 
-
 ### Documentation Folder `/docs`
 
 Technical documentation can be thematically structured and stored in the `/docs` folder. This folder can also serve as the basis for a website. The technical documentation should preferably be written in an "English First" approach to ensure international comprehensibility.
