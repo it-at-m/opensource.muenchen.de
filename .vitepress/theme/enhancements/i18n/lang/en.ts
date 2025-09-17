@@ -13,6 +13,7 @@ export const enMessages: localizedMessagesType = {
     opencore: "Opencore",
     sponsor: "Sponsor",
     support: "Support",
+    featurefunding: "Feature-Funding",
     start2024: "Start 2024",
     start2023: "Start 2023",
     start2022: "Start 2022",
