@@ -22,7 +22,6 @@ Publicly accessible code can be easily checked for [IT security](security).
 One advantage of free software is the transparency of the source code, which means that security researchers and developers can check open source software independently.
 However, it must be checked whether IT security is also actively ensured and whether suitable tools are available for this purpose:
 
-
 * code changes are made exclusively by responsible and named maintainers in a release procedure (e.g. through protected branches).
 * How fast was the response time for past security incidents?
 * Are maintainers sufficiently financially supported by [companies](#external-support) or by other [business models](improve#financing) for their task?

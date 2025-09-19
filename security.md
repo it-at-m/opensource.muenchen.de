@@ -1,60 +1,62 @@
-# Security
+## Security
 
-Software security is an important requirement, especially when processing and storing personal data.
-Secure software is part of comprehensive information security management (ISM), which is intended to make both the use of software and in-house development secure.
+Software security is particularly important when processing and storing personal data.  
+Secure software is a key area of information security management (ISM), covering both the secure use of software and secure software development.  
 This applies equally to free software and proprietary software.
 
-A major advantage of open source software lies in its __transparency__, which makes well-founded security analyses possible in the first place.
-Comprehensive control is only possible with open source software, but requires human and technical resources.
-It makes strategic sense to build up your own expertise or to work with external open source software service providers.
-However, open source software can also be tested for security by various external players.
-These are government institutions, commercial companies but also private individuals who find security gaps
-This gives developers, but also users, an opportunity to eliminate these gaps quickly and comprehensively.
+One major advantage of open source software lies in its __transparency__, which makes in-depth security analyses possible in the first place.  
+Source code analysis is only possible with open source software, but it requires both personnel and technical expertise.  
+Strategically, it makes sense to build internal expertise or to collaborate with external open source software service providers.  
+Alternatively, open source software can be examined for security by different actors.  
+These may include government institutions, commercial companies, or independent security experts who identify vulnerabilities.  
+This way, both developers and users have the opportunity to fix these vulnerabilities quickly.
 
-[Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is a problematic approach, as it gives a false sense of security and merely hides vulnerabilities instead of systematically eliminating them.
-Attackers can still uncover such gaps over time, for example through reverse engineering or by trading in zero-day exploits.
+[Security through obscurity](https://de.wikipedia.org/wiki/Security_through_obscurity) – that is, security through concealment – is a problematic approach because it creates a false sense of security and merely hides weaknesses instead of systematically addressing them.  
+Attackers can still discover such vulnerabilities over time, for example through reverse engineering or the trade in zero-day exploits.
 
-Openness not only promotes innovation, but also offers a more reliable security basis in the long term.
-The strategic position of the [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html) and the [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource) also call for the use of open source software to improve IT security and reduce vendor dependencies.
-
+Openness not only fosters innovation but also provides a more reliable security foundation in the long term.  
+For this reason, both the [BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software.html) and [AG KRITIS](https://ag.kritis.info/politische-forderungen/#opensource) advocate the use of open source software to improve IT security and reduce vendor lock-in.
 
 ## Use
 
-In the [selection and use of open source software](usability-analysis), project maturity is a central criterion for security.
-No distinction is made between [deployed](use) and [internally developed](publish) software; the same requirements apply to both.
+When [selecting and using open source software](./usability-analysis), project maturity is a central criterion for security.  
+No distinction is made between externally used ([Use](use)) and internally developed (Inhouse) software—both are subject to the same requirements.
 
-However, this transparency can only be used effectively if
+The transparency of open source can only be effectively leveraged if:
 
-- sufficient human and technical resources are available
-- a systematic evaluation methodology is established
+- sufficient personnel and technical expertise are available  
+- a systematic evaluation methodology is established  
 
-In our [usability analysis of free software](usability-analysis#security), security is therefore the most important factor alongside code quality.
+In our [usability analysis of free software](usability-analysis#security), security is therefore, alongside code quality, the most important factor.
 
 ## Publish
 
-The City of Munich follows the principle of [public money, public code](publish):
-Software developed in-house should be published as open source wherever possible.
-The aim is not only to guarantee our own IT security, but also to enable third parties to reuse the software in a secure, transparent and traceable manner.
+The City of Munich follows the principle of [Public Money, Public Code](./publish.md):  
+Whenever possible, software developed in-house should be released as open source.  
+The goal is not only to ensure the city’s own IT security but also to enable others to reuse the software securely, transparently, and in a traceable way.
 
 ### SBOM
 
-A Software Bill of Materials (SBOM) is a structured list of all components contained in a software, including open source and third-party libraries.
-It creates transparency about dependencies and helps to identify and rectify known security vulnerabilities at an early stage.
-The City of Munich uses SBOMs to specifically improve security in the software supply chain. In doing so, it is following the recommendations of the [German Federal Office for Information Security (BSI)](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/TR-03183-2-SBOM-Anforderungen.html), which defines SBOMs as a central element of cyber resilience in Technical Guideline TR-03183.
+A Software Bill of Materials (SBOM) is a structured list of all components contained in a software product, including open source and third-party libraries.  
+It creates transparency about dependencies and helps identify and close known vulnerabilities at an early stage.  
+The City of Munich uses SBOMs to specifically improve security in the software supply chain. This follows the recommendations of the [BSI](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/TR-03183-2-SBOM-Anforderungen.html), which defines SBOMs as a central element for cyber resilience in its Technical Guideline TR-03183.
 
-The [CycloneDX](https://cyclonedx.org/) format is used for internally developed software.
+For software developed in-house, LHM uses the [CycloneDX](https://cyclonedx.org/) format.
 
-The [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html) provides standardized mechanisms for this: An SBOM is automatically generated in all templates (e.g. Java- and NodeJS-based templates as well as the API gateway) and provided via a standardized endpoint (/actuator/sbom/application).
-This facilitates the security assessment, but also harbors risks if, for example, SBOMs in non-public projects unintentionally disclose confidential information. It is therefore recommended to deactivate the external visibility of the SBOM endpoint for non-public or security-critical applications.
+The [RefArch](https://refarch.oss.muenchen.de/cross-cutting-concepts/security.html) provides standardized mechanisms for this purpose:  
+In all templates (e.g., Java- and NodeJS-based templates as well as the API gateway), an SBOM is automatically generated and made available via a standardized endpoint (/actuator/sbom/application).  
+While this facilitates security assessment, it also carries risks if SBOMs in non-public projects inadvertently disclose sensitive information.  
+Therefore, it is recommended to disable external visibility of the SBOM endpoint in non-public or security-critical applications.
 
-### Automated tests
+### Automated Tests
 
-The internal CI/CD process includes the [OWASP](https://en.wikipedia.org/wiki/OWASP) Dependency Check for risk analysis.
-The “Advanced Security Policy as Code” must be implemented on GitHub and the global security configuration must be activated for all repositories.
+The internal CI/CD process includes the [OWASP](https://de.wikipedia.org/wiki/Open_Worldwide_Application_Security_Project) Dependency Check for risk analysis.  
+On GitHub, the "Advanced Security Policy as Code" should be implemented, and the global security configuration must be enabled for all repositories.
 
-Security-related pull requests and issues must be processed within two weeks. After this period, they will be forwarded to the respective [maintainers](https://en.wikipedia.org/wiki/Software_maintainer).
+Security-relevant pull requests and issues must be addressed within two weeks. After this period, they will be forwarded to the respective [maintainers](https://de.wikipedia.org/wiki/Maintainer).
 
-### Reporting security vulnerabilities
+### Reporting Vulnerabilities
 
-In contrast to other platforms such as GitLab, GitHub does not offer the option to report security issues confidentially. Therefore, security-related bugs should not be reported as public, normal issues.
-Each project must provide a dedicated e-mail address (e.g. [opensource@muenchen.de](mailto:opensource@muenchen.de)) that can be used to report security vulnerabilities (Responsible Disclosure).
+Unlike other platforms such as GitLab, GitHub does not provide a way to confidentially report security issues.  
+Therefore, security-related bugs should not be reported as public, regular issues.  
+For each project at LHM, a dedicated email address (e.g., [opensource@muenchen.de](mailto:opensource@muenchen.de)) must be provided through which vulnerabilities can be reported (Responsible Disclosure).

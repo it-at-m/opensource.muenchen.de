@@ -16,13 +16,11 @@ Folgende Fragen sollen dabei beantwortet werden:
 
 Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Software.
 
-
 ## Sicherheit
 
 Öffentlich zugänglicher Code lässt auf die [IT-Sicherheit](security) leicht überprüfen.
-Ein Vorteil von freier Software ist die Transparenz des Quellcodes, so können Sicherheitsforscher und Entwickler Open Source Software unabhänigig überprüfen.
+Ein Vorteil von freier Software ist die Transparenz des Quellcodes, so können Sicherheitsforscher und Entwickler Open Source Software überprüfen.
 Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt wird und ob dazu geeignete Werkzeuge vorliegen:
-
 
 * werden Codeänderungen ausschliesslich durch verantwortliche und benannte Maintainer in einem Freigabeverfahren durchgeführt (z.B. durch protected branches).
 * wie schnell war die Reaktionsgeschwindigkeit bei vergangenen Sicherheitsvorfällen.
@@ -30,7 +28,6 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 * Liegt eine Auflistung von _Common Vulnerabilities and Exposures_ (CVE) vor und wird diese entsprechend der Dringlichkeit bearbeitet.
 * Sind alle Abhängigkeiten nicht nur einsehbar, sondern sind potenzielle Risiken auch durch eine _Software Bill of Materials_ in diesen Abhängigkeiten transparent.
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
-
 
 ## Dokumentation
 
