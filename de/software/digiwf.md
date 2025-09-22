@@ -14,6 +14,7 @@ tags:
 - application
 - start2021
 - k8s
+- archive
 sortingPriority: 3
 ---
 __DigiWF__ ist eine Plattform für die Prozessautomatisierung. Anwender*innen können Workflows selbst automatisieren und auf andere Systeme zugreifen.
