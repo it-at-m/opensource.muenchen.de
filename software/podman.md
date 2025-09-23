@@ -13,4 +13,4 @@ __Podman__ is a container management tool for managing containers, images, volum
 ---
 
 Since Podman is [rootless](https://www.linuxjournal.com/content/containers-2025-docker-vs-podman-modern-developers) and [daemonless](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too#heading-daemonless), it is safer to run and easier to configure.
-We use Podman as local development workstations and thus use the same container runtime as in our private cloud [Openshift](openshift).
+We use Podman on our local development workstations and thus use the same container runtime as in our private cloud [Openshift](openshift).
