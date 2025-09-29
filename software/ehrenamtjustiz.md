@@ -12,7 +12,7 @@ tags:
 sortingPriority: 2
 ---
 
-The __Honorary Justice__ application simplifies the processes involved in appointing honorary judges.
+The __Honorary Justice__ application simplifies the processes involved in appointing lay assessors at the local court or honorary judges at the administrative court.
 
 ---
 

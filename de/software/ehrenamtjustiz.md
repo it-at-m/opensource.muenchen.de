@@ -11,7 +11,7 @@ tags:
 - k8s
 sortingPriority: 2
 ---
-Die Anwendung __Ehrenamtjustiz__  vereinfacht die Abläufe rund um die Berufung ehrenamtlicher Richter\*innen.
+Die Anwendung __Ehrenamtjustiz__  vereinfacht die Abläufe rund um die Berufung Schöff\*innen beim Amtsgericht oder ehrenamtlicher Richter\*innen am Verwaltungsgericht.
 
 ---
 
