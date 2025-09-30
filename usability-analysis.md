@@ -58,8 +58,12 @@ The number of stars, watchers, contributors or pull requests can be an indicatio
 ## DevOps
 
 Software consists not only of source code but is also embedded in automation for testing and deployment.
-It is therefore necessary to check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
-In addition, whether source code, artifacts, releases, containers, etc. are available in common [repositories](repositories).
+We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
 
+* Are source code, artifacts, releases, containers etc. available in common [repositories](repositories).
+* Are there [documented](#documentation) __configuration options__ for:
+  * Resources (computing power, memory, etc.)
+  * Resource types (e.g. different storage types such as block file, object)
+  * Security settings (e.g. use of local certification authorities, security contexts)
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
