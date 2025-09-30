@@ -60,7 +60,7 @@ Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indi
 ## DevOps
 
 Software besteht nicht nur aus Quellcode sondern ist eingebettet in Automatisierungen für Testing und Deployment.
-Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
+Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist, auch bei den von uns präferierten [SaaS Lösungen](fossaas) als Teil der Exitstrategie.
 
 * Sind Quellcode, Artefakte, Releases, Container etc. in gängigen [Repositories](repositories) verfügbar.
 * Gibt es [dokumentierte](#dokumentation) __Konfigurationsmöglichkeiten__ von:

@@ -58,7 +58,7 @@ The number of stars, watchers, contributors or pull requests can be an indicatio
 ## DevOps
 
 Software consists not only of source code but is also embedded in automation for testing and deployment.
-We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
+We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available, including for our preferred [SaaS solutions](fossaas) as part of the exit strategy.
 
 * Are source code, artifacts, releases, containers etc. available in common [repositories](repositories).
 * Are there [documented](#documentation) __configuration options__ for:
