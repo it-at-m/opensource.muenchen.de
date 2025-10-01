@@ -22,7 +22,7 @@ Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Softwa
 Ein Vorteil von freier Software ist die Transparenz des Quellcodes, so können Sicherheitsforscher und Entwickler Open Source Software überprüfen.
 Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt wird und ob dazu geeignete Werkzeuge vorliegen:
 
-* werden Codeänderungen ausschliesslich durch verantwortliche und benannte Maintainer in einem Freigabeverfahren durchgeführt (z.B. durch protected branches).
+* werden Codeänderungen ausschliesslich durch verantwortliche und benannte Hauptentwickler (Maintainer) in einem Freigabeverfahren durchgeführt (z.B. durch protected branches).
 * wie schnell war die Reaktionsgeschwindigkeit bei vergangenen Sicherheitsvorfällen.
 * werden Maintainer durch [Unternehmen](#externe-unterstutzung) oder durch andere [Geschäftsmodelle](improve#finanzierung) für ihre Aufgabe ausreichend finanziell unterstüzt.
 * Liegt eine Auflistung von _Common Vulnerabilities and Exposures_ (CVE) vor und wird diese entsprechend der Dringlichkeit bearbeitet.
@@ -36,7 +36,7 @@ Eine umfassende Software-Dokumentation ist für jede Software unerlässlich, ins
 Es müssen folgende Dokumentationen vorhanden sein:
 
 * Benutzerdokumentation
-* Entwickler, Installations- und Wartungsdokumentation.
+* Entwickler-, Installations- und Wartungsdokumentation.
 
 Alle Dokumentationen müssen __alle__ technischen Funktionen und Benutzeroberflächen der Software umfassend beschreiben.
 Dazu gehören Informationen über die Software selbst, ihre Nutzung, die API sowie Installations- und Wartungsanleitungen.
