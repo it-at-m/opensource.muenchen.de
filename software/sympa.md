@@ -1,5 +1,5 @@
 ---
-title: ckan
+title: Sympa
 developerlink: https://www.sympa.community/
 licensingmodel: open source
 logo: /logo/Sympa_logo.png
