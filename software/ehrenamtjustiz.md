@@ -12,14 +12,14 @@ tags:
 sortingPriority: 2
 ---
 
-The __Honorary Justice__ application simplifies the processes involved in appointing honorary judges.
+The application __Ehrenamtjustiz__ simplifies the processes involved in appointing lay assessors at the local court or honorary judges at the administrative court.
 
 ---
 
 ## Project
 
-Ehrenamtjustiz supports clerks in the district administrative authority in recording and managing applications for the office of lay judge or honorary judge at the administrative court. Conflicts in the residents' registration data can also be compared and clarified. The application also helps with the creation of nomination lists for the appointment of volunteers. At the same time, citizens have the opportunity to apply directly for the office via an online portal.
+The specialized procedure "Ehrenamtliche für die Justiz" supports administrative staff in local government in the collection and management of applications for the position of lay judges at the district court or honorary judges at the administrative court. It also assists in the creation of candidate lists for the respective court by cross-referencing the applicant's data with the information in the residents' register. Furthermore, citizens are provided with the opportunity to contact the local government online to express their interest in being included on the relevant candidate list.
 
 Technically, the application is based on the it@M [reference architecture](https://github.com/it-at-m/refarch) and is operated on an [OpenShift](openshift.md) platform. The software uses the templates [Spring](spring.md) and [Vue.js](vuejs.md). The architecture enables the separation of components and offers standardized interfaces to external systems such as the residents' register and change services. We also use single sign-on via [KeyCloak](keycloak.md) and central data storage in a [PostgreSQL](postgresql.md) database.
 
-The “Ehrenamtjustiz” application replaces the “Schöffenverwaltung” software, which was in use until 2024.
+The application "Ehrenamtliche für die Justiz" replaces the (municipal) software "Schöffenverwaltung", which was in use until 2024.

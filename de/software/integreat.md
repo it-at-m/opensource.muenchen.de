@@ -36,5 +36,4 @@ Die Ergebnisse sind vielversprechend: In ca. 50 % der Fälle liefert der Chatbot
 
 Im Mai 2025 wurde der integreat-chat im Wartebereich des  [Integrationsberatungszentrums IBZ Sprache und Beruf](https://stadt.muenchen.de/service/info/abteilung-migration-integration-teilhabe/10320352/) mit 12 Personen getestet. Dabei wurden Übersetzungen mit durchschnittlich 4,9 von 5 Punkten, die Antworten mit 4 von 5 Sternen und die verlinkten Inhalte mit 4,8 von 5 Punkten bewertet.
 
-Der Chatbot unterstützt damit nicht nur Ratsuchende, sondern entlastet auch Mitarbeiter\*innen und ergänzt das bestehende Beratungsangebot sinnvoll, besonders außerhalb der Öffnungszeiten. Eine Integration der im MIA-Projekt entwickelten Chatbot-Lösung in das geplante [Welcome Center der Stadt München](https://stadt.muenchen.de/news/welcome-center.html) ist vorgesehen.
-
+Der Chatbot unterstützt damit nicht nur Ratsuchende, sondern entlastet auch Mitarbeiter/*innen und ergänzt das bestehende Beratungsangebot sinnvoll, besonders außerhalb der Öffnungszeiten. Eine Integration der im MIA-Projekt entwickelten Chatbot-Lösung in das geplante [Welcome Center der Stadt München](https://stadt.muenchen.de/news/welcome-center.html) ist vorgesehen.

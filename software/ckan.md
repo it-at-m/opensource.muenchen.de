@@ -10,6 +10,7 @@ tags:
 - application
 - kooperation
 - support
+- k8s
 ---
 
 __CKAN__ (Comprehensive Knowledge Archive Network) is a web-based data catalog software used especially by public institutions for sharing "open data", which is further developed by the [OKFN](https://okfn.org).
@@ -24,3 +25,4 @@ As part of the [Connected Urban Twins](https://www.connectedurbantwins.de) proje
 The development of the projects is user-oriented and modular.
 [All project results are shared at an early stage and made available as "open source"](https://stadt.muenchen.de/infos/connected-urban-twins.html), as stipulated by the [Regulations on Open Source for Model Projects Smart Cities of the Federal Ministry of Housing, Urban Development and Construction ](https://www.smart-city-dialog.de/regelungen-zu-open-source-fuer-modellprojekte-smart-cities).
 
+Even though both projects have different focuses and target groups, both will be deployed on our Openshift using a [forked Helm Chart from the Technical University of Munich](https://github.com/it-at-m/sddi-ckan-k8s/).
