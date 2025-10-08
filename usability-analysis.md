@@ -27,20 +27,68 @@ However, it must be checked whether IT security is also actively ensured and whe
 * Are all dependencies not only visible, but are potential risks also transparent through a _Software Bill of Materials_ in these dependencies?
 * If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively
 
-## [Documentation](./documentation.md)
+## Documentation of Open Source Software
 
-Comprehensive software [documentation](./documentation.md) is essential for all software, especially for software that is to be used or modified by others.
+Comprehensive [documentation](https://opensource.com/article/20/3/documentation) is essential for any software, especially for open source projects that are intended to be used or modified by others. It ensures transparency, traceability, and facilitates easy use and further development.  
+Clear and detailed documentation, both within the source code and in accompanying files, is a fundamental requirement to guarantee the accessibility and usability of the software.  
 
-The following documentation must be available:
+### Structure of Documentation
 
-* User documentation
-* Developer, installation and maintenance documentation.
+For effective and complete documentation, the following elements are required:
 
-All documentation must comprehensively describe __all__ the technical functions and user interfaces of the software.
-This includes information about the software itself, its use, the API and installation and maintenance instructions.
+### 1. README.md
 
-It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, Text).
-It must be possible to submit suggestions for improving the documentation.
+Each repository must contain a `README.md` file in the root directory.  
+This file should include all sections of the [OSS Repository Template](https://github.com/it-at-m/oss-repository-en-template/blob/main/README.md) and be written **in English** to reach an international audience.  
+
+A [README](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) should answer the following questions:
+
+* What does this project do?  
+* Why is it useful?  
+* How can I use or contribute to it?  
+* Where can I get support?
+
+### 2. Technical Documentation (`/docs` or Website)
+
+Each project must provide **either** a structured documentation folder `/docs`  
+**or** a dedicated documentation website.  
+
+The technical documentation should describe **all features, interfaces, and user interfaces** of the software. This includes in particular:
+
+* Usage and user interfaces  
+* API references  
+* Installation and maintenance guides  
+* Technical background and architecture  
+
+Documentation should follow the **“English First”** principle to ensure international comprehensibility.  
+For larger projects or multi-repositories, it can be implemented as a **website**.  
+
+A user manual or product documentation should ideally be **bilingual (German and English)**.  
+
+### Accessibility and Openness
+
+Documentation must be **freely accessible on the internet** and provided in **open formats** (e.g., Markdown, HTML, Text).  
+It should be possible to **submit suggestions for improving the documentation** (e.g., via pull requests or issues in the repository).
+
+### Challenges in Documentation
+
+Creating and maintaining documentation requires time and commitment. It must be updated regularly to reflect changes in the software.  
+Missing or outdated documentation can lead to misunderstandings, errors, increased support effort, and a shortened product lifespan.  
+
+### Best Practices for Effective Documentation
+
+To ensure high-quality and sustainable documentation, the following principles should be observed:
+
+1. **Consistent terminology:** Uniform terms promote clear communication.  
+2. **Contribution guidelines:** Clear rules make it easier for the community to contribute to documentation.  
+3. **Documentation templates:** Templates help capture information consistently and completely.  
+4. **Up-to-dateness:** Every new or changed feature must be documented.  
+5. **Regular review:** Quarterly updates ensure relevance and quality.  
+
+### Conclusion
+
+By implementing these measures, the documentation of open source software can be significantly improved, leading to higher user satisfaction and a vibrant, inclusive community.  
+Effective documentation not only benefits users but also contributes to the long-term success of the project. It builds trust, lowers barriers for new contributions, and strengthens the community.
 
 ## External support
 

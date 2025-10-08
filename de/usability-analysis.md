@@ -27,22 +27,71 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 * Sind alle Abhängigkeiten nicht nur einsehbar, sondern sind potenzielle Risiken auch durch eine _Software Bill of Materials_ in diesen Abhängigkeiten transparent.
 * Liegen externe Audits vor (z.B. wie bei [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), können diese positiv gewertet werden
 
-## [Dokumentation](./documentation.md)
+## Dokumentation von Open Source Software
 
-Eine umfassende Software-[Dokumentation](./documentation.md) ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
+Eine umfassende [Dokumentation](https://opensource.com/article/20/3/documentation) ist für jede Software unerlässlich, insbesondere für Open Source Software, die von anderen genutzt oder verändert werden soll. Sie gewährleistet Transparenz, Nachvollziehbarkeit und eine einfache Nutzung und Weiterentwicklung.  
 
-Es müssen folgende Dokumentationen vorhanden sein:
+Eine klare und detaillierte Dokumentation, sowohl im Quellcode als auch in begleitenden Dateien, ist eine grundlegende Voraussetzung, um die Zugänglichkeit und Nutzbarkeit der Software sicherzustellen.  
 
-* Benutzerdokumentation
-* Entwickler-, Installations- und Wartungsdokumentation
+### Struktur der Dokumentation
 
-Alle Dokumentationen müssen __alle__ technischen Funktionen und Benutzeroberflächen der Software umfassend beschreiben.
-Dazu gehören Informationen über die Software selbst, ihre Nutzung, die API sowie Installations- und Wartungsanleitungen.
+Für eine effektive und vollständige Dokumentation sind folgende Elemente erforderlich:
 
-Es ist wichtig, dass die Dokumentation frei im Internet zugänglich ist und in offenen Formaten bereitgestellt wird (z. B. Markdown, HTML, Text).
-Eine englische Version der Dokumentation ist ausreichend.
-Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
+### 1. README.md
 
+Jedes Repository muss eine `README.md`-Datei im Hauptverzeichnis enthalten.  
+Diese Datei sollte alle Abschnitte des [OSS Repository Templates](https://github.com/it-at-m/oss-repository-en-template/blob/main/README.md) umfassen und **in englischer Sprache** verfasst sein, um eine internationale Zielgruppe anzusprechen.  
+
+Eine [README](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) sollte folgende Fragen beantworten:
+
+* Was macht dieses Projekt?  
+* Warum ist es nützlich?  
+* Wie kann ich es nutzen oder dazu etwas beitragen?  
+* Wo erhalte ich Unterstützung?
+
+### 2. Technische Dokumentation (`/docs` oder Website)
+
+Jedes Projekt muss **entweder** einen strukturierten Dokumentationsordner `/docs`  
+**oder** eine eigene Dokumentationswebsite bereitstellen.  
+
+Die technische Dokumentation soll **alle Funktionen, Schnittstellen und Benutzeroberflächen** der Software beschreiben. Dazu gehören insbesondere:
+
+* Nutzung und Benutzeroberflächen  
+* API-Referenzen  
+* Installations- und Wartungsanleitungen  
+* Technische Hintergründe und Architektur  
+
+Die Dokumentation sollte nach dem Prinzip **„English First“** erstellt werden, um international verständlich zu sein.  
+Für größere Projekte oder Multirepositories kann sie als **Website** umgesetzt werden.  
+
+Ein Benutzerhandbuch oder eine Produktdokumentation sollte idealerweise **zweisprachig (Deutsch und Englisch)** verfügbar sein.  
+
+
+### Zugänglichkeit und Offenheit
+
+Die Dokumentation muss **frei im Internet zugänglich** und in **offenen Formaten** (z. B. Markdown, HTML, Text) bereitgestellt werden.  
+Es muss die Möglichkeit bestehen, **Vorschläge zur Verbesserung der Dokumentation** einzureichen (z. B. über Pull Requests oder Issues im Repository).
+
+### Herausforderungen bei der Dokumentation
+
+Das Erstellen und Pflegen von Dokumentation erfordert Zeit und Engagement. Sie muss regelmäßig aktualisiert werden, um Änderungen in der Software zu berücksichtigen.  
+Fehlende oder veraltete Dokumentation kann zu Missverständnissen, Fehlern, erhöhtem Supportaufwand und einer verkürzten Lebensdauer des Produkts führen.  
+
+### Best Practices für effektive Dokumentation
+
+Zur Sicherstellung einer hochwertigen und nachhaltigen Dokumentation sollten folgende Prinzipien beachtet werden:
+
+1. **Konsistente Terminologie:** Einheitliche Begriffe fördern eine klare Kommunikation.  
+2. **Beitragsrichtlinien:** Klare Richtlinien erleichtern es der Community, zur Dokumentation beizutragen.  
+3. **Dokumentationsvorlagen:** Vorlagen helfen, Informationen konsistent und vollständig zu erfassen.  
+4. **Aktualität:** Jede neue oder geänderte Funktion muss dokumentiert werden.  
+5. **Regelmäßige Überprüfung:** Mindestens vierteljährliche Updates sichern Relevanz und Qualität.  
+
+### Fazit
+
+Durch die Umsetzung dieser Maßnahmen kann die Dokumentation von Open Source Software wesentlich verbessert werden, was zu einer höheren Nutzer\*innenzufriedenheit und einer lebendigen, inklusiven Community führt.  
+Effektive Dokumentation ist nicht nur für die Nutzer\*innen von Vorteil, sondern trägt auch zum langfristigen Erfolg des Projekts bei.
+Sie schafft Vertrauen, senkt Hürden für neue Beiträge und stärkt die Community.
 
 ## externe Unterstützung
 
