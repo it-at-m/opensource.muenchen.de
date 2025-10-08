@@ -13,7 +13,7 @@ Folgende Fragen sollen dabei beantwortet werden:
 * Bestehen Abhängigkeiten zu anderen Diensten (z.B. Redis, Memcached, Elasticsearch) und werden diese in stabilen, aktuellen Versionen eingesetzt?
 * Wird ein Framework genutzt? Falls nicht, was ist die Begründung? Falls ja, sollten Auswahl und Einbindung bewertet werden.
 * Wie lange ist geschätzte Einarbeitungszeit für eine/n Entwickler*in?
-* Alle Funktionen sollen nicht nur über die grafische Benutzeroberfläche (GUI), sondern auch über eine generelle und vollumfängliche __Programmierschnittstellen__ (API) bereitstellt werden.
+* Alle Funktionen sollen nicht nur über die grafische Benutzeroberfläche (GUI), sondern auch über eine generelle, non-proprietäre und vollumfängliche __Programmierschnittstellen__ (API) bereitstellt werden. Im Idealfall mit zugehöriger [OpenAPI-Spec](https://www.openapis.org/).
 
 Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Software.
 

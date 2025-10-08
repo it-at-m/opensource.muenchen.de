@@ -13,7 +13,7 @@ The following questions should be answered:
 * Are there dependencies on other services (e.g. Redis, Memcached, Elasticsearch) and are these used in stable, up-to-date versions?
 * Is a framework used? If not, what is the reason? If yes, selection and integration should be evaluated.
 * How long is the estimated training period for a developer?
-* All functions are to be provided not only via the graphical user interface (GUI), but also via a general and comprehensive __programming interface__ (API).
+* All functions should be provided not only via the graphical user interface (GUI), but also via a general, non-proprietary, and comprehensive __programming interface__ (API). Ideally, this should include the corresponding [OpenAPI spec](https://www.openapis.org/).
 
 The focus is on the potential maintainability and security of the software.
 
