@@ -13,6 +13,7 @@ The following questions should be answered:
 * Are there dependencies on other services (e.g. Redis, Memcached, Elasticsearch) and are these used in stable, up-to-date versions?
 * Is a framework used? If not, what is the reason? If yes, selection and integration should be evaluated.
 * How long is the estimated training period for a developer?
+* All functions should be provided not only via the graphical user interface (GUI), but also via a general, non-proprietary, and comprehensive __programming interface__ (API). Ideally, this should include the corresponding [OpenAPI spec](https://www.openapis.org/).
 
 The focus is on the potential maintainability and security of the software.
 
@@ -73,7 +74,6 @@ The number of stars, watchers, contributors or pull requests can be an indicatio
 ## DevOps
 
 Software consists not only of source code but is also embedded in automation for testing and deployment.
-It is therefore necessary to check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
-In addition, whether source code, artifacts, releases, containers, etc. are available in common repositories.
+We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available, including for our preferred [SaaS solutions](fossaas) as part of the exit strategy.
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

@@ -19,4 +19,4 @@ CollectiveAccess ist seit etwa 2015 als interner Katalog im [Münchner Stadtmuse
 Allein das Münchner Stadtmuseum verwaltet mit CollectiveAccess eine Sammlung von über 200.000 Objekte mit 50 Terabyte an Daten.
 Diese ist unter [sammlungonline.muenchner-stadtmuseum.de](https://sammlungonline.muenchner-stadtmuseum.de), einem [TYPO3](typo3), einsehbar.
 
-Um unsere Wünsche und Anforderungen in CollectiveAccess einfließen zu lassen, beauftragen wir die Entwickler direkt mit 10 bis 30 Personentagen pro Jahr.
+Um unsere Wünsche und Anforderungen in CollectiveAccess einfließen zu lassen, beauftragen wir die Entwickler*innen direkt mit 10 bis 30 Personentagen pro Jahr.
