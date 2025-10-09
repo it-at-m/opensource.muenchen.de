@@ -9,10 +9,8 @@ Die Bewertung des Codes erfolgt durch erfahrene Entwickler*innen, die mit der ve
 Folgende Fragen sollen dabei beantwortet werden:
 
 * Wird ein Framework genutzt? Falls nicht, was ist die Begründung? Falls ja, sollten Auswahl und Einbindung bewertet werden.
-* Bestehen darüber hinaus andere Abhängigkeiten (z.B. Redis, Memcached, Elasticsearch) und werden diese in stabilen, aktuellen Versionen eingesetzt?
-* Handelt es sich um eine webbasierte Anwendung? Falls nicht, weshalb? Etwa aufgrund hoher Datenmengen oder der Grafik, beispielsweise CAD.
-* Existiert ein Coding Styleguide (intern/extern)? Ist der Code verständlich geschrieben mit sprechender Bezeichnung für Variablen und Methoden
-* Wie hoch ist die geschätzte Einarbeitungszeit für neue Entwickler*innen?
+* Wie lange ist geschätzte Einarbeitungszeit für eine/n Entwickler*in?
+* Alle Funktionen sollen nicht nur über die grafische Benutzeroberfläche (GUI), sondern auch über eine generelle, non-proprietäre und vollumfängliche __Programmierschnittstellen__ (API) bereitstellt werden. Im Idealfall mit zugehöriger [OpenAPI-Spec](https://www.openapis.org/).
 
 Der Fokus liegt dabei auf der potentiellen Wartbarkeit und Sicherheit der Software.
 
@@ -61,8 +59,13 @@ Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indi
 ## DevOps
 
 Software besteht nicht nur aus Quellcode sondern ist eingebettet in Automatisierungen für Testing und Deployment.
-Daher ist zu prüfen ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist.
-Auserdem ob Quellcode, Artefakte, Releases, Container etc. in gängigen Repositories verfügbar sind.
+Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist, auch bei den von uns präferierten [SaaS Lösungen](fossaas) als Teil der Exitstrategie.
+
+* Sind Quellcode, Artefakte, Releases, Container etc. in gängigen [Repositories](repositories) verfügbar.
+* Gibt es [dokumentierte](#dokumentation) __Konfigurationsmöglichkeiten__ von:
+  * Ressourcen (Rechenleistung, Speicher etc)
+  * Ressourcenarten (z.B. unterschiedliche Speicherarten wie Block File, Object)
+  * Sicherheitseinstellungen, (z.B. nutzung lokaler Zertifizierungsstellen, Sicherheitskontexte)
 
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

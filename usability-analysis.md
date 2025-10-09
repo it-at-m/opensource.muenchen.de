@@ -8,11 +8,12 @@ All free software should undergo this usability analysis, regardless of whether 
 The code is evaluated by experienced developers who are familiar with the language and technology used.
 The following questions should be answered:
 
-* Is a framework used? If not, what is the reason? If yes, the selection and integration should be evaluated.
-* Are there other dependencies (e.g. Redis, Memcached, Elasticsearch) and are these used in stable, current versions?
-* Is it a web-based application? If not, why? Because of high data volumes or the graphics, for example CAD.
-* Is there a coding style guide (internal/external)? Is the code written in an understandable way with descriptive names for variables and methods?
-* How long is the estimated training period for new developers?
+* Is the code written in an understandable way with descriptive names for variables and methods?
+* Is there a coding style guide and is it adhered to?
+* Are there dependencies on other services (e.g. Redis, Memcached, Elasticsearch) and are these used in stable, up-to-date versions?
+* Is a framework used? If not, what is the reason? If yes, selection and integration should be evaluated.
+* How long is the estimated training period for a developer?
+* All functions should be provided not only via the graphical user interface (GUI), but also via a general, non-proprietary, and comprehensive __programming interface__ (API). Ideally, this should include the corresponding [OpenAPI spec](https://www.openapis.org/).
 
 The focus is on the potential maintainability and security of the software.
 
@@ -60,8 +61,12 @@ The number of stars, watchers, contributors or pull requests can be an indicatio
 ## DevOps
 
 Software consists not only of source code but is also embedded in automation for testing and deployment.
-It is therefore necessary to check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available.
-Also check whether source code, artifacts, releases, containers, etc. are available in common repositories.
+We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available, including for our preferred [SaaS solutions](fossaas) as part of the exit strategy.
 
+* Are source code, artifacts, releases, containers etc. available in common [repositories](repositories).
+* Are there [documented](#documentation) __configuration options__ for:
+  * Resources (computing power, memory, etc.)
+  * Resource types (e.g. different storage types such as block file, object)
+  * Security settings (e.g. use of local certification authorities, security contexts)
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ from The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 p. 365
