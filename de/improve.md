@@ -15,7 +15,7 @@ Auf diese Weise kann freie Software kontinuierlich weiterentwickelt werden und d
 
 Neben den [Eigenveröffentlichungen](./publish) der Landeshauptstadt München tragen wir auch durch __Contributions__ zu anderen FOSS-Projekten bei.
 Contributions können dabei unterschiedliche Formen haben und müssen nicht immer neue Features oder Bugfixes beinhalten.
-Auch die Korrektur oder Fortschreibung von [Dokumentationen](./documentation.md) kann einen wertvollen Beitrag leisten.
+Auch die Korrektur oder Fortschreibung von [Dokumentationen](usability-analysis#dokumentation) kann einen wertvollen Beitrag leisten.
 
 Alle Contributions sind mit unserem [github account als fork repositories](https://github.com/orgs/it-at-m/repositories?q=fork%3Atrue+archived%3Afalse) erstellt und contributed.
 
