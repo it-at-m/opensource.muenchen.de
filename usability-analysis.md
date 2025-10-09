@@ -33,7 +33,7 @@ However, it must be checked whether IT security is also actively ensured and whe
 Comprehensive [documentation](https://opensource.com/article/20/3/documentation) is essential for all software, especially open source software that is intended to be used or modified by others. It ensures transparency, traceability, and ease of use and further development.
 Clear and detailed documentation, both in the source code and in accompanying files, is a fundamental prerequisite for ensuring the accessibility and usability of the software.
 
-Every software project must provide *either* a structured documentation folder `/docs` *or* its own wiki or website.
+Every software project should provide *either* a structured documentation folder `/docs` *or* its own wiki or website.
 The technical documentation should describe all functions, interfaces, and user interfaces of the software. This includes in particular:
 
 * Use and user interfaces  
