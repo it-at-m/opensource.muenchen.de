@@ -51,7 +51,7 @@ It must be possible to submit [suggestions for improving the documentation](http
 Creating and maintaining documentation requires [10–20%](https://opensource.com/article/20/3/documentation) of development time.
 It must be updated regularly to document any new or changed features.
 
-Every [software repository](repositories) must contain a [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *English* in the main directory and must answer the following questions:
+Every [software repository](repositories) must contain a [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *English* in the main directory and should answer the following questions:
 
 * What does this project do?
 * Why is it useful?

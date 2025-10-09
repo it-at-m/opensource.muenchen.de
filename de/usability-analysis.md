@@ -51,7 +51,7 @@ Es muss die Möglichkeit bestehen, [Vorschläge zur Verbesserung der Dokumentati
 Das Erstellen und Pflegen von Dokumentation erfordert [10–20%](https://opensource.com/article/20/3/documentation) der Entwicklungszeit.
 Sie muss regelmäßig aktualisiert werden, um jede neue oder geänderte Funktion zu dokumentieren.
 
-Jedes [Softwarerepository](repositories) muss eine [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *englischer Sprache* im Hauptverzeichnis enthalten und muss folgende Fragen beantworten:
+Jedes [Softwarerepository](repositories) muss eine [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *englischer Sprache* im Hauptverzeichnis enthalten und soll folgende Fragen beantworten:
 
 * Was macht dieses Projekt?  
 * Warum ist es nützlich?  
