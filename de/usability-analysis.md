@@ -33,7 +33,7 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 Eine umfassende [Dokumentation](https://opensource.com/article/20/3/documentation) ist für jede Software unerlässlich, insbesondere für Open Source Software, die von anderen genutzt oder verändert werden soll. Sie gewährleistet Transparenz, Nachvollziehbarkeit und eine einfache Nutzung und Weiterentwicklung.
 Eine klare und detaillierte Dokumentation, sowohl im Quellcode als auch in begleitenden Dateien, ist eine grundlegende Voraussetzung, um die Zugänglichkeit und Nutzbarkeit der Software sicherzustellen.  
 
-Jedes Softwareprojekt muss *entweder* einen strukturierten Dokumentationsordner `/docs` *oder* eine eigene Dokumentationswebsite bereitstellen.
+Jedes Softwareprojekt muss *entweder* einen strukturierten Dokumentationsordner `/docs` *oder* eine eigene Wiki oder Website bereitstellen.
 Die __technische Dokumentation__ soll *alle Funktionen, Schnittstellen und Benutzeroberflächen* der Software beschreiben. Dazu gehören insbesondere:
 
 * Nutzung und Benutzeroberflächen  
