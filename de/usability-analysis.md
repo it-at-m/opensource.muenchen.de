@@ -1,7 +1,7 @@
 # Nutzbarkeitsanalyse
 
-Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer Nutzbarkeitsanalyse unterzogen werden.
-Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) oder als [fertige Software](./use.html) eingesetzt werden soll, durchlaufen.
+Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer __Nutzbarkeitsanalyse__ unterzogen werden.
+Diese soll jegliche freie Software, unabhängig ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) [fertige Software](./use.html) eingesetzt werden soll, durchlaufen.
 
 ## Code Review
 

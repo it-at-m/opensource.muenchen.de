@@ -1,7 +1,7 @@
 # Usability analysis
 
-In order to use or even further develop existing free software, it must first be subjected to a usability analysis.
-All free software should undergo this usability analysis, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
+In order to use or even further develop existing free software, it must first be subjected to a __usability analysis__.
+All free software should undergo this, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
 
 ## Code review
 
