@@ -37,7 +37,7 @@ Every software project must provide *either* a structured documentation folder `
 The technical documentation should describe all functions, interfaces, and user interfaces of the software. This includes in particular:
 
 * Use and user interfaces  
-* API references  
+* [API references ](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)
 * Installation and maintenance instructions  
 * Technical background and architecture  
 
@@ -46,7 +46,7 @@ The technical documentation must be written in __English__ to be internationally
 A __user manual__ should ideally be available **in two languages (German and English)**.  
 
 The documentation must be **freely accessible on the internet** and provided in **open formats** (e.g., Markdown, HTML, text).
-It must be possible to submit **suggestions for improving the documentation** (e.g., via pull requests).
+It must be possible to submit [suggestions for improving the documentation](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) (e.g., via pull requests).
 
 Creating and maintaining documentation requires [10–20%](https://opensource.com/article/20/3/documentation) of development time.
 It must be updated regularly to document any new or changed features.

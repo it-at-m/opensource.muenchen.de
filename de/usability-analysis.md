@@ -37,7 +37,7 @@ Jedes Softwareprojekt muss *entweder* einen strukturierten Dokumentationsordner 
 Die __technische Dokumentation__ soll *alle Funktionen, Schnittstellen und Benutzeroberflächen* der Software beschreiben. Dazu gehören insbesondere:
 
 * Nutzung und Benutzeroberflächen  
-* API-Referenzen  
+* [jede API-Referenzen](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)
 * Installations- und Wartungsanleitungen  
 * Technische Hintergründe und Architektur  
 
@@ -46,7 +46,7 @@ Die technische Dokumentation muss in __Englisch__ geschreiben sein, um internati
 Ein __Benutzerhandbuch__ sollte idealerweise **zweisprachig (Deutsch und Englisch)** verfügbar sein.  
 
 Die Dokumentation muss **frei im Internet zugänglich** und in **offenen Formaten** (z. B. Markdown, HTML, Text) bereitgestellt werden.
-Es muss die Möglichkeit bestehen, **Vorschläge zur Verbesserung der Dokumentation** einzureichen (z. B. über Pull Requests).
+Es muss die Möglichkeit bestehen, [Vorschläge zur Verbesserung der Dokumentation](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) einzureichen (z. B. über Pull Requests).
 
 Das Erstellen und Pflegen von Dokumentation erfordert [10–20%](https://opensource.com/article/20/3/documentation) der Entwicklungszeit.
 Sie muss regelmäßig aktualisiert werden, um jede neue oder geänderte Funktion zu dokumentieren.
