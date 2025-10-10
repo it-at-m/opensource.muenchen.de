@@ -53,7 +53,7 @@ Therefore, it is recommended to disable external visibility of the SBOM endpoint
 The internal CI/CD process includes the [OWASP](https://de.wikipedia.org/wiki/Open_Worldwide_Application_Security_Project) Dependency Check for risk analysis.  
 On GitHub, the "Advanced Security Policy as Code" should be implemented, and the global security configuration must be enabled for all repositories.
 
-Security-relevant pull requests and issues must be addressed within two weeks. After this period, they will be forwarded to the respective [maintainers](https://de.wikipedia.org/wiki/Maintainer).
+Security-related pull requests and issues with a [CVSS critical and high](https://nvd.nist.gov/vuln-metrics/cvss) rating must be addressed within __30 days__.
 
 ### Reporting Vulnerabilities
 
