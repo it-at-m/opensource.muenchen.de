@@ -5,7 +5,7 @@ All free software should undergo this usability analysis, regardless of whether 
 
 ## Code review
 
-The code should be evaluated by an experienced developer who is familiar with the relevant language or the framework used. 
+The code is evaluated by experienced developers who are familiar with the language and technology used.
 The following questions should be answered:
 
 * Is the code written in an understandable way with descriptive names for variables and methods?
@@ -17,16 +17,18 @@ The following questions should be answered:
 
 The focus is on the potential maintainability and security of the software.
 
-
 ## Security
 
-Publicly accessible code can be easily checked for security vulnerabilities.
+Publicly accessible code can be easily checked for [IT security](security).
 One advantage of free software is the transparency of the source code, which means that security researchers and developers can check open source software independently.
 However, it must be checked whether IT security is also actively ensured and whether suitable tools are available for this purpose:
 
-* Is a list of _Common Vulnerabilities and Exposures_ (CVE) available and is it processed according to urgency.
-* Are all dependencies not only visible, but are potential risks also transparent through a _Software Bill of Materials_ in these dependencies?
-* If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively
+* code changes are made exclusively by responsible and named maintainers in a release procedure (e.g. through protected branches).
+* How fast was the response time for past security incidents?
+* Are maintainers sufficiently financially supported by [companies](#external-support) or by other [business models](improve#financing) for their task?
+* Is a list of _Common Vulnerabilities and Exposures_ (CVE) available and is it processed according to urgency?
+* Are all dependencies not only visible, but are potential risks also transparent through a software bill of materials in these dependencies?
+* If external audits are available (e.g. as with [curl](https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/)), these can be evaluated positively.
 
 ## Documentation
 
@@ -37,10 +39,11 @@ The following documentation must be available:
 * User documentation
 * Developer, installation and maintenance documentation.
 
-All documentation must comprehensively describe __all__ the technical functions and user interfaces of the software.
+All documentation must comprehensively describe __all__ technical functions and user interfaces of the software.
 This includes information about the software itself, its use, the API and installation and maintenance instructions.
 
-It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, Text).
+It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, text).
+An English version of the documentation is sufficient.
 It must be possible to submit suggestions for improving the documentation.
 
 ## External support
@@ -53,8 +56,7 @@ This is because commercial support generally offers more reliable and profession
 If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
 This may require us to procure training and further education for our employees.
 
-
-The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
+The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not have to be [^DevOps_Handbook_stars].
 
 ## DevOps
 
@@ -67,4 +69,4 @@ We therefore check whether a publicly accessible _Continuous Integration and Dep
   * Resource types (e.g. different storage types such as block file, object)
   * Security settings (e.g. use of local certification authorities, security contexts)
 
-[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
+[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ from The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 p. 365
