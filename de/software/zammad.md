@@ -15,7 +15,7 @@ Zammad ist ein freies Helpdesk- bzw. Issue-Tracking-System das die Anbindung von
 
 ---
 
-Zammad wird im digitalen Bürgerservice für wenig strukturierte Vorgänge genutzt.
+Zammad wird im [digitalen Bürgerservice](https://it-at-m.github.io/dbs/introduction.html) für wenig strukturierte Vorgänge genutzt.
 Bürger\*innen können Anliegen am städtische Formularserver (z.B. zur [Grundsteuer](https://service.muenchen.de/intelliform/forms/01/10/10/kontaktformular_grundsteuer/index), [Erhebungsbogen Ergänzungspflegschaften](https://service.muenchen.de/intelliform/forms/01/03/03/erhebungsbogen_ergaenzungspflegschaften/index) oder [technische Anfragen](https://service.muenchen.de/intelliform/forms/01/01/01/supportformular/index)) einreichen.
 Mitarbeiter\*innen der Stadt können in Zammad den Vorgang dann bearbeiten, während die Bürger\*innen im [digtalen Bürgerservice](https://stadt.muenchen.de/buergerservice/anliegen/detailAnliegen.html) den Bearbeitungsstand einsehen und mit den Sachbearbeiter\*innen in Kontakt treten können.
 
