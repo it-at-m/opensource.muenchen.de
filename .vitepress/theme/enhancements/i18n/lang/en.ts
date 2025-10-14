@@ -5,6 +5,7 @@ export const enMessages: localizedMessagesType = {
     ai: "AI",
     application: "Application",
     archive: "Archive",
+    contribute: "Contribute",
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Inhouse",
