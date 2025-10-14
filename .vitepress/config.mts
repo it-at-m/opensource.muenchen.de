@@ -119,7 +119,7 @@ export default defineConfig({
     sidebar: [],
 
     outline: {
-        level: [2, 4],
+      level: [2, 4],
     },
     socialLinks: [
       {
