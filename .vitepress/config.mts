@@ -60,6 +60,7 @@ export default defineConfig({
         sidebar: [],
         outline: {
           label: "Auf dieser Seite",
+          level: [2, 4],
         },
         darkModeSwitchLabel: "Darstellung",
         langMenuLabel: "Sprache wechseln",
@@ -117,6 +118,9 @@ export default defineConfig({
 
     sidebar: [],
 
+    outline: {
+        level: [2, 4],
+    },
     socialLinks: [
       {
         icon: "github",
