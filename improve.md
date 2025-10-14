@@ -21,7 +21,6 @@ All contributions are created and contributed using our [GitHub account as forke
 <ClientOnly>
 <TagTile
 :available-tags="['contribute']"
-show-tags
 />
 </ClientOnly>
 

@@ -22,7 +22,6 @@ Alle Contributions sind mit unserem [GitHub Account als geforkte Repositories](h
 <ClientOnly>
 <TagTile
 :available-tags="['contribute']"
-show-tags
 />
 </ClientOnly>
 
