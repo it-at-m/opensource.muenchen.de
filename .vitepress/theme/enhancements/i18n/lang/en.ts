@@ -10,7 +10,7 @@ export const enMessages: localizedMessagesType = {
     infrastruktur: "Infrastructure",
     kooperation: "Cooperation",
     observability: "Observability",
-    opencore: "Opencore",
+    opencore: "Open Core",
     sponsor: "Sponsor",
     support: "Support",
     featurefunding: "Feature-Funding",

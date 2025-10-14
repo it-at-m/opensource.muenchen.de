@@ -10,7 +10,7 @@ export const deMessages: localizedMessagesType = {
     infrastruktur: "Infrastruktur",
     kooperation: "Kooperation",
     observability: "Observability",
-    opencore: "Opencore",
+    opencore: "Open Core",
     sponsor: "Sponsor",
     support: "Support",
     featurefunding: "Feature-Funding",
