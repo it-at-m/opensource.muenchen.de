@@ -10,10 +10,10 @@ tags:
   - opencore
 ---
 
-Matomo (ehemals Piwik) Web Tracking wird verwendet um das Benutzerverhalten einer Webanwendung zu analysieren.
+Matomo (ehemals Piwik) Web Tracking wird verwendet um das Benutzerverhalten auf einer Webanwendung zu analysieren.
 
 ---
 
-Wir tracken mit Matomo externe Websites, aber auch interne Systeme und können so sicherstellen das wir sensible Trackinginformationen nur auf städtischer Infrastruktur vorhalten.
+Wir tracken mit Matomo externe Websites, aber auch interne Systeme und können so sicherstellen, dass wir sensible Trackinginformationen nur auf städtischer Infrastruktur vorhalten.
 
 Um allen internen Anforderungen der unterschiedlichen Bedarfsträger in allen Referaten gerecht zu werden, nutzen wir das Opencore feature [Premium Bundle _Unlimited users unlimited websites_](https://plugins.matomo.org/PremiumBundle).
