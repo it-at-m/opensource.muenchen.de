@@ -55,8 +55,8 @@ On GitHub, the "Advanced Security Policy as Code" should be implemented, and the
 
 Security-relevant pull requests and issues must be addressed within two weeks. After this period, they will be forwarded to the respective [maintainers](https://de.wikipedia.org/wiki/Maintainer).
 
-### Reporting Vulnerabilities
+### Responsible Disclosure
 
-Unlike other platforms such as GitLab, GitHub does not provide a way to confidentially report security issues.  
-Therefore, security-related bugs should not be reported as public, regular issues.  
-For each project at LHM, a dedicated email address (e.g., [opensource@muenchen.de](mailto:opensource@muenchen.de)) must be provided through which vulnerabilities can be reported (Responsible Disclosure).
+Security-related bugs must not be reported as public issues.
+To enable [responsible private disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#private-disclosure), all projects on GitHub should have [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/configuring-private-vulnerability-reporting-for-a-repository) enabled. In addition, each project must provide an email address (e.g. [opensource@muenchen.de](mailto:opensource@muenchen.de)) to enable people without a GitHub account to report security vulnerabilities.
+

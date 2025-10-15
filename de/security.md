@@ -53,7 +53,7 @@ Auf GitHub müssem die "Advanced Security Policy as Code" implementiert werden, 
 
 Sicherheitsrelevante Pull Requests und Issues müssen innerhalb von zwei Wochen bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen [Maintainer](https://de.wikipedia.org/wiki/Maintainer) weitergeleitet.
 
-### Meldung von Sicherheitslücken
+### Responsible Disclosure
 
-Im Gegensatz zu anderen Plattformen wie GitLab bietet GitHub keine Möglichkeit zur vertraulichen Meldung von Sicherheitsproblemen. Daher sollten sicherheitsrelevante Bugs nicht als öffentliche, normale Probleme (Issues) gemeldet werden.
-Für jedes Projekt bei der LHM muss eine dedizierte E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, über die Sicherheitslücken gemeldet werden können (Responsible Disclosure).
+Sicherheitsrelevante Bugs dürfen nicht als öffentliche Issues gemeldet werden.
+Um eine [responsible private Disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#private-disclosure) zu ermöglichen sollen auf GitHub alle Projekte [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/configuring-private-vulnerability-reporting-for-a-repository) aktiviert haben, zusätzlich muss jedes Projekt eine E-Mail-Adresse (z. B. [opensource@muenchen.de](mailto:opensource@muenchen.de)) angeben, um auch Menschen ohne Github-Account Meldung von Sicherheitslücken zu ermöglichen.
