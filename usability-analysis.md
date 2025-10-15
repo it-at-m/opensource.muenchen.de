@@ -1,7 +1,7 @@
 # Usability analysis
 
-In order to use or even further develop existing free software, it must first be subjected to a usability analysis.
-All free software should undergo this usability analysis, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
+In order to use or even further develop existing free software, it must first be subjected to a __usability analysis__.
+All free software should undergo this, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
 
 ## Code review
 
@@ -32,19 +32,34 @@ However, it must be checked whether IT security is also actively ensured and whe
 
 ## Documentation
 
-Comprehensive software documentation is essential for all software, especially for software that is to be used or modified by others.
+Comprehensive [documentation](https://opensource.com/article/20/3/documentation) is essential for all software, especially open source software that is intended to be used or modified by others. It ensures transparency, traceability, and ease of use and further development.
+Clear and detailed documentation, both in the source code and in accompanying files, is a fundamental prerequisite for ensuring the accessibility and usability of the software.
 
-The following documentation must be available:
+Every software project should provide *either* a structured documentation folder `/docs` *or* its own wiki or website.
+The technical documentation should describe all functions, interfaces, and user interfaces of the software. This includes in particular:
 
-* User documentation
-* Developer, installation and maintenance documentation.
+* Use and user interfaces  
+* [API references ](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)
+* Installation and maintenance instructions  
+* Technical background and architecture  
 
-All documentation must comprehensively describe __all__ technical functions and user interfaces of the software.
-This includes information about the software itself, its use, the API and installation and maintenance instructions.
+The technical documentation must be written in __English__ to be internationally understandable; other languages are useful.  
 
-It is important that the documentation is freely accessible on the Internet and provided in open formats (e.g. Markdown, HTML, text).
-An English version of the documentation is sufficient.
-It must be possible to submit suggestions for improving the documentation.
+A __user manual__ should ideally be available **in two languages (German and English)**.  
+
+The documentation must be **freely accessible on the internet** and provided in **open formats** (e.g., Markdown, HTML, text).
+It must be possible to submit [suggestions for improving the documentation](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) (e.g., via pull requests).
+
+Creating and maintaining documentation requires [10–20%](https://opensource.com/article/20/3/documentation) of development time.
+It must be updated regularly to document any new or changed features.
+
+Every [software repository](repositories) must contain a [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *English* in the main directory and should answer the following questions:
+
+* What does this project do?
+* Why is it useful?
+* How can I use it or contribute to it?
+* Where can I get support?
+
 
 ## External support
 
@@ -56,7 +71,7 @@ This is because commercial support generally offers more reliable and profession
 If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
 This may require us to procure training and further education for our employees.
 
-The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not have to be [^DevOps_Handbook_stars].
+The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be [^DevOps_Handbook_stars].
 
 ## DevOps
 

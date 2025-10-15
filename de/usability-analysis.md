@@ -1,7 +1,7 @@
 # Nutzbarkeitsanalyse
 
-Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer Nutzbarkeitsanalyse unterzogen werden.
-Diese Nutzbarkeitsanalyse soll jegliche freie Software, egal ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) oder als [fertige Software](./use.html) eingesetzt werden soll, durchlaufen.
+Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer __Nutzbarkeitsanalyse__ unterzogen werden.
+Diese soll jegliche freie Software, unabhängig ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) [fertige Software](./use.html) eingesetzt werden soll, durchlaufen.
 
 ## Code Review
 
@@ -29,19 +29,33 @@ Allerdings muss geprüft werden ob die IT-Sicherheit auch aktiv sichergestellt w
 
 ## Dokumentation
 
-Eine umfassende Software-Dokumentation ist für jede Software unerlässlich, insbesondere für solche, die von anderen genutzt oder verändert werden soll.
+Eine umfassende [Dokumentation](https://opensource.com/article/20/3/documentation) ist für jede Software unerlässlich, insbesondere für Open Source Software, die von anderen genutzt oder verändert werden soll. Sie gewährleistet Transparenz, Nachvollziehbarkeit und eine einfache Nutzung und Weiterentwicklung.
+Eine klare und detaillierte Dokumentation, sowohl im Quellcode als auch in begleitenden Dateien, ist eine grundlegende Voraussetzung, um die Zugänglichkeit und Nutzbarkeit der Software sicherzustellen.  
 
-Es müssen folgende Dokumentationen vorhanden sein:
+Jedes Softwareprojekt soll *entweder* einen strukturierten Dokumentationsordner `/docs` *oder* eine eigene Wiki oder Website bereitstellen.
+Die __technische Dokumentation__ soll *alle Funktionen, Schnittstellen und Benutzeroberflächen* der Software beschreiben. Dazu gehören insbesondere:
 
-* Benutzerdokumentation
-* Entwickler-, Installations- und Wartungsdokumentation.
+* Nutzung und Benutzeroberflächen  
+* [jede API-Referenzen](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/)
+* Installations- und Wartungsanleitungen  
+* Technische Hintergründe und Architektur  
 
-Alle Dokumentationen müssen __alle__ technischen Funktionen und Benutzeroberflächen der Software umfassend beschreiben.
-Dazu gehören Informationen über die Software selbst, ihre Nutzung, die API sowie Installations- und Wartungsanleitungen.
+Die technische Dokumentation muss in __Englisch__ geschreiben sein, um international verständlich zu sein, weitere Sprachen sind sinnvoll.  
 
-Es ist wichtig, dass die Dokumentation frei im Internet zugänglich ist und in offenen Formaten bereitgestellt wird (z. B. Markdown, HTML, Text).
-Eine englische Version der Dokumentation ist ausreichend.
-Es muss die Möglichkeit bestehen, Vorschläge zur Verbesserung der Dokumentation einzureichen.
+Ein __Benutzerhandbuch__ sollte idealerweise **zweisprachig (Deutsch und Englisch)** verfügbar sein.  
+
+Die Dokumentation muss **frei im Internet zugänglich** und in **offenen Formaten** (z. B. Markdown, HTML, Text) bereitgestellt werden.
+Es muss die Möglichkeit bestehen, [Vorschläge zur Verbesserung der Dokumentation](https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/) einzureichen (z. B. über Pull Requests).
+
+Das Erstellen und Pflegen von Dokumentation erfordert [10–20%](https://opensource.com/article/20/3/documentation) der Entwicklungszeit.
+Sie muss regelmäßig aktualisiert werden, um jede neue oder geänderte Funktion zu dokumentieren.
+
+Jedes [Softwarerepository](repositories) muss eine [README.md](https://opensource.guide/de/starting-a-project/#eine-readme-schreiben) in *englischer Sprache* im Hauptverzeichnis enthalten und soll folgende Fragen beantworten:
+
+* Was macht dieses Projekt?  
+* Warum ist es nützlich?  
+* Wie kann ich es nutzen oder dazu etwas beitragen?  
+* Wo erhalte ich Unterstützung?
 
 
 ## Externe Unterstützung
@@ -66,6 +80,5 @@ Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Dep
   * Ressourcen (Rechenleistung, Speicher etc)
   * Ressourcenarten (z.B. unterschiedliche Speicherarten wie Block File, Object)
   * Sicherheitseinstellungen, (z.B. nutzung lokaler Zertifizierungsstellen, Sicherheitskontexte)
-
 
 [^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365

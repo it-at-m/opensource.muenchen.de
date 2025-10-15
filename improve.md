@@ -14,7 +14,7 @@ In this way, free software can be continuously developed and adapted to the need
 
 Besides the [self-publications](./publish) of Landeshauptstadt München, we also contribute to other FOSS projects through __Contributions__.
 Contributions can take different forms and do not always have to include new features or bug fixes.
-Also the correction or update of documentation can be a valuable contribution.
+Also the correction or update of [documentation](usability-analysis#documentation) can be a valuable contribution.
 
 All contributions are created and contributed using our [GitHub account as forked repositories](https://github.com/orgs/it-at-m/repositories?q=fork%3Atrue+archived%3Afalse).
 
