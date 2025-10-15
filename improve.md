@@ -16,10 +16,17 @@ Besides the [self-publications](./publish) of Landeshauptstadt München, we also
 Contributions can take different forms and do not always have to include new features or bug fixes.
 Also the correction or update of documentation can be a valuable contribution.
 
-All contributions are created and contributed using our [github account as fork repositories](https://github.com/orgs/it-at-m/repositories?q=fork%3Atrue+archived%3Afalse).
+All contributions are created and contributed using our [GitHub account as forked repositories](https://github.com/orgs/it-at-m/repositories?q=fork%3Atrue+archived%3Afalse).
 
-With the [Open Source Sabatical](./sabbatical), employees as well as external developers can participate in open source projects for a limited period of time.
+<ClientOnly>
+<TagTile
+:available-tags="['contribute']"
+/>
+</ClientOnly>
 
+### Open Source Sabatical
+
+Our [Open Source Sabatical](./sabbatical) allows employees as well as external developers to participate in open source projects for a limited period of time.
 
 ## Funding
 

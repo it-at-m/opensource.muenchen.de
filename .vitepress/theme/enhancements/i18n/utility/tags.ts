@@ -3,6 +3,7 @@ export const TAG_PROP = "tags";
 export interface Tags {
   [TAG_PROP]: {
     application: string;
+    contribute: string;
     development: string;
     eigenentwicklung: string;
     infrastruktur: string;
