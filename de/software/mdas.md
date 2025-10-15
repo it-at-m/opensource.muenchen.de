@@ -16,7 +16,7 @@ Im Projekt MDAS werden die EAI-Komponenten für den Datenimport und -export und 
 ---
 
 Im Projekt MDAS wird die Plattform MobidaM erstellt, über die Mobilitätsdaten bereitgestellt, vorgehalten, visualisiert und ausgewertet werden können.
-Es werden die unterschiedlichsten Daten aus verschiedenen internen oder externen Datenquellen wie z.B. der [Mobilithek des Bundes](https://www.bmdv.bund.de/DE/Themen/Digitales/Mobilithek/mobilithek.html) gesammelt und auch mit anderen öffentlichen Plattformen geteilt.
+Es werden die unterschiedlichsten Daten aus verschiedenen internen oder externen Datenquellen wie z.B. der [Mobilithek des Bundes](https://mobilithek.info) gesammelt und auch mit anderen öffentlichen Plattformen geteilt.
 
 Initiiert wurde das Projekt durch den Stadtratsbeschluss [Zentrale Datenplattform für Mobilitätsdaten
 MDAS – Monitoring und Data Analytics System](https://www.muenchen-transparent.de/antraege/7983679)
