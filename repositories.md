@@ -35,6 +35,6 @@ The concept of _Public Money Public Code_ obliges us to [publish](./publish.html
 To make our software easy to use, we want to publish as many artifacts based on the source code as possible, such as built packages, container images or Helm charts.
 
 * Container images, like our code, are built on GitHub and also made available in the `ghcr.io` registry (https://github.com/orgs/it-at-m/packages).
-  * In addition to the container images, we also provide [Helm Charts](https://github.com/it-at-m/helm-charts) for easy use in Kubernetes.
+  * In addition to the container images, we also offer [Helm Charts](https://github.com/it-at-m/helm-charts) on [artifacthub.io org=it-at-m](https://artifacthub.io/packages/search?org=it-at-m) for use in Kubernetes.
 * Java/Maven artifacts are published under the _groupId_ `en.muenchen` on [Maven Central](https://central.sonatype.com/search?q=de.muenchen).
 * NPM packages are published in the package scope [`@muenchen` on npmjs.org](https://www.npmjs.com/search?q=%40muenchen).
