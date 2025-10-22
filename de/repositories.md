@@ -33,7 +33,7 @@ Das Konzept _Public Money Public Code_ verpflichtet nur, den Quellcode zu [verö
 Um eine einfache Nutzung unserer Software zu ermöglichen, wollen wir möglichst viele auf dem Quellcode basierende Artefakte wie gebaute Pakete, Container-Images oder Helm Charts veröffentlichen.
 
 * Container-Images werden, wie unser Code, auf GitHub gebaut und auch in der Registry `ghcr.io` [zur Verfügung](https://github.com/orgs/it-at-m/packages) gestellt.
-  * Zusätzlich zu den Container-Images bieten wir auch [Helm Charts](https://github.com/it-at-m/helm-charts) für die einfache Nutzung in Kubernetes an.
+  * Zusätzlich zu den Container-Images bieten wir zur Nutzung in Kubernetes auch [Helm Charts](https://github.com/it-at-m/helm-charts) auf [artifacthub.io org=it-at-m](https://artifacthub.io/packages/search?org=it-at-m) an.
 * Java/Maven Artefakte sind unter der _groupId_ `de.muenchen` auf [Maven Central](https://central.sonatype.com/search?q=de.muenchen) veröffentlicht.
 * NPM Pakete sind im Package-Scope [`@muenchen` auf npmjs.org](https://www.npmjs.com/search?q=%40muenchen) veröffentlicht.
 

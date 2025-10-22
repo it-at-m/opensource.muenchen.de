@@ -76,6 +76,8 @@ Software besteht nicht nur aus Quellcode sondern ist eingebettet in Automatisier
 Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Deployment_ (CI/CD) vorhanden ist, auch bei den von uns präferierten [SaaS Lösungen](fossaas) als Teil der Exitstrategie.
 
 * Sind Quellcode, Artefakte, Releases, Container etc. in gängigen [Repositories](repositories) verfügbar.
+* Sind diese nach [semver](https://semver.org/) versioniert und werden auch kleinteilige Änderungen als neuen Versionen veröffentlicht.
+* Ermöglicht die Software ein konfigurierbares Logging nach den gängigen [Log-Levels](https://logging.apache.org/log4j/1.x/apidocs/org/apache/log4j/Level.html).
 * Gibt es [dokumentierte](#dokumentation) __Konfigurationsmöglichkeiten__ von:
   * Ressourcen (Rechenleistung, Speicher etc)
   * Ressourcenarten (z.B. unterschiedliche Speicherarten wie Block File, Object)

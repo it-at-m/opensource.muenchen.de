@@ -79,6 +79,8 @@ Software consists not only of source code but is also embedded in automation for
 We therefore check whether a publicly accessible _Continuous Integration and Deployment_ (CI/CD) is available, including for our preferred [SaaS solutions](fossaas) as part of the exit strategy.
 
 * Are source code, artifacts, releases, containers etc. available in common [repositories](repositories).
+* Are these versioned according to [semver](https://semver.org/) and are even minor changes published as new versions?
+* The software enables configurable logging according to the common [log levels](https://logging.apache.org/log4j/1.x/apidocs/org/apache/log4j/Level.html).
 * Are there [documented](#documentation) __configuration options__ for:
   * Resources (computing power, memory, etc.)
   * Resource types (e.g. different storage types such as block file, object)
