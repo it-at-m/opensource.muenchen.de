@@ -20,6 +20,9 @@ Citizens can submit requests on the municipal form server (e.g. regarding [real 
 City employees can then process the process in Zammad.
 Citizens can then finally view the response at [digital citizen service](https://stadt.muenchen.de/buergerservice/anliegen/detailAnliegen.html).
 
+![Screenshot of an email from DBS to a citizen](/inhouse/dbs-buerger-mail.png)
+![Screenshot of a message from DBS to a citizen](/inhouse/dbs-buerger-interface.png)
+
 As citizens log in to both the municipal form server and the digital citizen service with the [BayernID](https://id.bayernportal.de/de/), we can also offer citizen services with a [high level of trust](https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/eIDAS-Verordnung/Elektronische-Identifizierung/elektronische-identifizierung_node.html).
 We have integrated BayernID via our [BayernId-plugin](./bayernid-plugin.html).
 
