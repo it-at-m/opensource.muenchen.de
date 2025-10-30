@@ -53,7 +53,7 @@ Das bedeutet, Software die OpenJDK nutzt muss nicht zwangsläufig unter der GPL 
 
 Um sicherzustellen, dass wir keine Lizenzverstöße begehen, müssen sämtliche Abhängigkeiten unserer Software geprüft und dokumentiert werden.
 
-Auf Github nutzen wir dazu [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review), das ist im [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/dependency_review.yaml) bereits vorgegeben.
+Auf Github nutzen wir dazu [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review), das ist in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-dependency-review/action.yml) bereits vorgegeben.
 
 Das **zentrale it@M Policy File** ist definiert in [it-at-m/.github](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) - [dort sind v.a. die Lizenzen mit starken Copyleft definiert](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L2), die wir vermeiden wollen.
 

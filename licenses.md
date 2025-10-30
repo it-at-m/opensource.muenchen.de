@@ -54,7 +54,7 @@ This means that software that uses OpenJDK does not necessarily have to be licen
 
 To ensure that we do not commit any licence violations, all dependencies of our software must be checked and documented.
 
-We use [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review) for this purpose, which is already predefined in [oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template/blob/main/.github/workflows/dependency_review.yaml).
+We use [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review) for this purpose, which is already predefined in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-dependency-review/action.yml).
 
 The **central it@M policy file** is defined in [it-at-m/.github](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) - [the licences with a strong copyleft are defined there](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L2), which we want to avoid.
 
