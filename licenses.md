@@ -54,10 +54,10 @@ This means that software that uses OpenJDK does not necessarily have to be licen
 
 To ensure that we do not commit any licence violations, all dependencies of our software must be checked and documented.
 
-We use [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review) for this purpose, which is already predefined in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-dependency-review/action.yml).
+On Github, we specify the [GitHub Dependency Review](https://docs.github.com/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-dependency-review/action.yml).
+The associated [central it@M policy file](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) defines licenses with a strong copyleft, but also ignores “false positives”.
 
-The **central it@M policy file** is defined in [it-at-m/.github](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) - [the licences with a strong copyleft are defined there](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L2), which we want to avoid.
+The associated [central it@M Policy File](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml) defines licenses with strong copyleft, but also ignores “false positives.”
 
-As "false positives" can occur during licence detection, these can be placed on an [ignore list](https://github.com/it-at-m/.github/blob/main/workflow-configs/dependency_review.yaml#L6).
 
 The compatibility of the licences used can be checked with the [JLA - Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker).
