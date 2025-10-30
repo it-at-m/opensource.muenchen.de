@@ -49,7 +49,7 @@ Dies erleichtert zwar die Sicherheitsbewertung, birgt aber auch Risiken, wenn et
 ### Automatisierte Tests
 
 Der interne CI/CD-Prozess umfasst den [OWASP](https://de.wikipedia.org/wiki/Open_Worldwide_Application_Security_Project) Dependency Check zur Risikoanalyse.
-Auf GitHub müssen die "Advanced Security Policy as Code" implementiert werden, und die globale Sicherheitskonfiguration muss für alle Repositories aktiviert sein.
+Auf GitHub muss in allen Repositories [CodeQL](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) implementiert werden, und die globale Sicherheitskonfiguration (z.B. Dependabot alerts) muss für alle Repositories aktiviert sein.
 
 Sicherheitsrelevante Pull Requests und Issues mit den [CVSS crtical und high](https://nvd.nist.gov/vuln-metrics/cvss) müssen innerhalb von __30 Tagen__ bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen [Maintainer](https://de.wikipedia.org/wiki/Maintainer) weitergeleitet.
 
