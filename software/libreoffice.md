@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/320px-LibreOffice_Logo_Flat.svg.png
 tags:
   - application
+  - archive
 ---
 
 **LibreOffice** is a free set of office software (office suite).
