@@ -4,7 +4,7 @@ import TagTile from "../.vitepress/components/TagTile.vue";
 
 # Archiv
 
-Freien Software die wir nicht mehr nutzen.
+Freie Software die wir nicht mehr nutzen.
 
 <ClientOnly>
 <TagTile
