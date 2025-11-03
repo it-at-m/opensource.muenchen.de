@@ -20,6 +20,7 @@ v-model="selectedFilters"
 
 <TagTile
 :filter="selectedFilters"
+:exclude="['archive']"
 show-tags
 show-excerpt
 />

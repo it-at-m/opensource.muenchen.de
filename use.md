@@ -22,7 +22,7 @@ In order to use or even further develop existing open-source software, it must f
 <ClientOnly>
 <TagTile
 :available-tags="['application']"
-:exclude="['eigenentwicklung']"
+:exclude="['eigenentwicklung', 'archive']"
 show-tags
 show-excerpt
 />
@@ -40,7 +40,7 @@ In addition, all the necessary resources and services required to operate these 
 <ClientOnly>
 <TagTile
 :available-tags="['infrastruktur']" 
-:exclude="['eigenentwicklung']"
+:exclude="['eigenentwicklung', 'archive']"
 show-tags
 show-excerpt
 />
@@ -55,7 +55,7 @@ We also use numerous other open source tools in software development.
 <ClientOnly>
 <TagTile
 :available-tags="['development']"
-:exclude="['eigenentwicklung']"
+:exclude="['eigenentwicklung', 'archive']"
 show-tags
 show-excerpt
 />
