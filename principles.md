@@ -1,6 +1,6 @@
 # Open Source in the Munich City Administration
 
-In [Open Source Software](https://en.wikipedia.org/wiki/Open_source), the source code is public and can be viewed, modified and used by third parties.
+In [Open Source Software](https://opensource.org/osd), the source code is public and can be viewed, modified and used by third parties.
 The City of Munich uses open source software for many reasons.
 
 ## Strategic advantages

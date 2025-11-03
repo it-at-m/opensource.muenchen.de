@@ -1,6 +1,6 @@
 # Open Source in der Münchner Stadtverwaltung
 
-Bei [Open Source Software](https://de.wikipedia.org/wiki/Open_Source) ist der Quelltext öffentlich und kann von Dritten eingesehen, geändert und genutzt werden.
+Bei [Open Source Software](https://opensource.org/osd) ist der Quelltext öffentlich und kann von Dritten eingesehen, geändert und genutzt werden.
 Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 
 ## Strategische Vorteile
