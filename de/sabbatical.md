@@ -7,7 +7,7 @@ Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompe
 
 ## Projektauswahl
 
-Interessierte Programmierer\*innen können sich mit ihrem Projekt für das Sabbatical bewerben.
+Softwareentwickler\*innen mit Erfahrung in Open Source Projekten können sich mit einem konkreten Projekt und einer Umsetzungsidee für das Sabbatical bewerben.
 Bewerbungen von Frauen werden besonders unterstützt.
 
 Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und internen Entwickler*innen.
