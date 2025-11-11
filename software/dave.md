@@ -43,7 +43,7 @@ We maintain the current technical development with interested communities in [Pr
 There we collect all feature requests and bugs from all DAVe repositories (code, helm-charts, documentation).
 
 * User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (german)
-* Developer Manual: [/docs](https://github.com/it-at-m/dave/blob/main/docs/src/index.md) (english)
+* Developer Manual: [/docs](https://github.com/it-at-m/dave/tree/main/docs/src)
 
 
 ## Roadmap

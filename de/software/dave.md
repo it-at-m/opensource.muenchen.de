@@ -42,7 +42,7 @@ Die aktuelle technische Entwicklung mit interessierten Kommunen führen wir im [
 Dort sammlen wir alle Featurerequests und Bugs aus allen DAVe repositories (code, helm-charts, doku).
 
 * User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (deutsch)
-* Developer Manual: [/docs](https://github.com/it-at-m/dave/blob/main/docs/src/index.md) (english)
+* Developer Manual: [/docs](https://github.com/it-at-m/dave/tree/main/docs/src) 
 
 
 ## Roadmap
