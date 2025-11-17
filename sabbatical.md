@@ -7,13 +7,13 @@ To support external developers, the city offers financial compensation for the l
 
 ## Project selection
 
-Software developers with experience in open source projects can apply for the sabbatical with a specific project and an implementation idea.
+Software developers\* with experience, ideally in open source projects, can apply for the sabbatical with a __concrete project__ and an implementation idea.
 Applications from women are particularly encouraged.
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
 
-* They can be bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
-* Software projects that we already [use](use).
+* These can be specific bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
+* Free software that we already [use](use).
 * Other published free projects, if they offer a benefit for the city.
 
 
