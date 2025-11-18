@@ -1,19 +1,19 @@
 # Open Source Sabbatical
 
-After the [Open Source Programme Office](./ospo) was founded in January 2024, the **Munich Open Source Sabbatical** is now officially being introduced.
-Professionally qualified programmers can participate in open source projects for a limited time and [improve](./improve) them.  
+The **Open Source Sabbatical** is intended to provide professionally qualified software developers with the opportunity to work on an open source project for a limited period of time in order to [improve](./improve) it.
 This sabbatical is not only open to employees of the City of Munich, but also to external software developers.
 To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical.[^beschluss][^antrag]
 
+
 ## Project selection
 
-Interested programmers can apply for the sabbatical with their project.
+Software developers\* with experience, ideally in open source projects, can apply for the sabbatical with a __concrete project__ and an implementation idea.
 Applications from women are particularly encouraged.
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
 
-* They can be bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
-* Software projects that we already [use](use).
+* These can be specific bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
+* Free software that we already [use](use).
 * Other published free projects, if they offer a benefit for the city.
 
 
