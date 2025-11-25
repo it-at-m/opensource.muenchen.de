@@ -15,7 +15,7 @@ Die Aufgaben des [Teams](#team) sind:
 * Geeignete Synchronisation der Aktivitäten mit Aktivitäten des Bundes, des Freistaats und anderer Kommunen zum Thema Open Source (z.B. ZenDiS, OpenCode).
 * Bewertung und Priorisierung von Ideen und Initiativen zu Open Source in der LHM, um die Kräfte fokussiert zu investieren.
 * Steuerung der Auftritte der LHM auf öffentlichen Open Source Plattformen, insbesondere auf den öffentlichen [Code-Repositories](./repositories) (Beispiele: github.com, gitlab.com). Ziel ist die einheitliche und konsistente Kommunikation und ein Erscheinungsbild, die den rechtlichen Rahmenbedingungen entsprechen.
-* Entwicklung von methodischen Hilfen und Bereitstellung von Know-how für Kolleg*innen, die für die LHM [Open Source Software entwickeln](./use), insbesondere, wenn die Entwicklung selbst auf öffentlichen Code-Repositories wie github.com erfolgt. (Beispiele: Methodik für die Integration solcher Software in die LHM-IT Umgebung).
+* Entwicklung von methodischen Hilfen und Bereitstellung von Know-how für Kolleg*innen, die für die LHM [Open Source Software entwickeln](./publish), insbesondere, wenn die Entwicklung selbst auf öffentlichen Code-Repositories wie github.com erfolgt. (Beispiele: Methodik für die Integration solcher Software in die LHM-IT Umgebung).
 * Aufbau, Konsolidierung und Bereitstellung (z.B. im Intranet) von Know-how und Awareness zum Thema Open Source.
 * Organisation und Durchführung des [Open Source Sabbaticals](./sabbatical).
 
