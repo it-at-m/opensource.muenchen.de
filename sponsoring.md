@@ -24,7 +24,7 @@ Criteria for potential sponsorship:
 ## Honorary Patron
 
 Since the OSPO does not know all software and especially the importance for the LHM (use, relevance for security or stability), each sponsorship should have an internal honorary patron.
-This honorary patron should use the tool heavily or be its service owner, admin ect.
+This person should be a heavy user of the tool or its service owner, administrator, etc., and represent the sponsorship in the [urban open source community].
 
 The sponsoring honorary patron does not have to represent the sponsoring externally, but must be noted internally for enquiry purposes.
 
