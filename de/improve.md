@@ -84,7 +84,7 @@ show-excerpt
 </ClientOnly>
 
 
-### Feature-Funding - Auftragsarbeit
+### Feature-Funding - Auftragsarbeit {#feature-funding}
 
 Um spezifische Anforderungen und Wünsche in bestehende Open-Source-Projekte einzubringen, beauftragt die Landeshauptstadt München gezielt die jeweiligen Entwickler\*Innen oder Maintainer. So stellen wir sicher, dass Weiterentwicklungen im Sinne der Stadt und ihrer Nutzer*Innen umgesetzt werden und gleichzeitig der Allgemeinheit zugutekommen.
 

@@ -8,16 +8,36 @@ Berücksichtigt werden die beiden Dimensionen „geben“ und „nehmen“, also
 Die Aufgaben des [Teams](#team) sind:
 
 * Ermittlung relevanter Communities und Lösungen: Aktive Sichtung und Erkundung von [Open Source Projekten](./use) und Communities, die an Lösungen arbeiten, die für die LHM relevant sind. Die Relevanz wird dabei anhand der Architektureinordnung von Open Source bewertet.
-* Gestaltung der Beziehungen zu externen Communities.
-* Aufbau, Leitung und Koordination einer stadtinternen Open Source Community durch eine\*n Mitarbeiter\*in des Open Source Program Office in der Rolle Community Manager.
+* Gestaltung der Beziehungen zu [externen Communities](#extern).
+* Aufbau, Leitung und Koordination einer [stadtinternen Open Source Community](#lhm-community) durch eine\*n Mitarbeiter\*in des Open Source Program Office in der Rolle Community Manager.
 * Klärung von [Lizenzfragen](./licenses) und Regelung der Lizenzierung von LHM Open Source Veröffentlichungen.
 * Identifikation und Herbeiführen der Klärung von rechtlichen Fragen, sowie Unterstützung bei der Anwendung eines juristischen Open-Source-Publikations-Leitfadens. 
-* Geeignete Synchronisation der Aktivitäten mit Aktivitäten des Bundes, des Freistaats und anderer Kommunen zum Thema Open Source (z.B. ZenDiS, OpenCode).
+* Geeignete Synchronisation der Aktivitäten mit Aktivitäten des Bundes, des Freistaats und [anderer](#extern) Kommunen zum Thema Open Source (z.B. ZenDiS, OpenCode).
 * Bewertung und Priorisierung von Ideen und Initiativen zu Open Source in der LHM, um die Kräfte fokussiert zu investieren.
 * Steuerung der Auftritte der LHM auf öffentlichen Open Source Plattformen, insbesondere auf den öffentlichen [Code-Repositories](./repositories) (Beispiele: github.com, gitlab.com). Ziel ist die einheitliche und konsistente Kommunikation und ein Erscheinungsbild, die den rechtlichen Rahmenbedingungen entsprechen.
 * Entwicklung von methodischen Hilfen und Bereitstellung von Know-how für Kolleg*innen, die für die LHM [Open Source Software entwickeln](./publish), insbesondere, wenn die Entwicklung selbst auf öffentlichen Code-Repositories wie github.com erfolgt. (Beispiele: Methodik für die Integration solcher Software in die LHM-IT Umgebung).
 * Aufbau, Konsolidierung und Bereitstellung (z.B. im Intranet) von Know-how und Awareness zum Thema Open Source.
 * Organisation und Durchführung des [Open Source Sabbaticals](./sabbatical).
+
+### externe Communities und andere Behörden {#extern}
+
+In der Gestaltung der Beziehungen zu externen Communities und öffentlichen Akteuren des Freistaats Bayern, des Bundes und der Europäischen Union, gehen wir auf bestehende Gruppen zu und bringen uns fachlich und strategisch mit ein.
+
+* [Open Source Business Alliance (OSBA)](https://osb-alliance.de/mitglied/it-anwender-oeffentliche-verwaltung)
+* Wir sind Gründungsmitglied im [Kommunalen Open Source Board](https://os-board.opencode.de/) der ZenDiS, KGSt und der Stadt Dortmund. 
+
+
+### städtischen Open Source Community {#lhm-community}
+
+Software wird immer von einer Vielzahl von Beteiligten erschaffen.
+So ist auch freie Software immer das Zusammenspiel aus Entwickler\*innen, Nutzer*innen und vielen anderen mehr.
+Die __städtischen Open Source Community__ ist eine offene Gruppe an der jede\*r Mitarbeiter\*innen der LHM teilhaben kann.
+
+Die Kommunikation findet über eine interne offene Chatgruppe statt und die Community trifft sich alle 2 Wochen und tauscht Neuigkeiten zum Thema Open Source aus.
+
+Die städtische Open Source Community übernimmt auch technische (z.B. [Nutzbarkeitsanalyses](usability-analysis), [Contributions](improve#code-contributions)) und fachliche (z.B. [Betreuung Feature-Funding ](improve#feature-funding), [Sponsoringpatenschaften](sponsoring#sponsoringpatenschaften)) Aufgaben.
+Diese werden zusammen mit den Aufgaben des OSPOs verwaltet.
+
 
 ### Beschaffungsberatung
 
@@ -32,7 +52,7 @@ Das OSPO bietet nur beratende Mithilfe, keine Ausschreibungsdurchführung oder M
 
 ## Team
 
-Neben zahlreichen Entwickler\*innen der städtischen Open Source Community, die Ideen, Leidenschaft und vor allem Public Code einbringen, kümmern sich um Open Source:
+Neben zahlreichen Entwickler\*innen der [städtischen Open Source Community](#lhm-community), die Ideen, Leidenschaft und vor allem Public Code einbringen, kümmern sich um Open Source:
 
 <img src="/people/dirk_gernhardt__150.jpg" alt="Dirk Gernhardt" class="right">
 Dr. Dirk Gernhardt leitet das Competence Center Software Engineering im IT-Referat der Landeshauptstadt München und ist Open-Source-Beauftragter.

@@ -25,7 +25,7 @@ Daher muss das Softwareprojekt auch Spenden überhaupt annehmen wollen.
 ## Sponsoringpatenschaften
 
 Da das OSPO nicht alle Software und vor allem die Bedeutung für die LHM (Nutzung, Relevanz für Security oder Stabilität) kennen kann, sollte jedes Sponsoring eine interne Sponsoringpatenschaft haben.
-Diese sollte das Tool stark nutzen oder dessen Serviceowner, Admin etc. sein.
+Diese sollte das Tool stark nutzen oder dessen Serviceowner, Admin etc. sein und in der [städtischen Open Source Community ](ospo#lhm-community) das Sponsoring verteten.
 
 Der oder die Sponsoringpate*in muss das Sponsoring nicht extern vertreten, muss aber intern zu Rückfragezwecken vermerkt werden.
 

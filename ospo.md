@@ -9,16 +9,35 @@ The two dimensions "give" and "take" are taken into account, i.e. both the use o
 The tasks of the [team](#team) are:
 
 * Identifying relevant communities and solutions: Actively screen and explore [open source projects](./use) and communities working on solutions relevant to LHM. Relevance is assessed on the basis of the architectural categorisation of open source.
-* Shaping relationships with external communities.
-* Establishment, management and coordination of a city-internal open source community by an employee of the Open Source Programme Office in the role of Community Manager.
+* Shaping relationships with [external communities](#extern).
+* Establishment, management and coordination of a [city-internal open source community](#lhm-community) by an employee of the Open Source Programme Office in the role of Community Manager.
 * Clarification of [licence issues](./licenses) and regulation of the licensing of LHM open source publications.
 * Identify and bring about the clarification of legal issues and support the application of a legal open source publication guide. 
-* Appropriate synchronisation of activities with activities of the Federal Government, the Free State and other local authorities on the subject of open source (e.g. ZenDiS, OpenCode).
+* Appropriate synchronisation of activities with activities of the Federal Government, the Free State Bavaria and other [local authorities](#extern) on the subject of open source (e.g. ZenDiS, OpenCode).
 * Evaluation and prioritisation of ideas and initiatives on open source in the LHM in order to invest resources in a focused manner.
 * Managing LHM's presence on public open source platforms, in particular on public [code repositories](./repositories) (examples: github.com, gitlab.com). The aim is to ensure standardised and consistent communication and an image that complies with the legal framework.
 * Development of methodological aids and provision of expertise for colleagues who [develop open source software](./publish) for the LHM, especially if the development itself takes place on public code repositories such as github.com. (Examples: Methodology for integrating such software into the LHM IT environment).
 * Development, consolidation and provision (e.g. via intranet) of expertise and awareness on the subject of open source.
 * Organisation and implementation of the [Open Source Sabbatical](./sabbatical).
+
+### External communities and other authorities {#extern}
+
+When shaping relationships with external communities and public actors in Bavaria, Germany, and the European Union, we approach existing groups and contribute our expertise and strategic input.
+
+* [Open Source Business Alliance (OSBA)](https://osb-alliance.de/mitglied/it-anwender-oeffentliche-verwaltung)
+* We are a founding member of the [Municipal Open Source Board](https://os-board.opencode.de/) of ZenDiS, KGSt, and the City of Dortmund.
+
+
+### Municipal Open Source Community {#lhm-community}
+
+Software is always created by a large number of participants.Free software is also always the result of collaboration between developers, users, and many others.
+The __Municipal Open Source Community__ is an open group in which all LHM employees can participate.
+
+Communication takes place via an internal open chat group, and the community meets every two weeks to exchange news on the topic of open source.
+
+The municipal open source community also takes on technical (e.g. [usability analyses](usability-analysis), [contributions](improve#code-contributions)) and specialist tasks (e.g. [supervision feature funding](improve#feature-funding), [honorary patron sponsorship](sponsoring#honorary-patron)).
+These are managed together with the tasks of the OSPO.
+
 
 ### Procurement consulting
 
