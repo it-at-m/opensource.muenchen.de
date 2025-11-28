@@ -21,7 +21,7 @@ Die Aufgaben des [Teams](#team) sind:
 
 ### externe Communities und andere Behörden {#extern}
 
-In der Gestaltung der Beziehungen zu externen Communities und öffentlichen Akteuren des Freistaats, des Bundes und der Europäischen Union, gehen wir auf bestehende Gruppen zu und bringen uns fachlich und strategisch mit ein.
+In der Gestaltung der Beziehungen zu externen Communities und öffentlichen Akteuren des Freistaats Bayern, des Bundes und der Europäischen Union, gehen wir auf bestehende Gruppen zu und bringen uns fachlich und strategisch mit ein.
 
 * [Open Source Business Alliance (OSBA)](https://osb-alliance.de/mitglied/it-anwender-oeffentliche-verwaltung)
 * Wir sind Gründungsmitglied im [Kommunalen Open Source Board](https://os-board.opencode.de/) der ZenDiS, KGSt und der Stadt Dortmund. 
