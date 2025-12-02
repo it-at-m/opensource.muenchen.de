@@ -1,10 +1,7 @@
 ---
-Source: SNow
 title: GitLab
-developer: null
 developerlink: https://about.gitlab.com/
 licensingmodel: open source
-linkapplication: null
 logo: /logo/320px-GitLab_logo.svg.png
 tags:
 - infrastruktur
@@ -12,9 +9,11 @@ tags:
 - development
 - devstack
 ---
-GitLab ist eine Versionsverwaltung für Softwareprojekte und Devops Plattform.
+GitLab ist eine Devops- und Softwareentwicklungsplattform.
 
 ---
 
-Mit GitLab verwalten wir den Code aller interner [Eigenentwicklung](../publish) und steuern mit CI/CD die laufenden Infrastruktur zahlreicher IT Services.
-
+Wir nutzen GitLab als Plattform zur Versionsverwaltung, CI/CD und als Projektmanagementtool.
+Es verwaltet Software von noch nicht veröffentlichten Softwareprojekten und den CI/CD-Code von [Eigenentwicklung](../publish).
+Diese werden als [Helmchart inkl. Containerimage](../repositories#artefakte) in unsere Infrastruktur importiert und mit Gitlab ausgerollt.
+Auch wird mit Gitlab zahlreiche externe Software ausgerollt.
