@@ -7,7 +7,6 @@ license: SSPL
 logo: /logo/Graylog-logo-blk.jpg
 tags:
   - infrastruktur
-  - support
   - observability
 ---
 
