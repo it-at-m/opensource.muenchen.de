@@ -13,3 +13,5 @@ Metabase ist ein kostenloses Open-Source-Tool für Business Intelligence, das es
 ---
 
 Metabase unterstützt verschiedene Datenquellen wie MySQL, PostgreSQL, MongoDB, Amazon Redshift, Google BigQuery, Microsoft SQL Server und viele mehr. Metabase bietet eine einfache Benutzeroberfläche, die auch für Nicht-Techniker leicht verständlich ist. Es ermöglicht Benutzer\*innen, komplexe Datenanalysen durchzuführen und Trends und Muster in den Daten zu erkennen, um fundierte Entscheidungen zu treffen.
+
+Die LHM setzt Metabase unter anderem ein, um Analysen der Angebote und deren Nutzung in den [Bildungslokalen des Pädagogischen Instituts](https://www.pi-muenchen.de/beratung-und-bildungslokale/) durchzuführen. Zudem bietet die LHM Unterstützung für die städtischen Träger, insbesondere bei der Überwachung und Steuerung des Belegungscontrolling-Prozesses in den Kindertagesstätten. Ein weiteres Ziel ist das allgemeine Controlling der Fachverfahrensberechtigungen, das für alle relevanten Fachverfahren des Referats für Bildung und Sport unter Berücksichtigung des Rollenmanagements über Active Directory erfolgt.
