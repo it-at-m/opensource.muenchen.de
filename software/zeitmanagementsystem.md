@@ -5,6 +5,7 @@ developer: Berlinonline
 code: https://gitlab.com/eappointment
 licensingmodel: open source
 linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
+logo: /inhouse/zms_logo.png
 tags:
   - eigenentwicklung
   - application
