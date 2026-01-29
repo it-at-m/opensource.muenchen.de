@@ -8,6 +8,7 @@ licensingmodel: open source
 license: AGPL
 linkapplication: https://unser.muenchen.de
 logo: /logo/consul_logo.png
+opencode: https://opencode.de/de/software/consul-1022
 tags:
   - application
   - start2021

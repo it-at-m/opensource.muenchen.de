@@ -63,6 +63,19 @@ defineProps({
         <span v-else>App anzeigen</span>
       </v-btn>
 
+      <v-btn
+        v-if="frontmatter.opencode"
+        :href="frontmatter.opencode"
+        variant="outlined"
+      >
+        <v-icon
+          start
+          icon="mdi-opencode"
+        />
+
+        <span>OpenCode</span>
+      </v-btn>
+
       <tag-chip-group :tags="frontmatter.tags" />
 
       <div v-if="frontmatter.license">
