@@ -13,4 +13,4 @@ Das Lightweight Directory Access Protocol (LDAP) ist ein Netzwerkprotokoll zur A
 
 ---
 
-Der LDAP-Verzeichnisdienst wird von vielen Fachanwendungen und Systemen in der Landeshauptstadt München für die Authentifizierung und Autorisierung von Benutzer*innen verwendet und ermöglichen auch den sichereren und effizienteren Betrieb für unsere LDAP-Dienste.
+Der LDAP-Verzeichnisdienst wird von vielen Fachanwendungen und Systemen in der Landeshauptstadt München für die Authentifizierung und Autorisierung von Benutzer*innen verwendet und ermöglicht auch den sichereren und effizienteren Betrieb für unsere LDAP-Dienste.
