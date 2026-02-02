@@ -3,6 +3,7 @@
 import { useData, withBase } from "vitepress";
 
 import TagChipGroup from "../components/TagChipGroup.vue";
+import customOpenCodeIcon from "./assets/opencode.svg?raw";
 
 const siteInfo = useData();
 
@@ -61,6 +62,19 @@ defineProps({
 
         <span v-if="lang === 'en'">Open App</span>
         <span v-else>App anzeigen</span>
+      </v-btn>
+
+      <v-btn
+        v-if="frontmatter.opencode"
+        :href="frontmatter.opencode"
+        variant="outlined"
+      >
+        <v-icon
+          start
+          v-html="customOpenCodeIcon"
+        />
+
+        <span>OpenCode</span>
       </v-btn>
 
       <tag-chip-group :tags="frontmatter.tags" />

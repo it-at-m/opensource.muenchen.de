@@ -4,6 +4,7 @@ developer: LHM
 code: https://github.com/it-at-m/ELSTER_NEZO_Plugin
 licensingmodel: open source
 license: MIT
+opencode: https://opencode.de/de/software/elster-nezo-plugin-fur-keycloak-rh-sso-753
 tags:
   - eigenentwicklung
   - infrastruktur
