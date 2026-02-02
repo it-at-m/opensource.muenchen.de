@@ -3,6 +3,7 @@
 import { useData, withBase } from "vitepress";
 
 import TagChipGroup from "../components/TagChipGroup.vue";
+import customOpenCodeIcon from "./assets/opencode.svg?raw";
 
 const siteInfo = useData();
 
@@ -70,7 +71,7 @@ defineProps({
       >
         <v-icon
           start
-          icon="mdi-opencode"
+          v-html="customOpenCodeIcon"
         />
 
         <span>OpenCode</span>
