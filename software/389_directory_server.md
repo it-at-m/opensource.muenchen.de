@@ -13,4 +13,4 @@ The Lightweight Directory Access Protocol (LDAP) is a network protocol for query
 
 ---
 
-The LDAP directory service is used by many specialist applications and systems in the City of Munich for the authentication and authorization of users and also enables more secure and efficient operation for our LDAP services.
+The LDAP directory service is used by many specialist applications and systems in the City of Munich for the authentication and authorization of users and enables the secure and efficient operation of our LDAP services.
