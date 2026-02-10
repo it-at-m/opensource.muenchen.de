@@ -18,3 +18,10 @@ The IT building guidelines for digital identities stipulate that digital identit
 
 The connection of specialist procedures to BayernID was implemented via the Keycloak brokering mechanism [BayernID - Plugin](bayernid-plugin).
 Keycloak is also the technical basis for [Elster Nezo, a plugin for connecting the Elster company account](elster-nezo_plugin).
+
+The [HTTP Header Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) checks specific headers for access control.  
+The [Role Plugin](https://github.com/it-at-m/keycloak-require-role-authenticator-plugin) manages access to clients based on user roles.  
+The [Username-from-login-hint Plugin](https://github.com/it-at-m/keycloak-username-from-login-hint-authenticator-plugin) extracts the username for a seamless login.  
+The [Custom OTP Plugin](https://github.com/it-at-m/keycloak-custom-otp-plugin?tab=readme-ov-file) enables two-factor authentication with one-time passwords, enhancing security during the login process.  
+
+More Keycloak plugins can be found in our [GitHub repositories](https://github.com/orgs/it-at-m/repositories?q=keycloak).
