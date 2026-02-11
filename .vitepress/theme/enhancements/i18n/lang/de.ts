@@ -17,6 +17,7 @@ export const deMessages: localizedMessagesType = {
     opencore: "Open Core",
     saas: "SaaS",
     sponsor: "Sponsor",
+    security: "Security",
     start2020: "Start 2020",
     start2021: "Start 2021",
     start2022: "Start 2022",
