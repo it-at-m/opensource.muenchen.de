@@ -22,6 +22,6 @@ Keycloak is also the technical basis for [Elster Nezo, a plugin for connecting t
 The [HTTP Header Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) checks specific HTTP-headers for access control.  
 The [Role Plugin](https://github.com/it-at-m/keycloak-require-role-authenticator-plugin) manages access to clients based on user roles.  
 The [Username-from-login-hint Plugin](https://github.com/it-at-m/keycloak-username-from-login-hint-authenticator-plugin) extracts the username for a seamless login.  
-The [Custom OTP Plugin](https://github.com/it-at-m/keycloak-custom-otp-plugin?tab=readme-ov-file) enables two-factor authentication with one-time passwords, enhancing security during the login process.  
+The [Custom OTP Plugin](https://github.com/it-at-m/keycloak-custom-otp-plugin?tab=readme-ov-file) adds functionality in the area of two-factor authentication with one-time passwords (TOTP), enhancing security during the login process.  
 
 More Keycloak plugins can be found in our [GitHub repositories](https://github.com/orgs/it-at-m/repositories?q=keycloak).
