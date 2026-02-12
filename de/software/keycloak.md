@@ -16,7 +16,7 @@ __Keycloak__ ist ein Open-Source-Softwareprodukt, das Single Sign-On mit Identit
 
 Die IT-Bebauungsrichtlinie *digitale Identitäten* legt fest dass digitale Identitäten, egal ob Mitarbeitende oder Bürger*innen betreffend, grundsätzlich im eigenen Rechenzentrum vorgehalten und mit Keycloak verwaltet werden.
 
-Die Anbindung von Fachverfahren an die BayernID wurde über den Keycloak Brokering-Mechanismus das [BayernID - Plugin](bayernid-plugin) umgesetzt.
+Die Anbindung von Fachverfahren an die BayernID wurde über den Keycloak Brokering-Mechanismus unter Nutzung des [BayernID - Plugin](bayernid-plugin) umgesetzt.
 Genauso ist Keycloak die technische Basis für [Elster Nezo, ein Plugin zur Anbindung des Elster Unternehmenskontos](elster-nezo_plugin).
 
  Das [HTTP-Header-Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) prüft spezifische Header zur Zugangskontrolle.
