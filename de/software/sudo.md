@@ -2,7 +2,7 @@
 title: sudo
 developerlink: https://www.sudo.ws/
 licensingmodel: open source
-logo: /public/logo/250px-Sudo_logo.png
+logo: /logo/250px-Sudo_logo.png
 tags:
   - infrastruktur
   - security
