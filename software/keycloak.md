@@ -17,7 +17,7 @@ __Keycloak__ is an open source software product that enables single sign-on with
 The IT building guidelines for digital identities stipulate that digital identities, regardless of whether they concern employees or citizens, are always stored in the company's own data center and managed with Keycloak.
 
 Connecting to BayernID as login mechanism was implemented via the Keycloak brokering mechanism [BayernID - Plugin](bayernid-plugin).
-Keycloak is also the technical basis for [Elster Nezo, a plugin for connecting the Elster company account](elster-nezo_plugin). (Note: Plugin only required fo keycloak version < 20.0)
+Keycloak is also the technical basis for [Elster Nezo, a plugin for connecting the Elster company account](elster-nezo_plugin). (Note: Plugin only required for Keycloak version < 20.0)
 
 The [HTTP Header Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) checks specific HTTP-headers for access control.  
 The [Role Plugin](https://github.com/it-at-m/keycloak-require-role-authenticator-plugin) manages access to clients based on user roles.  

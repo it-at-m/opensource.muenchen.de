@@ -19,9 +19,9 @@ Die IT-Bebauungsrichtlinie *digitale Identitäten* legt fest dass digitale Ident
 Die Anbindung von Fachverfahren an die BayernID wurde über den Keycloak Brokering-Mechanismus unter Nutzung des [BayernID - Plugin](bayernid-plugin) umgesetzt.
 Genauso ist Keycloak die technische Basis für [Elster Nezo, ein Plugin zur Anbindung des Elster Unternehmenskontos](elster-nezo_plugin) (Hinweis: Das Plugin wird nur bei älteren Keycloak-Versionen <v20 benötigt).
 
- Das [HTTP-Header-Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) prüft spezifische HTTP-Header zur Zugangskontrolle.
- Das [Rollen-Plugin](https://github.com/it-at-m/keycloak-require-role-authenticator-plugin) steuert den Zugriff auf Clients basierend auf Benutzerrollen. 
- Das [Username-from-login-hint-Plugin](https://github.com/it-at-m/keycloak-username-from-login-hint-authenticator-plugin) entnimmt den Benutzernamen des Users aus einem Request-Parameter für eine nahtlose Anmeldung. 
- Das [Custom-OTP-Plugin](https://github.com/it-at-m/keycloak-custom-otp-plugin?tab=readme-ov-file) ermöglicht die Zwei-Faktor-Authentifizierung mit Einmal-Passwörtern, dies erhöht die Sicherheit beim Anmeldeprozess.
+Das [HTTP-Header-Plugin](https://github.com/it-at-m/keycloak-require-http-header-authenticator-plugin) prüft spezifische HTTP-Header zur Zugangskontrolle.
+Das [Rollen-Plugin](https://github.com/it-at-m/keycloak-require-role-authenticator-plugin) steuert den Zugriff auf Clients basierend auf Benutzerrollen.
+Das [Username-from-login-hint-Plugin](https://github.com/it-at-m/keycloak-username-from-login-hint-authenticator-plugin) entnimmt den Benutzernamen des Users aus einem Request-Parameter für eine nahtlose Anmeldung.
+Das [Custom-OTP-Plugin](https://github.com/it-at-m/keycloak-custom-otp-plugin?tab=readme-ov-file) ermöglicht die Zwei-Faktor-Authentifizierung mit Einmal-Passwörtern. Dies erhöht die Sicherheit beim Anmeldeprozess.
 
-Weitere Keycloak-Plugins sind in in unseren [Github-Repositorien](https://github.com/orgs/it-at-m/repositories?q=keycloak) zu finden.
+Weitere Keycloak-Plugins sind in unseren [GitHub-Repositorien](https://github.com/orgs/it-at-m/repositories?q=keycloak) zu finden.
