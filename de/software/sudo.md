@@ -6,6 +6,7 @@ logo: /logo/250px-Sudo_logo.png
 tags:
   - infrastruktur
   - security
+  - sponsor
 ---
 
 sudo ist ein Befehl unter Unix und unixartigen Betriebssystemen wie Linux oder macOS, der dazu benutzt wird, Prozesse mit den Rechten eines anderen Benutzers zu starten.
