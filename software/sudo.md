@@ -6,6 +6,7 @@ logo: /logo/250px-Sudo_logo.png
 tags:
   - infrastruktur
   - security
+  - sponsor
 ---
 
 sudo is a command in Unix and Unix-like operating systems such as Linux or macOS that is used to start processes with the rights of another user.
