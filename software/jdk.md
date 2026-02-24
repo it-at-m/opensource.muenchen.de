@@ -1,5 +1,4 @@
 ---
-Source: SNow
 title: JDK
 developerlink: https://openjdk.org
 licensingmodel: open source
@@ -9,6 +8,7 @@ tags:
 - devstack
 sortingPriority: 101
 ---
-OpenJDK JAVADevelopmentKit (development tools, Java compiler) as part of the eighth edition of the Java SE platform. 
+
+OpenJDK is the official free implementation of the Java Platform, Standard Edition (Java SE).
 
 ---
