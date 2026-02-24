@@ -13,7 +13,7 @@
     "markdown-it-footnote": "^4.0.0",
     "prettier": "^3.5.1",
     "vitepress": "^1.6.3",
-    "vuetify": "^3.7.12"
+    "vuetify": "^4.0.0"
   },
   "prettier": "@muenchen/prettier-codeformat"
 }
