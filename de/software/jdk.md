@@ -2,7 +2,7 @@
 Source: SNow
 title: JDK
 developer: null
-developerlink: java.com
+developerlink: https://openjdk.org
 licensingmodel: open source
 logo: /logo/320px-OpenJDK_logo.svg.png
 tags:
