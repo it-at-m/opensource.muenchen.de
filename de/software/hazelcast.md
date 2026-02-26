@@ -14,4 +14,4 @@ __Hazelcast__ ist eine einheitliche Echtzeit-Datenplattform, die Stream-Verarbei
 
 ---
 
-Die LHM setzt Hazelcast in ihren RefArch-Applikationen für Caching und die Synchronisation von Benutzersitzungen ein. Dies erfolgt im Rahmen des API-Gateways, das auf Spring Cloud Gateway basiert. Hazelcast ermöglicht die konsistente Verwaltung von Sessions zwischen mehreren Instanzen der Anwendung, sodass Benutzer beim Wechsel zwischen Instanzen eine nahtlose Erfahrung haben. Die LHM hat spezifische Profile für den lokalen und Kubernetes-Einsatz definiert, um die Integration von Hazelcast zu steuern, einschließlich der notwendigen Netzwerkeinstellungen.
+Die LHM setzt Hazelcast in ihren RefArch-Applikationen für Caching und die Synchronisation von Benutzersitzungen ein. Dies erfolgt im Rahmen des API-Gateways, das auf Spring Cloud Gateway basiert. Hazelcast ermöglicht die konsistente Verwaltung von Sessions zwischen mehreren Instanzen der Anwendung, sodass Benutzer beim Wechsel zwischen Instanzen eine nahtlose Erfahrung haben.

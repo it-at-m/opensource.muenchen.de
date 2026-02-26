@@ -14,4 +14,4 @@ __Hazelcast__ is a unified real-time data platform combining stream processing w
 
 ---
 
-The City of Munich uses Hazelcast in its RefArch applications for caching and the synchronization of user sessions. This is implemented within the API Gateway, which is based on Spring Cloud Gateway. Hazelcast enables consistent session management across multiple instances of the application, allowing users to have a seamless experience when switching between instances. LHM has defined specific profiles for local and Kubernetes deployment to manage the integration of Hazelcast, including the necessary network configurations.
+The City of Munich uses Hazelcast in its RefArch applications for caching and the synchronization of user sessions. This is implemented within the API Gateway, which is based on Spring Cloud Gateway. Hazelcast enables consistent session management across multiple instances of the application, allowing users to have a seamless experience when switching between instances.
