@@ -3,6 +3,7 @@ title: Vuetify
 developerlink: https://vuetifyjs.com
 licensingmodel: open source
 logo: /logo/vuetify-logo-300.png
+sponsor: https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum
 tags:
 - development
 - sponsor
@@ -15,4 +16,3 @@ In the reference architecture, Vuetify is used for almost all [custom developmen
 ---
 
 Just like with [Vue.js](./vuejs), we benefit massively from the work of the community.
-To ensure the continued high quality of Vuetify, we sponsor [Vuetify as a Platinum Sponsor](https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum) with [$500 per month](https://www.muenchen-transparent.de/dokumente/7347900).

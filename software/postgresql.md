@@ -4,6 +4,7 @@ developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache
 logo: /logo/233px-Postgresql_elephant.svg.png
+sponsor: https://2026.pgconf.de/sponsors/#gold
 tags:
 - infrastruktur
 - support
