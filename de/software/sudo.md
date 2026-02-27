@@ -3,6 +3,7 @@ title: sudo
 developerlink: https://www.sudo.ws/
 licensingmodel: open source
 logo: /logo/250px-Sudo_logo.png
+sponsor: https://opencollective.com/sudo-project
 tags:
   - infrastruktur
   - security

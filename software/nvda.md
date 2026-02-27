@@ -5,6 +5,7 @@ developerlink: https://www.nvaccess.org/
 code: https://github.com/nvaccess/nvda 
 licensingmodel: open source
 logo: /logo/nvda_logo.png
+sponsor: https://opencollective.com/nv-access-limited
 tags:
   - application
   - sponsor
