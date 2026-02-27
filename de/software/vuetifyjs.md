@@ -3,6 +3,7 @@ title: Vuetify
 developerlink: https://vuetifyjs.com
 licensingmodel: open source
 logo: /logo/vuetify-logo-300.png
+sponsor: https://vuetifyjs.com/en/introduction/sponsors-and-backers/#platinum
 tags:
 - development
 - sponsor

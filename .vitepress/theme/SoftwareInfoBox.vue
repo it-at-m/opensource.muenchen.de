@@ -77,6 +77,19 @@ defineProps({
         <span>OpenCode</span>
       </v-btn>
 
+      <v-btn
+        v-if="frontmatter.sponsor"
+        :href="frontmatter.sponsor"
+        variant="outlined"
+      >
+        <v-icon
+          start
+          icon="mdi-cash-multiple"
+        />
+
+        <span>Sponsoring</span>
+      </v-btn>
+
       <tag-chip-group :tags="frontmatter.tags" />
 
       <div v-if="frontmatter.license">
