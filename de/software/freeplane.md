@@ -8,6 +8,6 @@ tags:
   - application
 ---
 
-Freemind ist ein Werkzeug zum Zeichnen von Mind Maps.
+Freeplane ist ein Werkzeug zum Zeichnen von Mind Maps.
 
 ---
