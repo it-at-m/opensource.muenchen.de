@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /logo/240px-The_GIMP_icon_-_gnome.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Gimp ist ein Bildbearbeitungsprogramm für Pixelgrafiken.

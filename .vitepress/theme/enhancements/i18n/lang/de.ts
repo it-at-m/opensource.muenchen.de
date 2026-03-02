@@ -6,6 +6,7 @@ export const deMessages: localizedMessagesType = {
     application: "Anwendung",
     archive: "Archiv",
     contribute: "Contribute",
+    desktop: "Desktop",
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Eigenentwicklung",

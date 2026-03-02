@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/PuTTY_icon_128px.png
 tags:
   - application
+  - desktop
 ---
 
 PuTTY is a free software for establishing connections via Secure Shell, Telnet, remote login or serial interfaces.

@@ -5,6 +5,7 @@ licensingmodel: open source
 logo: /logo/Modelio-logo.jpg
 tags:
   - application
+  - desktop
 ---
 
 The UML tool "Modelio" allows modeling of UML models, whereby these models are stored in a (local) repository.

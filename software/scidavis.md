@@ -7,6 +7,7 @@ licensingmodel: open source
 linkapplication: null
 tags:
   - application
+  - desktop
 ---
 
 Free software for visualization and analysis of measured values.
