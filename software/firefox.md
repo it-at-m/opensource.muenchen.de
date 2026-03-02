@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/462px-Firefox_logo_2019.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Mozilla Firefox is a free web browser installed on all city devices.

@@ -8,6 +8,7 @@ licensingmodel: open source
 logo: /logo/240px-Audacity_Logo_nofilter.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Audacity ist ein benutzerfreundlicher Mehrspur-Audio-Editor und -Recorder für Windows, macOS, GNU/Linux und andere Betriebssysteme.

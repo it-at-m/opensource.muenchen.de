@@ -7,6 +7,7 @@ licensingmodel: open source
 linkapplication: null
 tags:
   - application
+  - desktop
 ---
 
 MediaInfo is a program that lets you find out all sorts of info about video and audio files.

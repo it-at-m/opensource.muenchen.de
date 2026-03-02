@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /logo/212px-VLC_Icon.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Player for playing videos. Offers numerous codec supports.

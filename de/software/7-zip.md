@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/320px-7ziplogo.svg.png
 tags:
   - application
+  - desktop
 ---
 
 7-Zip ist ein Datenkompressionsprogramm mit einer hohen Kompressionsrate.
