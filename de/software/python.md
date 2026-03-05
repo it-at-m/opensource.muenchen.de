@@ -4,6 +4,7 @@ developerlink: https://www.python.org/
 code: https://github.com/python/cpython/
 licensingmodel: open source
 license: PSF2
+sponsor: https://2026.pycon.de/sponsors/munich-digital/
 logo: /logo/python.png
 tags:
 - development
