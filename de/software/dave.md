@@ -5,6 +5,7 @@ code: https://github.com/orgs/it-at-m/repositories?q=dave&type=source
 codelinktext: github.com/it-at-m dave
 licensingmodel: open source
 logo: /inhouse/dave_logo.png
+opencode: https://opencode.de/de/software/da-ve-3029
 license: MIT
 tags:
 - application

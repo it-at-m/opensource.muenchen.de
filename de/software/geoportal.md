@@ -5,6 +5,7 @@ developerlink: https://www.masterportal.org/
 code: https://gitlab.opencode.de/geowerkstatt-hamburg/masterportal
 licensingmodel: open source
 linkapplication: https://geoportal.muenchen.de/portal/master/
+opencode: https://opencode.de/de/software/masterportal-413
 logo: https://stadt.muenchen.de/.imaging/mte/lhm/image-aspect-ratio-3-2-1008w/dam/Home/Stadtverwaltung/Kommunalreferat/img_geoportal/Karten/Logo_GeoPortal.png/jcr:content/Logo_GeoPortal.png
 tags:
   - application

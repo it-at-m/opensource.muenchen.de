@@ -5,16 +5,19 @@ export interface Tags {
     application: string;
     contribute: string;
     development: string;
+    desktop: string;
     eigenentwicklung: string;
     infrastruktur: string;
     kooperation: string;
     opencore: string;
     sponsor: string;
     support: string;
+    security: string;
     featurefunding: string;
     start2023: string;
     start2022: string;
     start2021: string;
+    start2020: string;
     start2020: string;
   };
 }

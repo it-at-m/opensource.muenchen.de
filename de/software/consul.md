@@ -7,6 +7,8 @@ code: https://github.com/it-at-m/consul-lhm-dev
 licensingmodel: open source
 license: AGPL
 linkapplication: https://unser.muenchen.de
+opencode: https://opencode.de/de/software/consul-1022
+sponsor: https://consuldemocracy.org/#features
 logo: /logo/consul_logo.png
 tags:
   - application

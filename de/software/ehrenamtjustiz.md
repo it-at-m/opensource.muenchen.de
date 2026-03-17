@@ -22,3 +22,5 @@ Das Fachverfahren „Ehrenamtliche für die Justiz“ unterstützt Sachbearbeite
 Technisch basiert die Anwendung auf der it@M-[Referenzarchitektur](https://github.com/it-at-m/refarch) und wird auf einer [OpenShift](openshift.md)-Plattform betrieben. Die Software verwendet die Templates [Spring](spring.md) und [Vue.js](vuejs.md). Die Architektur ermöglicht eine Trennung von Komponenten und bietet standardisierte Schnittstellen zu externen Systemen wie dem Einwohnermelderegister und Änderungsdiensten. Weiter nutzen wir Single Sign-On über [KeyCloak](keycloak.md) sowie eine zentrale Datenhaltung in einer [PostgreSQL](postgresql.md)-Datenbank.
 
 Die Anwendung „Ehrenamtliche für die Justiz“ ersetzt die (städtische) Software „Schöffenverwaltung“, die bis 2024 im Einsatz war.
+
+![Ehrenamtjustiz Screenshot der Bewerbungsliste](/inhouse/ehrenamtjustiz_screenshot_bewerbungsliste.png)

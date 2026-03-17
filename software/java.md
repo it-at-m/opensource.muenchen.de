@@ -1,6 +1,6 @@
 ---
 title: Java
-developerlink: https://www.oracle.com/java/
+developerlink: https://www.java.com
 licensingmodel: open source
 logo: /logo/253px-Java-Logo.svg.png
 tags:

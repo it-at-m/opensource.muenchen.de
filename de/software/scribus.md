@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /logo/240px-Scribus_logo.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Scribus ist ein freies Desktop-Publishing-Programm für Linux-, Unix-, Mac OS X-, OS/2- und Windows-Systeme, das unter der GNU General Public License lizenziert ist.

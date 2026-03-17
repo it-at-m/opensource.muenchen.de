@@ -5,6 +5,7 @@ code: https://github.com/OpenAPITools/openapi-generator
 licensingmodel: open source
 license: Apache-2.0
 logo: /logo/color-logo.svg
+sponsor: https://openapi-generator.tech/
 tags:
   - infrastruktur
   - sponsor

@@ -27,6 +27,8 @@ Wenn wir uns an freien Softwareprojekten anderer Communities aus der öffentlich
 Um Mitarbeitende nicht zu zwingen, mit Klarnamen im Internet zu agieren, dürfen Mitarbeiter\*innen Pseudonyme nutzen.
 Um aber nachvollziehen zu können, welche Mitarbeitenden hier öffentlich agieren, sind alle genutzten Pseudonyme _intern_ dokumentiert.
 
+
+
 ## Artefakte
 
 Das Konzept _Public Money Public Code_ verpflichtet nur, den Quellcode zu [veröffentlichen](./publish.html).

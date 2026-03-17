@@ -23,3 +23,5 @@ The specialized procedure "Ehrenamtliche für die Justiz" supports administrativ
 Technically, the application is based on the it@M [reference architecture](https://github.com/it-at-m/refarch) and is operated on an [OpenShift](openshift.md) platform. The software uses the templates [Spring](spring.md) and [Vue.js](vuejs.md). The architecture enables the separation of components and offers standardized interfaces to external systems such as the residents' register and change services. We also use single sign-on via [KeyCloak](keycloak.md) and central data storage in a [PostgreSQL](postgresql.md) database.
 
 The application "Ehrenamtliche für die Justiz" replaces the (municipal) software "Schöffenverwaltung", which was in use until 2024.
+
+![Ehrenamtjustiz Screenshot of the application list](/inhouse/ehrenamtjustiz_screenshot_bewerbungsliste.png)

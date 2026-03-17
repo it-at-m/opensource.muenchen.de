@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /logo/Logo_pdfsam1.png
 tags:
   - application
+  - desktop
 ---
 
 PDF Split and Merge: teilt PDFs auf oder fügt PDF-Dateien zusammen.

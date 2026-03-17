@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/FreeFileSync_Icon.png
 tags:
   - application
+  - desktop
 ---
 
 FreeFileSync is a free open source file synchronization program. It is available on Windows, Linux and OS X.

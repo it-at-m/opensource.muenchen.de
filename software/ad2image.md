@@ -19,4 +19,8 @@ Modern web applications often use avatars, small "user images", to represent peo
 With the introduction of Outlook Web App and our social intranet "WiLMA", these "little pictures" have become indispensable even in urban environments.
 
 ad2image also offers the possibility to generate avatars if an identity has no photo stored.
-It is container-based and can be deployed via [helm-chart](https://github.com/it-at-m/helm-charts/tree/main/charts/ad2image).
+
+Additionally it provides an [Gravatar API](https://docs.gravatar.com/sdk/images/) compatible endpoint that enables the
+usage of ad2image as image source for applications that already have a Gravatar integration (e.g. [PLANKA](https://github.com/plankanban/planka/pull/1319)).
+
+It is container-based and can be deployed via [Helm Chart](https://github.com/it-at-m/helm-charts/tree/main/charts/ad2image).

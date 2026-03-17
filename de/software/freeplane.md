@@ -6,8 +6,9 @@ licensingmodel: open source
 logo: /logo/240px-Freeplane-icon-2022.svg.png
 tags:
   - application
+  - desktop
 ---
 
-Freemind ist ein Werkzeug zum Zeichnen von Mind Maps.
+Freeplane ist ein Werkzeug zum Zeichnen von Mind Maps.
 
 ---

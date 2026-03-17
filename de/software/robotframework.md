@@ -5,6 +5,7 @@ code: https://github.com/robotframework/robotframework
 licensingmodel: open source
 license: Apache
 logo: /logo/Robot-framework-logo.png
+sponsor: https://robotframework.org/#development
 tags:
   - infrastruktur
   - sponsor
