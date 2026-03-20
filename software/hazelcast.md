@@ -4,7 +4,7 @@ developerlink: https://hazelcast.com/
 licensingmodel: open source
 code: https://github.com/hazelcast
 license: 
-logo: public/logo/hazelcast-logo.svg
+logo: /logo/hazelcast-logo.svg
 tags:
 - infrastruktur
 - devstack
