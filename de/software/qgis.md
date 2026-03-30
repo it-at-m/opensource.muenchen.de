@@ -14,4 +14,4 @@ Quantum GIS (QGIS) ist ein geografisches Informationssystem (GIS) verwaltet, ana
 
 ---
 
-QGIS kommt in 10 Referaten mit 600 Mitarbeitern zum Einsatz, zusätzlich gibt es Sonderlösung in der Branddirektion für die Leitstellenrechner.
+QGIS kommt in 10 Referaten mit 600 Mitarbeitern zum Einsatz, zusätzlich gibt es Sonderlösungen in der Branddirektion für die Leitstellenrechner.
