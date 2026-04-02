@@ -2,7 +2,7 @@
 title: Ehrenamtjustiz
 developer: LHM
 code: https://github.com/it-at-m/ehrenamt-justiz
-opencode: https://opencode.de/de/software/ehrenamt-justiz-9560
+opencode: https://opencode.de/en/software/ehrenamt-justiz-9560
 licensingmodel: open source
 license: MIT
 tags:
