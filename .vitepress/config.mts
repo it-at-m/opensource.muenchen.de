@@ -57,6 +57,7 @@ export default defineConfig({
           },
         ],
 
+        search: { provider: 'local' },
         sidebar: [],
         outline: {
           label: "Auf dieser Seite",
@@ -116,6 +117,7 @@ export default defineConfig({
       message: `<a href="/impress.html">Impress and Contact</a> | <a href="/accessibility.html">Accessibility</a>`,
     },
 
+    search: { provider: 'local' },
     sidebar: [],
 
     outline: {
