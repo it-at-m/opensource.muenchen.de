@@ -56,8 +56,36 @@ export default defineConfig({
             ],
           },
         ],
-
-        search: { provider: 'local' },
+        search: {
+          provider: "local",
+          options: {
+            locales: {
+              de: {
+                translations: {
+                  button: {
+                    buttonText: "Suchen",
+                    buttonAriaLabel: "Suchen",
+                  },
+                  modal: {
+                    displayDetails: "Details anzeigen",
+                    resetButtonTitle: "Suche zurücksetzen",
+                    backButtonTitle: "Suche schließen",
+                    noResultsText: "Keine Ergebnisse",
+                    footer: {
+                      selectText: "Auswählen",
+                      selectKeyAriaLabel: "Eingabe",
+                      navigateText: "Navigieren",
+                      navigateUpKeyAriaLabel: "Pfeil nach oben",
+                      navigateDownKeyAriaLabel: "Pfeil nach unten",
+                      closeText: "Schließen",
+                      closeKeyAriaLabel: "esc",
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
         sidebar: [],
         outline: {
           label: "Auf dieser Seite",
@@ -117,7 +145,7 @@ export default defineConfig({
       message: `<a href="/impress.html">Impress and Contact</a> | <a href="/accessibility.html">Accessibility</a>`,
     },
 
-    search: { provider: 'local' },
+    search: { provider: "local" },
     sidebar: [],
 
     outline: {
