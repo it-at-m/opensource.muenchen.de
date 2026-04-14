@@ -5,8 +5,8 @@ code: https://github.com/plankanban/planka
 licensingmodel: open source
 license: Fair Use License
 tags:
-  - Application
-  - Kubernetes
+  - application
+  - kubernetes
   - start2026
 ---
 
