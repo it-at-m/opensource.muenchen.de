@@ -1,6 +1,6 @@
 ---
-title: planka
-developer: PLANKA Team
+title: PLANKA
+developer: PLANKA Community
 code: https://github.com/plankanban/planka
 licensingmodel: open source
 license: Fair Use License
