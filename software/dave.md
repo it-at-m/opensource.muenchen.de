@@ -45,12 +45,4 @@ There we collect all feature requests and bugs from all DAVe repositories (code,
 
 * User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (german)
 * Developer Manual: [/docs](https://github.com/it-at-m/dave/tree/main/docs/src)
-
-
-## Roadmap
-
-Currently, only individual counting stations can be uploaded.
-In the second expansion stage of DAVe, the evaluation options for permanent counting points will be integrated.
-This means that all current evaluation options that are available for counting points will also be possible (where appropriate) for measuring points (i.e. permanent counting points for motorised and bicycle traffic).
-Some additional evaluation options that are only useful for permanent counting points will also be available.  
-There are also plans to integrate pedestrian traffic data in a follow-up project (time horizon: 2025).
+* Technical [Roadmap](https://github.com/it-at-m/dave#roadmap)
