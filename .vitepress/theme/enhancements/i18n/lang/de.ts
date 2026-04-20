@@ -27,6 +27,6 @@ export const deMessages: localizedMessagesType = {
     support: "Support",
   },
   TagFilter: {
-    clearAll: "Alle löschen",
+    clearAll: "Alle tags löschen",
   },
 };
