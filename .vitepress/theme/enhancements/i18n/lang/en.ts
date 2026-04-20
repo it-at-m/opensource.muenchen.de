@@ -27,6 +27,6 @@ export const enMessages: localizedMessagesType = {
     support: "Support",
   },
   TagFilter: {
-    clearAll: "Clear All",
+    clearAll: "Clear all tags",
   },
 };
