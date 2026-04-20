@@ -15,7 +15,7 @@ const props = defineProps({
   },
 });
 
-defineEmits(["update:modelValue"]);
+const emit = defineEmits(["update:modelValue"]);
 
 const selectedTags = ref([]);
 
@@ -30,6 +30,10 @@ const allTags = computed(() => {
 
   return allTags;
 });
+
+function clearAll() {
+  emit("update:modelValue", []);
+}
 
 function getCountOfTag(tag) {
   let counter = 0;
@@ -48,6 +52,16 @@ function getCountOfTag(tag) {
 </script>
 
 <template>
+  <div>
+  <v-chip
+      v-if="modelValue.length > 1"
+      size="small"
+      color="primary"
+      variant="outlined"
+      @click="clearAll"
+    >
+      Clear All
+    </v-chip>
   <v-chip-group
     :model-value="modelValue"
     @update:modelValue="$emit('update:modelValue', $event)"
@@ -61,6 +75,6 @@ function getCountOfTag(tag) {
       filter
     />
   </v-chip-group>
+  </div>
 </template>
-
 <style scoped></style>
