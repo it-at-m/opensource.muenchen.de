@@ -26,4 +26,7 @@ export const enMessages: localizedMessagesType = {
     start2024: "Start 2024",
     support: "Support",
   },
+  TagFilter: {
+    clearAll: "Clear All",
+  },
 };
