@@ -47,12 +47,4 @@ Dort sammlen wir alle Featurerequests und Bugs aus allen DAVe repositories (code
 
 * User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](https://github.com/it-at-m/dave/blob/main/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (deutsch)
 * Developer Manual: [/docs](https://github.com/it-at-m/dave/tree/main/docs/src) 
-
-
-## Roadmap
-
-Aktuell können nur Einzelzählungen hochgeladen werden.
-In der zweiten Ausbaustufe von DAVe werden die Auswertungsmöglichkeiten von Messstellen (d.h. Dauerzählstellen für Kfz- und Radverkehr) integriert.
-Damit werden alle aktuellen Auswertungsmöglichkeiten, die für die Zählstellen zur Verfügung stehen, soweit sinnvoll auch für Messstellen möglich sein.
-Es werden auch einige zusätzliche Auswertungsoptionen, die nur für Dauerzählstellen sinnvoll sind hinzugefügt.
-Zudem ist geplant, in einem Folgeprojekt (Zeithorizont: 2025) Fußverkehrsdaten zu integrieren.
+* Technische [Roadmap](https://github.com/it-at-m/dave#roadmap)
