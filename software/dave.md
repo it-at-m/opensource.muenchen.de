@@ -31,6 +31,8 @@ The data collected helps to analyze traffic development and is used, for example
 ![Screenshot of a website with hydrographs](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot of a website with list output](/inhouse/DAVE_Listenausgabe.png)
 
+DAVe is also being used in the [City of Wolfsburg's Smart Parking Project](https://www.wolfsburg.de/digital/smart-city/smart-parking).
+
 
 ## Technical details
 

@@ -31,6 +31,9 @@ Die erfassten Daten helfen bei der Analyse der Verkehrsentwicklung und werden zu
 ![Screenshot einer Website mit Ganglinien](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot einer Website mit Listenausgabe](/inhouse/DAVE_Listenausgabe.png)
 
+DAVe wird auch im [Projekt Smart Parking der Stadt Wolfsburg](https://www.wolfsburg.de/digital/smart-city/smart-parking) genutzt.
+
+
 ## Technische Details
 
 DAVe wurde mit der [Referenzarchitektur](../publish#refarch) der Landeshauptstadt München entwickelt. Im Backend wird Java Spring Boot und im Frontend TypeScript und [Vue.js](vuejs) verwendet. Ein Knoten-Strom-Belastungsplan, der die Verkehrsströme übersichtlich darstellt wurde mit Hilfe von SVG.js entworfen.
