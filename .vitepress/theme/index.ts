@@ -1,6 +1,6 @@
 import { useRouter } from "vitepress";
 import DefaultTheme from "vitepress/theme";
-import { onMounted, onUnmounted } from "vue";
+import { onMounted } from "vue";
 import { createVuetify } from "vuetify";
 import * as components from "vuetify/components";
 import * as directives from "vuetify/directives";
@@ -71,6 +71,7 @@ function getLocalizedPath(path: string, language: string): string {
   const englishPath = path.replace(/^\/de/, "");
   return englishPath || "/";
 }
+
 export default {
   ...DefaultTheme,
   Layout: LhmThemeExtension,
@@ -80,40 +81,26 @@ export default {
 
   setup() {
     const router = useRouter();
-    const handleLanguageSelection = (event: MouseEvent): void => {
-      const target = event.target;
+    let previousPath = "";
+    let skipNextLocalePersistence = false;
 
-      if (!(target instanceof Element)) {
+    router.onAfterRouteChange = (to) => {
+      const nextPath = new URL(to, window.location.origin).pathname;
+
+      if (skipNextLocalePersistence) {
+        skipNextLocalePersistence = false;
+        previousPath = nextPath;
         return;
       }
 
-      const languageSwitcher = target.closest(
-        ".VPNavBarTranslations, .VPNavScreenTranslations"
-      );
-
-      if (!languageSwitcher) {
-        return;
+      if (
+        previousPath &&
+        isGermanPath(previousPath) !== isGermanPath(nextPath)
+      ) {
+        persistLanguageFromPath(nextPath);
       }
 
-      const link = target.closest("a");
-
-      if (!link) {
-        return;
-      }
-
-      const href = link.getAttribute("href");
-
-      if (!href) {
-        return;
-      }
-
-      const nextUrl = new URL(href, window.location.origin);
-
-      if (nextUrl.origin !== window.location.origin) {
-        return;
-      }
-
-      persistLanguageFromPath(nextUrl.pathname);
+      previousPath = nextPath;
     };
 
     onMounted(() => {
@@ -125,19 +112,12 @@ export default {
       const targetLang = storedLanguage ?? browserLanguage;
       const localizedPath = getLocalizedPath(currentPath, targetLang);
 
+      previousPath = currentPath;
+
       if (localizedPath !== currentPath) {
+        skipNextLocalePersistence = true;
         void router.go(`${localizedPath}${currentSearch}${currentHash}`);
       }
-
-      document.addEventListener("click", handleLanguageSelection, {
-        capture: true,
-      });
-    });
-
-    onUnmounted(() => {
-      document.removeEventListener("click", handleLanguageSelection, {
-        capture: true,
-      });
     });
   },
 };
