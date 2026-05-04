@@ -12,4 +12,4 @@ Katello is a software stack of various components integrated together to provide
 
 ---
 
-Together with the free [Ansible](/software/ansible), katello forms our central system management.
+Together with the free [Puppet](/software/puppet), katello forms our central system management.
