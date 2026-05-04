@@ -13,3 +13,5 @@ tags:
 ---
 
 Ein IT-Administrator kann damit an zentraler Stelle die Konfiguration von Rechnern in seinem Netzwerk verwalten.
+
+Zusammen mit dem freien [Katello](/software/katello) bildet Puppet unser zentrales Systemmanagement.
