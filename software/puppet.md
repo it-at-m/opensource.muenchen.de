@@ -13,3 +13,5 @@ tags:
 ---
 
 An IT administrator can use it to centrally manage the configuration of computers in his network.
+
+Together with the free [Katello](/software/katello), Puppet forms our central system management.
