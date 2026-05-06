@@ -42,3 +42,4 @@ The only sensible application for short redirects are URLs that are to be typed.
 * https://oss.muenchen.de/inho | https://opensource.muenchen.de/de/in-house-development.html
 * https://oss.muenchen.de/sftw | https://opensource.muenchen.de/de/software/
 * https://oss.muenchen.de/sec | https://opensource.muenchen.de/de/security.html
+* https://oss.muenchen.de/repo | https://opensource.muenchen.de/de/repositories.html
