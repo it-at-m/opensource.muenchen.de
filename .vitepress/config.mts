@@ -110,6 +110,13 @@ export default defineConfig({
             "https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path",
           text: "Diese Seite auf GitHub anzeigen",
         },
+        lastUpdated: {
+          text: "Zuletzt aktualisiert",
+          formatOptions: {
+            dateStyle: "short",
+            timeStyle: "short",
+          },
+        },
       },
     },
   },
@@ -161,6 +168,13 @@ export default defineConfig({
       pattern:
         "https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path",
       text: "View this page on GitHub",
+    },
+    lastUpdated: {
+      text: "Updated at",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      },
     },
   },
 
