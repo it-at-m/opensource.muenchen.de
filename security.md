@@ -51,7 +51,7 @@ Therefore, it is recommended to disable external visibility of the SBOM endpoint
 ### Automated Tests
 
 We use [Trivy](https://trivy.dev/) in all our CI/CD processes.
-On GitHub, we use [action-trivy](https://github.com/it-at-m/lhm_actions/tree/main/action-templates/actions/action-trivy/action.yml) for this purpose.
+On GitHub, we use [action-trivy](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-trivy/action.yml) for this purpose.
 In addition, [CodeQL](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) must be implemented in all repositories, and the global security configuration (e.g., Dependabot alerts) must be enabled for all repositories.
 
 Security-related pull requests and issues with a [CVSS critical and high](https://nvd.nist.gov/vuln-metrics/cvss) rating must be addressed within __30 days__.
