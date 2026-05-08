@@ -52,7 +52,7 @@ In allen CI/CD-Prozessen nutzen wir [Trivy](https://trivy.dev/).
 Auf GitHub nutzen wir dazu [action-trivy](https://github.com/it-at-m/lhm_actions/tree/main/action-templates/actions/action-trivy/action.yml).
 Zusätzlich muss in allen Repositories [CodeQL](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) implementiert werden, und die globale Sicherheitskonfiguration (z.B. Dependabot alerts) muss für alle Repositories aktiviert sein.
 
-Sicherheitsrelevante Pull Requests und Issues mit den [CVSS crtical und high](https://nvd.nist.gov/vuln-metrics/cvss) müssen innerhalb von __30 Tagen__ bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen [Maintainer](https://de.wikipedia.org/wiki/Maintainer) weitergeleitet.
+Sicherheitsrelevante Pull Requests und Issues mit den [CVSS critical und high](https://nvd.nist.gov/vuln-metrics/cvss) müssen innerhalb von __30 Tagen__ bearbeitet werden. Nach dieser Frist werden sie an die jeweiligen [Maintainer](https://de.wikipedia.org/wiki/Maintainer) weitergeleitet.
 
 ### Responsible Disclosure
 
