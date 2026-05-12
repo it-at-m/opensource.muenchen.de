@@ -1,8 +1,8 @@
 ---
 Source: SNow
 title: Zeitmanagementsystem
-developer: Berlinonline
-code: https://gitlab.com/eappointment
+developerlink: https://it-at-m.github.io/eappointment/
+code: https://github.com/it-at-m/eappointment/
 licensingmodel: open source
 linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
 tags:
