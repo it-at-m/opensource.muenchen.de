@@ -9,7 +9,7 @@ tags:
 - eigenentwicklung
 ---
 
-The __Agile Test Automation Framework__ (ATAF) is a [Java](java) 21 framework for Cucumber-based BDD tests and traditional TestNG/JUnit test suites, with optional Jira/Xray integration.
+The __Agile Test Automation Framework__ (ATAF) is a [Java](java) 21 framework for [Cucumber](https://cucumber.io/)-based Behavior Driven Development tests and traditional TestNG/JUnit test suites, with optional Jira/Xray integration.
 
 ---
 
