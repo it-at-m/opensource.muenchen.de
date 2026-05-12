@@ -56,7 +56,36 @@ export default defineConfig({
             ],
           },
         ],
-
+        search: {
+          provider: "local",
+          options: {
+            locales: {
+              de: {
+                translations: {
+                  button: {
+                    buttonText: "Suchen",
+                    buttonAriaLabel: "Suchen",
+                  },
+                  modal: {
+                    displayDetails: "Details anzeigen",
+                    resetButtonTitle: "Suche zurücksetzen",
+                    backButtonTitle: "Suche schließen",
+                    noResultsText: "Keine Ergebnisse",
+                    footer: {
+                      selectText: "Auswählen",
+                      selectKeyAriaLabel: "Eingabe",
+                      navigateText: "Navigieren",
+                      navigateUpKeyAriaLabel: "Pfeil nach oben",
+                      navigateDownKeyAriaLabel: "Pfeil nach unten",
+                      closeText: "Schließen",
+                      closeKeyAriaLabel: "esc",
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
         sidebar: [],
         outline: {
           label: "Auf dieser Seite",
@@ -80,6 +109,13 @@ export default defineConfig({
           pattern:
             "https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path",
           text: "Diese Seite auf GitHub anzeigen",
+        },
+        lastUpdated: {
+          text: "Zuletzt aktualisiert",
+          formatOptions: {
+            dateStyle: "short",
+            timeStyle: "short",
+          },
         },
       },
     },
@@ -116,6 +152,7 @@ export default defineConfig({
       message: `<a href="/impress.html">Impress and Contact</a> | <a href="/accessibility.html">Accessibility</a>`,
     },
 
+    search: { provider: "local" },
     sidebar: [],
 
     outline: {
@@ -131,6 +168,13 @@ export default defineConfig({
       pattern:
         "https://github.com/it-at-m/opensource.muenchen.de/blob/main/:path",
       text: "View this page on GitHub",
+    },
+    lastUpdated: {
+      text: "Updated at",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      },
     },
   },
 

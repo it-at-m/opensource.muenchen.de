@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/240px-KeePass_Logo.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Keepass2 ist eine Kennwortverwaltung zum Einsatz auf lokalen und persönlichen Endgeräten.

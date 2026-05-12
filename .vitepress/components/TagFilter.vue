@@ -3,6 +3,7 @@ import { computed, ref } from "vue";
 
 import { data } from "../software.data.js";
 import TagChip from "./TagChip.vue";
+import { useTranslator } from "./Translator.ts";
 
 const props = defineProps({
   modelValue: {
@@ -15,7 +16,8 @@ const props = defineProps({
   },
 });
 
-defineEmits(["update:modelValue"]);
+const emit = defineEmits(["update:modelValue"]);
+const { t } = useTranslator();
 
 const selectedTags = ref([]);
 
@@ -31,6 +33,9 @@ const allTags = computed(() => {
   return allTags;
 });
 
+function clearAll() {
+  emit("update:modelValue", []);
+}
 function getCountOfTag(tag) {
   let counter = 0;
   for (let softwareEntry of data) {
@@ -48,19 +53,32 @@ function getCountOfTag(tag) {
 </script>
 
 <template>
-  <v-chip-group
-    :model-value="modelValue"
-    @update:modelValue="$emit('update:modelValue', $event)"
-    multiple
-  >
-    <tag-chip
-      v-for="(tag, index) in availableTags.length > 0 ? availableTags : allTags"
-      :key="index"
-      :tag="tag"
-      :count="getCountOfTag(tag)"
-      filter
-    />
-  </v-chip-group>
+  <div>
+    <v-chip
+      v-if="modelValue.length > 1"
+      size="small"
+      color="primary"
+      variant="outlined"
+      @click="clearAll"
+    >
+      {{ t("TagFilter.clearAll") }}
+    </v-chip>
+    <v-chip-group
+      :model-value="modelValue"
+      @update:modelValue="$emit('update:modelValue', $event)"
+      multiple
+    >
+      <tag-chip
+        v-for="(tag, index) in availableTags.length > 0
+          ? availableTags
+          : allTags"
+        :key="index"
+        :tag="tag"
+        :count="getCountOfTag(tag)"
+        filter
+      />
+    </v-chip-group>
+  </div>
 </template>
 
 <style scoped></style>

@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/ProjectLibre_logo.png
 tags:
   - application
+  - desktop
 ---
 
 ProjectLibre is an open-source software for project planning and control.

@@ -6,6 +6,7 @@ export const enMessages: localizedMessagesType = {
     application: "Application",
     archive: "Archive",
     contribute: "Contribute",
+    desktop: "Desktop",
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Inhouse",
@@ -24,5 +25,8 @@ export const enMessages: localizedMessagesType = {
     start2023: "Start 2023",
     start2024: "Start 2024",
     support: "Support",
+  },
+  TagFilter: {
+    clearAll: "Clear all tags",
   },
 };

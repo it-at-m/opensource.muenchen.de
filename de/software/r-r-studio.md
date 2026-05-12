@@ -7,6 +7,7 @@ licensingmodel: open source
 linkapplication: null
 tags:
   - application
+  - desktop
 ---
 
 Anwendung und Programmiersprache für Statistik

@@ -5,6 +5,7 @@ code: https://github.com/python/cpython/
 licensingmodel: open source
 license: PSF2
 logo: /logo/python.png
+sponsor: https://2026.pycon.de/sponsors/munich-digital/
 tags:
 - development
 - ai

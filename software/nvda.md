@@ -8,6 +8,7 @@ logo: /logo/nvda_logo.png
 sponsor: https://opencollective.com/nv-access-limited
 tags:
   - application
+  - desktop
   - sponsor
 ---
 

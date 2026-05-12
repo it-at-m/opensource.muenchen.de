@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/240px-KeePass_Logo.svg.png
 tags:
   - application
+  - desktop
 ---
 
 Keepass2 is a password management system for use on local and personal devices.

@@ -6,6 +6,7 @@ licensingmodel: CE/EE-Modell
 logo: /logo/jaspersoft_studio_icon.jpg
 tags:
   - application
+  - desktop
 ---
 
 TIBCO Jaspersoft® Studio is an editing software from the manufacturer TIBCO JasperReports®.

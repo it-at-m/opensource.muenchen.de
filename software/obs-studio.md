@@ -7,6 +7,7 @@ licensingmodel: open source
 logo: /logo/240px-Open_Broadcaster_Software_Logo.png
 tags:
   - application
+  - desktop
 ---
 
 The Open Broadcaster software supports the user in transmitting screen content in real time over a network connection to the Internet.

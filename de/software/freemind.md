@@ -8,6 +8,7 @@ linkapplication: null
 logo: /logo/Free_Mind.png
 tags:
   - application
+  - desktop
 ---
 
 Freemind ist ein Werkzeug zum Zeichnen von Mind Maps.

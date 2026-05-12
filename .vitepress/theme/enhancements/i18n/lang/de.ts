@@ -6,6 +6,7 @@ export const deMessages: localizedMessagesType = {
     application: "Anwendung",
     archive: "Archiv",
     contribute: "Contribute",
+    desktop: "Desktop",
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Eigenentwicklung",
@@ -24,5 +25,8 @@ export const deMessages: localizedMessagesType = {
     start2023: "Start 2023",
     start2024: "Start 2024",
     support: "Support",
+  },
+  TagFilter: {
+    clearAll: "Alle tags löschen",
   },
 };

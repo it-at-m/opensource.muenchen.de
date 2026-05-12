@@ -5,6 +5,7 @@ export interface Tags {
     application: string;
     contribute: string;
     development: string;
+    desktop: string;
     eigenentwicklung: string;
     infrastruktur: string;
     kooperation: string;
@@ -16,6 +17,7 @@ export interface Tags {
     start2023: string;
     start2022: string;
     start2021: string;
+    start2020: string;
     start2020: string;
   };
 }

@@ -6,6 +6,7 @@ licensingmodel: open source
 logo: /logo/umlet_logo.svg
 tags:
   - application
+  - desktop
 ---
 
 UMLet is an open-source UML tool with a simple user interface for drawing UML diagrams, creating sequence and activity diagrams from plain text, etc.
