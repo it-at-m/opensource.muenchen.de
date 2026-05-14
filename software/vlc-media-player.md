@@ -4,7 +4,7 @@ title: VLC Media Player
 developer: null
 developerlink: https://www.videolan.org/vlc/index.de.html
 licensingmodel: open source
-license: GPU-2.0
+license: GPL-2.0
 logo: /logo/212px-VLC_Icon.svg.png
 tags:
   - application
