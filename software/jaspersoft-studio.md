@@ -3,6 +3,7 @@ Source: SNow
 title: JasperSoft Studio
 developerlink: https://www.jaspersoft.com/products/jaspersoft-community
 licensingmodel: CE/EE-Modell
+license: LGPL-3.0
 logo: /logo/jaspersoft_studio_icon.jpg
 tags:
   - application

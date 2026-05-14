@@ -3,6 +3,7 @@ title: BlueSpice
 developer: Hallo Welt! GmbH
 developerlink: https://bluespice.com
 licensingmodel: open source
+license: GPL-3.0
 logo: /logo/bluespice_logo.png
 tags:
   - application

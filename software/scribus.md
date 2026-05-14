@@ -3,6 +3,7 @@ Source: SNow
 title: Scribus
 developerlink: https://www.scribus.net
 licensingmodel: open source
+license: GPL-3.0
 logo: /logo/240px-Scribus_logo.svg.png
 tags:
   - application

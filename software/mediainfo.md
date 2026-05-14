@@ -4,6 +4,7 @@ title: MediaInfo
 developer: null
 developerlink: https://mediaarea.net/en/MediaInfo
 licensingmodel: open source
+license: BSD
 linkapplication: null
 tags:
   - application

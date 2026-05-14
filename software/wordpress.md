@@ -4,6 +4,7 @@ title: WordPress
 developer: null
 developerlink: https://de.wordpress.com/
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/320px-WordPress_logo.svg.png
 tags:
   - application

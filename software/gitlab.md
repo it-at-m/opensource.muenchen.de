@@ -3,6 +3,7 @@ title: GitLab
 developer: null
 developerlink: https://about.gitlab.com/
 licensingmodel: open source
+license: MIT
 logo: /logo/320px-GitLab_logo.svg.png
 tags:
 - infrastruktur

@@ -3,6 +3,7 @@ Source: SNow
 title: TRAC
 developerlink: http://trac.edgewall.org/
 licensingmodel: open source
+license: BSD
 logo: /logo/320px-Trac_logo.svg.png
 tags:
   - development

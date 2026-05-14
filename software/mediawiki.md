@@ -4,6 +4,7 @@ title: MediaWiki
 developer: null
 developerlink: https://www.mediawiki.org
 licensingmodel: open source
+license: GPL
 logo: /logo/216px-MediaWiki-2020-logo.svg.png
 tags:
   - application

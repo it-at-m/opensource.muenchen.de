@@ -2,6 +2,7 @@
 title: MDAS
 code: https://github.com/orgs/it-at-m/repositories?q=mobidam
 licensingmodel: open source
+license: MIT
 developerlink: https://it-at-m.github.io/mobidam-sst-management/
 logo: https://raw.githubusercontent.com/it-at-m/mobidam-sst-management/sprint/images/logo.png
 tags:

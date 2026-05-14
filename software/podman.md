@@ -2,6 +2,7 @@
 title: Podman
 developerlink: https://podman.io/
 licensingmodel: open source
+license: Apache-2.0
 logo: /logo/330px-Podman-logo-orig.png
 tags:
 - development

@@ -4,6 +4,7 @@ title: NVDA
 developerlink: https://www.nvaccess.org/
 code: https://github.com/nvaccess/nvda 
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/nvda_logo.png
 sponsor: https://opencollective.com/nv-access-limited
 tags:

@@ -3,6 +3,7 @@ Source: SNow
 title: LaTeX
 developerlink: https://www.latex-project.org
 licensingmodel: open source
+license: LPPL
 logo: /logo/320px-LaTeX_project_logo_bird.svg.png
 tags:
   - application

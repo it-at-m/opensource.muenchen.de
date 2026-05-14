@@ -3,6 +3,7 @@ Source: SNow
 title: pgAdmin
 developerlink: https://www.pgadmin.org
 licensingmodel: open source
+license: PostgreSQL
 logo: /logo/PgAdminLogo.jpg
 tags:
   - infrastruktur

@@ -3,6 +3,7 @@ Source: SNow
 title: Openshift
 developerlink: https://docs.openshift.com/
 licensingmodel: open source
+license: Apache-2.0
 logo: /logo/100px-OpenShift-LogoType.svg.png
 tags:
 - support
