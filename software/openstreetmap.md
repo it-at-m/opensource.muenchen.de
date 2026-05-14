@@ -2,6 +2,7 @@
 title: OpenStreetMap
 developerlink: https://openstreetmap.org
 licensingmodel: open source
+license: ODbL
 logo: /logo/240px-Openstreetmap_logo.svg.png
 tags:
   - kooperation

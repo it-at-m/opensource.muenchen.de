@@ -4,6 +4,7 @@ title: OwnCloud
 developer: ownCloud Community
 developerlink: https://owncloud.com/de/
 licensingmodel: open source
+license: APGL-3.0
 linkapplication: https://dap-safe.muenchen.de
 logo: /logo/320px-OwnCloud2-Logo.svg.png
 tags:

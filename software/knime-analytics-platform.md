@@ -3,6 +3,7 @@ Source: SNow
 title: KNIME Analytics Platform
 developerlink: https://www.knime.com
 licensingmodel: open source
+license: GPL-3.0
 logo: /logo/320px-KNIMELogoTM.svg.png
 tags:
   - infrastruktur

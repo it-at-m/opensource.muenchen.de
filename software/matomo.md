@@ -3,6 +3,7 @@ Source: SNow
 title: Matomo
 developerlink: https://matomo.org
 licensingmodel: open source
+license: GPL-3.0
 logo: /logo/320px-Matomo_Logo.svg.png
 tags:
   - infrastruktur

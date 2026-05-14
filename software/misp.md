@@ -2,6 +2,7 @@
 title: MISP
 developerlink: https://www.misp-project.org/
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/misp.png
 tags:
 - infrastruktur

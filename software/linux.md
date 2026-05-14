@@ -1,6 +1,7 @@
 ---
 title: Linux
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/100px-Tux.svg.png
 tags:
 - infrastruktur

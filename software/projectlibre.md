@@ -3,6 +3,7 @@ Source: SNow
 title: ProjectLibre
 developerlink: http://www.projectlibre.com
 licensingmodel: open source
+license: CPL
 logo: /logo/ProjectLibre_logo.png
 tags:
   - application

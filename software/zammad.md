@@ -2,6 +2,7 @@
 title: Zammad
 developerlink: https://zammad.org
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/320px-Logo-zammad.svg.png
 opencode: https://opencode.de/de/software/zammad-3166
 tags:

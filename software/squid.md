@@ -3,6 +3,7 @@ Source: SNow
 title: squid
 developerlink: http://www.squid-cache.org
 licensingmodel: open source
+license: GPL
 logo: /logo/Squid_Now.png
 tags:
   - infrastruktur

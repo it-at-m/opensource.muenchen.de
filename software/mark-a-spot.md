@@ -3,6 +3,7 @@ Source: SNow
 title: Mark-a-spot
 developerlink: https://markaspot.de/de/
 licensingmodel: open source
+license: GPL-2.0
 linkapplication: https://machmuenchenbesser.de/
 logo: /logo/markaspot_logo.png
 tags:
