@@ -5,7 +5,7 @@ developerlink: https://www.7-zip.de/
 licensingmodel: open source
 licence: LGPL
 logo: /logo/320px-7ziplogo.svg.png
-tags: LGPL
+tags:
   - application
   - desktop
 ---
