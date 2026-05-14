@@ -3,6 +3,7 @@ Source: SNow
 title: KeePass2
 developerlink: https://keepass.info
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/240px-KeePass_Logo.svg.png
 tags:
   - application

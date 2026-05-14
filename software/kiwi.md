@@ -3,6 +3,7 @@ title: Kiwi - Unicode Tastatur
 code: https://github.com/it-at-m/UnicodeEingabeKiwi2
 opencode: https://opencode.de/en/software/kiwi-9766
 licensingmodel: open source
+license: MIT
 linkapplication: https://kiwi.muenchen.de
 logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
 tags:

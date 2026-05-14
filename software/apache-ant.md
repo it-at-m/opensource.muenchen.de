@@ -3,6 +3,7 @@ Source: SNow
 title: Apache ant
 developerlink: https://ant.apache.org/
 licensingmodel: open source
+license: Apache-2.0
 logo: /logo/320px-Apache-Ant-logo.svg.png
 tags:
   - development

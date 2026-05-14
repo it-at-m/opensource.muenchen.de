@@ -3,7 +3,7 @@ title: Hazelcast
 developerlink: https://hazelcast.com/
 licensingmodel: open source
 code: https://github.com/hazelcast
-license: 
+license: Apache-2.0
 logo: /logo/hazelcast-logo.svg
 tags:
 - infrastruktur

@@ -3,6 +3,7 @@ Source: SNow
 title: FreeFileSync
 developerlink: https://freefilesync.org
 licensingmodel: open source
+license: GPL
 logo: /logo/FreeFileSync_Icon.png
 tags:
   - application

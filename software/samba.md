@@ -3,6 +3,7 @@ Source: SNow
 title: Samba
 developerlink: http://www.samba.org
 licensingmodel: open source
+license: GPL
 logo: /logo/Samba_Logo.png
 tags:
   - infrastruktur

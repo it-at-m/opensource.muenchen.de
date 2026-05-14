@@ -5,6 +5,7 @@ developer: Alfresco Software Limited
 developerlink: https://www.alfresco.com/de
 linkapplication: https://kooperation.muenchen.de
 licensingmodel: open source
+license: LGPL
 logo: /logo/300px-Alfresco-logo.svg.png
 tags:
   - application

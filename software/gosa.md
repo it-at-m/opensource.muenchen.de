@@ -3,6 +3,7 @@ Source: SNow
 title: GOSA
 code: https://github.com/gosa-project
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/Gosa-logo2.png
 tags:
   - infrastruktur

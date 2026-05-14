@@ -2,6 +2,7 @@
 title: Vue.js
 developerlink: https://vuejs.org
 licensingmodel: open source
+license: MIT
 logo: /logo/277px-Vue.js_Logo_2.svg.png
 sponsor: https://vuejs.org/sponsor/#gold
 tags:

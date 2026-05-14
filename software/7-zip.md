@@ -3,8 +3,9 @@ Source: SNow
 title: 7-Zip
 developerlink: https://www.7-zip.de/
 licensingmodel: open source
+licence: LGPL
 logo: /logo/320px-7ziplogo.svg.png
-tags:
+tags: LGPL
   - application
   - desktop
 ---

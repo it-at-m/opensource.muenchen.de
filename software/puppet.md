@@ -3,6 +3,7 @@ Source: SNow
 title: Puppet
 developerlink: https://puppet.com
 licensingmodel: open source
+license: Apache-2.0
 logo: /logo/320px-Puppet_transparent_logo.svg.png
 tags:
   - infrastruktur

@@ -3,6 +3,7 @@ title: SuiteCRM
 code: https://github.com/salesagility/SuiteCRM
 developerlink: https://suitecrm.com
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/suitecrm-logo.png
 tags:
   - application

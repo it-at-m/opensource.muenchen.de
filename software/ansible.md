@@ -2,7 +2,7 @@
 title: Ansible
 developerlink: http://www.ansible.com
 licensingmodel: open source
-license: Apache
+license: GPL-3.0
 logo: /logo/100px-Ansible_logo.svg.png
 tags:
   - infrastruktur

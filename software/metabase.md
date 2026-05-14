@@ -2,6 +2,7 @@
 title: Metabase
 developerlink: https://www.metabase.com/
 licensingmodel: CE/EE-Modell
+license: AGPL-3.0
 logo: /logo/metabase.svg
 code: https://github.com/metabase/metabase
 tags:
