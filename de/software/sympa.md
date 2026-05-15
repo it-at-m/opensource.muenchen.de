@@ -2,6 +2,7 @@
 title: Sympa
 developerlink: https://www.sympa.community/
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/Sympa_logo.png
 tags:
 - application

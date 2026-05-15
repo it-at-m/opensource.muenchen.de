@@ -4,6 +4,7 @@ title: OwnCloud
 developer: ownCloud Community
 developerlink: https://owncloud.com/de/
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/320px-OwnCloud2-Logo.svg.png
 tags:
   - application
@@ -22,3 +23,4 @@ Die Landeshauptstadt München nutzt ownCloud in unterschiedlichen Einsatzgebiete
 - Die **[Datenaustausplattform](https://dap-safe.muenchen.de)** (DAP) diente zum Austausch von größeren, vertraulichen Dateien mit externen Personen über das Internet.
   Die DAP ermöglicht durch die Zwei-Faktor-Authentifizierung auch Daten mit höherem Schutzbedarf austauschen zu können.
 - Die bei Kanalinspektionen erfassten TV-Untersuchungsdaten (Kanalvideos, Haltungsberichte) der Münchner Stadtentwässerung (MSE) werden mit OwnCloud verwaltet.
+

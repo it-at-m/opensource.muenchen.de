@@ -2,6 +2,7 @@
 title: GitLab
 developerlink: https://about.gitlab.com/
 licensingmodel: open source
+license: MIT
 logo: /logo/320px-GitLab_logo.svg.png
 tags:
 - infrastruktur
@@ -17,3 +18,4 @@ Wir nutzen GitLab als Plattform zur Versionsverwaltung, CI/CD und als Projektman
 Es verwaltet Software von noch nicht veröffentlichten Softwareprojekten und den CI/CD-Code von [Eigenentwicklung](../publish).
 Diese werden als [Helmchart inkl. Containerimage](../repositories#artefakte) in unsere Infrastruktur importiert und mit Gitlab ausgerollt.
 Auch wird mit Gitlab zahlreiche externe Software ausgerollt.
+

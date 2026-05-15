@@ -1,6 +1,7 @@
 ---
 title: Linux
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/100px-Tux.svg.png
 tags:
 - infrastruktur
@@ -16,3 +17,4 @@ Vor allem auf Servern und embedded Computing ist Linux inzwischen zum Standard g
 
 Als Distribution nutzen wir Red Hat Enterprise Linux (RHEL) und erhalten über Supportverträge Hilfe bei Fehlern oder Ausfällen.
 Die Stadt München nutzt auf 75% der Server Linux.
+

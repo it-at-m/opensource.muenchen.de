@@ -4,6 +4,7 @@ title: Zeitmanagementsystem
 developerlink: https://it-at-m.github.io/eappointment/
 code: https://github.com/it-at-m/eappointment/
 licensingmodel: open source
+license: EUPL
 linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
 tags:
   - eigenentwicklung
@@ -42,3 +43,4 @@ Die Anwendung bietet mehrere Komponenten.
 - [Oberfläche für Bürger\*innen auf muenchen.de](https://github.com/it-at-m/eappointment-buergeransicht) – Eigenentwicklung mit Vue.js
 - Source Code als PHP-Entwicklung ausgeführt
 - Maria DB mit Galera Cluster
+

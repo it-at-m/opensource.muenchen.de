@@ -4,6 +4,7 @@ title: Grafana
 developer: null
 developerlink: https://grafana.com/
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/Grafana_logo.png
 tags:
   - infrastruktur
@@ -13,3 +14,4 @@ tags:
 Grafana ist ein Tool zur Visualisierung von Performance Daten. Hier werden entsprechende Netapp Plugins verwendet, um Performancedaten der Netapp Storage Systeme darzustellen.
 
 ---
+

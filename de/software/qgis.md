@@ -4,6 +4,7 @@ title: QGIS
 developer: null
 developerlink: https://www.qgis.org
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/320px-QGIS_logo_2017.svg.png
 tags:
   - application
@@ -15,3 +16,4 @@ Quantum GIS (QGIS) ist ein geografisches Informationssystem (GIS) verwaltet, ana
 ---
 
 QGIS kommt in 10 Referaten mit 600 Mitarbeitern zum Einsatz, zusätzlich gibt es Sonderlösungen in der Branddirektion für die Leitstellenrechner.
+

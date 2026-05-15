@@ -2,6 +2,7 @@
 title: sudo
 developerlink: https://www.sudo.ws/
 licensingmodel: open source
+license: ISC
 logo: /logo/250px-Sudo_logo.png
 sponsor: https://opencollective.com/sudo-project
 tags:
@@ -19,3 +20,4 @@ Mitarbeitende können damit genaus definierte adminstrative notwendige Tätigkei
 
 Neben einem generellen Berechtigungskonzept für Middleware haben wir über 300 unterschiedliche Profile für Datenbanken, spezielle Rollen (z.B. Rufbereitschaft) oder Anforderungen einzelner Applikationen.
 Diese Berechtigungskonzepte werden mit [Puppet](puppet) verwaltet.
+

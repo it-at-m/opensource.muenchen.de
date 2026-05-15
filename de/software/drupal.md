@@ -13,3 +13,4 @@ tags:
 ---
 
 Drupal wird als Framework für [machmuenchenbesser](mark-a-spot) und auf der Seite [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de) genutzt.
+license: GPL

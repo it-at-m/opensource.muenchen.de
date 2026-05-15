@@ -4,6 +4,7 @@ title: ckan
 developer: null
 developerlink: https://ckan.org
 licensingmodel: open source
+license: AGPL
 linkapplication: https://opendata.muenchen.de
 logo: /logo/ckan_logo.svg
 tags:

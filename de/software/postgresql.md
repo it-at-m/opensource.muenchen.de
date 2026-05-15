@@ -3,6 +3,7 @@ title: PostgreSQL
 developerlink: https://www.postgresql.org/
 licensingmodel: open source
 license: Apache
+license: PostgreSQL
 logo: /logo/233px-Postgresql_elephant.svg.png
 sponsor: https://2026.pgconf.de/sponsors/#gold
 tags:
@@ -22,3 +23,4 @@ Mit PostgreSQL nutzen wir ein stabiles und etabliertes Datenbanksystem, das uns 
 Nur in technisch begründeten Ausnahmefällen können auch andere Datenbanksysteme eingesetzt werden.
 
 Zusammen mit dem ebenfalls freien [MariaDB](mariadb) nutzen derzeit etwa 40% unserer Datenbankinstanzen ein Open-Source-Datenbanksystem.
+

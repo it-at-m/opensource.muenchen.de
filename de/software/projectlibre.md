@@ -4,6 +4,7 @@ title: ProjectLibre
 developer: null
 developerlink: http://www.projectlibre.com/
 licensingmodel: open source
+license: CPL
 logo: /logo/ProjectLibre_logo.png
 tags:
   - application
@@ -13,3 +14,4 @@ tags:
 ProjectLibre ist eine open-source Software für Projektplanung und -steuerung.
 
 ---
+
