@@ -2,6 +2,7 @@
 title: Zammad
 developerlink: https://zammad.org
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/320px-Logo-zammad.svg.png
 opencode: https://opencode.de/de/software/zammad-3166
 tags:
@@ -28,3 +29,4 @@ Da sich Bürger\*innen sowohl am städtischen Formularserver, als auch am digita
 Die BayernID haben wir über unser [BayernId-plugin](./bayernid-plugin.html) integriert.
 
 Der von uns eigenentwickelte [zammad-ldap-sync](https://github.com/it-at-m/zammad-ldap-sync) ermöglicht eine strukturierte Darstellung von LDAP-Einträgen in Zammad.
+

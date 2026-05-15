@@ -2,6 +2,7 @@
 title: MISP
 developerlink: https://www.misp-project.org/
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/misp.png
 tags:
 - infrastruktur
@@ -16,3 +17,4 @@ In unserer Organisation wird diese Plattform genutzt, um Aktivitäten von Bedroh
 „MISP“ ermöglicht es uns, die geteilten Informationen innerhalb unserer Sicherheitsüberwachungsinfrastruktur zu korrelieren, um Sicherheitsvorfälle zu erkennen.
 Es bietet uns ein leistungsstarkes Werkzeug, um einfache IOC-Befunde durch wertvolle Anreicherung und Wissen über Bedrohungsakteure zu ergänzen.
 In Zukunft werden wir mithilfe dieser Plattform auch Informationen an das deutsche Cybersicherheitsnetzwerk weitergeben.
+

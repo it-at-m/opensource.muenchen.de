@@ -5,6 +5,7 @@ developer: LHM
 code: https://github.com/it-at-m/BayernID-Plugin
 logo: https://id.bayernportal.de/cms/assets/images/64/BayernID_Icon-rund.625c9ab7.svg
 licensingmodel: open source
+license: MIT
 opencode: https://opencode.de/de/software/bayern-id-plugin-fur-keycloak-rh-sso-27
 tags:
   - infrastruktur
@@ -32,3 +33,4 @@ Damit kann eine einfache Integration der Anmeldung per Bürgerkonto in die Facha
 Die Integration mit Fachverfahren erfolgt standardmäßig per SAML2-Protokoll. Da eine direkte Integration jedes Fachverfahrens-Servers aufgrund auszutauschender Zertifikate und Metadaten aufwändig ist, setzt die Landeshauptstadt München einen zwischengeschalteten Identity Provider (IDP) auf Basis der Software Keycloak (beziehungsweise deren größtenteils baugleiches kommerzielles Pendant RedHat Single Sign On (RH-SSO)) ein. Dies hat den Vorteil, dass die angeschlossenen Fachverfahren nur mit diesem IDP eine Vertrauensstellung aufbauen. Dafür stehen sowohl OpenID-Connect (OIDC) als auch SAML2 als Protokoll zur Verfügung.
 
 Das Plugin ist ebenfalls auf [Open CoDE](https://gitlab.opencode.de/landeshauptstadt-muenchen/bayernid-plugin) veröffentlicht, einer gemeinsamen Plattform der öffentlichen Verwaltung für den Austausch von Open Source Software.
+

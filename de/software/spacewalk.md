@@ -3,6 +3,7 @@ Source: SNow
 title: Spacewalk
 developerlink: https://fedorahosted.org/spacewalk/
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/spacewalk-logo.jpeg
 tags:
   - infrastruktur

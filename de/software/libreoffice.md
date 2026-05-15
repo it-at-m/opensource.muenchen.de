@@ -4,6 +4,7 @@ title: LibreOffice
 developer: null
 developerlink: https://de.libreoffice.org
 licensingmodel: open source
+license: MPL-2.0
 logo: /logo/320px-LibreOffice_Logo_Flat.svg.png
 tags:
   - application
@@ -25,3 +26,4 @@ wir konnten die TDF Qualitätssicherung mit nutzen und dafür sind unsere Commit
 
 Darüber hinaus haben wir das von der Landeshauptstadt München begründete Briefkopf- und Formularsystem [Wollmux](https://wollmux.org) an die TDF zur Weiterentwicklung übergeben.
 Diese wird dort unter dem Namen [LibreOffice Template System – LOTS](https://github.com/LibreOffice/lots/) weiter geführt.
+

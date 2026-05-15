@@ -3,6 +3,7 @@ Source: SNow
 title: Keepass2
 developerlink: https://keepass.info
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/240px-KeePass_Logo.svg.png
 tags:
   - application
@@ -18,3 +19,4 @@ Neben einer Zwei-Faktor-Authentifizierung für besonders schützenswerte Dienste
 Daher rollt die Landeshauptstadt München Keepass2 auf allen Arbeitsplatzrechner aus, um allen Mitarbeitenden eine sichere Passwortverwaltung zu ermöglichen.
 
 Vor allem in der Systemadministration nutzen wir Keepass zur unabhängigen Absicherung von zentralen Infrastrukturkomponenten, wie z.B. der Virtualisierung, ohne von Verzeichnisdiensten abhängig zu sein.
+

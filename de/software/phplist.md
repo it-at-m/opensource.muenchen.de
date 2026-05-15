@@ -3,6 +3,7 @@ Source: SNow
 title: phpList
 developerlink: https://www.phplist.com
 licensingmodel: open source
+license: AGPL-3.0
 logo: /logo/phplist-logo.svg
 tags:
   - application

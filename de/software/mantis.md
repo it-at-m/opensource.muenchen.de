@@ -3,6 +3,7 @@ Source: SNow
 title: Mantis
 developerlink: http://www.mantisbt.org
 licensingmodel: open source
+license: GPL
 logo: /logo/mantis_logo_262x90.png
 tags:
   - development
@@ -16,3 +17,4 @@ Bei der Landeshauptstadt München werden 1150 Projekte und Unterprojekte mit der
 2023 wurden über 10.000 Einträge angelegt bzw. aktualisiert.
 Diese Arbeit wurde in diesem Zeitraum von 1500 Benutzern erledigt.
 Insgesamt sind über 4000 Benutzer registriert.
+

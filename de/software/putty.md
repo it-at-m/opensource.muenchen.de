@@ -4,6 +4,7 @@ title: Putty
 developer: null
 developerlink: http://www.chiark.greenend.org.uk/~sgtatham/putty/
 licensingmodel: open source
+license: MIT
 logo: /logo/PuTTY_icon_128px.png
 tags:
   - application
@@ -15,3 +16,4 @@ PuTTY ist eine freie Software zum Herstellen von Verbindungen über Secure Shell
 ---
 
 Dabei dient PuTTY als Client und stellt die Verbindung zu einem Server her.
+

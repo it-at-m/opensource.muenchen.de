@@ -2,6 +2,7 @@
 title: Java
 developerlink: https://www.java.com
 licensingmodel: open source
+license: GPLv2+CPE
 logo: /logo/253px-Java-Logo.svg.png
 tags:
 - development

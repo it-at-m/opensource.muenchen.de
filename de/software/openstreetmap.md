@@ -2,6 +2,7 @@
 title: OpenStreetMap
 developerlink: https://openstreetmap.org
 licensingmodel: open source
+license: ODbL
 logo: /logo/240px-Openstreetmap_logo.svg.png
 tags:
   - kooperation
@@ -17,3 +18,4 @@ Aber auch andere Anwendungen wie der [Kitafinder](https://kitafinder.muenchen.de
 Die LHM stellt amtlichen Luftbilder mit einer hochwertigen Auflösung von 20 cm für die Erstellung von Karten [zur verfügung](https://github.com/osmlab/editor-layer-index/blob/gh-pages/sources/europe/de/AktuelleLuftbilderDerLandeshauptstadtMuenchen20cm.geojson?short_path=cdc4d8a).
 Auch ermutigen wir alle Mitarbeiter\*innen relevante städtische Daten zu Openstreetmap beizutragen.
 So kümmert sich der [Account Münchner Stadtbibliothek](https://www.openstreetmap.org/user/M%C3%BCnchner%20Stadtbibliothek) eigenständig darum, dass alle Stadtteilfilialen und deren Öffnungszeiten korrekt dargestellt werden.
+

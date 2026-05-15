@@ -3,6 +3,7 @@ Source: SNow
 title: Mark-a-spot
 developerlink: https://markaspot.de/de/
 licensingmodel: open source
+license: GPL-2.0
 linkapplication: https://machmuenchenbesser.de/
 logo: /logo/markaspot_logo.png
 tags:
@@ -19,3 +20,4 @@ Anliegenmanagement ist eine transparente, online verfügbare Kommunikationsschni
 Um Bürger\*innen eine einfache, digitale Möglichkeit anzubieten, Meldung an die Stadtverwaltung zu senden wie etwas defekte Beleuchtungen oder um Sammelbehälter verteilter Müll, wurde im Jahr 2021 eine neue Plattform „machmuenchenbesser.de“ in Betrieb genommen . Sie basiert auf der Open Source Plattform Mark-a-Spot und mit ihr wurden seit September 2021 bereits mehr als 1000 Anliegen bearbeitet.
 
 Mark-a-Spot ist eine Erweiterung für das freie Framework [Drupal](drupal).
+

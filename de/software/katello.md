@@ -4,6 +4,7 @@ title: Katello
 developer: null
 developerlink: https://theforeman.org/
 licensingmodel: open source
+license: GPL-3.0
 linkapplication: null
 logo: /logo/foremanhelmet.svg
 tags:
@@ -15,3 +16,4 @@ Katello ist ein Softwarestack aus verschiedenen Komponenten, die ineinander inte
 ---
 
 Zusammen mit dem freien [Puppet](/software/puppet) bildet Katello unser zentrales Systemmanagement.
+

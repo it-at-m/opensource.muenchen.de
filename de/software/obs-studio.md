@@ -4,6 +4,7 @@ title: OBS Studio
 developer: null
 developerlink: https://obsproject.com
 licensingmodel: open source
+license: GPL-2.0
 logo: /logo/240px-Open_Broadcaster_Software_Logo.png
 tags:
   - application
@@ -15,3 +16,4 @@ Die Open Broadcaster Software unterstützt den Nutzer bei der Übertragung von B
 ---
 
 Die übertragenen Inhalte können mittels verschiedener Szenen und Fenster vor der Übertragung angepasst und ergänzt werden.
+

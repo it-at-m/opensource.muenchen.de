@@ -4,6 +4,7 @@ title: pgAdmin
 developer: null
 developerlink: https://www.pgadmin.org/
 licensingmodel: open source
+license: PostgreSQL
 logo: /logo/PgAdminLogo.jpg
 tags:
   - infrastruktur
@@ -12,3 +13,4 @@ tags:
 pgAdmin ist eine serverbasierte Webanwendung zur Administration von Postgres Datenbanken.
 
 ---
+

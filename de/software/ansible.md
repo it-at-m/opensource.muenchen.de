@@ -2,7 +2,7 @@
 title: Ansible
 developerlink: http://www.ansible.com
 licensingmodel: open source
-license: Apache
+license: GPL-3.0
 logo: /logo/100px-Ansible_logo.svg.png
 tags:
   - infrastruktur
@@ -18,3 +18,4 @@ Wir nutzen Ansible für zahlreiche _Infrastructure as code_ Automatisierungen, s
 
 Zusätzlich betreiben wir einen [AWX](https://github.com/ansible/awx), der sämtliche Standardaufgaben in unseren Rechenzentren mit Ansible playbooks automatisiert ausrollt. Das umfasst die Bereitstellung virtueller Server, Datenbanken, Storage, Domains oder die Vergabe temporärer Userrechte.  
 Diese Automatiserung wird auch von unserem zentralen Service Desk zur Ausführung von IT Aufgaben genutzt.
+

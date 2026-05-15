@@ -3,6 +3,7 @@ Source: SNow
 title: 7-Zip
 developerlink: https://www.7-zip.de/
 licensingmodel: open source
+licence: LGPL
 logo: /logo/320px-7ziplogo.svg.png
 tags:
   - application
@@ -12,3 +13,4 @@ tags:
 7-Zip ist ein Datenkompressionsprogramm mit einer hohen Kompressionsrate.
 
 ---
+

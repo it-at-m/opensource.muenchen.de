@@ -2,6 +2,7 @@
 title: MDAS
 code: https://github.com/orgs/it-at-m/repositories?q=mobidam
 licensingmodel: open source
+license: MIT
 developerlink: https://it-at-m.github.io/mobidam-sst-management/
 logo: https://raw.githubusercontent.com/it-at-m/mobidam-sst-management/sprint/images/logo.png
 tags:
@@ -20,3 +21,4 @@ Es werden die unterschiedlichsten Daten aus verschiedenen internen oder externen
 
 Initiiert wurde das Projekt durch den Stadtratsbeschluss [Zentrale Datenplattform für Mobilitätsdaten
 MDAS – Monitoring und Data Analytics System](https://www.muenchen-transparent.de/antraege/7983679)
+

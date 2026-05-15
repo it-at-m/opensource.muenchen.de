@@ -4,6 +4,7 @@ title: Freemind
 developer: null
 developerlink: https://freemind.sourceforge.net/
 licensingmodel: open source
+license: GPL
 linkapplication: null
 logo: /logo/Free_Mind.png
 tags:
@@ -14,3 +15,4 @@ tags:
 Freemind ist ein Werkzeug zum Zeichnen von Mind Maps.
 
 ---
+

@@ -2,6 +2,7 @@
 title: JDK
 developerlink: https://openjdk.org
 licensingmodel: open source
+license: GPLv2+CPE
 logo: /logo/320px-OpenJDK_logo.svg.png
 tags:
 - development
@@ -18,3 +19,4 @@ Bei der LHM werden ausschließlich OpenJDK Distributionen eingesetzt - in der je
 
 LHM Standard ist [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download).
 Zusätzlich stehen mit Adoptium OpenJDK sowie OpenWebStart Alternativen zur Verfügung, die zu Java funktional gleichwertige Lösungen darstellen.
+

@@ -3,6 +3,7 @@ title: Kiwi - Unicode Tastatur
 code: https://github.com/it-at-m/UnicodeEingabeKiwi2
 opencode: https://opencode.de/de/software/kiwi-9766
 licensingmodel: open source
+license: MIT
 linkapplication: https://kiwi.muenchen.de
 logo: https://kiwi.muenchen.de/images/Kiwi-Bird-Logo.svg
 tags:
@@ -36,3 +37,4 @@ In Deutschland wurde zunächst im Personenstandswesen (zum Beispiel in den Stand
 Kiwi wurde in Form einer Webanwendung realisiert, die bei der Stadt München auf einem eigenen Server betrieben wird. Die Mitarbeiter\*innen rufen diese Anwendung einfach über den Browser auf. Es funktioniert auf allen gängigen Betriebssystemen. Eine Installation entfällt für den Endanwender komplett. So ist die Anwendung zur Zeicheneingabe sofort auf tausenden städtischen PCs verfügbar – unabhängig vom jeweiligen Betriebssystem.
 
 Die Übertragung in die jeweilige Fachanwendung erfolgt mittels Copy-Paste. Technisch ist Kiwi komplett als moderne JavaScript-Oberfläche realisiert. Einmal im Browser aufgerufen, funktioniert sie auch komplett ohne Internetanbindung.
+
