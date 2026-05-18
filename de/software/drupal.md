@@ -3,6 +3,7 @@ Source: SNow
 title: Drupal
 developerlink: https://www.drupal.org
 licensingmodel: open source
+license: GPL
 logo: /logo/320px-Drupal-wordmark.svg.png
 tags:
   - application
@@ -13,4 +14,3 @@ tags:
 ---
 
 Drupal wird als Framework für [machmuenchenbesser](mark-a-spot) und auf der Seite [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de) genutzt.
-license: GPL
