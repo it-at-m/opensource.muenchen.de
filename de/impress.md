@@ -4,7 +4,7 @@ Landeshauptstadt München
 Post: Marienplatz 8, 80313 München  
 E-Mail: <rathaus@muenchen.de>
 
-Oberbürgermeister Dieter Reiter  
+Oberbürgermeister Dominik Krause  
 E-Mail: <buero.ob@muenchen.de>
 
 Körperschaft des öffentlichen Rechts  
