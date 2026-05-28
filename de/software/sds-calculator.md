@@ -21,6 +21,7 @@ Das Repository **sds-calculator** ist eine kleine, statische Webanwendung zur Be
 
 Ziel ist es, den Grad digitaler Souveränität auf einfache Weise in einem leichten und benutzerfreundlichen Format zu bewerten.
 
+![Screenshot des SDS-Calculator](/inhouse/SDS-Screenshot.png)
 
 ## Technische Details
 
