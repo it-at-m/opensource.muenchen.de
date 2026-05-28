@@ -24,7 +24,7 @@ Ziel ist es, den Grad digitaler Souveränität auf einfache Weise in einem leich
 <iframe
 src="https://it-at-m.github.io/sds-calculator/"
 width="100%"
-height="900"
+height="750"
 style="border:1px solid #ddd; border-radius:8px;"
 loading="lazy"
 ></iframe>

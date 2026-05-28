@@ -24,7 +24,7 @@ Its purpose is to provide a simple way to assess the degree of digital sovereign
   <iframe
     src="https://it-at-m.github.io/sds-calculator/"
     width="100%"
-    height="900"
+    height="750"
     style="border:1px solid #ddd; border-radius:8px;"
     loading="lazy"
   ></iframe>
