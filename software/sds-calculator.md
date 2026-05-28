@@ -8,6 +8,7 @@ license: MIT
 tags:
 - application
 - eigenentwicklung
+- staticsite
 ---
 
 The SDS-Calculator is a small, static HTML/CSS/JS application that calculates the Digital Sovereignty Score (SDS) based on a short checklist.

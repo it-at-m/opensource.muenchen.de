@@ -10,6 +10,7 @@ tags:
   - application
   - eigenentwicklung
   - k8s
+  - staticsite
 sortingPriority: 3
 ---
 

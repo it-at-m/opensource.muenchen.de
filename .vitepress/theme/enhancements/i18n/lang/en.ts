@@ -18,6 +18,7 @@ export const enMessages: localizedMessagesType = {
     opencore: "Open Core",
     saas: "SaaS",
     sponsor: "Sponsor",
+    staticsite: "Staticsite",
     security: "Security",
     start2020: "Start 2020",
     start2021: "Start 2021",
