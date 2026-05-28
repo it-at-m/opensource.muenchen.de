@@ -20,15 +20,6 @@ The sds-calculator repository is a small, static web application for calculating
 
 Its purpose is to provide a simple way to assess the degree of digital sovereignty in a lightweight and easy-to-use format.
 
-<div style="width:100%; max-width:1200px; margin:0 auto;">
-  <iframe
-    src="https://it-at-m.github.io/sds-calculator/"
-    width="100%"
-    height="900"
-    style="border:1px solid #ddd; border-radius:8px;"
-    loading="lazy"
-  ></iframe>
-</div>
 
 ## Technical details
 The application is implemented as a static HTML/CSS/JavaScript project, so it does not rely on a separate backend or complex runtime infrastructure.
