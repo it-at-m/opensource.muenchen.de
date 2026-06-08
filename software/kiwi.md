@@ -10,6 +10,7 @@ tags:
   - application
   - eigenentwicklung
   - k8s
+  - staticsite
 ---
 
 **Kiwi** makes all characters from the character set "Latin characters in UNICODE" easy to find and use.

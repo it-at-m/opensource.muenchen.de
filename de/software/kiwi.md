@@ -10,6 +10,7 @@ tags:
   - application
   - eigenentwicklung
   - k8s
+  - staticsite
 ---
 
 **Kiwi** macht alle Zeichen aus dem Zeichensatz „Lateinische Zeichen in UNICODE" leicht auffindbar und nutzbar.
