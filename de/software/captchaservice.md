@@ -12,7 +12,7 @@ tags:
   - application
   - start2024
   - k8s
-sortingPriority: 2
+sortingPriority: 3
 ---
 
 CaptchaService ist ein selbst gehosteter Microservice, der DSGVO-konforme Proof-of-Work-CAPTCHA-Challenges auf Basis der europäischen Open-Source-Bibliothek [ALTCHA](https://altcha.org/) bereitstellt — die Bot-Schutzschicht vor den öffentlichen [Zeitmanagementsystem](zeitmanagementsystem)- und [eAppointment](https://it-at-m.github.io/eappointment/)-APIs der Landeshauptstadt München.

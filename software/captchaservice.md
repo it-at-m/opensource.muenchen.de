@@ -12,7 +12,7 @@ tags:
   - application
   - start2024
   - k8s
-sortingPriority: 2
+sortingPriority: 3
 ---
 
 CaptchaService is a self-hosted microservice that provides GDPR-compliant, proof-of-work CAPTCHA challenges using the European open-source [ALTCHA](https://altcha.org/) library — the bot-protection layer in front of the City of Munich's public [Zeitmanagementsystem](zeitmanagementsystem) / [eAppointment](https://it-at-m.github.io/eappointment/) APIs.
