@@ -28,6 +28,7 @@ The data collected helps to analyze traffic development and is used, for example
 
 ![Screenshot of a website with a map of Munich showing the current counting points](/inhouse/DAVE_Karte.png)
 ![Screenshot of a website with the plan of a street intersection, with stylized lanes in different colors](/inhouse/DAVE-Standardansicht-Knoten-Strom-Belastungsplan.png)
+![Screenshot of a website with the plan of a street intersection, with 5 stylized lanes in different colors](/inhouse/DAVE-Standardansicht-Knoten-Strom-Belastungsplan_5_Arme.png)
 ![Screenshot of a website with hydrographs](/inhouse/DAVE_Ganglinie.png)
 ![Screenshot of a website with list output](/inhouse/DAVE_Listenausgabe.png)
 
