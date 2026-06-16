@@ -3,6 +3,7 @@ Source: SNow
 title: Zeitmanagementsystem
 developerlink: https://it-at-m.github.io/eappointment/
 code: https://github.com/it-at-m/eappointment/
+logo: /inhouse/zms_logo.png
 licensingmodel: open source
 license: EUPL
 linkapplication: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html
