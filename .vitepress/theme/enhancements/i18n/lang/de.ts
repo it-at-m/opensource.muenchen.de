@@ -3,6 +3,7 @@ import { localizedMessagesType } from "../utility/types";
 export const deMessages: localizedMessagesType = {
   tags: {
     ai: "KI",
+    android: "Android",
     application: "Anwendung",
     archive: "Archiv",
     contribute: "Contribute",
