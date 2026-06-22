@@ -11,37 +11,51 @@ tags:
 - eigenentwicklung
 - start2024
 - ai
-- saas
 sortingPriority: 2
 ---
-__MUCGPT__ is a web interface based on a large language model (LLM) that allows users to chat, summarise text and brainstorm.
+
+__MUCGPT__ is an assistant-first AI toolkit. It enables secure chat, text based task automation, and lets users create and share reusable assistants for recurring workflows.
 
 ---
 
-## About the project
+MUCGPT focuses on assistants: reusable, workflow-specific chat configurations with their own instructions, behavior, optional tools and sharing scope. Chat is where work happens; assistants provide structure so recurring tasks become faster and more reliable. MUCGPT connects to OpenAI-compatible LLM endpoints and keeps chat history locally in the browser.
 
-MUCGPT is an innovative project that harnesses the power of language models to provide users with an intuitive and feature-rich web interface that can help them with a variety of tasks, from generating chat responses to summarising text and creating mind maps. The interface currently connects to one or more OpenAI-compliant LLM endpoints. With MUCGPT, users can easily generate high-quality text, organise their ideas and improve their productivity, all in one convenient platform.
+### Start Page
+![Start Page](/inhouse/mucgpt_startpage.png)
+A focused entry point to discover assistants, jump back into recent work and access tutorials.
 
-### Chat-Feature:
-![Screenshot of a the chat function of MUCGPT](/inhouse/mucgpt_chat.png)  
-The chat function of MUCGPT enables users to have text-based conversations with the LLM, which can provide information on a wide range of topics, thanks to its advanced language model. MUCGPT offers a variety of features, including natural language processing, multi-turn conversations, personalization, sentiment analysis, knowledge retrieval, and task completion, which enable it to generate responses that closely resemble human-like interaction. With MUCGPT, users can customize the system prompt and adjust the response temperature to control the level of randomness or creativity in the generated output.
+### Chat
+![Chat](/inhouse/mucgpt_chatscreen.png)  
+Work with the LLM on almost any topic. Configure a system instruction to guide responses and adjust temperature to balance factual vs. creative output. Multi-turn conversations are supported; history is stored locally in the browser and can be revisited.
 
-### Summarize-Feature:
-![Screenshot of a the summarize function of MUCGPT](/inhouse/mucgpt_summarize.png)  
-MUCGPT's Summarize function enables users to create summaries of long texts or documents by extracting the most relevant information. The level of detail of the generated summary can be adjusted by the user, with three levels of detail available: short, medium, and long.
+### Create Assistants
+![Assistant Creator](/inhouse/mucgpt_assistant_creator.png)
+Design reusable assistants that encode recurring instructions, tone, constraints and model settings. Optionally add starter prompts, follow-up actions and tools. Private assistants remain yours; you decide when to share.
 
-### Brainstorming-Feature:
-![Screenshot of a the brainstorming function of MUCGPT](/inhouse/mucgpt_brainstorming.png)  
-With MUCGPT's Brainstorming function, users can generate mind maps to aid them in exploring ideas related to a particular topic. The resulting mind maps can be downloaded and edited further using [Freeplane](freeplane).      
+### Share Assistants
+![Share Assistants](/inhouse/mucgpt_share_assistants.png)
+Publish assistants to selected teams or broader audiences. Ownership, scope and configuration are transparent so colleagues understand what an assistant does before relying on it.
+
+### Additional Features
+
+- Extensible tools: examples include summarization, brainstorming and easy language; the platform is designed to grow with organizational needs.
+- Model selection: choose from available models and adjust creativity to fit the task; model choices are transparent.
+- Tutorials: guided examples and tips help users get value quickly.
+- Dark mode and i18n: accessible UI with dark mode and internationalization.
+- Output formats: correctly renders Markdown, plain HTML, Mermaid in Markdown code blocks, and LaTeX formulas (`$$ ... $$`).
 
 
 ## Technical details
 
-The architecture of MUCGPT is divided into two parts, the frontend and the backend. MUCGPT can be deployed as an docker container together with an [PostgreSQL](postgresql) database.
+MUCGPT follows a lean microservices architecture and can be deployed as containers together with a [PostgreSQL](postgresql) database.
 
-The frontend is based on a [template from Microsoft Azure](https://github.com/Azure-Samples/azure-search-openai-demo) and is implemented using React, [Typescript](typescript) and [Javascript](javascript).
-
-The framework used to implement the backend of MUCGPT is called [FastAPI](fastapi) and is written in [python](python). The backend uses [LangChain](langchain) to connect to various LLM providers.
+- Frontend: React-based UI (from a Microsoft Azure template), implemented with [Typescript](typescript) and [Javascript](javascript).
+- Core service: [FastAPI](fastapi) in [Python](python) for LLM orchestration and tools, using LangGraph to manage agent workflows.
+- Assistant service: [FastAPI](fastapi) in [Python](python) with [PostgreSQL](postgresql) for assistant configuration and sharing.
+- API Gateway and SSO: entry point with authentication (e.g. [Keycloak](keycloak)). Optional observability with [Langfuse](langfuse); optional document parsing via Kreuzberg.
 
 ---
-__This site text was generated using MUCGPT.__
+
+More information: https://ki.muenchen.de/ki-systeme/mucgpt
+
+---
