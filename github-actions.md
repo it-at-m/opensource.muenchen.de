@@ -16,7 +16,7 @@ The most important are (all of them you will find under [GitHub Actions Security
 1. [Use an intermediate environment variable](https://docs.github.com/en/actions/reference/security/secure-use#use-an-intermediate-environment-variable)
 1. [Pin actions to a full-length commit SHA](https://docs.github.com/en/actions/reference/security/secure-use#using-third-party-actions)
 1. [Restricting permissions for tokens](https://docs.github.com/en/actions/reference/security/secure-use#restricting-permissions-for-tokens)
-1. [Using workflow templates for code scanning](https://docs.github.com/en/actions/reference/security/secure-use#using-workflow-templates-for-code-scanning): we offer already an action to use CodeQL - [Action ](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) und einen [Workflow ](https://github.com/it-at-m/refarch-templates/blob/main/.github/workflows/codeql.yml). Just use it!
+1. [Using workflow templates for code scanning](https://docs.github.com/en/actions/reference/security/secure-use#using-workflow-templates-for-code-scanning): we offer already an action to use CodeQL - [Action ](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) and a [Workflow ](https://github.com/it-at-m/refarch-templates/blob/main/.github/workflows/codeql.yml). Just use it!
 
 
 
