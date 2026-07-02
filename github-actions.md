@@ -18,7 +18,10 @@ The most important are (all of them you will find under [GitHub Actions Security
 1. **[Restricting permissions for tokens](https://docs.github.com/en/actions/reference/security/secure-use#restricting-permissions-for-tokens)**
 1. **[Using workflow templates for code scanning](https://docs.github.com/en/actions/reference/security/secure-use#using-workflow-templates-for-code-scanning)**: we offer already an action to use CodeQL - [Action ](https://github.com/it-at-m/lhm_actions/blob/main/action-templates/actions/action-codeql/action.yml) und einen [Workflow ](https://github.com/it-at-m/refarch-templates/blob/main/.github/workflows/codeql.yml). Just use it!
 
-Check also best practices under :
-* GitHub Actions Security: https://docs.github.com/en/actions/reference/security/secure-use
-* Salesforce article: https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5/
-* GitLab article to Supply Chain Attacken: https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/
+
+
+## Further Reading
+
+* GitHub [Secure use reference](https://docs.github.com/en/actions/reference/security/secure-use)
+* Salesforce [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5/)
+* GitLab about Supply Chain Attacken [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/)
