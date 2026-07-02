@@ -11,7 +11,7 @@ We want to give citizens, developers from other authorities, citizen developers,
 GitHub is the best-known public code repository for free software.
 Users from the FOSS community search, share and discuss free code mainly on GitHub.
 We follow the community and also use [GitHub for Public Code of the City of Munich](https://github.com/it-at-m/).
-By managing code on GitHub, we offer low-threshold participation for everyone.  
+Through code management and [CI/CD](github-actions) on GitHub, we offer low-barrier participation for everyone.  
 GitHub does not hold any restrictive rights to the code managed there; each project can determine its own license.
 This leads to low vendor dependency, which is also easy to escape:
 We are only tied to Git as free software for distributed code management.
