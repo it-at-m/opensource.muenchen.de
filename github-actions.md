@@ -3,7 +3,7 @@
 The [LHM GitHub Actions documentation we offer](https://it-at-m.github.io/lhm_actions/actions) in [lhm_actions](https://github.com/it-at-m/lhm_actions/) are mainly used by workflows of [LHM Reference Architecture Templates](https://github.com/it-at-m/refarch-templates/) and therefore in most of our project repositories.
 
 These actions can also be used in projects that are not based on the reference architecture templates.
-Although it might be neccessary that you have to implement your own action or workflow.
+Although it might be necessary that you have to implement your own action or workflow.
 In this case please take care about security vulnerabilities and that you adhere to [Security practices for writing workflows and using GitHub Actions features](https://docs.github.com/en/actions/reference/security/secure-use), especially:
 
 1. [Use an intermediate environment variable](https://docs.github.com/en/actions/reference/security/secure-use#use-an-intermediate-environment-variable)
