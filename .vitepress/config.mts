@@ -51,7 +51,7 @@ export default defineConfig({
               { text: "Eigenentwicklung", link: "/de/in-house-development" },
               { text: "Nutzbarkeitsanalyse", link: "/de/usability-analysis" },
               { text: "Repositories", link: "/de/repositories" },
-              { text: "Github Actions", link: "/de/github-actions" },
+              { text: "GitHub Actions", link: "/de/github-actions" },
               { text: "FOSSaaS", link: "/de/fossaas" },
               { text: "OSPO", link: "/de/ospo" },
             ],
