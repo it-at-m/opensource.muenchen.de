@@ -16,5 +16,5 @@ we offer already an [action](https://github.com/it-at-m/lhm_actions/blob/main/ac
 ## Further Reading
 
 * GitHub [Secure use reference](https://docs.github.com/en/actions/reference/security/secure-use)
-* Salesforce [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5/)
-* GitLab about Supply Chain Attacken [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/)
+* Salesforce [GitHub Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5/)
+* GitLab about Supply Chain Attacks [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/)
