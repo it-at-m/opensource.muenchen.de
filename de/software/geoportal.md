@@ -45,6 +45,6 @@ Die meisten Komponenten basieren auf freier Software und werden selber als freie
 
 Wir tragen auch zum  Masterportal bei:
 
-* indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/maintainer-group.html) sind und 10.000 €/pro Jahr (netto) in den [Entwicklungsfond](https://www.masterportal.org/entwicklungsfonds.html) einzahlen.
+* indem wir ein aktives Mitglied in der [Implementierungspartnerschaft](https://www.masterportal.org/partnerschaft/ueber-uns) sind und 10.000 €/pro Jahr (netto) in den [Entwicklungsfond](https://www.masterportal.org/partnerschaft/entwicklungsfonds) einzahlen.
 * wir entwicklen das [GDI Geoportal Gateway](https://github.com/it-at-m/geoportal-gateway), ein Gateway um einzelne Fachportale des Masterportals zu veröffentlichen.
 

@@ -45,5 +45,5 @@ Most of the components are based on free software and are themselves provided as
 
 We also contribute to the master portal:
 
-* by being an active member of the [Implementation Partnership](https://www.masterportal.org/maintainer-group.html) and contributing €10,000/year (net) to the [Development Fund](https://www.masterportal.org/entwicklungsfonds.html).
+* by being an active member of the [Implementation Partnership](https://www.masterportal.org/partnerschaft/ueber-uns) and contributing €10,000/year (net) to the [Development Fund](https://www.masterportal.org/partnerschaft/entwicklungsfonds).
 * we are developing the [GDI Geoportal Gateway](https://github.com/it-at-m/geoportal-gateway), a gateway to publish individual specialized portals of the master portal.
