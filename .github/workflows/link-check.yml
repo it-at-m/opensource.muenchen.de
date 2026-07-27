@@ -15,6 +15,8 @@ jobs:
       with:
         website_url: 'https://opensource.muenchen.de'
         verbose: 'true'
-        max_retry_time: 30
-        max_retries: 5
+        max_retry_time: 10
+        max_retries: 2
         max_depth: 10
+        connect_limit_per_host: 5
+        exclude_url_prefix: 'https://www.npmjs.com/search?q=%40muenchen,https://unsplash.com/de/,https://www.bsi.bund.de'
