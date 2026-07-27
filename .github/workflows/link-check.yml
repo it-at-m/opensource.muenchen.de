@@ -4,6 +4,7 @@ on:
   schedule:
     - cron:  '0 4 * * 0' # at 04:00 on sunday
 
+permissions: {}
 jobs:
   link-check:
     runs-on: ubuntu-latest
