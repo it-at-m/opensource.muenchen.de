@@ -11,7 +11,7 @@ Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 - Öffentlich zugänglicher Code lässt sich hinsichtlich [IT-Sicherheit](security) leicht überprüfen und  Sicherheitslücken auch ohne den Hersteller schließen.
 - Die **Transparenz** über die Software und ihre Entwicklung schafft Vertrauen in der Bevölkerung gegenüber der Verwaltung.
 - Engagierte Bürger\*innen können sich an **Projekten beteiligen** und somit innovative Ideen einbringen und das erforderliche städtische Budget reduzieren.
-- Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem [Personalmarketing für IT-Schaffende](https://karriere.muenchen.de/search/?optionsFacetsDD_customfield3=Informationstechnologie+%28IT%29+%26+Telekommunikation).
+- Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem [Personalmarketing für IT-Schaffende](https://karriere-muenchen.jobs.hr.cloud.sap/search/?q=&searchResultView=LIST&markerViewed=&carouselIndex=&facetFilters=%7B%22cust_BerufGr%22%3A%5B%22Informationstechnologie+%28IT%29+%26+Telekommunikation%22%5D%7D&pageNumber=0).
 
 ## Rechtliche und politische Vorgaben
 
