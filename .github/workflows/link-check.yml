@@ -19,4 +19,4 @@ jobs:
         max_retries: 2
         max_depth: 10
         connect_limit_per_host: 5
-        exclude_url_prefix: 'https://www.npmjs.com/search?q=%40muenchen,https://unsplash.com/de/,https://www.bsi.bund.de'
+        exclude_url_prefix: 'https://www.npmjs.com/search?q=%40muenchen,https://unsplash.com/de/,https://www.bsi.bund.de,https://www.bfdi.bund.de,https://www.gesetze-im-internet.de'
