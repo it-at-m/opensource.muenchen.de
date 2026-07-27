@@ -1,0 +1,20 @@
+name: Check for broken links
+on: 
+  workflow_dispatch:
+  push: # for testing
+  schedule:
+    - cron:  '0 4 * * 0' # at 04:00 on sunday
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    name: Check for broken links
+    steps:
+
+    - name: Check for broken links
+      uses: ScholliYT/Broken-Links-Crawler-Action@v3
+      with:
+        website_url: 'https://opensource.muenchen.de'
+        verbose: 'true'
+        max_retry_time: 30
+        max_retries: 5
+        max_depth: 1
