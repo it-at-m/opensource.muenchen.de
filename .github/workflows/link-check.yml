@@ -1,9 +1,9 @@
 name: Check for broken links
 on: 
   workflow_dispatch:
-  push: # for testing
   schedule:
     - cron:  '0 4 * * 0' # at 04:00 on sunday
+
 jobs:
   link-check:
     runs-on: ubuntu-latest
