@@ -14,7 +14,7 @@ jobs:
       uses: ScholliYT/Broken-Links-Crawler-Action@21eab52f98097989d343116dbbd46dc4541b849b # v3.3.2
       with:
         website_url: 'https://opensource.muenchen.de'
-        verbose: 'false'
+        verbose: 'warn'
         max_retry_time: 10
         max_retries: 2
         max_depth: 10
