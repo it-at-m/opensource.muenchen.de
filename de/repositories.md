@@ -87,7 +87,7 @@ Multirepos eignen sich vor allem für eigenständige Services und insbesondere f
 
 Der Größe eines Monorepos sind praktisch keine Grenzen gesetzt:
 
-> Google, for example, is theorized to have the largest code repository ever, which has tens of hundreds of commits per day and is over 80 TBs large
+> Google, for example, is theorized to have the largest code repository ever, which has thousands of commits per day and is over 80 TBs large.
 > (aus [semaphoreci.com - What is a monorepo?](https://semaphoreci.com/blog/what-is-monorepo))
 
 Ein Monorepo bei der LHM wäre beispielsweise dann gegeben, wenn [Refarch](https://github.com/it-at-m/refarch), alle Refarch-Projekte, das [BayernID-Plugin](https://github.com/it-at-m/BayernID-Plugin) als unabhängiger, aber genutzter SSO-Dienst und weitere Projekte gemeinsam in einem einzigen Repository verwaltet würden.
