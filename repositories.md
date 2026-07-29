@@ -71,7 +71,7 @@ Arguments in favor of multirepos:
 * A monorepo makes external collaboration more complex, since you always have to fork the entire project.
 * A project consisting of different services using __different technologies__ would lead to code mixing in a monorepo and, in some cases, to merge conflicts that are difficult to resolve for people without knowledge of technology A or B.
 * Pipelines are less complicated than in monorepos.
-* __Less data__ than in mono-repos: Cloning and tracking changes (e.g., with `git blame`) is faster.
+* __Less data__ than in monorepos: Cloning and tracking changes (e.g., with `git blame`) is faster.
 * Bugs in the __main branch__ affect only one microservice, not the entire product or service.
 
 Multi-repos are particularly well-suited for standalone services and, in particular, for libraries intended for use in other projects.
