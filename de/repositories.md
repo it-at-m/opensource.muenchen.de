@@ -55,7 +55,7 @@ __Vorteile eines Projektrepos:__
 * Abhängigkeiten zwischen Services innerhalb eines Projekts (z. B. ein neues Feature, das Änderungen im Frontend und Backend erfordert) können __gemeinsam entwickelt, getestet und released__ werden – inklusive Pull Requests, Tests und Deployments.
 * Ein Projektrepo erleichtert es Außenstehenden, __schnell zu erkennen, welche Komponenten zusammengehören__.
 * Entwicklerinnen und Entwickler können __eine vollständige Entwicklungsumgebung__ mit allen benötigten Diensten einfacher aufsetzen.
-* Es gibt eine zentrale `README.md`, die eine [__übersichtliche Dokumentation__](usability-analysis#dokumentation) des Gesamtprojekts bieten kann. Ergänzend empfiehlt sich eine Doku-Website einem `/docs`-Verzeichnis oder als Doku-Websitey.
+* Es gibt eine zentrale `README.md`, die eine [__übersichtliche Dokumentation__](usability-analysis#dokumentation) des Gesamtprojekts bieten kann. Ergänzend empfiehlt sich eine Doku-Website in einem `/docs`-Verzeichnis oder als eigenständige Doku-Website.
 * Die __Gesamtübersicht auf GitHub__ (z. B. [github.com/orgs/it-at-m/repositories](https://github.com/orgs/it-at-m/repositories)) bleibt übersichtlich, da weniger Einzel-Repositories entstehen.
 
 Ein Projektrepo eignet sich besonders für Projekte, in denen viele Services eng miteinander verzahnt und voneinander abhängig sind.
