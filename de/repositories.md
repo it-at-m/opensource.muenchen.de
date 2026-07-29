@@ -38,7 +38,7 @@ Um eine einfache Nutzung unserer Software zu ermöglichen, wollen wir möglichst
 
 ## Repository-Struktur
 
-Software-Repositories können unterschiedlich strukturiert sein. Ob ein Projekt-Repository (Monorepo) oder ein Multi-Repository-Ansatz gewählt wird, sollte stets eine gut begründete, projektspezifische Entscheidung sein.
+Software-Repositories können unterschiedlich strukturiert sein. Ob ein Projekt-Repository oder ein Multi-Repository-Ansatz gewählt wird, sollte stets eine gut begründete, projektspezifische Entscheidung sein.
 
 Beide Varianten haben spezifische Stärken und Schwächen. In vielen Fällen empfiehlt sich ein Projekt-Repository, es gibt jedoch auch nachvollziehbare Gründe, die für ein Multirepo sprechen. Wir nutzen beide Ansätze: Zum Beispiel als Projekt-Repository [digiwf-core](https://github.com/it-at-m/digiwf-core) und als Multirepo die [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=) Projekte.
 
