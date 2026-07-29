@@ -2,7 +2,6 @@
 
 [Public Code](publish.html) definiert sich durch freie [Lizenzen](licenses.html), aber auch durch öffentlich zugänglichen  __Quellcode__ und __Artefakte__.
 
-
 ## Code
 
 Wir wollen Bürger\*innen, Entwickler\*innen anderer Behörden, Citizen Developer, grundsätzlich allen interessierten Menschen, die Möglichkeit geben unseren Code zu verwenden, verstehen, verbreiten und auch zu verbessern.
@@ -26,8 +25,6 @@ Wenn wir uns an freien Softwareprojekten anderer Communities aus der öffentlich
 
 Um Mitarbeitende nicht zu zwingen, mit Klarnamen im Internet zu agieren, dürfen Mitarbeiter\*innen Pseudonyme nutzen.
 Um aber nachvollziehen zu können, welche Mitarbeitenden hier öffentlich agieren, sind alle genutzten Pseudonyme _intern_ dokumentiert.
-
-
 
 ## Artefakte
 
@@ -82,7 +79,7 @@ Multirepos eignen sich vor allem für eigenständige Services und insbesondere f
 > Der bekannteste Fall eines Monorepos im produktiven Einsatz ist Google, das ein  eigenentwickeltes Sourcecode-Management-Tool gebaut hat, um damit genau ein  einziges Repository zu verwalten. Auch Meta Platforms, das Unternehmen hinter  Facebook und Instagram, setzt im Wesentlichen auf ein Monorepo, bei dem die Git-kompatible Eigenentwicklung [Sapling](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/) zum Einsatz kommt, die Ende 2022 als Open  Source veröffentlicht wurde.  
 > So ein Monorepo ist verdammt riesig und enthält die Historie von (fast) allen Projekten der Firma.
 > [^devops]
-
+<!-- separate quote -->
 > A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. ([monorepo.tools](https://monorepo.tools/))
 
 Der Größe eines Monorepos sind praktisch keine Grenzen gesetzt:

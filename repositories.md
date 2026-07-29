@@ -82,7 +82,7 @@ Multi-repos are particularly well-suited for standalone services and, in particu
 > The best-known example of a monorepo in production is Google, which built its own source code management tool specifically to manage exactly one single repository. Meta Platforms, the company behind Facebook and Instagram, also essentially relies on a monorepo, using its Git-compatible in-house tool [Sapling](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/), which was released as open source at the end of 2022.
 > A monorepo like this is incredibly huge and contains the history of (almost) all of the company’s projects.
 > [^devops]
-
+<!-- separate quote -->
 > A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. ([monorepo.tools](https://monorepo.tools/))
 
 There are practically no limits to the size of a monorepo:
