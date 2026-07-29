@@ -47,7 +47,7 @@ Beide Varianten haben spezifische Stärken und Schwächen. In vielen Fällen emp
 
 Im Zweifelsfall sollte ein [Projekt-Repository](#projektrepo) bevorzugt werden.
 
-Diese Empfehlung gilt insbesondere für Projekte auf [GitHub](github), ist aber grundsätzlich auf jedes Git-Repository (z.B. `git.muenchen.de`) anwendbar.
+Diese Empfehlung gilt insbesondere für Projekte auf GitHub, ist aber grundsätzlich auf jedes Git-Repository (z.B. `git.muenchen.de`) anwendbar.
 
 ### Projektrepo
 

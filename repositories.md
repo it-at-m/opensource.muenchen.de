@@ -47,7 +47,7 @@ Both options have specific strengths and weaknesses. In many cases, a project re
 
 When in doubt, a [project repository](#project-repo) should be preferred.
 
-This recommendation applies in particular to projects on [GitHub](github), but is generally applicable to any Git repository (e.g., `git.muenchen.de`).
+This recommendation applies in particular to projects on GitHub, but is generally applicable to any Git repository (e.g., `git.muenchen.de`).
 
 ### Project Repo
 
