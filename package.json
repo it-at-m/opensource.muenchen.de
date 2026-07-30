@@ -10,7 +10,6 @@
   "devDependencies": {
     "@mdi/font": "^7.3.67",
     "@muenchen/prettier-codeformat": "^1.0.1",
-    "markdown-it-footnote": "^4.0.0",
     "prettier": "^3.5.1",
     "vitepress": "^1.6.3",
     "vuetify": "^4.0.0"
