@@ -8,11 +8,11 @@
     "prettier:check": "prettier . --check"
   },
   "devDependencies": {
-    "@mdi/font": "^7.3.67",
-    "@muenchen/prettier-codeformat": "^1.0.1",
-    "prettier": "^3.5.1",
-    "vitepress": "^1.6.3",
-    "vuetify": "^4.0.0"
+    "@mdi/font": "7.4.47",
+    "@muenchen/prettier-codeformat": "1.0.2",
+    "prettier": "3.9.6",
+    "vitepress": "1.6.4",
+    "vuetify": "4.1.6"
   },
   "prettier": "@muenchen/prettier-codeformat"
 }

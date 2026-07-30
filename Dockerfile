@@ -1,4 +1,4 @@
-FROM ghcr.io/ks-no/openshift-nginx/fiks-nginx-openshift:latest
+FROM ghcr.io/ks-no/openshift-nginx/fiks-nginx-openshift:latest@sha256:3720a07152c611f62fb3bfa1ceead6745914d51f2c8594a7da509b56f284a4dc
 
 # Custom NGINX-Config to allow URLs without trailing slashes #75
 COPY nginx.conf /etc/nginx/conf.d/default.conf
