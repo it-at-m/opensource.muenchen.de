@@ -2,7 +2,7 @@
 
 The **Open Source Sabbatical** is intended to provide professionally qualified software developers with the opportunity to work on an open source project for a limited period of time in order to [improve](./improve) it.
 This sabbatical is not only open to employees of the City of Munich, but also to external software developers.
-To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical.[^beschluss][^antrag]
+To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical (see [application "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826) and [resolution 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)).
 
 
 ## Project selection
@@ -20,7 +20,7 @@ The selection of open source sabbaticals is open to ideas from external and inte
 ## Financial compensation
 
 The sabbatical is attractively remunerated so that the programmers can take time off work from their employer.
-The participants are not bound by instructions.[^antrag]
+The participants are not bound by instructions (see [application "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826)).
 
 The following compensation options are currently offered
 
@@ -57,8 +57,3 @@ By using Llama 3.3 and Google Gemma 3, effective communication is ensured, capab
 The project’s results so far are promising: in roughly 50% of cases, the chatbot provides helpful and appropriate responses to queries. Translation quality has been rated at 4.9 out of 5, while answer quality is rated at 4.0 out of 5. Additionally, the relevance of linked content has been rated at 4.8 out of 5. The consistently positive feedback from users shows that the chatbot not only makes the Integreat App more interactive but also provides real added value for the integration and support of people with a migration background.
 
 This sabbatical also places emphasis on usability and accessibility to ensure that all Munich residents, regardless of their background or language skills, can make the best possible use of the advantages of the Integreat App.
-
-[^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
-[^beschluss]: [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
-
-

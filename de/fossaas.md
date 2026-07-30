@@ -23,7 +23,7 @@ Muss man einen proprietären Cloud-Service migrieren, ist man immer gezwungen au
 Dies bedeutet meist eine Einführung einer komplett neuen Software, mit all dem Aufwand der Datenmigration, Nutzerschulung und gegebenenfalls infrastrukturellen Integration.
 
 > Preiserhöhungen und geänderte Service-Bedingungen treffen Sie voll, und falls Ihr Dienstleister das Angebot vollkommen einstellt, haben Sie ein Problem.
-Abhilfe kann darin bestehen, nur PaaS-Dienste zu nutzen, die auf einem Open-Source-Projekt basieren. Eine Database as a Service (DBaaS), die beispielsweise auf PostgreSQL basiert, ist weniger anfällig für einen harten Vendor Lock-in als proprietäre Lösungen.[^devops]
+Abhilfe kann darin bestehen, nur PaaS-Dienste zu nutzen, die auf einem Open-Source-Projekt basieren. Eine Database as a Service (DBaaS), die beispielsweise auf PostgreSQL basiert, ist weniger anfällig für einen harten Vendor Lock-in als proprietäre Lösungen (Quelle: Sujeevan Vijayakumaran, DevOps, ISBN 978-3-8362-9099-9, Seite 264).
 
 Das gilt speziell für das Cloud-Servicemodell Platform as a Service, aber auch allgemein für alle anderen Cloud-Servicemodelle.
 
@@ -46,7 +46,3 @@ show-tags
 show-excerpt
 />
 </ClientOnly>
-
-
-
-[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (Seite 264)

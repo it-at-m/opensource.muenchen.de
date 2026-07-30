@@ -68,7 +68,7 @@ Denn kommerzieller Support bietet in der Regel eine verlässlichere und professi
 Sollte kein kommerzieller Support verfügbar oder zu teuer sein, muss sicher gestellt sein dass wir die notwendigen Kompetenzen im Haus haben.
 Dazu kann es notwendig sein, das wir Schulungen und Weiterbildungen für unsere Mitarbeitenden beschaffen.
 
-Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein.[^DevOps_Handbook_stars].
+Die Anzahl an Stars, Watchers, Contributors oder Pull Requests können eine Indikation für eine große Community sein, muss aber nicht sein (Quelle: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365).
 
 ## DevOps
 
@@ -82,5 +82,3 @@ Daher prüfen wir ob ein öffentlich einsehbares _Continuous Integration und Dep
   * Ressourcen (Rechenleistung, Speicher etc)
   * Ressourcenarten (z.B. unterschiedliche Speicherarten wie Block File, Object)
   * Sicherheitseinstellungen, (z.B. nutzung lokaler Zertifizierungsstellen, Sicherheitskontexte)
-
-[^DevOps_Handbook_stars]: _Sonatype 2019 Software Supply Chain Report_ aus The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 S. 365
