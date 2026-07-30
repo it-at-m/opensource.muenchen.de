@@ -2,7 +2,7 @@
 
 Das **Open Source Sabbatical** soll fachlich qualifizierten Softwareentwickler\*innen die Möglichkeit bereitstellen, für einen begrenzten Zeitraum an einem Open Source Projekt zuarbeiten, um diese zu [verbessern](./improve).
 Dieses Sabbatical steht nicht nur Mitarbeiter\*innen der Landeshauptstadt München offen, sondern auch externen Softwareentwickler\*innen.
-Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals (siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826) und [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)).
+Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals <small>(siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826) und [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900))</small>.
 
 
 ## Projektauswahl
@@ -19,7 +19,7 @@ Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und in
 ## Finanzielle Kompensation
 
 Das Sabbatical wird attraktiv vergütet, sodass sich die Programmierer\*innen von ihrem Arbeitgeber freistellen lassen können.
-Die Teilnehmer\*innen sind nicht weisungsgebunden (siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826)).
+Die Teilnehmer\*innen sind nicht weisungsgebunden. <small>(siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826))</small>
 
 Aktuell werden folgende Kompensationsmöglichkeiten angeboten:
 

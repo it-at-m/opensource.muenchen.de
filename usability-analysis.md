@@ -71,7 +71,7 @@ This is because commercial support generally offers more reliable and profession
 If commercial support is not available or is too expensive, it must be ensured that we have the necessary skills in-house.
 This may require us to procure training and further education for our employees.
 
-The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be (source: _Sonatype 2019 Software Supply Chain Report_ from The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 p. 365)
+The number of stars, watchers, contributors or pull requests can be an indication of a large community, but does not necessarily have to be <small>(source: _Sonatype 2019 Software Supply Chain Report_ from The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Gene Kim, Jez Humble, Patrick Debois, John Willis ISBN-10: 1950508404 p. 365)</small>
 
 ## DevOps
 
