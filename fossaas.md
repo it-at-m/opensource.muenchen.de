@@ -23,7 +23,7 @@ If you have to migrate a proprietary cloud service, you are always forced to mig
 This usually means introducing completely new software, with all the effort involved in data migration, user training and, if necessary, infrastructural integration.
 
 > Price increases and changes in service conditions will hit you hard, and if your service provider discontinues the service completely, you will have a problem.
-The remedy can be to only use PaaS services that are based on an open source project. A Database as a Service (DBaaS) based on PostgreSQL, for example, is less susceptible to hard vendor lock-in than proprietary solutions[^devops].
+The remedy can be to only use PaaS services that are based on an open-source project. A Database as a Service (DBaaS) based on PostgreSQL, for example, is less susceptible to hard vendor lock-in than proprietary solutions (Source: Sujeevan Vijayakumaran, DevOps, ISBN 978-3-8362-9099-9, page 264).
 
 This applies specifically to the Platform as a Service cloud service model, but also to all other cloud service models in general.
 
@@ -48,4 +48,3 @@ show-excerpt
 />
 </ClientOnly>
 
-[^devops]: Sujeevan Vijayakumaran: DevOps ISBN 978-3-8362-9099-9 (page 264)

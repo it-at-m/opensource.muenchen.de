@@ -19,7 +19,7 @@ Neben den Vorteilen von Open Source Software für uns als IT-Service-Provider er
 
 Der im März 2020 gewählte Stadtrat hat am 05. Mai 2021 beschlossen:
 
-> Die LHM realisiert selbst entwickelte Software unter Berücksichtigung aller relevanten und rechtlichen Faktoren als Open Source Lösungen und beschafft priorisiert Open Source Lösungen, wo immer technisch und finanziell sinnvoll.[^str_beschluss]
+> Die LHM realisiert selbst entwickelte Software unter Berücksichtigung aller relevanten und rechtlichen Faktoren als Open Source Lösungen und beschafft priorisiert Open Source Lösungen, wo immer technisch und finanziell sinnvoll (siehe [Beschluss Öffentliche Sitzung der Vollversammlung vom 05. Mai 2021 zu TOP A 23 ö](https://risi.muenchen.de/risi/dokument/v/6596679)).
 
 
 Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren, war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://risi.muenchen.de/risi/dokument/v/6229564):
@@ -55,5 +55,3 @@ Vor allem im Bereich kommunaler Software sind wir oft gefordert [freie Software 
 ![Software Service Quadrantenmodell](/SoftwareServiceQuadrantenmodell.png)
 
 Strukturierung des Lösungsraums für IT-Lösungen - die Vorgehensweisen unterscheiden sich je nach Einordnung aus Sicht der Landeshauptstadt München
-
-[^str_beschluss]: [Beschluss Öffentliche Sitzung der Vollversammlung vom 05. Mai 2021 zu TOP A 23 ö](https://risi.muenchen.de/risi/dokument/v/6596679)

@@ -19,7 +19,7 @@ In addition to the benefits of open source software for us as an IT service prov
 
 The city council elected in March 2020 decided on May 5, 2021:
 
-> Die LHM realisiert selbst entwickelte Software unter Berücksichtigung aller relevanten und rechtlichen Faktoren als Open Source Lösungen und beschafft priorisiert Open Source Lösungen, wo immer technisch und finanziell sinnvoll.[^str_beschluss]
+> Die LHM realisiert selbst entwickelte Software unter Berücksichtigung aller relevanten und rechtlichen Faktoren als Open Source Lösungen und beschafft priorisiert Open Source Lösungen, wo immer technisch und finanziell sinnvoll (see [Beschluss Öffentliche Sitzung der Vollversammlung vom 05. Mai 2021 zu TOP A 23 ö](https://risi.muenchen.de/risi/dokument/v/6596679)).
 
 > The City of Munich will implement software developed in-house as open source solutions, taking into account all relevant and legal factors, and will prioritize the procurement of open source solutions wherever technically and financially feasible.
 
@@ -66,5 +66,3 @@ Especially in the area of municipal software we are often challenged [to develop
 ![Software service quadrant model](/SoftwareServiceQuadrantenmodell_en.png)
 
 Structuring of the solution space for IT solutions - the approaches differ depending on the classification from the point of view of the state capital Munich
-
-[^str_beschluss]: [Beschluss Öffentliche Sitzung der Vollversammlung vom 05. Mai 2021 zu TOP A 23 ö](https://risi.muenchen.de/risi/dokument/v/6596679)
