@@ -66,7 +66,7 @@ This sabbatical also places emphasis on usability and accessibility to ensure th
 In the second half of 2026, we awarded an open-source sabbatical to [libexpat](software/libexpat#open-source-sabbatical).
 In addition to general software maintenance and further development, the following priorities will be addressed:
 
-* Fix [Unfixed non-public security issues](https://github.com/libexpat/libexpat/issues/1160).
+* Fix [already known and unfixed security vulnerabilities](https://github.com/libexpat/libexpat/issues/1160).
   * Address additional security vulnerabilities reported as part of the current flood of security analyses.
 * [Support for XML 1.0r5](https://github.com/libexpat/libexpat/issues/171).
 * Improving the maintainability of Expat (e.g. more code documentation, improving the test suite)
