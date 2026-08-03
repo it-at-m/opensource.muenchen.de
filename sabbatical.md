@@ -68,5 +68,5 @@ In addition to general software maintenance and further development, the followi
 
 * Fix [Unfixed non-public security issues](https://github.com/libexpat/libexpat/issues/1160).
   * Address additional security vulnerabilities reported as part of the current flood of security analyses.
-* [Support for XML 1.0r5/1.1 ](https://github.com/libexpat/libexpat/issues/171).
-* Improving the maintainability of expat. (e.g., improving code documentation and the test suite)
+* [Support for XML 1.0r5](https://github.com/libexpat/libexpat/issues/171).
+* Improving the maintainability of Expat (e.g. more code documentation, improving the test suite)

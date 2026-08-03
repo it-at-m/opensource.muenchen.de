@@ -58,9 +58,9 @@ Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefr
 ### [libexpat](software/libexpat#open-source-sabbatical)
 
 Im zweiten Halbjahr 2026 haben wir ein Open Source Sabbatical an [libexpat](software/libexpat#open-source-sabbatical) vergeben.
-Neben der allgemeinen Softwarpflege und Weiterenwicklung werden folgenden Schwerpunkte angegangen:
+Neben der allgemeinen Softwarepflege und Weiterenwicklung werden folgenden Schwerpunkte angegangen:
 
-* [bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
+* [Bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
   * Abarbeitung weiterer Sicherheitslücken, die im Zuge der aktuellen Flut von Sicherheitsanalysen gemeldet werden.
 * [Support for XML 1.0r5/1.1](https://github.com/libexpat/libexpat/issues/171).
-* Erhöhung der Wartbarkeit von expat. (z.B. Codedokumentation, Testsuite verbessern)
+* Erhöhung der Wartbarkeit von Expat (z.B. mehr Code-Dokumentation, Testsuite verbessern)

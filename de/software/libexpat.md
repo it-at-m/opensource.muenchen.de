@@ -26,7 +26,7 @@ Aber auch in proprietärer Software wie z.B. unserer [Web Application Firewall](
 Im zweiten Halbjahr 2026 haben wir ein [Open Source Sabbatical](../sabbatical) an den Maintainer von Expat vergeben.
 Neben der allgemeinen Softwarepflege und Weiterentwicklung werden folgende Schwerpunkte angegangen:
 
-* [bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
+* [Bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
   * Abarbeitung weiterer Sicherheitslücken, die im Zuge der aktuellen Flut von Sicherheitsanalysen gemeldet werden.
 * [Unterstützung von XML 1.0r5](https://github.com/libexpat/libexpat/issues/171).
 * Erhöhung der Wartbarkeit von Expat (z.B. mehr Code-Dokumentation, Testsuite verbessern)
