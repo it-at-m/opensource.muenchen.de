@@ -54,3 +54,13 @@ Durch den Einsatz von Llama 3.3 und Google Gemma 3 wird eine effektive Kommunika
 Die bisherigen  Ergebnisse des Projekts sind vielversprechend: Der Chatbot liefert in etwa 50 % der Fälle hilfreiche und passende Antworten auf Anfragen. Die Übersetzungsqualität wurde mit 4,9 von 5 bewertet, während die Antwortqualität bei 4,0 von 5 liegt. Zudem wurde die Relevanz der verlinkten Inhalte mit 4,8 von 5 bewertet. Das durchweg positive Feedback der Nutzer*innen zeigt, dass der Chatbot nicht nur die Integreat-App interaktiver macht, sondern auch einen echten Mehrwert für die Integration und Unterstützung von Menschen mit Migrationshintergrund bietet.
 
 Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefreiheit gelegt, um sicherzustellen, dass alle Münchener Bürger*innen, unabhängig von ihrer Herkunft oder ihren Sprachkenntnissen, die Vorteile der Integreat-App optimal nutzen können.
+
+### [libexpat](software/libexpat#open-source-sabbatical)
+
+Im zweiten Halbjahr 2026 haben wir ein Open Source Sabbatical an [libexpat](software/libexpat#open-source-sabbatical) vergeben.
+Neben der allgemeinen Softwarpflege und Weiterenwicklung werden folgenden Schwerpunkte angegangen:
+
+* [bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
+  * Abarbeitung weiterer Sicherheitslücken, die im Zuge der aktuellen Flut von Sicherheitsanalysen gemeldet werden.
+* [Support for XML 1.0r5/1.1 ](https://github.com/libexpat/libexpat/issues/171).
+* Erhöhung der Wartbarkeit von expat. (z.B. Codedokumentation, Testsuite verbessern)
