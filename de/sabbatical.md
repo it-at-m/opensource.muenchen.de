@@ -62,5 +62,5 @@ Neben der allgemeinen Softwarpflege und Weiterenwicklung werden folgenden Schwer
 
 * [bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
   * Abarbeitung weiterer Sicherheitslücken, die im Zuge der aktuellen Flut von Sicherheitsanalysen gemeldet werden.
-* [Support for XML 1.0r5/1.1 ](https://github.com/libexpat/libexpat/issues/171).
+* [Support for XML 1.0r5/1.1](https://github.com/libexpat/libexpat/issues/171).
 * Erhöhung der Wartbarkeit von expat. (z.B. Codedokumentation, Testsuite verbessern)
