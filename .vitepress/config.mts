@@ -42,6 +42,7 @@ export default defineConfig({
             text: "mehr",
             items: [
               { text: "Grundlagen", link: "/de/principles" },
+              { text: "Öffentliches Arbeiten", link: "/de/working-in-public" },
               { text: "Softwareübersicht", link: "/de/software/" },
               { text: "Security", link: "/de/security" },
               { text: "Lizenzen", link: "/de/licenses" },
@@ -134,6 +135,7 @@ export default defineConfig({
         text: "more",
         items: [
           { text: "Principles", link: "/principles" },
+          { text: "Working in Public", link: "/working-in-public" },
           { text: "Overview", link: "/software/" },
           { text: "Security", link: "/security" },
           { text: "Licenses", link: "/licenses" },
