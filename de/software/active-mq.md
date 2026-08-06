@@ -8,7 +8,7 @@ tags:
   - infrastruktur
 ---
 
-**Apache ActiveMQ** ist ein freier Message Broker, der vollständig das Java Message Service implementiert.
+**Apache ActiveMQ** ist ein freier Message Broker, der vollständig das Java Message Service 1.1 (JMS) implementiert.
 
 ---
 
