@@ -10,7 +10,7 @@ In the worst case, nobody will read your code at all.
 Of course, there are some "don'ts" from the area of [security](security) (no passwords, personal data, etc.), but this is standard practice even without FOSS publication.  
 Before publishing in a public repository, the entire Git history and all related artifacts should be carefully reviewed for accidentally committed secrets or sensitive data. If such information is found, the affected secrets must be immediately revoked or rotated. Removing secrets from the latest revision does not remove them from history, clones, forks, or cached references.
 
-In principle, all developers are allowed to work under their real names and/or with their private, personal GitHub profiles.  
+In principle, all developers are allowed to work under their real names and/or with their private, personal [repository](repositories) profiles.  
 Of course, purely business accounts as well as pseudonymous accounts are also permitted.
 
 If you still need help publishing code, feel free to check out what colleagues have already published at [github.com/it-at-m](https://github.com/it-at-m).
