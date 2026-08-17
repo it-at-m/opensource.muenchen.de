@@ -1,3 +1,5 @@
+# Lizenzen
+
 Freie Software wird über den offenen Zugang zum Quellcode, vor allem aber über die lizenzrechtlichen Eigenschaften definiert.
 
 > Nachfolgend beschreiben wir rein informatorisch unsere Praxis; eine irgendwie geartete Empfehlung, so vorzugehen, ist damit ausdrücklich nicht verbunden.
