@@ -81,14 +81,19 @@ Multi-repos are particularly well-suited for standalone services and, in particu
 > When we talk about a monorepo approach, it essentially means that there is only a single repository for the entire company. This repository contains all of the company’s projects, including both active and inactive ones.
 > The best-known example of a monorepo in production is Google, which built its own source code management tool specifically to manage exactly one single repository. Meta Platforms, the company behind Facebook and Instagram, also essentially relies on a monorepo, using its Git-compatible in-house tool [Sapling](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/), which was released as open source at the end of 2022.
 > A monorepo like this is incredibly huge and contains the history of (almost) all of the company’s projects.
-> [^devops]
-<!-- separate quote -->
-> A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. ([monorepo.tools](https://monorepo.tools/))
+
+<small>from Sujeevan Vijayakumaran: DevOps Wie IT-Projekte mit einem modernen Toolset und der richtigen Kultur gelingen ISBN 978-3-8362-9099-9 5.5.4 Was ist eigentlich mit Monorepos?</small>
+
+
+> A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. 
+
+<small>from [monorepo.tools](https://monorepo.tools/)</small>
 
 There are practically no limits to the size of a monorepo:
 
 > Google, for example, is theorized to have the largest code repository ever, which has thousands of commits per day and is over 80 TBs large.
-> (from [semaphoreci.com - What is a monorepo?](https://semaphoreci.com/blog/what-is-monorepo))
+
+<small>from [semaphoreci.com - What is a monorepo?](https://semaphoreci.com/blog/what-is-monorepo)</small>
 
 For example, a monorepo at LHM would exist if [Refarch](https://github.com/it-at-m/refarch), all Refarch projects, the [BayernID plugin](https://github.com/it-at-m/BayernID-Plugin) as an independent but utilized SSO service, and other projects were managed together in a single repository.
 
@@ -97,4 +102,4 @@ For example, a monorepo at LHM would exist if [Refarch](https://github.com/it-at
 * __[Documentation](usability-analysis#documentation)__: The numerous services in a monorepo should be documented in the `README.md` and include links to the respective files or directories.
 * __Naming convention__: All multi-repositories for a project or product should be named using a consistent __prefix__ followed by a `-` (e.g., [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
 
-[^devops]: Sujeevan Vijayakumaran: DevOps Wie IT-Projekte mit einem modernen Toolset und der richtigen Kultur gelingen ISBN 978-3-8362-9099-9 5.5.4 Was ist eigentlich mit Monorepos?
+

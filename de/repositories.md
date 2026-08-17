@@ -78,14 +78,19 @@ Multirepos eignen sich vor allem für eigenständige Services und insbesondere f
 > Spricht man von einem Monorepo-Ansatz, bedeutet dies im Prinzip, dass es nur ein einziges Repository im gesamten Unternehmen gibt. In diesem Repository sind  alle Projekte des Unternehmens enthalten. Dazu gehören sowohl aktive als auch inaktive Projekte.
 > Der bekannteste Fall eines Monorepos im produktiven Einsatz ist Google, das ein  eigenentwickeltes Sourcecode-Management-Tool gebaut hat, um damit genau ein  einziges Repository zu verwalten. Auch Meta Platforms, das Unternehmen hinter  Facebook und Instagram, setzt im Wesentlichen auf ein Monorepo, bei dem die Git-kompatible Eigenentwicklung [Sapling](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/) zum Einsatz kommt, die Ende 2022 als Open  Source veröffentlicht wurde.  
 > So ein Monorepo ist verdammt riesig und enthält die Historie von (fast) allen Projekten der Firma.
-> [^devops]
-<!-- separate quote -->
-> A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. ([monorepo.tools](https://monorepo.tools/))
+
+<small>aus Sujeevan Vijayakumaran: DevOps Wie IT-Projekte mit einem modernen Toolset und der richtigen Kultur gelingen ISBN 978-3-8362-9099-9 5.5.4 Was ist eigentlich mit Monorepos?</small>
+
+
+> A monorepo is a single repository containing __multiple distinct projects__, with well-defined relationships. 
+
+<small>aus [monorepo.tools](https://monorepo.tools/)</small>
 
 Der Größe eines Monorepos sind praktisch keine Grenzen gesetzt:
 
 > Google, for example, is theorized to have the largest code repository ever, which has thousands of commits per day and is over 80 TBs large.
-> (aus [semaphoreci.com - What is a monorepo?](https://semaphoreci.com/blog/what-is-monorepo))
+
+<small>aus [semaphoreci.com - What is a monorepo?](https://semaphoreci.com/blog/what-is-monorepo)</small>
 
 Ein Monorepo bei der LHM wäre beispielsweise dann gegeben, wenn [Refarch](https://github.com/it-at-m/refarch), alle Refarch-Projekte, das [BayernID-Plugin](https://github.com/it-at-m/BayernID-Plugin) als unabhängiger, aber genutzter SSO-Dienst und weitere Projekte gemeinsam in einem einzigen Repository verwaltet würden.
 
@@ -94,4 +99,4 @@ Ein Monorepo bei der LHM wäre beispielsweise dann gegeben, wenn [Refarch](https
 * __[Dokumentation](usability-analysis#dokumentation)__: Die zahlreichen Services in einem Monorepo sollten in der `README.md` dokumentiert und mit Links auf die jeweiligen Dateien oder Verzeichnisse versehen werden.
 * __Namenskonvention__: Alle Multirepos eines Projekts oder Produkts sind mit einem einheitlichen __Prefix__ und einem `-` zu benennen (z. B. [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
 
-[^devops]: Sujeevan Vijayakumaran: DevOps Wie IT-Projekte mit einem modernen Toolset und der richtigen Kultur gelingen ISBN 978-3-8362-9099-9 5.5.4 Was ist eigentlich mit Monorepos?
+
