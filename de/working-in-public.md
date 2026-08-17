@@ -1,6 +1,6 @@
 # Öffentliches Arbeiten
 
-Als Entwickler:in ist es vielleicht ungewohnt, Code öffentlich einsehbar zu veröffentlichen.  
+Als Entwickler:in ist es vielleicht ungewohnt, [eigenen Code](in-house-development) öffentlich einsehbar zu veröffentlichen.  
 Kann dann die ganze Welt eventuelle Fehler sehen?  
 Ja, aber die gute Nachricht ist: Die Menschen, die eure Fehler auch verstehen, sind sehr oft bereit, euch zu helfen.  
 Gerade die Welt der freien Software ist geprägt von einer konstruktiven Fehlerkultur.  

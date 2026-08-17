@@ -1,6 +1,6 @@
 # Working in Public
 
-As a developer, it might feel unusual to make your code publicly accessible.  
+As a developer, it might feel unusual to make [your code](in-house-development) publicly accessible.  
 Does that mean the whole world can see any potential mistakes?  
 Yes, but the good news is: the people who actually understand your mistakes are often willing to help you.  
 The world of open source is especially characterized by a constructive error culture.  
