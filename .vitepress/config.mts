@@ -43,7 +43,6 @@ export default defineConfig({
             text: "mehr",
             items: [
               { text: "Grundlagen", link: "/de/principles" },
-              { text: "Öffentliches Arbeiten", link: "/de/working-in-public" },
               { text: "Softwareübersicht", link: "/de/software/" },
               { text: "Security", link: "/de/security" },
               { text: "Lizenzen", link: "/de/licenses" },
@@ -52,6 +51,7 @@ export default defineConfig({
               { text: "Eigenentwicklung", link: "/de/in-house-development" },
               { text: "Nutzbarkeitsanalyse", link: "/de/usability-analysis" },
               { text: "Repositories", link: "/de/repositories" },
+              { text: "Öffentliches Arbeiten", link: "/de/working-in-public" },
               { text: "GitHub Actions", link: "/de/github-actions" },
               { text: "FOSSaaS", link: "/de/fossaas" },
               { text: "OSPO", link: "/de/ospo" },
@@ -136,7 +136,6 @@ export default defineConfig({
         text: "more",
         items: [
           { text: "Principles", link: "/principles" },
-          { text: "Working in Public", link: "/working-in-public" },
           { text: "Overview", link: "/software/" },
           { text: "Security", link: "/security" },
           { text: "Licenses", link: "/licenses" },
@@ -145,6 +144,7 @@ export default defineConfig({
           { text: "In-house development", link: "/in-house-development" },
           { text: "Usability analysis", link: "/usability-analysis" },
           { text: "Repositories", link: "/repositories" },
+          { text: "Working in Public", link: "/working-in-public" },
           { text: "Github Actions", link: "/github-actions" },
           { text: "FOSSaaS", link: "/fossaas" },
           { text: "OSPO", link: "/ospo" },
