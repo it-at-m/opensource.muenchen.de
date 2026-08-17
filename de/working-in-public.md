@@ -21,4 +21,4 @@ Wenn ihr dennoch Hilfe beim Veröffentlichen von Code braucht, schaut euch gern 
 
 Sollte es Vorbehalte der Fachbereiche geben, ihre Anforderungen öffentlich zu entwickeln, können ausnahmsweise die internen Anforderungen zu einem Open-Source-Projekt auch LHM-intern dokumentiert werden, während der Code [von Anfang an](https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management) in einem Repository gepflegt wird.  
 Den Code zuerst in einem internen Repository zu verwalten und später in ein öffentliches Repository zu überführen, erzeugt einen sehr hohen Aufwand für die Bereinigung von Interna.
-Daher sind private Repository nicht möglich.
+Daher sind private Repositories nicht zulässig.

@@ -19,6 +19,6 @@ If you still need help publishing code, feel free to check out what colleagues h
 >
 > *(Common saying)*
 
-If there are reservations from specialist departments about developing their requirements publicly, it is exceptionally possible to document the internal requirements for an open source project internally within LHM, while the code is maintained in a repository [from the very beginning](https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management).  
+If there are reservations from specialist departments about developing their requirements publicly, it is exceptionally possible to document the internal requirements for an open-source project internally within LHM, while the code is maintained in a repository [from the very beginning](https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management).  
 Managing the code in an internal repository first and then migrating it to a public repository later creates a significant amount of work involved in cleaning up internal details.
 Therefore, private repositories are not allowed.
