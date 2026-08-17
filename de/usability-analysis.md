@@ -5,7 +5,7 @@ Diese soll jegliche freie Software, unabhängig ob diese als Framework, Library,
 
 ## Lizenzen
 
-Wird eine [OSI Approved Licenses](https://opensource.org/licenses) genutzt.
+Eine [OSI Approved License](https://opensource.org/licenses) wird genutzt.
 
 
 ## Code Review
