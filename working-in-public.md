@@ -15,7 +15,6 @@ Of course, purely business accounts as well as pseudonymous accounts are also pe
 
 If you still need help publishing code, feel free to check out what colleagues have already published at [github.com/it-at-m](https://github.com/it-at-m).
 
-> [!NOTE]
 > If you’re not embarrassed by your first version, you released too late.
 >
 > *(Common saying)*

@@ -15,7 +15,6 @@ Aber natürlich sind auch rein dienstliche Accounts sowie pseudonyme Accounts er
 
 Wenn ihr dennoch Hilfe beim Veröffentlichen von Code braucht, schaut euch gern an, was die Kolleg:innen auf [github.com/it-at-m](https://github.com/it-at-m) schon veröffentlicht haben.
 
-> [!NOTE]
 > Wer sich für seine erste Version später nicht schämt, hat zu spät veröffentlicht.
 >
 > *(volkstümliche Redewendung)*
