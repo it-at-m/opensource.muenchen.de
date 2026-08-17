@@ -68,7 +68,6 @@ A single project repository is particularly well-suited for projects in which ma
 Arguments in favor of multirepos:
 
 * Each microservice is assigned exactly one repository and one pipeline. This makes development more organized.
-* A monorepo makes external collaboration more complex, since you always have to fork the entire project.
 * A project consisting of different services using __different technologies__ would lead to code mixing in a monorepo and, in some cases, to merge conflicts that are difficult to resolve for people without knowledge of technology A or B.
 * Pipelines are less complicated than in monorepos.
 * __Less data__ than in monorepos: Cloning and tracking changes (e.g., with `git blame`) is faster.

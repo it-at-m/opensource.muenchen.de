@@ -65,7 +65,6 @@ Ein Projektrepo eignet sich besonders für Projekte, in denen viele Services eng
 Für Multirepos spricht:
 
 * Jedem Microservice ist genau ein Repository und eine Pipeline zugeordnet. Dies macht die Entwicklung übersichtlicher.
-* Ein Monorepo macht die externe Zusammenarbeit komplexer, da man immer das ganze Projekt forken muss.
 * Ein Projekt, das aus verschiedenen Services mit __unterschiedlichen Technologien__ besteht, würde in einem Monorepo zu Vermischungen führen und ggf. zu Merge-Konflikten, die für Personen ohne Kenntnisse in Technologie A oder B schwer zu lösen sind.
 * Pipelines sind weniger kompliziert als in Monorepos.
 * __Weniger Daten__ als bei Monorepos: Das Klonen und Nachvollziehen von Änderungen (z. B. mit `git blame`) geht schneller.
