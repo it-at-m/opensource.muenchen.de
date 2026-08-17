@@ -66,8 +66,8 @@ Für Multirepos spricht:
 
 * Jedem Microservice ist genau ein Repository und eine Pipeline zugeordnet. Dies macht die Entwicklung übersichtlicher.
 * Ein Projekt, das aus verschiedenen Services mit __unterschiedlichen Technologien__ besteht, würde in einem Monorepo zu Vermischungen führen und ggf. zu Merge-Konflikten, die für Personen ohne Kenntnisse in Technologie A oder B schwer zu lösen sind.
-* Pipelines sind weniger kompliziert als in Monorepos.
-* __Weniger Daten__ als bei Monorepos: Das Klonen und Nachvollziehen von Änderungen (z. B. mit `git blame`) geht schneller.
+* Pipelines sind weniger kompliziert als in Projektrepo.
+* __Weniger Daten__ als bei Projektrepo: Das Klonen und Nachvollziehen von Änderungen (z. B. mit `git blame`) geht schneller.
 * Fehler im __main branch__ betreffen nur einen Microservice, nicht das gesamte Produkt oder den gesamten Service.
 
 Multirepos eignen sich vor allem für eigenständige Services und insbesondere für Libraries, die in anderen Projekten genutzt werden sollen.
