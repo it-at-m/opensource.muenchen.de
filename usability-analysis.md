@@ -3,6 +3,10 @@
 In order to use or even further develop existing free software, it must first be subjected to a __usability analysis__.
 All free software should undergo this, regardless of whether it is to be used as a framework, library, [development tools](./in-house-development.html) or as [finished software](./use.html).
 
+## Licenses
+
+An [OSI-Approved License](https://opensource.org/licenses) is used.
+
 ## Code review
 
 The code is evaluated by experienced developers who are familiar with the language and technology used.

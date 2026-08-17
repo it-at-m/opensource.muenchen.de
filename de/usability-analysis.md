@@ -3,6 +3,11 @@
 Um existierende freie Software zu nutzen oder sogar weiter entwickeln zu können muss diese zunächst einer __Nutzbarkeitsanalyse__ unterzogen werden.
 Diese soll jegliche freie Software, unabhängig ob diese als Framework, Library, [Entwicklungstools](./in-house-development.html) [fertige Software](./use.html) eingesetzt werden soll, durchlaufen.
 
+## Lizenzen
+
+Wird eine [OSI Approved Licenses](https://opensource.org/licenses) genutzt.
+
+
 ## Code Review
 
 Die Bewertung des Codes erfolgt durch erfahrene Entwickler*innen, die mit der verwendeten Sprache und Technologie vertraut sind.
