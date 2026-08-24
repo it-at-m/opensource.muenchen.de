@@ -43,7 +43,7 @@ To make our software easy to use, we want to publish as many artifacts based on 
 
 Software repositories can be structured in various ways. Whether to choose a project repository or a multi-repo approach should always be a well-reasoned, project-specific decision.
 
-Both options have specific strengths and weaknesses. In many cases, a project repository is recommended, but there are also valid reasons to opt for a multi-repo. We use both approaches: for example, the [Wahllokalsystem](https://github.com/it-at-m/Wahllokalsystem/) project as a single-repo and the [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=) projects as a multi-repo.
+Both options have specific strengths and weaknesses. In many cases, a project repository is recommended, but there are also valid reasons to opt for a multi-repo. We use both approaches: for example, the [Wahllokalsystem](https://github.com/it-at-m/Wahllokalsystem/) project as a project repository and the [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=) projects as a multi-repo.
 
 When in doubt, a [project repository](#project-repo) should be preferred.
 
