@@ -1,4 +1,3 @@
-import MarkdownItFootnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
 
 const base = "/";
@@ -179,12 +178,6 @@ export default defineConfig({
         dateStyle: "short",
         timeStyle: "short",
       },
-    },
-  },
-
-  markdown: {
-    config(md) {
-      md.use(MarkdownItFootnote);
     },
   },
 });

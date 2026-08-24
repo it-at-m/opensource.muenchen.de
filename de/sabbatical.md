@@ -2,7 +2,7 @@
 
 Das **Open Source Sabbatical** soll fachlich qualifizierten Softwareentwickler\*innen die Möglichkeit bereitstellen, für einen begrenzten Zeitraum an einem Open Source Projekt zuarbeiten, um diese zu [verbessern](./improve).
 Dieses Sabbatical steht nicht nur Mitarbeiter\*innen der Landeshauptstadt München offen, sondern auch externen Softwareentwickler\*innen.
-Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals.[^beschluss][^antrag]
+Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals <small>(siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826) und [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900))</small>.
 
 
 ## Projektauswahl
@@ -19,7 +19,7 @@ Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und in
 ## Finanzielle Kompensation
 
 Das Sabbatical wird attraktiv vergütet, sodass sich die Programmierer\*innen von ihrem Arbeitgeber freistellen lassen können.
-Die Teilnehmer\*innen sind nicht weisungsgebunden.[^antrag]
+Die Teilnehmer\*innen sind nicht weisungsgebunden. <small>(siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826))</small>
 
 Aktuell werden folgende Kompensationsmöglichkeiten angeboten:
 
@@ -55,5 +55,12 @@ Die bisherigen  Ergebnisse des Projekts sind vielversprechend: Der Chatbot liefe
 
 Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefreiheit gelegt, um sicherzustellen, dass alle Münchener Bürger*innen, unabhängig von ihrer Herkunft oder ihren Sprachkenntnissen, die Vorteile der Integreat-App optimal nutzen können.
 
-[^antrag]: [Ein Munich Open Source Sabbatical einführen](https://risi.muenchen.de/risi/antrag/detail/6289826)
-[^beschluss]: [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900)
+### [libexpat](software/libexpat#open-source-sabbatical)
+
+Im zweiten Halbjahr 2026 haben wir ein Open Source Sabbatical an [libexpat](software/libexpat#open-source-sabbatical) vergeben.
+Neben der allgemeinen Softwarepflege und Weiterentwicklung werden folgende Schwerpunkte angegangen:
+
+* [Bereits bekannte und ungefixte Sicherheitslücken](https://github.com/libexpat/libexpat/issues/1160) beheben.
+  * Abarbeitung weiterer Sicherheitslücken, die im Zuge der aktuellen Flut von Sicherheitsanalysen gemeldet werden.
+* [Unterstützung von XML 1.0r5](https://github.com/libexpat/libexpat/issues/171).
+* Erhöhung der Wartbarkeit von Expat (z.B. mehr Code-Dokumentation, Testsuite verbessern)
