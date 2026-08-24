@@ -25,7 +25,7 @@ We also run the [landeshauptstadt-muenchen](https://gitlab.opencode.de/groups/la
 Even if we do not primarily publish on gitlab.opencode.de, we are prepared to mirror repositories there on request. 
 If we want to participate in free software projects from other public administration communities, we will only do so there if the projects allow merge requests.
 
-In order not to force employees to use their real names on the Internet, employees are allowed to use pseudonyms.
+In order not to force employees to use their real names [on the Internet](working-in-public), employees are allowed to use pseudonyms.
 However, all pseudonyms used are documented _internally_ in order to be able to trace which employees are acting publicly here.
 
 

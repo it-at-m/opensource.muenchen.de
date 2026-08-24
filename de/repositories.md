@@ -24,7 +24,7 @@ Dazu betreiben wir dort die Gruppe [landeshauptstadt-muenchen](https://gitlab.op
 Auch wenn wir auf gitlab.opencode.de nicht primär veröffentlichen, sind wir auf Anfrage bereit, Repositories dorthin zu spiegeln. 
 Wenn wir uns an freien Softwareprojekten anderer Communities aus der öffentlichen Verwaltungen beteiligen wollen, werden wir das ausschließlich dort machen, sofern die Projekte MergeRequests erlauben.
 
-Um Mitarbeitende nicht zu zwingen, mit Klarnamen im Internet zu agieren, dürfen Mitarbeiter\*innen Pseudonyme nutzen.
+Um Mitarbeitende nicht zu zwingen, mit Klarnamen im [Internet zu agieren](working-in-public), dürfen Mitarbeiter\*innen Pseudonyme nutzen.
 Um aber nachvollziehen zu können, welche Mitarbeitenden hier öffentlich agieren, sind alle genutzten Pseudonyme _intern_ dokumentiert.
 
 
