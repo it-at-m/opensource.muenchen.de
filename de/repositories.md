@@ -65,10 +65,10 @@ Ein Projektrepo eignet sich besonders für Projekte, in denen viele Services eng
 Für Multirepos spricht:
 
 * Jedem Microservice ist genau ein Repository und eine Pipeline zugeordnet. Dies macht die Entwicklung übersichtlicher.
-* Ein Projekt, das aus verschiedenen Services mit __unterschiedlichen Technologien__ besteht, würde in einem Monorepo zu Vermischungen führen und ggf. zu Merge-Konflikten, die für Personen ohne Kenntnisse in Technologie A oder B schwer zu lösen sind.
-* Pipelines sind weniger kompliziert als in Projektrepo.
-* __Weniger Daten__ als bei Projektrepo: Das Klonen und Nachvollziehen von Änderungen (z. B. mit `git blame`) geht schneller.
-* Fehler im __main branch__ betreffen nur einen Microservice, nicht das gesamte Produkt oder den gesamten Service.
+* Ein Projekt, das aus verschiedenen Services mit __unterschiedlichen Technologien__ besteht, kann in einem Monorepo zu Vermischungen und ggf. zu Merge-Konflikten führen, die für Personen ohne Kenntnisse in Technologie A oder B schwer zu lösen sind.
+* Pipelines sind in der Regel weniger kompliziert als in einem Projektrepo.
+* __Weniger Daten__ als bei einem Projektrepo: Das Klonen eines einzelnen Repositories und das Nachvollziehen von Änderungen (z. B. mit `git blame`) gehen schneller.
+* Fehler im __main branch__ betreffen in der Regel nur einen Microservice, können sich aber auch auf abhängige Services oder das gesamte Produkt auswirken.
 
 Multirepos eignen sich vor allem für eigenständige Services und insbesondere für Libraries, die in anderen Projekten genutzt werden sollen.
 
@@ -96,6 +96,6 @@ Ein Monorepo bei der LHM wäre beispielsweise dann gegeben, wenn [Refarch](https
 ### Regeln
 
 * __[Dokumentation](usability-analysis#dokumentation)__: Die zahlreichen Services in einem Monorepo sollten in der `README.md` dokumentiert und mit Links auf die jeweiligen Dateien oder Verzeichnisse versehen werden.
-* __Namenskonvention__: Alle Multirepos eines Projekts oder Produkts sind mit einem einheitlichen __Prefix__ und einem `-` zu benennen (z. B. [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
+* __Namenskonvention__: Jedes Repository, das zum Multirepo eines Projekts oder Produkts gehört, ist mit einem einheitlichen __Prefix__ und einem `-` zu benennen (z. B. [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
 
 

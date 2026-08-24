@@ -68,10 +68,10 @@ A single project repository is particularly well-suited for projects in which ma
 Arguments in favor of multirepos:
 
 * Each microservice is assigned exactly one repository and one pipeline. This makes development more organized.
-* A project consisting of different services using __different technologies__ would lead to code mixing in a monorepo and, in some cases, to merge conflicts that are difficult to resolve for people without knowledge of technology A or B.
-* Pipelines are less complicated than in project repo.
-* __Less data__ than in project repo: Cloning and tracking changes (e.g., with `git blame`) is faster.
-* Bugs in the __main branch__ affect only one microservice, not the entire product or service.
+* A project consisting of different services using __different technologies__ can lead to code mixing in a monorepo and, in some cases, to merge conflicts that are difficult to resolve for people without knowledge of technology A or B.
+* Pipelines are usually less complicated than in a project repo.
+* __Less data__ than in a project repo: Cloning an individual repository and tracking its changes (e.g., with `git blame`) is faster.
+* Bugs in the __main branch__ usually affect only one microservice, but may also affect dependent services or the entire product.
 
 Multi-repos are particularly well-suited for standalone services and, in particular, for libraries intended for use in other projects.
 
@@ -99,6 +99,6 @@ For example, a monorepo at LHM would exist if [Refarch](https://github.com/it-at
 ### Rules
 
 * __[Documentation](usability-analysis#documentation)__: The numerous services in a monorepo should be documented in the `README.md` and include links to the respective files or directories.
-* __Naming convention__: All multi-repositories for a project or product should be named using a consistent __prefix__ followed by a `-` (e.g., [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
+* __Naming convention__: Every repository belonging to a project's or product's multi-repo should be named using a consistent __prefix__ followed by a `-` (e.g., [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=)).
 
 
