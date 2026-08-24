@@ -1,6 +1,6 @@
 # Öffentliches Arbeiten
 
-Als Entwickler:in ist es vielleicht ungewohnt, [eigenen Code](in-house-development) öffentlich einsehbar zu veröffentlichen.  
+Als Entwickler\*in ist es vielleicht ungewohnt, [eigenen Code](in-house-development) öffentlich einsehbar zu veröffentlichen.  
 Kann dann die ganze Welt eventuelle Fehler sehen?  
 Ja, aber die gute Nachricht ist: Die Menschen, die eure Fehler auch verstehen, sind sehr oft bereit, euch zu helfen.  
 Gerade die Welt der freien Software ist geprägt von einer konstruktiven Fehlerkultur.  
@@ -13,7 +13,7 @@ Vor der Veröffentlichung in einem öffentlichen Repository sollte die gesamte G
 Prinzipiell dürfen alle Codeschaffenden unter Klarnamen und/oder mit ihrem privaten, persönlichen [Repository](repositories)-Profil arbeiten.  
 Aber natürlich sind auch rein dienstliche Accounts sowie pseudonyme Accounts erlaubt.
 
-Wenn ihr dennoch Hilfe beim Veröffentlichen von Code braucht, schaut euch gern an, was die Kolleg:innen auf [github.com/it-at-m](https://github.com/it-at-m) schon veröffentlicht haben.
+Wenn ihr dennoch Hilfe beim Veröffentlichen von Code braucht, schaut euch gern an, was die Kolleg\*innen auf [github.com/it-at-m](https://github.com/it-at-m) schon veröffentlicht haben.
 
 > Wer sich für seine erste Version später nicht schämt, hat zu spät veröffentlicht.
 >
