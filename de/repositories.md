@@ -40,7 +40,7 @@ Um eine einfache Nutzung unserer Software zu ermöglichen, wollen wir möglichst
 
 Software-Repositories können unterschiedlich strukturiert sein. Ob ein Projekt-Repository oder ein Multi-Repository-Ansatz gewählt wird, sollte stets eine gut begründete, projektspezifische Entscheidung sein.
 
-Beide Varianten haben spezifische Stärken und Schwächen. In vielen Fällen empfiehlt sich ein Projekt-Repository, es gibt jedoch auch nachvollziehbare Gründe, die für ein Multirepo sprechen. Wir nutzen beide Ansätze: Zum Beispiel als Projekt-Repository [Wahllokalsystem](https://github.com/it-at-m/Wahllokalsystem/) und als Multirepo die [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=) Projekte.
+Beide Varianten haben ihre eigenen Stärken und Schwächen. In vielen Fällen empfiehlt sich ein Projekt-Repository, es gibt jedoch auch nachvollziehbare Gründe, die für ein Multirepo sprechen. Wir nutzen beide Ansätze: Als Beispiel für ein Projekt-Repository das [Wahllokalsystem](https://github.com/it-at-m/Wahllokalsystem/) und für Multirepo die [dave-](https://github.com/orgs/it-at-m/repositories?q=dave&type=all&language=&sort=) Projekte.
 
 Im Zweifelsfall sollte ein [Projekt-Repository](#projektrepo) bevorzugt werden.
 
