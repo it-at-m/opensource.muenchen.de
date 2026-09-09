@@ -5,6 +5,7 @@ code: https://github.com/it-at-m/agile-test-automation-framework/
 developerlink: https://it-at-m.github.io/agile-test-automation-framework/
 licensingmodel: open source
 license: MIT
+logo: /inhouse/ataf_logo.png
 tags:
 - infrastruktur
 - eigenentwicklung
