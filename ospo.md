@@ -66,4 +66,7 @@ Before that, he and his team built the Kubernetes Platform, a world in which FOS
 Klaus has been a stable FOSS enthusiast since Linux kernel 2.6.0.
 
 
-Contact: <opensource@muenchen.de>
+Contact:
+
+* <opensource@muenchen.de>
+* <a rel="me" href="https://social.muenchen.de/@ospo">social.muenchen.de/@ospo</a>

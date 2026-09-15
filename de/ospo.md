@@ -65,4 +65,7 @@ Klaus 'klml' Mueller ist Leiter des OSPO der Stadt München, das Anfang 2024 geg
 Davor hat er mit seinem Team die Kubernetes-Plattform aufgebaut, eine Welt, in der FOSS bereits Standard ist.
 Klaus ist seit Linux-Kernel 2.6.0 FOSS-Enthusiast.
 
-Kontakt: <opensource@muenchen.de>
+Kontakt:
+
+* <opensource@muenchen.de>
+* <a rel="me" href="https://social.muenchen.de/@ospo">social.muenchen.de/@ospo</a>
