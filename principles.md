@@ -53,7 +53,8 @@ The [Bavarian Digital Act - BayDiG Art. 3 Para. 4 Sentence 1](https://www.gesetz
 
 ## Standard
 
-Free software is becoming the standard in modern software development.  
+Free software is the standard in modern software development.
+[Many companies build their businesses on open source software, code that would cost firms $8.8 trillion to create from scratch if it weren't freely available.](https://www.library.hbs.edu/working-knowledge/open-source-software-the-nine-trillion-resource-companies-take-for-granted)  
 Other municipalities, such as the cities of [Berlin](https://berlinopensource.de/warum-open-source/), [Dortmund](https://blog.do-foss.de/), [Barcelona](https://ajuntamentdebarcelona.github.io/en/index_en.html) and many others from the [public sector](https://floss-pso.network/public-sector-ospos/) also use and contribute to open source.
 
 But commercial companies are also participating in free software.
