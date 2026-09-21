@@ -6,6 +6,7 @@ All free software should undergo this, regardless of whether it is to be used as
 ## Licenses
 
 An [OSI-Approved License](https://opensource.org/licenses) is used.
+In addition, you can check [is it really FOSS?](https://isitreallyfoss.com/).
 
 ## Code review
 
