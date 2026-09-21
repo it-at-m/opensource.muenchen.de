@@ -42,7 +42,8 @@ Auch das [Bayerisches Digitalgesetz – BayDiG Art. 3 Abs.4 Satz 1](https://www.
 
 ## Standard
 
-Freie Software entwickelt sich zum Standard in der modernen Softwareentwicklung.  
+Freie Software ist Standard in der modernen Softwareentwicklung.
+[Viele Unternehmen stützen ihr Geschäft auf Open-Source-Software – Code, dessen Entwicklung von Grund auf 8,8 Billionen US-Dollar kosten würde, wäre er nicht frei verfügbar.](https://www.library.hbs.edu/working-knowledge/open-source-software-the-nine-trillion-resource-companies-take-for-granted)  
 Andere Kommunen, wie z.B. die Städte [Berlin](https://berlinopensource.de/warum-open-source/), [Dortmund](https://blog.do-foss.de/), [Barcelona](https://ajuntamentdebarcelona.github.io/en/index_en.html) und viele andere aus dem [Public Sector](https://floss-pso.network/public-sector-ospos/) nutzen und contributen ebenfalls zu Open Source.
 
 Aber auch kommerzielle Unternehmen beteiligen sich an freier Software.
