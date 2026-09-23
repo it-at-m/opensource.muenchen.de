@@ -7,6 +7,7 @@ license: GPL
 logo: /logo/320px-Drupal-wordmark.svg.png
 tags:
   - application
+  - cms
 ---
 
 [Drupal](https://www.drupal.org) is a content management system (CMS) and framework.

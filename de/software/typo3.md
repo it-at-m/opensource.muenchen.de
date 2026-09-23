@@ -7,6 +7,7 @@ license: GPL-2.0
 logo: /logo/320px-Logo_TYPO3.svg.png
 tags:
   - application
+  - cms
 ---
 
 **TYPO3** ist ein freies Content-Management-System für Websites.
