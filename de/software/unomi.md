@@ -8,7 +8,7 @@ tags:
   - application
 ---
 
-Apache __Unomi__ eine freie Kundendatenplattform zur Verwaltung von Kunden-, Lead- und Besucherdaten.
+Apache __Unomi__ ist eine freie Kundendatenplattform zur Verwaltung von Kunden-, Lead- und Besucherdaten.
 
 ---
 
