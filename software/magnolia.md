@@ -7,6 +7,7 @@ logo: /logo/330px-Magnolia_Logo.svg.png
 tags:
   - application
   - opencore
+  - cms
 ---
 
 **Magnolia** is a free, Java-based content management system (CMS).
