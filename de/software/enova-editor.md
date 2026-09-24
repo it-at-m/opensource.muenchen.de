@@ -8,6 +8,7 @@ license: MIT
 tags:
 - application
 - eigenentwicklung
+- desktop
 ---
 
 Der __eNoVa-Editor__ ist eine Java-Desktop-Anwendung um die ab 01.01.2027 verpflichtende [XJustiz-Kommunikation](https://xjustiz.justiz.de/Anwendungsfaelle/eNoVA/index.php) zwischen Kommunen und Notaren zu ermöglichen.
