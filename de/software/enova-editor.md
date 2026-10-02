@@ -5,6 +5,7 @@ code: https://github.com/it-at-m/eNoVa-Editor/
 codelinktext: github.com/it-at-m/eNoVa-Editor/
 licensingmodel: open source
 license: MIT
+opencode: https://opencode.de/de/software/e-no-va-editor-13296
 tags:
 - application
 - eigenentwicklung
