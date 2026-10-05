@@ -8,6 +8,7 @@ license: GPL-2.0
 logo: /logo/320px-WordPress_logo.svg.png
 tags:
   - application
+  - cms
 ---
 
 **WordPress** is the most used free content management system (CMS) on the [Internet](https://trends.builtwith.com/cms).

@@ -6,6 +6,7 @@ export const deMessages: localizedMessagesType = {
     android: "Android",
     application: "Anwendung",
     archive: "Archiv",
+    cms: "Content-Management-System",
     contribute: "Contribute",
     desktop: "Desktop",
     development: "Development",

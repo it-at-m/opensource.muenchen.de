@@ -6,6 +6,8 @@ Diese soll jegliche freie Software, unabhängig ob diese als Framework, Library,
 ## Lizenzen
 
 Eine [OSI Approved License](https://opensource.org/licenses) wird genutzt.
+Zusätzlich kann [is it really FOSS?](https://isitreallyfoss.com/) geprüft werden.
+
 
 
 ## Code Review
