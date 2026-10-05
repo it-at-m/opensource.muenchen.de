@@ -69,4 +69,4 @@ Klaus has been a stable FOSS enthusiast since Linux kernel 2.6.0.
 Contact:
 
 * <opensource@muenchen.de>
-* <a rel="me" href="https://social.muenchen.de/@ospo">social.muenchen.de/@ospo</a>
+* <a rel="me" href="https://social.muenchen.de/@ospo">social.muenchen.de/@ospo</a> ([Mastodon](software/mastodon))
