@@ -6,6 +6,7 @@ license: GPL-3.0
 logo: /logo/100px-Ansible_logo.svg.png
 tags:
   - infrastruktur
+  - contribute
 ---
 
 **Ansible** is a free automation tool for orchestration and configuration and administration of servers.
