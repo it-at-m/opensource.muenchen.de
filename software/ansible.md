@@ -16,5 +16,5 @@ We use Ansible for numerous _infrastructure as code_ automations, for example, o
 
 ### AWX
 
-We also operate an [AWX](https://github.com/ansible/awx), which automatically rolls out all standard tasks in our data centers using Ansible playbooks. This includes the provision of virtual servers, databases, storage, domains and the allocation of temporary user rights.  
+We also operate an [Ascender](https://github.com/ctrliq/ascender/), which automatically rolls out all standard tasks in our data centers using Ansible playbooks. This includes the provision of virtual servers, databases, storage, domains and the allocation of temporary user rights.  
 This automation is also used by our central service desk to carry out IT tasks.
