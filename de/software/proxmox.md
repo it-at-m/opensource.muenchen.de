@@ -13,5 +13,5 @@ __Proxmox VE__ ist eine Open-Source-Virtualisierungsplattform zum Betrieb von vi
 
 ---
 
-Die Stadt München evaluiert Proxmox als Virtualisierungsplattform und wird 2027 den Haupteil der virtuellen Maschinen auf Proxmox laufen lassen.
-Um Proxmox in unsere Lifecycle- und Configurationmanagement System [Katello-Foreman](katello) intergerien zu können haben wir zahlreiche Verbesserungen für [ForemanFogProxmox](https://github.com/theforeman/foreman_fog_proxmox/) beauftragt.
+Die Stadt München evaluiert Proxmox als Virtualisierungsplattform und wird 2027 den Hauptteil der virtuellen Maschinen auf Proxmox laufen lassen.
+Um Proxmox in unsere Lifecycle- und Configurationmanagement System [Katello-Foreman](katello) integrieren zu können haben wir zahlreiche Verbesserungen für [ForemanFogProxmox](https://github.com/theforeman/foreman_fog_proxmox/) beauftragt.
