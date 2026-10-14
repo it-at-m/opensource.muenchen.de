@@ -19,5 +19,5 @@ Sudo ist ein zentraler Teil unseres Sicherheitskonzepts auf [Linuxserver](linux)
 Mitarbeitende können damit genaus definierte adminstrative notwendige Tätigkeiten ausführen, aber nicht mehr, was den Schaden im Fehler oder Sicherheitsfall minimiert.
 
 Neben einem generellen Berechtigungskonzept für Middleware haben wir über 300 unterschiedliche Profile für Datenbanken, spezielle Rollen (z.B. Rufbereitschaft) oder Anforderungen einzelner Applikationen.
-Diese Berechtigungskonzepte werden mit [Puppet](puppet) verwaltet.
+Diese Berechtigungskonzepte werden mit [OpenVox](./openvox) verwaltet.
 
