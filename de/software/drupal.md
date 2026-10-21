@@ -14,5 +14,5 @@ tags:
 
 ---
 
-Drupal wird für die Seite [www.muenchen.de](https://www.muenchen.de), [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de) oder als Framework für [machmuenchenbesser](mark-a-spot) genutzt.
+Drupal wird für die Websites [www.muenchen.de](https://www.muenchen.de) und [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de) sowie als Framework für [machmuenchenbesser](mark-a-spot) genutzt.
 

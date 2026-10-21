@@ -14,4 +14,4 @@ tags:
 
 ---
 
-Drupal is used for the website [www.muenchen.de](https://www.muenchen.de), [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de), or as a framework for [machmuenchenbesser](mark-a-spot).
+Drupal is used for the websites [www.muenchen.de](https://www.muenchen.de) and [christkindlmarkt-muenchen.de](https://www.christkindlmarkt-muenchen.de), and as a framework for [machmuenchenbesser](mark-a-spot).
