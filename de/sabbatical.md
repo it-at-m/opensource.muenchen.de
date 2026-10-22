@@ -12,7 +12,7 @@ Bewerbungen von Frauen werden besonders unterstützt.
 
 Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und internen Entwickler*innen.
 
-* Es können konkrete Bugfixes oder Features für Projekte aus dem [Eigenentwicklungsportfolio](https://github.com/it-at-m) der Stadt München sein.
+* Es können konkrete, eigenständig eingebrachte Bugfixes oder Features für Projekte aus dem [Eigenentwicklungsportfolio](https://github.com/it-at-m) der Stadt München sein, die dann umgesetzt werden.
 * Freie Software die wir schon [nutzen](use).
 * Andere veröffentlichte freie Projekte, wenn sie einen Nutzen für die Stadt bieten.
 
