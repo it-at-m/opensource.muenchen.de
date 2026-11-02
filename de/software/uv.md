@@ -8,6 +8,7 @@ logo: /logo/uv.svg
 tags:
 - development
 - ai
+- python
 ---
 
 __uv__ ist ein extrem schneller Python-Paket- und Projektmanager, geschrieben in Rust.  

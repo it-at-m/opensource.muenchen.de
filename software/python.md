@@ -9,6 +9,7 @@ sponsor: https://2026.pycon.de/sponsors/munich-digital/
 tags:
 - development
 - ai
+- python
 ---
 __Python__ is a high-level, general-purpose programming language, which is dynamically typed and garbage-collected.
 Python supports multiple programming paradigms (structured, object-oriented & functional) and includes a comprehensive standard library.
