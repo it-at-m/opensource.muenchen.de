@@ -55,6 +55,18 @@ Die bisherigen  Ergebnisse des Projekts sind vielversprechend: Der Chatbot liefe
 
 Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefreiheit gelegt, um sicherzustellen, dass alle Münchener Bürger*innen, unabhängig von ihrer Herkunft oder ihren Sprachkenntnissen, die Vorteile der Integreat-App optimal nutzen können.
 
+### [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical)
+
+Im Jahr 2026 haben wir ein Open Source Sabbatical an [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical) vergeben.
+Bibliotheksnutzer\*innen bekommen Empfehlungen, die zu ihnen passen, und ihre Daten bleiben bei ihnen.
+Das Profil liegt in ihrem eigenen Solid Pod oder lokal im Browser, nicht bei der Münchner Stadtbibliothek.
+Folgende Schwerpunkte werden angegangen:
+
+* Profil jederzeit ansehen, ändern und mitnehmen.
+* Vorschläge aus dem Bestand der Münchner Stadtbibliothek.
+* [TYPO3](software/typo3)-Extension für die Bibliothekswebseite.
+* Nachnutzung durch andere Bibliotheken und Dienste.
+
 ### [libexpat](software/libexpat#open-source-sabbatical)
 
 Im zweiten Halbjahr 2026 haben wir ein Open Source Sabbatical an [libexpat](software/libexpat#open-source-sabbatical) vergeben.

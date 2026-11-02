@@ -61,6 +61,19 @@ The project’s results so far are promising: in roughly 50% of cases, the chatb
 This sabbatical also places emphasis on usability and accessibility to ensure that all Munich residents, regardless of their background or language skills, can make the best possible use of the advantages of the Integreat App.
 
 
+### [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical)
+
+In 2026, we awarded an open-source sabbatical to [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical).
+Library users get recommendations that suit them, and their data stays with them.
+The profile is kept in their own Solid Pod or locally in the browser, not at the Munich City Library.
+The following priorities will be addressed:
+
+* View, change and take along the profile at any time.
+* Suggestions from the Munich City Library's collection.
+* A [TYPO3](software/typo3) extension for the library website.
+* Reuse by other libraries and services.
+
+
 ### [libexpat](software/libexpat#open-source-sabbatical)
 
 In the second half of 2026, we awarded an open-source sabbatical to [libexpat](software/libexpat#open-source-sabbatical).
