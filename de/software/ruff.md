@@ -8,6 +8,7 @@ logo: /logo/ruff.svg
 tags:
 - development
 - ai
+- python
 ---
 
 __Ruff__ ist ein extrem schneller Python-Linter und Code-Formatter, geschrieben in Rust.  
