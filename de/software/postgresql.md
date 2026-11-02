@@ -23,3 +23,6 @@ Nur in technisch begründeten Ausnahmefällen können auch andere Datenbanksyste
 
 Zusammen mit dem ebenfalls freien [MariaDB](mariadb) nutzen derzeit etwa 40% unserer Datenbankinstanzen ein Open-Source-Datenbanksystem.
 
+Mit der Open-Source-Erweiterung **pgvector** bekommt PostgreSQL zusätzlich eine Vektor-Ähnlichkeitssuche: Vektortypen, HNSW-/IVFFlat-Indizes und Distanzoperatoren über Embeddings werden direkt in der Datenbank ergänzt — so lässt sich ein separates Vektordatenbank-System vermeiden.
+Wir nutzen pgvector in [RIS-KI](riski), das die Embeddings der Ratsdokumente direkt neben den relationalen Daten im offiziellen pgvector-Container-Image ablegt; die [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki) und [Zammad-AI](zammad-ai) setzen dafür auf die dedizierte Vektordatenbank [Qdrant](qdrant), wenn anspruchsvollere hybride Suche benötigt wird.
+

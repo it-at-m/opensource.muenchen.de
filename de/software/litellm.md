@@ -9,6 +9,7 @@ tags:
 - infrastruktur
 - k8s
 - ai
+- python
 ---
 __LiteLLM__ bietet ein Gateway für den Zugriff auf mehrere große Sprachmodelle (LLMs) und andere KI-Modelle über eine einheitliche API.
 Es ermöglicht Nutzungs-Tracking, Caching und Zugriffskontrolle und bietet eine webbasierte Benutzeroberfläche für die Verwaltung, Überwachung und das Testen der Modelle.
@@ -17,3 +18,5 @@ Es ermöglicht Nutzungs-Tracking, Caching und Zugriffskontrolle und bietet eine 
 
 Wir verwenden LiteLLM, um ein einziges Gateway für alle Aufrufe an KI-Modelle wie LLMs bereitzustellen.
 Diese soll sowohl von unseren selbst erstellten KI-Anwendungen wie [MUCGPT](mucgpt) als auch von existierenden Anwendungen, die lediglich mit LLM-Schnittstellen interagieren, genutzt werden.
+
+Der Proxy ist dabei breit kompatibel an einem einzigen Endpunkt: Er stellt die **OpenAI Chat Completions API**, die neuere **OpenAI Responses API** und die **Anthropic Messages API** bereit — sodass die Client-SDKs verschiedener Agenten und Frameworks sich ohne Anpassungen verbinden können. Das Responses-API-Format von OpenAI wird dabei derzeit als offene **Open Responses**-Spezifikation (Linux-Foundation-Projekt) standardisiert; die Gateway-Schnittstelle hält unsere Anwendungen unabhängig von einzelnen Modellanbietern.
