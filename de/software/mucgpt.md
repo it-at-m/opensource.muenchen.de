@@ -49,9 +49,10 @@ Assistenten mit ausgewählten Teams oder breiter veröffentlichen. Eigentümersc
 MUCGPT folgt einer schlanken Microservices-Architektur und kann als Container gemeinsam mit einer [PostgreSQL](postgresql)-Datenbank betrieben werden.
 
 - Frontend: React-basierte Oberfläche (aus einem Azure-Template), implementiert mit [Typescript](typescript) und [Javascript](javascript).
-- Core-Service: [FastAPI](fastapi) in [Python](python) für LLM-Orchestrierung und Tools, mit LangGraph für Agent-Workflows.
+- Core-Service: [FastAPI](fastapi) in [Python](python) für LLM-Orchestrierung und Tools. Assistenten laufen als DeepAgents-Agenten auf der [LangChain](langchain)-Runtime [LangGraph](https://github.com/langchain-ai/langgraph), der Zustand wird in [PostgreSQL](postgresql) persistiert.
+- Erweiterung über offene Standards: Externe Kontextquellen (Tools, Wissensbasen) werden als [MCP](https://modelcontextprotocol.io/introduction)-Server angebunden — etwa die [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki); die Kommunikation mit dem Frontend folgt dem [AG-UI](ag-ui)-Protokoll.
 - Assistant-Service: [FastAPI](fastapi) in [Python](python) mit [PostgreSQL](postgresql) für Assistenten-Konfiguration und Freigaben.
-- API-Gateway und SSO: Einstiegspunkt mit Authentifizierung (z. B. [Keycloak](keycloak)). Optional Observability mit [Langfuse](langfuse); optional Dokumenten-Parsing über Kreuzberg.
+- API-Gateway und SSO: Einstiegspunkt mit Authentifizierung (z. B. [Keycloak](keycloak)). Optional Observability mit [Langfuse](langfuse); optional Dokumenten-Parsing über einen separaten [Xberg](xberg)-Container.
 
 ---
 
