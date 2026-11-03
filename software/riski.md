@@ -26,7 +26,7 @@ The document base is collected from the [OPARL](https://oparl.org/)-structured R
 
 - Backend: [FastAPI](fastapi) service in [Python](python) with a [LangGraph](langchain) agent and [Langfuse](langfuse) for tracing and prompt management.
 - Data pipeline: extractor for the RIS documents and a processing pipeline communicating via [Kafka](kafka).
-- Storage: [PostgreSQL](postgresql) database with pgvector for embeddings; Redis caches agent state.
+- Storage: [PostgreSQL](postgresql) database with the official pgvector container image for embeddings; Redis caches agent state.
 - Frontend: [Vue](vuejs) chat UI streaming agent behaviour to the user.
 
 ---

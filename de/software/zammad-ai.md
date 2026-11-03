@@ -26,7 +26,7 @@ Die KI-Modelle sind modular und werden über einen Open-Source-Model-Hosting-Ser
 
 Zammad-AI besteht aus drei [Python](python)-Diensten, die als [Container](podman) betrieben werden:
 
-- Workflow-Engine: [FastAPI](fastapi)- und [FastStream](https://faststream.airt.ai/)-Dienst für [REST](https://de.wikipedia.org/wiki/Representational_State_Transfer)-Endpunkte und ereignisgesteuerte [Kafka](kafka)-Verarbeitung von Ticket-Ereignissen.
+- Workflow-Engine: [FastAPI](fastapi)- und [FastStream](https://faststream.ag2.ai/latest/faststream/)-Dienst für [REST](https://de.wikipedia.org/wiki/Representational_State_Transfer)-Endpunkte und ereignisgesteuerte [Kafka](kafka)-Verarbeitung von Ticket-Ereignissen.
 - Index-Pipeline: synchronisiert Wissensinhalte in die [Qdrant](qdrant)-Vektordatenbank für Retrieval.
 - Guardrails-Service: eigenständig betreibbarer Dienst für Sicherheits- und Inhaltsprüfungen von Prompts und Antworten.
 - Observability: Tracing und Prompt-Management mit [Langfuse](langfuse), Metriken mit Prometheus und [Grafana](grafana).

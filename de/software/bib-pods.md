@@ -17,7 +17,7 @@ Mit **Bibliotheks-Pods** bekommen Bibliotheksnutzer\*innen Empfehlungen, die zu 
 
 Nutzer\*innen hinterlegen ihre Interessen in einem Profil: Lieblingsautor\*innen, Themen, Genres, Orte und Sprachen sowie eine Merkliste.
 Das Profil liegt bei ihnen selbst, in einem [Solid Pod](https://solidproject.org/) oder lokal im Browser.
-Die [Münchner Stadtbibliothek](https://www.muenchner-stadtbibliothek.de/) liest es nur, solange die Nutzer\*innen das erlauben, schlägt passende Titel aus ihrem Bestand vor und behält nichts davon.
+Die [Münchner Stadtbibliothek](https://www.muenchner-stadtbibliothek.de/) liest es nur, solange die Nutzer\*innen das erlauben, schlägt passende Titel aus ihrem Bestand vor und behält nichts davon. Unter der Haube werden die Empfehlungen von der Vektordatenbank [Qdrant](qdrant) über den Recommend-Endpunkt des Bibliotheks-Backends bedient.
 
 Die Webseite der Bibliothek basiert auf [TYPO3](./typo3) und wird mit einem Plug-in erweitert.
 Andere Bibliotheken sollen das System nachnutzen können.

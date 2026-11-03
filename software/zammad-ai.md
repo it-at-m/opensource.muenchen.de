@@ -26,7 +26,7 @@ The AI models are modular and are consumed via an open-source model hosting serv
 
 Zammad-AI consists of three [Python](python) services operated as [containers](podman):
 
-- Workflow engine: [FastAPI](fastapi) and [FastStream](https://faststream.airt.ai/) service for [REST](https://en.wikipedia.org/wiki/REST) endpoints and event-driven [Kafka](kafka) processing of ticket events.
+- Workflow engine: [FastAPI](fastapi) and [FastStream](https://faststream.ag2.ai/latest/faststream/) service for [REST](https://en.wikipedia.org/wiki/REST) endpoints and event-driven [Kafka](kafka) processing of ticket events.
 - Index pipeline: synchronises knowledge content into the [Qdrant](qdrant) vector database for retrieval.
 - Guardrail service: independently operated service for content checks of prompts and answers.
 - Observability: tracing and prompt management with [Langfuse](langfuse), metrics with Prometheus and [Grafana](grafana).
