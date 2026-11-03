@@ -26,7 +26,7 @@ Die Dokumentgrundlage wird aus der [OPARL](https://oparl.org/)-strukturierten RI
 
 - Backend: [FastAPI](fastapi)-Dienst in [Python](python) mit einem [LangGraph](langchain)-Agenten und [Langfuse](langfuse) für Tracing und Prompt-Management.
 - Datenpipeline: Extractor für die RIS-Dokumente und eine Verarbeitungspipeline, die über [Kafka](kafka) kommunizieren.
-- Speicherung: [PostgreSQL](postgresql)-Datenbank mit pgvector für Embeddings; Redis puffert den Agentenzustand.
+- Speicherung: [PostgreSQL](postgresql)-Datenbank mit dem offiziellen pgvector-Container-Image für Embeddings; Redis puffert den Agentenzustand.
 - Frontend: [Vue](vuejs)-Chat-UI, die das Agentenverhalten an die Nutzer*innen streamt.
 
 ---

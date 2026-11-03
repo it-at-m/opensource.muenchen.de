@@ -14,5 +14,5 @@ __Qdrant__ (ausgesprochen: Quadrant) ist eine container-basierte Vektor-Datenban
 ---
 
 Wir verwenden Qdrant als Standard-Vektordatenbank unseres GenAI-Stacks.
-Die [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki) nutzt dessen hybride Suche, die BM25-Schlüsselwortvektoren mit semantischen Embeddings kombiniert, und [Zammad-AI](zammad-ai) führt mit derselben Kombination aus [LangChain](langchain) und Qdrant Retrieval über Wissensbestände durch.
+Die [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki) nutzt dessen hybride Suche, die BM25-Schlüsselwortsuche mit semantischen Embeddings kombiniert, und [Zammad-AI](zammad-ai) führt mit [LangChain](langchain) und Qdrant Retrieval über Wissensbestände durch.
 Auch die Medienempfehlungen der [Bibliotheks-Pods](bib-pods) werden aus Qdrant bedient.
