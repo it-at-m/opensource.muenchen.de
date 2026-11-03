@@ -17,7 +17,7 @@ With **Bibliotheks-Pods**, library users get recommendations that suit them, and
 
 Users add their interests to a profile: favourite authors, topics, genres, places and languages, plus a list of saved titles.
 The profile stays with them, in a [Solid Pod](https://solidproject.org/) or locally in the browser.
-The [Munich City Library](https://www.muenchner-stadtbibliothek.de/) only reads it as long as users allow it, suggests matching titles from its collection and keeps none of the data. Under the hood, the recommendations are served by the vector database [Qdrant](qdrant) via the library backend's recommend endpoint.
+The [Munich City Library](https://www.muenchner-stadtbibliothek.de/) only reads it as long as users allow it, suggests matching titles from its collection and keeps none of the data. Recommendations based on the saved titles are served by the vector database [Qdrant](qdrant) via the library backend's recommend endpoint.
 
 The library website runs on [TYPO3](./typo3) and is extended with a plug-in.
 Other libraries should be able to reuse the system.

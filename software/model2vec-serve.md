@@ -18,7 +18,7 @@ __model2vec-serve__ is our lightweight server for [model2vec](https://github.com
 ---
 
 The server speaks the classic API formats: requests in the OpenAI `/v1/embeddings` format (with GET `/v1/models`) as well as the HuggingFace TEI formats work out of the box.
-This makes it a drop-in replacement for OpenAI embedding calls with a private, on-premise model — without changes to the applications.
+This makes it a drop-in replacement for OpenAI embedding calls with a private, on-premise model — applications only switch to the new base URL and request one of the served models by name; everything else stays unchanged.
 Authentication via API key, TLS, [Prometheus](https://prometheus.io/)-metrics, structured JSON logs as well as serving of multiple models (e.g. potion-multilingual-128M and potion-code-16M-v2) are supported.
 
 model2vec-serve is written in [Rust](https://www.rust-lang.org/) with the crate `model2vec-rs` (the official inference implementation of model2vec) and can be run as a [container](podman) as well as using the supplied [Helm](https://helm.sh/)-Chart.
