@@ -16,4 +16,4 @@ __Qdrant__ (read: quadrant) is a container-based vector similarity search engine
 
 We use Qdrant as the standard vector database of our GenAI stack.
 The [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki) relies on its hybrid search that combines BM25 keyword search with semantic embeddings, and [Zammad-AI](zammad-ai) performs retrieval over knowledge bases with [LangChain](langchain) and Qdrant.
-Media recommendations of the [Bibliotheks-Pods](bib-pods) are also served from Qdrant.
+Recommendations similar to the saved titles of the [Bibliotheks-Pods](bib-pods) are also served from Qdrant.
