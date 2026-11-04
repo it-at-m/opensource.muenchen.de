@@ -12,7 +12,6 @@ export const deMessages: localizedMessagesType = {
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Eigenentwicklung",
-    eval: "In Evaluation",
     featurefunding: "Feature-Funding",
     infrastruktur: "Infrastruktur",
     k8s: "Kubernetes",
