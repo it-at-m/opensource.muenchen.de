@@ -12,7 +12,6 @@ export const enMessages: localizedMessagesType = {
     development: "Development",
     devstack: "Development Stack",
     eigenentwicklung: "Inhouse",
-    eval: "In evaluation",
     featurefunding: "Feature-Funding",
     infrastruktur: "Infrastructure",
     k8s: "Kubernetes",
