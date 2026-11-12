@@ -22,7 +22,11 @@ __Parkhausradar__ ist eine mobil optimierte Web-App, die die aktuelle Belegung d
 
 Das Parkhausradar zeigt auf einen Blick, wo in der Münchner Innenstadt gerade Plätze frei sind. Jedes Parkhaus erscheint auf der Karte mit einer Ampelmarkierung, eine Liste zeigt alle Parkhäuser mit ihren freien Plätzen.
 
+![Desktop-Ansicht](/inhouse/parkhausradar_desktop_screenshot.jpg)
+
 Die Detailansicht eines Parkhauses zeigt die freien Plätze, die Kapazität, die Belegung in Prozent, sowie den Zeitpunkt der letzten Aktualisierung. Von dort lässt sich eine Route zur Einfahrt des Parkhauses in Apple Karten, Google Maps, OpenStreetMap oder Waze öffnen und ein Link zum Parkhaus teilen.
+
+![Mobile Ansicht mit Parkhausdetails](/inhouse/parkhausradar_mobile_screenshot.jpg){width=300}
 
 Die Daten kommen direkt aus dem Parkleitsystem der Landeshauptstadt München und werden jede Minute aktualisiert. Zu sehen sind nur die daran angeschlossenen Parkhäuser. Andere Parkhäuser, Tiefgaragen und Parkplätze Münchens sind nicht dabei.
 
@@ -30,9 +34,9 @@ Das Parkhausradar ist ein Projekt des IT-Referats und des Mobilitätsreferats de
 
 ## Technische Einzelheiten
 
-- Frontend: basiert auf dem Frontend-Template der [Referenzarchitektur](../publish#refarch), umgesetzt mit [Vue.js](vuejs), [Vuetify](vuetifyjs) und MapLibre GL JS. Die Basiskarte ist ein Protomaps-Auszug aus [OpenStreetMap](openstreetmap). Sie wird vom eigenen Server ausgeliefert, sodass keine Anfrage an Dritte geht.
+- Frontend: basiert auf dem Frontend-Template der [Referenzarchitektur](https://github.com/it-at-m/refarch), umgesetzt mit [Vue.js](vuejs), [Vuetify](vuetifyjs) und MapLibre GL JS. Die Basiskarte ist ein Protomaps-Auszug aus [OpenStreetMap](openstreetmap). Sie wird vom eigenen Server ausgeliefert, sodass keine Anfrage an Dritte geht.
 - Daten: Ein kleiner [Python](python)-Collector holt jede Minute die Belegung aus dem Münchner Parkleitsystem. Er speichert die Werte in einem FROST-Server (OGC SensorThings API) auf [PostgreSQL](postgresql) mit PostGIS.
-- Zugriff: Das Frontend liest die Daten über das Gateway der [Referenzarchitektur](../publish#refarch), das nur lesenden Zugriff erlaubt.
+- Zugriff: Das Frontend liest die Daten über das Gateway der Referenzarchitektur, das nur lesenden Zugriff erlaubt.
 - Betrieb: Frontend, Collector und Gateway laufen als Container auf Kubernetes und werden per [Helm-Chart](https://github.com/it-at-m/helm-charts/tree/main/charts/parkhausradar) installiert.
 
 ---
