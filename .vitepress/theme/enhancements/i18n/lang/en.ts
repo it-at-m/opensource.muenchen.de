@@ -18,6 +18,7 @@ export const enMessages: localizedMessagesType = {
     kooperation: "Cooperation",
     observability: "Observability",
     opencore: "Open Core",
+    python: "Python",
     saas: "SaaS",
     sponsor: "Sponsor",
     staticsite: "Staticsite",
@@ -27,6 +28,8 @@ export const enMessages: localizedMessagesType = {
     start2022: "Start 2022",
     start2023: "Start 2023",
     start2024: "Start 2024",
+    start2025: "Start 2025",
+    start2026: "Start 2026",
     support: "Support",
   },
   TagFilter: {

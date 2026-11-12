@@ -9,6 +9,7 @@ logo: /logo/python.png
 tags:
 - development
 - ai
+- python
 ---
 __Python__ ist eine universelle höhere Programmiersprache, die dynamisiche Typisierung und Garbage Collection unterstützt.
 Python unterstützt mehrere Programmierparadigmen (strukturiert, objektorientiert und funktional) und enthält eine umfassende Standardbibliothek.

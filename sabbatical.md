@@ -14,7 +14,7 @@ Applications from women are particularly encouraged.
 
 The selection of open source sabbaticals is open to ideas from external and internal developers.
 
-* These can be specific bug fixes or features for projects from the City of Munich's [in-house development portfolio](https://github.com/it-at-m).
+* These can be specific bug fixes or features that you submit on your own for projects from the City of Munich’s [in-house development portfolio](https://github.com/it-at-m), which will then be implemented.
 * Free software that we already [use](use).
 * Other published free projects, if they offer a benefit for the city.
 
@@ -59,6 +59,19 @@ By using Llama 3.3 and Google Gemma 3, effective communication is ensured, capab
 The project’s results so far are promising: in roughly 50% of cases, the chatbot provides helpful and appropriate responses to queries. Translation quality has been rated at 4.9 out of 5, while answer quality is rated at 4.0 out of 5. Additionally, the relevance of linked content has been rated at 4.8 out of 5. The consistently positive feedback from users shows that the chatbot not only makes the Integreat App more interactive but also provides real added value for the integration and support of people with a migration background.
 
 This sabbatical also places emphasis on usability and accessibility to ensure that all Munich residents, regardless of their background or language skills, can make the best possible use of the advantages of the Integreat App.
+
+
+### [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical)
+
+In 2026, we awarded an open-source sabbatical to [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical).
+Library users get recommendations that suit them, and their data stays with them.
+The profile is kept in their own Solid Pod or locally in the browser, not at the Munich City Library.
+The following priorities will be addressed:
+
+* View, change and take along the profile at any time.
+* Suggestions from the Munich City Library's collection.
+* A [TYPO3](software/typo3) extension for the library website.
+* Reuse by other libraries and services.
 
 
 ### [libexpat](software/libexpat#open-source-sabbatical)

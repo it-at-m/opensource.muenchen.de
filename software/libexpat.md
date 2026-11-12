@@ -14,7 +14,7 @@ Expat is a stream-oriented XML 1.0 parser library written in C.
 
 ---
 
-Expat is a typical, widely used open-source library that is integrated into countless software and hardware applications.
+Expat is a typical, widely used open-source library that is [used](https://libexpat.github.io/doc/users/) in countless software and hardware applications (e.g., PHP, [Python](./python)).
 
 In the city of Munich alone, it is installed on at least 2,700 Linux servers (as detected by a scanner).
 For example, our default browser [Firefox](./firefox), [QGIS](./qgis), [WinSCP](winscp), [Audacity](./audacity), and Python use libexpat.
