@@ -36,9 +36,20 @@ Design reusable assistants that encode recurring instructions, tone, constraints
 ![Share Assistants](/inhouse/mucgpt_share_assistants.png)
 Publish assistants to selected teams or broader audiences. Ownership, scope and configuration are transparent so colleagues understand what an assistant does before relying on it.
 
+### Canvas
+Work side by side with the assistant: open a rich-text canvas panel next to any chat and draft documents together. The agent can write and edit the canvas directly while you follow the changes live; you can format text yourself, save versions, and export the document as Markdown, PDF, Word or Excel. Selected passages can be quoted into the chat for targeted revision.
+
+### Chat with Documents *(from MUCGPT 2.1)*
+Upload documents in the chat and let the assistant work with them: files are parsed to text, and the extracted content grounds the assistant's answers — ask questions about a PDF, summarize a report, or combine documents with your instructions. Documents are selected per conversation, and the model receives them through a read-only view: it can read and search them, but never modify them.
+
+### Tool confirmation (human in the loop) *(from MUCGPT 2.1)*
+Some tools require explicit user confirmation before they run. When the assistant calls such a tool, the answer pauses and an approval card appears in the chat, showing the tool, the exact arguments it would use (e.g. the search query that would be sent to the web) and the data protection level the tool may receive. Approve the call or reject it — on rejection the assistant continues without performing the action; a paused call that is never answered is cancelled and never executes.
+
 ### Additional Features
 
 - Extensible tools: examples include summarization, brainstorming and easy language; the platform is designed to grow with organizational needs.
+- Speech input (beta): dictate instead of typing — transcription runs entirely in the browser, no microphone content leaves the device.
+- Default answer language: the assistant responds in the selected interface language unless you write in a different language.
 - Model selection: choose from available models and adjust creativity to fit the task; model choices are transparent.
 - Tutorials: guided examples and tips help users get value quickly.
 - Dark mode and i18n: accessible UI with dark mode and internationalization.
