@@ -36,9 +36,23 @@ Wiederverwendbare Assistenten entwerfen, die Instruktionen, Ton, Randbedingungen
 ![Assistenten teilen](/inhouse/mucgpt_share_assistants.png)
 Assistenten mit ausgewählten Teams oder breiter veröffentlichen. Eigentümerschaft, Gültigkeitsbereich und Konfiguration sind transparent, damit Kolleg*innen verstehen, was ein Assistent leistet.
 
+### Canvas *(ab MUCGPT 2.1)*
+![Canvas mit Dokument und Agent-Ausgabe](/inhouse/mucgpt_canvas.png)
+Neben dem Chat lässt sich ein Rich-Text-Dokument öffnen und gemeinsam mit dem Assistenten bearbeiten: Der Assistent kann das Dokument schreiben und ändern, während Sie es live mitverfolgen; Sie können selbst formatieren, Versionen sichern und das Dokument als Markdown, PDF, Word oder Excel exportieren. Ausgewählte Textstellen lassen sich direkt in den Chat zitieren und gezielt überarbeiten lassen.
+
+### Chat mit Dokumenten *(ab MUCGPT 2.1)*
+![Dokumentdialog mit hochgeladenem Dokument](/inhouse/mucgpt_chat_documents.png)
+Dokumente im Chat hochladen und als Kontext für die Antworten nutzen: Dateien werden zu Text extrahiert, und der Assistent arbeitet mit dem Inhalt — Fragen zu einem PDF stellen, einen Bericht zusammenfassen oder Dokumente mit eigenen Anweisungen kombinieren. Die Auswahl erfolgt pro Konversation, und das Modell erhält die Dokumente über eine schreibgeschützte Ansicht: Es kann sie lesen und durchsuchen, aber nie verändern.
+
+### Tool-Bestätigung (Human in the Loop) *(ab MUCGPT 2.1)*
+![Tool-Freigabekarte](/inhouse/mucgpt_tool_approval.png)
+Manche Tools erfordern eine ausdrückliche Bestätigung, bevor sie ausgeführt werden. Ruft der Assistent ein solches Tool auf, pausiert die Antwort und eine Freigabekarte erscheint im Chat: Sie zeigt das Tool, die genauen Argumente (z. B. die Suchanfrage, die ans Web gehen würde) und die Datenschutzebene, die das Tool erhalten darf. Die Ausführung freigeben oder ablehnen — bei Ablehnung fährt der Assistent ohne das Tool fort; eine nie beantwortete pausierte Anfrage wird abgebrochen und nie ausgeführt.
+
 ### Weitere Funktionen
 
 - Erweiterbare Tools: Beispiele sind Zusammenfassen, Brainstorming und Leichte Sprache; die Plattform ist auf Erweiterbarkeit ausgelegt.
+- Spracheingabe: Diktieren statt Tippen — die Spracherkennung läuft komplett im Browser, kein Mikrofoninhalt verlässt das Gerät (vollwertiges Feature ab MUCGPT 2.1).
+- Standard-Antwortsprache: Der Assistent antwortet in der gewählten Oberflächensprache, sofern Sie nicht in einer anderen Sprache schreiben.
 - Modellauswahl: verfügbare Modelle wählen und Kreativität passend zur Aufgabe einstellen; die Auswahl ist transparent.
 - Tutorials: geführte Beispiele und Tipps für einen schnellen Einstieg.
 - Dark Mode und Internationalisierung: barrierearme Oberfläche mit Dark Mode und i18n.
