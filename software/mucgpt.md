@@ -36,7 +36,7 @@ Design reusable assistants that encode recurring instructions, tone, constraints
 ![Share Assistants](/inhouse/mucgpt_share_assistants.png)
 Publish assistants to selected teams or broader audiences. Ownership, scope and configuration are transparent so colleagues understand what an assistant does before relying on it.
 
-### Canvas
+### Canvas *(from MUCGPT 2.1)*
 Work side by side with the assistant: open a rich-text canvas panel next to any chat and draft documents together. The agent can write and edit the canvas directly while you follow the changes live; you can format text yourself, save versions, and export the document as Markdown, PDF, Word or Excel. Selected passages can be quoted into the chat for targeted revision.
 
 ### Chat with Documents *(from MUCGPT 2.1)*
@@ -48,7 +48,7 @@ Some tools require explicit user confirmation before they run. When the assistan
 ### Additional Features
 
 - Extensible tools: examples include summarization, brainstorming and easy language; the platform is designed to grow with organizational needs.
-- Speech input (beta): dictate instead of typing — transcription runs entirely in the browser, no microphone content leaves the device.
+- Speech input: dictate instead of typing — transcription runs entirely in the browser, no microphone content leaves the device (a full feature from MUCGPT 2.1).
 - Default answer language: the assistant responds in the selected interface language unless you write in a different language.
 - Model selection: choose from available models and adjust creativity to fit the task; model choices are transparent.
 - Tutorials: guided examples and tips help users get value quickly.
