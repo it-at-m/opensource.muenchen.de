@@ -12,7 +12,7 @@ Bewerbungen von Frauen werden besonders unterstützt.
 
 Die Auswahl der Open Source Sabbaticals ist offen für Ideen von externen und internen Entwickler*innen.
 
-* Es können konkrete Bugfixes oder Features für Projekte aus dem [Eigenentwicklungsportfolio](https://github.com/it-at-m) der Stadt München sein.
+* Es können konkrete, eigenständig eingebrachte Bugfixes oder Features für Projekte aus dem [Eigenentwicklungsportfolio](https://github.com/it-at-m) der Stadt München sein, die dann umgesetzt werden.
 * Freie Software die wir schon [nutzen](use).
 * Andere veröffentlichte freie Projekte, wenn sie einen Nutzen für die Stadt bieten.
 
@@ -54,6 +54,18 @@ Durch den Einsatz von Llama 3.3 und Google Gemma 3 wird eine effektive Kommunika
 Die bisherigen  Ergebnisse des Projekts sind vielversprechend: Der Chatbot liefert in etwa 50 % der Fälle hilfreiche und passende Antworten auf Anfragen. Die Übersetzungsqualität wurde mit 4,9 von 5 bewertet, während die Antwortqualität bei 4,0 von 5 liegt. Zudem wurde die Relevanz der verlinkten Inhalte mit 4,8 von 5 bewertet. Das durchweg positive Feedback der Nutzer*innen zeigt, dass der Chatbot nicht nur die Integreat-App interaktiver macht, sondern auch einen echten Mehrwert für die Integration und Unterstützung von Menschen mit Migrationshintergrund bietet.
 
 Zudem wird in diesem Sabbatical Wert auf die Nutzerfreundlichkeit und Barrierefreiheit gelegt, um sicherzustellen, dass alle Münchener Bürger*innen, unabhängig von ihrer Herkunft oder ihren Sprachkenntnissen, die Vorteile der Integreat-App optimal nutzen können.
+
+### [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical)
+
+Im Jahr 2026 haben wir ein Open Source Sabbatical an [Bibliotheks-Pods](software/bib-pods#open-source-sabbatical) vergeben.
+Bibliotheksnutzer\*innen bekommen Empfehlungen, die zu ihnen passen, und ihre Daten bleiben bei ihnen.
+Das Profil liegt in ihrem eigenen Solid Pod oder lokal im Browser, nicht bei der Münchner Stadtbibliothek.
+Folgende Schwerpunkte werden angegangen:
+
+* Profil jederzeit ansehen, ändern und mitnehmen.
+* Vorschläge aus dem Bestand der Münchner Stadtbibliothek.
+* [TYPO3](software/typo3)-Extension für die Bibliothekswebseite.
+* Nachnutzung durch andere Bibliotheken und Dienste.
 
 ### [libexpat](software/libexpat#open-source-sabbatical)
 

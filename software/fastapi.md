@@ -8,6 +8,7 @@ logo: /logo/fastapi.png
 tags:
 - development
 - ai
+- python
 ---
 __FastAPI__ is a modern, high-performance web framework for building APIs with [Python](python), based on standard Python type hints.
 It supports asynchronous traffic by default and is designed to be easy to use and learn, while also being highly performant, scalable and with low code footprint.

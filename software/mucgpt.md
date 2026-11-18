@@ -50,9 +50,10 @@ Publish assistants to selected teams or broader audiences. Ownership, scope and 
 MUCGPT follows a lean microservices architecture and can be deployed as containers together with a [PostgreSQL](postgresql) database.
 
 - Frontend: React-based UI (from a Microsoft Azure template), implemented with [Typescript](typescript) and [Javascript](javascript).
-- Core service: [FastAPI](fastapi) in [Python](python) for LLM orchestration and tools, using LangGraph to manage agent workflows.
+- Core service: [FastAPI](fastapi) in [Python](python) for LLM orchestration and tools. Assistants run as DeepAgents agents on the [LangChain](langchain) runtime [LangGraph](https://github.com/langchain-ai/langgraph), state is persisted in [PostgreSQL](postgresql).
+- Extension via open standards: external context sources (tools, knowledge bases) are integrated as [MCP](https://modelcontextprotocol.io/introduction) servers — for example the [Dienstleistungsfinder KI-Suche](dienstleistungsfinder-ki); communication with the frontend follows the [AG-UI](ag-ui) protocol.
 - Assistant service: [FastAPI](fastapi) in [Python](python) with [PostgreSQL](postgresql) for assistant configuration and sharing.
-- API Gateway and SSO: entry point with authentication (e.g. [Keycloak](keycloak)). Optional observability with [Langfuse](langfuse); optional document parsing via Kreuzberg.
+- API Gateway and SSO: entry point with authentication (e.g. [Keycloak](keycloak)). Optional observability with [Langfuse](langfuse); optional document parsing via a separate [Xberg](xberg) container.
 
 ---
 

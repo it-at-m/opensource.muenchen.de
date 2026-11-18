@@ -15,5 +15,5 @@ Katello ist ein Softwarestack aus verschiedenen Komponenten, die ineinander inte
 
 ---
 
-Zusammen mit dem freien [Puppet](/software/puppet) bildet Katello unser zentrales Systemmanagement.
+Zusammen mit dem freien [OpenVox](./openvox) bildet Katello unser zentrales Systemmanagement.
 

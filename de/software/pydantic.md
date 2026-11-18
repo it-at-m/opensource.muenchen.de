@@ -8,6 +8,7 @@ logo: /logo/pydantic.png
 tags:
 - development
 - ai
+- python
 ---
 __Pydantic__ ist die de-facto Standard-Bibliothek für Datenvalidierung in [Python](python), mit Fokus auf Datenintegrität und Typsicherheit.
 Sie lässt sich in Lintern und IDEs integrieren, ist schnell, erweiterbar und verwendet reguläre Python type-hints zur Definition von Datenmodellen.
