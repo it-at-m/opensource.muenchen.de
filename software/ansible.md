@@ -15,7 +15,7 @@ tags:
 
 We use Ansible for numerous _infrastructure as code_ automations, for example, our [Openshift](openshift.html) is rolled out and updated fully automatically with the ansible role [ansible-openshift4-vmware/](https://github.com/it-at-m/ansible-openshift4-vmware/).
 
-### AWX
+### Ascender
 
 We also operate an [Ascender](https://github.com/ctrliq/ascender/), which automatically rolls out all standard tasks in our data centers using Ansible playbooks. This includes the provision of virtual servers, databases, storage, domains and the allocation of temporary user rights.  
 This automation is also used by our central service desk to carry out IT tasks.
