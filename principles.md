@@ -25,8 +25,7 @@ The city council elected in March 2020 decided on May 5, 2021:
 
 > The City of Munich will implement software developed in-house as open source solutions, taking into account all relevant and legal factors, and will prioritize the procurement of open source solutions wherever technically and financially feasible.
 
-
-An important step towards integrating the topic of open source into the orientation of IT was the inclusion of the topic in the [strategic orientation of LHM's IT](https://risi.muenchen.de/risi/dokument/v/6229564) adopted by the City Council on 11.11.2020:
+Open source is integrated into the [strategic IT direction of the City of Munich](https://risi.muenchen.de/risi/dokument/v/6229564), which was adopted by the City Council on November 11, 2020.
 
 > **3.6. Die IT der LHM setzt priorisiert Open Source-Lösungen ein, wenn wirtschaftlich und technologisch oder strategisch sinnvoll.**
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
