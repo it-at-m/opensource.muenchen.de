@@ -23,8 +23,7 @@ Der im März 2020 gewählte Stadtrat hat am 05. Mai 2021 beschlossen:
 
 <small>(siehe [Beschluss Öffentliche Sitzung der Vollversammlung vom 05. Mai 2021 zu TOP A 23 ö](https://risi.muenchen.de/risi/dokument/v/6596679))</small>
 
-
-Ein wichtiger Schritt, das Thema Open Source in die Ausrichtung der IT zu integrieren, war die Aufnahme des Themas in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://risi.muenchen.de/risi/dokument/v/6229564):
+Open Source ist in die am 11.11.2020 vom Stadtrat verabschiedete [strategische Ausrichtung der IT der LHM](https://risi.muenchen.de/risi/dokument/v/6229564) integriert.
 
 > **3.6. Die IT der LHM setzt priorisiert Open Source-Lösungen ein, wenn wirtschaftlich und technologisch oder strategisch sinnvoll.**
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
