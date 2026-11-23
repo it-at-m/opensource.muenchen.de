@@ -3,7 +3,7 @@
 In [Open Source Software](https://opensource.org/osd), the source code is public and can be viewed, modified and used by third parties.
 The City of Munich uses open source software for many reasons.
 
-## Strategic advantages
+## Strategic advantages {#policy}
 
 - Through open source software, we increase **vendor independence**. By being able to switch vendors and solutions, we can avoid unilateral dictation of function or price by the vendor.
 - The **reuse** of software is facilitated. Code that is made open source can be easily reused by other agencies or public sector IT providers without contractual agreements or financial arrangements. This can save taxpayer money.
@@ -13,7 +13,7 @@ The City of Munich uses open source software for many reasons.
 - Committed citizens can participate in **projects** and thus contribute innovative ideas and reduce the required municipal budget.
 - Public Code generates positive public relations and contributes to our [recruitment marketing for IT professionals](https://karriere-muenchen.jobs.hr.cloud.sap/search/?q=&searchResultView=LIST&markerViewed=&carouselIndex=&facetFilters=%7B%22cust_BerufGr%22%3A%5B%22Informationstechnologie+%28IT%29+%26+Telekommunikation%22%5D%7D&pageNumber=0).
 
-## Legal and political requirements
+## Legal and political requirements {#law}
 
 In addition to the benefits of open source software for us as an IT service provider, we also comply with legal and political requirements.
 
@@ -60,7 +60,7 @@ Other municipalities, such as the cities of [Berlin](https://berlinopensource.de
 But commercial companies are also participating in free software.
 These are traditionally software companies (e.g. [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) but also companies that do not come from the software industry (e.g. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) or [Siemens](https://opensource.siemens.com)).
 
-## IT architecture classification
+## IT architecture classification {#architecture}
 
 In highly standardized IT areas such as operating systems, network components, databases and end devices, IT architecture relies on the standard solutions of the IT market. This serves to ensure that only those paths are taken which do not prove to be wrong paths or dead ends a few years later. Often, due to the large market, the greatest innovative power is concentrated in the standard solutions, since this is where most resources are invested. Thus, open source solutions are not necessarily used here, but in many areas open source solutions have become established as the standard, and are therefore also used by default at the City of Munich. One example is Linux as the operating system for servers.
 
