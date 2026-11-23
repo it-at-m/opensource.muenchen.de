@@ -10,7 +10,7 @@ Man findet freie Software in nahezu allen modernen Softwareprodukten.
 Die Landeshauptstadt München betreibt eine Vielzahl von freien Anwendungen, die in verschiedenen Bereichen eingesetzt werden.
 Dabei reicht das Spektrum von Verwaltungsanwendungen für den internen Gebrauch bis hin zu Anwendungen für Bürgerinnen und Bürger, die den Zugang zu öffentlichen Dienstleistungen erleichtern.
 
-Unsere [strategischen Vorgaben](principles#rechtliche-und-politische-vorgaben) sehen dies ebenfalls vor:
+Unsere [rechtlichen und politischen Vorgaben](principles#law) sehen dies ebenfalls vor:
 
 > Wenn wirtschaftlich und technologisch oder strategisch sinnvoll, setzt die LHM priorisiert Open Source-Lösungen ein, um insbesondere Firmenabhängigkeiten zu vermeiden.
 > Die LHM verfolgt diesen Ansatz sowohl im Anwendungs- als auch im Infrastruktur-Bereich.
