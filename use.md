@@ -10,7 +10,7 @@ You can find free software in almost all modern software products.
 
 The City of Munich operates a large number of applications that are used in various areas.
 These range from administrative applications for internal use to applications for citizens that facilitate access to public services.
-Our [strategic guidelines](principles#legal-and-political-requirements) also provide for this:
+Our [legal and political requirements](principles#law) also provide for this:
 
 > If economically and technologically or strategically sensible, LHM prioritizes the use of open source solutions, in particular to avoid company dependencies.
 > LHM pursues this approach in both the application and infrastructure areas.
