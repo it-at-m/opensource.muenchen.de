@@ -1,7 +1,7 @@
 The __Open Source Programme Office__ (OSPO) was founded as a team within it@M on the basis of the City Council motion ['Establish Open Source Hub and Open Source Sabbatical'](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900) (2023-02-15).
 
-The Open Source Programme Office aims to coordinate and promote open source activities at LHM in line with the IT strategy.  
-The two dimensions "give" and "take" are taken into account, i.e. both the use of open source software and the publication and release of LHM's own software developments as open source ("public money - public code").
+> The Open Source Programme Office aims to coordinate and promote open source activities at LHM in line with the [IT strategy](principles#law).  
+> The two dimensions "give" and "take" are taken into account, i.e. both the use of open source software and the publication and release of LHM's own software developments as open source ("public money - public code").
 
 
 ## Tasks
