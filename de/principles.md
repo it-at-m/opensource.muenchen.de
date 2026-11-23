@@ -3,7 +3,7 @@
 Bei [Open Source Software](https://opensource.org/osd) ist der Quelltext öffentlich und kann von Dritten eingesehen, geändert und genutzt werden.
 Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 
-## Strategische Vorteile
+## Strategische Vorteile {#policy}
 
 - Durch Open Source Software erhöhen wir die **Herstellerunabhängigkeit**. Indem wir die Möglichkeit haben, den Hersteller und die Lösung zu wechseln, können wir ein einseitiges Diktat von Funktion oder Preis durch den Hersteller vermeiden.
 - Die **Wiederverwendung** von Software wird erleichtert. Code, der Open Source zur Verfügung gestellt wird, kann leicht ohne vertragliche Vereinbarungen und finanzielle Regelungen von anderen Behörden oder IT-Providern der öffentlichen Hand wiederverwendet werden. Dadurch können Steuergelder eingespart werden.
@@ -13,7 +13,7 @@ Die Landeshauptstadt München nutzt Open Source Software aus vielen Gründen.
 - Engagierte Bürger\*innen können sich an **Projekten beteiligen** und somit innovative Ideen einbringen und das erforderliche städtische Budget reduzieren.
 - Public Code erzeugt eine positive Öffentlichkeitsarbeit und einen Beitrag zu unserem [Personalmarketing für IT-Schaffende](https://karriere-muenchen.jobs.hr.cloud.sap/search/?q=&searchResultView=LIST&markerViewed=&carouselIndex=&facetFilters=%7B%22cust_BerufGr%22%3A%5B%22Informationstechnologie+%28IT%29+%26+Telekommunikation%22%5D%7D&pageNumber=0).
 
-## Rechtliche und politische Vorgaben
+## Rechtliche und politische Vorgaben {#law}
 
 Neben den Vorteilen von Open Source Software für uns als IT-Service-Provider erfüllen wir auch rechtliche und politische Vorgaben.
 
@@ -49,7 +49,7 @@ Andere Kommunen, wie z.B. die Städte [Berlin](https://berlinopensource.de/warum
 Aber auch kommerzielle Unternehmen beteiligen sich an freier Software.
 Das sind traditionellerweise Softwareunternehmen (z.B. [Zalando](https://opensource.zalando.com), [Google](https://opensource.google/), [Microsoft](https://opensource.microsoft.com/), [Apple](https://opensource.apple.com)) aber auch Unternehmen, die nicht aus der Softwarebranche stammen (z.B. [Deutsche Bahn](https://opensource.deutschebahn.com), [Mercedes Benz](https://opensource.mercedes-benz.com/) oder [Siemens](https://opensource.siemens.com)).
 
-## IT-Architektur-Einordnung
+## IT-Architektur-Einordnung {#architecture}
 
 In hochstandardisierten IT-Bereichen wie z.B. Betriebssystemen, Netzwerkkomponenten, Datenbanken und Endgeräten setzt die IT-Architektur auf die Standard-Lösungen des IT-Marktes. Dies dient dazu, nur solche Wege zu beschreiten, die sich nicht wenige Jahre später als Irrwege oder Sackgassen erweisen. Häufig ist hier auch aufgrund des großen Marktes die größte Innovationskraft bei den Standardlösungen konzentriert, da dort die meisten Ressourcen investiert werden. Hier werden also nicht zwingend Open Source Lösungen eingesetzt, in vielen Bereichen haben sich jedoch Open Source Lösungen als Standard durchgesetzt, und kommen daher auch bei der Landeshauptstadt München standardmäßig zum Einsatz. Als Beispiel sei hier Linux als Betriebssystem für Server genannt.
 
