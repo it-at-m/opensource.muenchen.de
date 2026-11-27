@@ -1,6 +1,7 @@
 # Open Source Sabbatical
 
 Das **Open Source Sabbatical** soll fachlich qualifizierten Softwareentwickler\*innen die Möglichkeit bereitstellen, für einen begrenzten Zeitraum an einem Open Source Projekt zuarbeiten, um diese zu [verbessern](./improve).
+Das Sabbatical lehnt sich an [Residencies im Bereich der Kunst](https://de.wikipedia.org/wiki/Aufenthaltsstipendium) an.
 Dieses Sabbatical steht nicht nur Mitarbeiter\*innen der Landeshauptstadt München offen, sondern auch externen Softwareentwickler\*innen.
 Um externe Entwickler*innen zu unterstützen, bietet die Stadt finanzielle Kompensation für den Verdienstausfall während des Sabbaticals <small>(siehe [Antrag "Ein Munich Open Source Sabbatical einführen"](https://risi.muenchen.de/risi/antrag/detail/6289826) und [Beschluss 20-26 / V 08681](https://risi.muenchen.de/risi/sitzungsvorlage/detail/7532900))</small>.
 

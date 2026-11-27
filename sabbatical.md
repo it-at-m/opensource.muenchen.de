@@ -1,6 +1,7 @@
 # Open Source Sabbatical
 
 The **Open Source Sabbatical** is intended to provide professionally qualified software developers with the opportunity to work on an open source project for a limited period of time in order to [improve](./improve) it.
+The sabbatical is modeled after [artist-in-residence](https://en.wikipedia.org/wiki/Artist-in-residence).
 This sabbatical is not only open to employees of the City of Munich, but also to external software developers.
 To support external developers, the city offers financial compensation for the loss of earnings during the sabbatical.
 
